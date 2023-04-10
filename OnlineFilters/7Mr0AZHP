@@ -1,13 +1,14 @@
 #Online Item Filter
-#name:Vaal No Flasks 2c Sets 1.1
+#name:Vaal No Flasks 2c Sets 1.21
 #version:3.21.0
 #realm:pc
 #errors:
-#hash:0708546e06682bd51df5b0e702f33aed
-#filterVersion:99.21.1.1
+#hash:55b166a332ae6c51a1c0cef67a526c5a
+#filterVersion:99.21.1.21
 #filterType:Normal
-#lastUpdate:2023-04-10T02:14:35Z
+#lastUpdate:2023-04-10T10:49:30Z
 #monthTimeStamp:1480
+#-v.1.21-------------------------------------
 #-2-chaos-sets-------------------------------
 
 Show # $type->2chaos-a
@@ -367,6 +368,7 @@ Show # $type->maps->influenced $tier->infshaper
 	PlayAlertSound 1 300
 	PlayEffect Red
 	MinimapIcon 0 Red Square
+    CustomAlertSound "Sounds\5highmaps.mp3" 300
 
 Show # $type->maps->influenced $tier->infelder
 	HasInfluence Elder
@@ -379,6 +381,7 @@ Show # $type->maps->influenced $tier->infelder
 	PlayAlertSound 1 300
 	PlayEffect Red
 	MinimapIcon 0 Red Square
+    CustomAlertSound "Sounds\5highmaps.mp3" 300
 
 Show # $type->maps->influenced $tier->infconquerors
 	HasInfluence Crusader Hunter Redeemer Warlord
@@ -391,6 +394,7 @@ Show # $type->maps->influenced $tier->infconquerors
 	PlayAlertSound 1 300
 	PlayEffect Red
 	MinimapIcon 0 Red Square
+    CustomAlertSound "Sounds\5highmaps.mp3" 300
 
 #------------------------------------
 #   [0202] Common Tier - T1
@@ -5667,6 +5671,7 @@ SetBackgroundColor 40 0 30 255
 PlayAlertSound 5 300
 PlayEffect Yellow
 MinimapIcon 1 Yellow UpsideDownHouse
+CustomAlertSound "Sounds\5highmaps.mp3" 300
 
 Show # $type->uniques->maps $tier->exharbinger
 MapTier 16
@@ -5680,6 +5685,7 @@ SetBackgroundColor 255 255 255 255
 PlayAlertSound 6 300
 PlayEffect Red
 MinimapIcon 0 Red Star
+CustomAlertSound "Sounds\5highmaps.mp3" 300
 
 Show # $type->uniques->maps $tier->t1
 Rarity Unique
@@ -5692,6 +5698,7 @@ SetBackgroundColor 255 255 255 255
 PlayAlertSound 6 300
 PlayEffect Red
 MinimapIcon 0 Red Star
+CustomAlertSound "Sounds\5highmaps.mp3" 300
 
 Show # $type->uniques->maps $tier->t2
 Rarity Unique
@@ -5704,6 +5711,7 @@ SetBackgroundColor 175 96 37 255
 PlayAlertSound 1 300
 PlayEffect Yellow
 MinimapIcon 1 Yellow Star
+CustomAlertSound "Sounds\5highmaps.mp3" 300
 
 Show # %H5 $type->uniques->maps $tier->t3
 Rarity Unique
@@ -5716,6 +5724,7 @@ SetBackgroundColor 175 96 37 255
 PlayAlertSound 3 300
 PlayEffect Brown
 MinimapIcon 1 Brown Star
+CustomAlertSound "Sounds\5highmaps.mp3" 300
 
 #Show  # %H4 $type->uniques->maps $tier->t4
 #	Rarity Unique
@@ -5738,6 +5747,7 @@ Show # $type->uniques->maps $tier->restex
 	PlayAlertSound 3 300
 	PlayEffect Pink
 	MinimapIcon 0 Pink Circle
+    CustomAlertSound "Sounds\5highmaps.mp3" 300
 
 #------------------------------------
 #   [3002] Blighted maps
@@ -5754,6 +5764,7 @@ Show # $type->maps->blighted $tier->uber
 	PlayAlertSound 5 300
 	PlayEffect Purple
 	MinimapIcon 0 Purple Square
+    CustomAlertSound "Sounds\5highmaps.mp3" 300
 
 Show # $type->maps->blighted $tier->t1
 	BlightedMap True
@@ -5766,6 +5777,7 @@ Show # $type->maps->blighted $tier->t1
 	PlayAlertSound 5 300
 	PlayEffect Purple
 	MinimapIcon 0 Purple Square
+    CustomAlertSound "Sounds\5highmaps.mp3" 300
 
 Show # %H5 $type->maps->blighted $tier->any
 	BlightedMap True
@@ -5777,6 +5789,7 @@ Show # %H5 $type->maps->blighted $tier->any
 	PlayAlertSound 5 300
 	PlayEffect Purple
 	MinimapIcon 1 Purple Square
+    CustomAlertSound "Sounds\5highmaps.mp3" 300
 
 #------------------------------------
 #   [3003] Delirium/Blight/Enchanted Maps!
@@ -5793,6 +5806,7 @@ Show # $type->maps->enchanted $tier->t1
 	PlayAlertSound 5 300
 	PlayEffect Purple
 	MinimapIcon 0 Purple Square
+    CustomAlertSound "Sounds\5highmaps.mp3" 300
 
 Show # %H5 $type->maps->enchanted $tier->any
 	AnyEnchantment True
@@ -5804,6 +5818,7 @@ Show # %H5 $type->maps->enchanted $tier->any
 	PlayAlertSound 5 300
 	PlayEffect Purple
 	MinimapIcon 1 Purple Square
+    CustomAlertSound "Sounds\5highmaps.mp3" 300
 
 Show # $type->maps->implicitmod $tier->t1
 	HasImplicitMod True
@@ -5816,6 +5831,7 @@ Show # $type->maps->implicitmod $tier->t1
 	PlayAlertSound 5 300
 	PlayEffect Purple
 	MinimapIcon 0 Purple Square
+    CustomAlertSound "Sounds\5highmaps.mp3" 300
 
 Show # %H5 $type->maps->implicitmod $tier->any
 	HasImplicitMod True
@@ -5827,6 +5843,7 @@ Show # %H5 $type->maps->implicitmod $tier->any
 	PlayAlertSound 5 300
 	PlayEffect Purple
 	MinimapIcon 1 Purple Square
+    CustomAlertSound "Sounds\5highmaps.mp3" 300
 
 #------------------------------------
 #   [3004] Beyond-Nemesis Maps, for those juicy sextants.
@@ -5858,6 +5875,7 @@ Show # $type->maps $tier->deco_zone1general
 	Class "Maps"
 	SetBorderColor 0 0 0 255
 	Continue
+    CustomAlertSound "Sounds\5highmaps.mp3" 300
 
 Show # $type->maps $tier->deco_zone2general
 	MapTier >= 11
@@ -5865,6 +5883,7 @@ Show # $type->maps $tier->deco_zone2general
 	Class "Maps"
 	SetBorderColor 0 0 0 255
 	Continue
+    CustomAlertSound "Sounds\4maps.mp3" 300
 
 Show # $type->maps $tier->deco_zone3general
 	MapTier >= 6
@@ -5872,6 +5891,7 @@ Show # $type->maps $tier->deco_zone3general
 	Class "Maps"
 	SetBorderColor 200 200 200 255
 	Continue
+    CustomAlertSound "Sounds\4maps.mp3" 300
 
 Show # $type->maps $tier->deco_zone4general
 	MapTier >= 1
@@ -5879,6 +5899,7 @@ Show # $type->maps $tier->deco_zone4general
 	Class "Maps"
 	SetBorderColor 200 200 200 255
 	Continue
+    CustomAlertSound "Sounds\4maps.mp3" 300
 
 #------------------------------------
 #   [3102] Map progression
@@ -5901,6 +5922,7 @@ Show # $type->maps $tier->maps_a_t16
 	PlayAlertSound 5 300
 	PlayEffect Yellow
 	MinimapIcon 1 Red Square
+    CustomAlertSound "Sounds\5highmaps.mp3" 300
 
 #Show  # $type->maps $tier->deco_mapup_t15
 #	MapTier >= 15
@@ -5918,6 +5940,7 @@ Show # $type->maps $tier->maps_a_t15
 	PlayAlertSound 5 300
 	PlayEffect Yellow
 	MinimapIcon 1 Red Square
+    CustomAlertSound "Sounds\5highmaps.mp3" 300
 
 #Show  # $type->maps $tier->deco_mapup_t14
 #	MapTier >= 14
@@ -5935,6 +5958,7 @@ Show # $type->maps $tier->maps_a_t14
 	PlayAlertSound 5 300
 	PlayEffect Yellow
 	MinimapIcon 1 Red Square
+    CustomAlertSound "Sounds\5highmaps.mp3" 300
 
 #Show  # %D4 $type->maps $tier->deco_mapup_t13
 #	MapTier >= 13
@@ -5952,6 +5976,7 @@ Show # %H5 $type->maps $tier->maps_b_t13
 	PlayAlertSound 5 300
 	PlayEffect Yellow
 	MinimapIcon 1 Red Square
+    CustomAlertSound "Sounds\5highmaps.mp3" 300
 
 #Show  # %D4 $type->maps $tier->deco_mapup_t12
 #	MapTier >= 12
@@ -5969,6 +5994,7 @@ Show # %H5 $type->maps $tier->maps_b_t12
 	PlayAlertSound 5 300
 	PlayEffect Yellow
 	MinimapIcon 1 Red Square
+    CustomAlertSound "Sounds\5highmaps.mp3" 300
 
 #Show  # %D4 $type->maps $tier->deco_mapup_t11
 #	MapTier >= 11
@@ -5986,6 +6012,7 @@ Show # %H5 $type->maps $tier->maps_b_t11
 	PlayAlertSound 5 300
 	PlayEffect Yellow
 	MinimapIcon 1 Red Square
+    CustomAlertSound "Sounds\5highmaps.mp3" 300
 
 # !! Override 550 : "T16-T10 maps"
 
@@ -6005,6 +6032,7 @@ Show # %H4 $type->maps $tier->maps_c_t10
 	PlayAlertSound 4 300
 	PlayEffect White
 	MinimapIcon 1 Yellow Square
+    CustomAlertSound "Sounds\4maps.mp3" 300
 
 #Show  # %D3 $type->maps $tier->deco_mapup_t9
 #	MapTier >= 9
@@ -6022,6 +6050,7 @@ Show # %H4 $type->maps $tier->maps_c_t9
 	PlayAlertSound 4 300
 	PlayEffect White
 	MinimapIcon 1 Yellow Square
+    CustomAlertSound "Sounds\4maps.mp3" 300
 
 #Show  # %D3 $type->maps $tier->deco_mapup_t8
 #	MapTier >= 8
@@ -6039,6 +6068,7 @@ Show # %H4 $type->maps $tier->maps_c_t8
 	PlayAlertSound 4 300
 	PlayEffect White
 	MinimapIcon 1 Yellow Square
+    CustomAlertSound "Sounds\4maps.mp3" 300
 
 #Show  # %D3 $type->maps $tier->deco_mapup_t7
 #	MapTier >= 7
@@ -6056,6 +6086,7 @@ Show # %H4 $type->maps $tier->maps_c_t7
 	PlayAlertSound 4 300
 	PlayEffect White
 	MinimapIcon 1 Yellow Square
+    CustomAlertSound "Sounds\4maps.mp3" 300
 
 #Show  # %D3 $type->maps $tier->deco_mapup_t6
 #	MapTier >= 6
@@ -6073,6 +6104,7 @@ Show # %H4 $type->maps $tier->maps_c_t6
 	PlayAlertSound 4 300
 	PlayEffect White
 	MinimapIcon 1 Yellow Square
+    CustomAlertSound "Sounds\4maps.mp3" 300
 
 # !! Override 560 : "T1-T5 maps"
 
@@ -6092,6 +6124,7 @@ Show # %H4 $type->maps $tier->maps_d_t5
 	PlayAlertSound 4 300
 	PlayEffect White
 	MinimapIcon 2 White Square
+    CustomAlertSound "Sounds\4maps.mp3" 300
 
 #Show  # %D3 $type->maps $tier->deco_mapup_t4
 #	MapTier >= 4
@@ -6109,6 +6142,7 @@ Show # %H4 $type->maps $tier->maps_d_t4
 	PlayAlertSound 4 300
 	PlayEffect White
 	MinimapIcon 2 White Square
+    CustomAlertSound "Sounds\4maps.mp3" 300
 
 #Show  # %D3 $type->maps $tier->deco_mapup_t3
 #	MapTier >= 3
@@ -6126,6 +6160,7 @@ Show # %H4 $type->maps $tier->maps_d_t3
 	PlayAlertSound 4 300
 	PlayEffect White
 	MinimapIcon 2 White Square
+    CustomAlertSound "Sounds\4maps.mp3" 300
 
 #Show  # %D3 $type->maps $tier->deco_mapup_t2
 #	MapTier >= 2
@@ -6143,6 +6178,7 @@ Show # %H4 $type->maps $tier->maps_d_t2
 	PlayAlertSound 4 300
 	PlayEffect White
 	MinimapIcon 2 White Square
+    CustomAlertSound "Sounds\4maps.mp3" 300
 
 #Show  # %D3 $type->maps $tier->deco_mapup_t1
 #	MapTier >= 1
@@ -6160,6 +6196,7 @@ Show # %H4 $type->maps $tier->maps_d_t1
 	PlayAlertSound 4 300
 	PlayEffect White
 	MinimapIcon 2 White Square
+    CustomAlertSound "Sounds\4maps.mp3" 300
 
 Show # $type->maps $tier->restex
 	Class "Maps"
@@ -6170,6 +6207,7 @@ Show # $type->maps $tier->restex
 	PlayAlertSound 3 300
 	PlayEffect Pink
 	MinimapIcon 0 Pink Circle
+    CustomAlertSound "Sounds\4maps.mp3" 300
 
 #===============================================================================================================
 # [[3200]] Pseudo-Map-Items
@@ -6186,6 +6224,7 @@ Show # $type->uniques->heist $tier->any
 	PlayAlertSound 1 300
 	PlayEffect Yellow
 	MinimapIcon 1 Yellow Star
+    CustomAlertSound "Sounds\3uniques.mp3" 300
 
 Show # $type->expedition->logbook $tier->any
 BaseType "Expedition Logbook"
@@ -6454,6 +6493,7 @@ SetTextColor 0 0 0 255
 SetBorderColor 0 0 0 255
 SetBackgroundColor 190 110 111 255
 MinimapIcon 2 Grey Circle
+CustomAlertSound "Sounds\2Currency.mp3" 300 
 
 Show # %D4 $type->currency->levelingstacked $tier->aug
 StackSize >= 3
@@ -6492,6 +6532,7 @@ SetBackgroundColor 180 76 58 255
 PlayAlertSound 2 300
 PlayEffect White
 MinimapIcon 2 Grey Circle
+CustomAlertSound "Sounds\2Currency.mp3" 300 
 
 Show # %D4 $type->currency->leveling $tier->essences
 AreaLevel <= 67
@@ -6504,6 +6545,7 @@ SetBackgroundColor 180 76 58 255
 PlayAlertSound 2 300
 PlayEffect White
 MinimapIcon 2 Grey Circle
+CustomAlertSound "Sounds\2Currency.mp3" 300 
 
 Show # %D4 $type->currency->leveling $tier->trans
 AreaLevel <= 67
@@ -6514,6 +6556,7 @@ SetTextColor 190 120 90 255
 SetBorderColor 190 120 90 255
 SetBackgroundColor 0 0 0 255
 MinimapIcon 2 Grey Circle
+CustomAlertSound "Sounds\2Currency.mp3" 300 
 
 Show # %D4 $type->currency->leveling $tier->aug
 AreaLevel <= 67
@@ -6564,6 +6607,7 @@ SetBackgroundColor 180 76 58 255
 PlayAlertSound 2 300
 PlayEffect White
 MinimapIcon 2 White Circle
+CustomAlertSound "Sounds\2Currency.mp3" 300 
 
 Show # %HS3 $type->currency->stackedsupplieshigh $tier->t2
 StackSize >= 5
@@ -6600,6 +6644,7 @@ SetBackgroundColor 190 110 111 255
 PlayAlertSound 2 300
 PlayEffect Grey
 MinimapIcon 2 Grey Circle
+CustomAlertSound "Sounds\2Currency.mp3" 300 
 
 Show # %HS3 $type->currency->stackedsupplieslow $tier->t2
 StackSize >= 5
@@ -6692,6 +6737,7 @@ SetBackgroundColor 255 255 255 255
 PlayAlertSound 6 300
 PlayEffect Red
 MinimapIcon 0 Red Star
+CustomAlertSound "Sounds\6veryvaluable.mp3" 300 
 
 Show # $type->currency->stackedsix $tier->t2
 StackSize >= 6
@@ -6704,6 +6750,7 @@ SetBackgroundColor 190 30 30 255
 PlayAlertSound 1 300
 PlayEffect Red
 MinimapIcon 0 Red Circle
+CustomAlertSound "Sounds\6veryvaluable.mp3" 300 
 
 Show # $type->currency->stackedsix $tier->t3
 StackSize >= 6
@@ -6716,6 +6763,7 @@ SetBackgroundColor 190 30 30 255
 PlayAlertSound 2 300
 PlayEffect Yellow
 MinimapIcon 1 Yellow Circle
+CustomAlertSound "Sounds\2currency.mp3" 300 
 
 Show # $type->currency->stackedsix $tier->t4
 StackSize >= 6
@@ -6728,6 +6776,7 @@ SetBackgroundColor 180 76 58 255
 PlayAlertSound 2 300
 PlayEffect White
 MinimapIcon 2 White Circle
+CustomAlertSound "Sounds\2currency.mp3" 300 
 
 Show # %HS4 $type->currency->stackedsix $tier->t5
 StackSize >= 6
@@ -6740,6 +6789,7 @@ SetBackgroundColor 180 76 58 255
 PlayAlertSound 2 300
 PlayEffect White
 MinimapIcon 2 White Circle
+CustomAlertSound "Sounds\2currency.mp3" 300 
 
 #Show  # %HS3 $type->currency->stackedsix $tier->t6
 #	StackSize >= 6
@@ -6776,6 +6826,7 @@ SetBackgroundColor 255 255 255 255
 PlayAlertSound 6 300
 PlayEffect Red
 MinimapIcon 0 Red Star
+CustomAlertSound "Sounds\6veryvaluable.mp3" 300 
 
 Show # $type->currency->stackedthree $tier->t2
 StackSize >= 3
@@ -6788,6 +6839,7 @@ SetBackgroundColor 190 30 30 255
 PlayAlertSound 1 300
 PlayEffect Red
 MinimapIcon 0 Red Circle
+CustomAlertSound "Sounds\6veryvaluable.mp3" 300 
 
 Show # $type->currency->stackedthree $tier->t3
 StackSize >= 3
@@ -6800,6 +6852,7 @@ SetBackgroundColor 190 30 30 255
 PlayAlertSound 2 300
 PlayEffect Yellow
 MinimapIcon 1 Yellow Circle
+CustomAlertSound "Sounds\6veryvaluable.mp3" 300 
 
 Show # $type->currency->stackedthree $tier->t4
 StackSize >= 3
@@ -6812,6 +6865,7 @@ SetBackgroundColor 180 76 58 255
 PlayAlertSound 2 300
 PlayEffect White
 MinimapIcon 2 White Circle
+CustomAlertSound "Sounds\2currency.mp3" 300 
 
 Show # %HS4 $type->currency->stackedthree $tier->t5
 StackSize >= 3
@@ -6824,6 +6878,7 @@ SetBackgroundColor 180 76 58 255
 PlayAlertSound 2 300
 PlayEffect White
 MinimapIcon 2 White Circle
+CustomAlertSound "Sounds\2currency.mp3" 300 
 
 Show # %HS3 $type->currency->stackedthree $tier->t6
 StackSize >= 3
@@ -6836,6 +6891,7 @@ SetBackgroundColor 190 110 111 255
 PlayAlertSound 2 300
 PlayEffect Grey
 MinimapIcon 2 Grey Circle
+CustomAlertSound "Sounds\2currency.mp3" 300 
 
 Show # %H3 $type->currency->stackedthree $tier->t7
 StackSize >= 3
@@ -6884,6 +6940,8 @@ SetBackgroundColor 255 255 255 255
 PlayAlertSound 6 300
 PlayEffect Red
 MinimapIcon 0 Red Star
+CustomAlertSound "Sounds\6veryvaluable.mp3" 300
+
 
 Show # $type->currency $tier->t2divine
 Class "Currency"
@@ -7773,6 +7831,7 @@ Show # $type->metamorph $tier->any
 	PlayAlertSound 3 300
 	PlayEffect Green
 	MinimapIcon 0 Green Pentagon
+    CustomAlertSound "Sounds\3uniques.mp3" 300
 
 Show # $type->heisttarget $tier->any
 	Class "Heist Target"
@@ -7783,6 +7842,7 @@ Show # $type->heisttarget $tier->any
 	PlayAlertSound 3 300
 	PlayEffect Green
 	MinimapIcon 0 Green Pentagon
+    CustomAlertSound "Sounds\3uniques.mp3" 300
 
 #===============================================================================================================
 # [[4200]] Uniques
@@ -7805,6 +7865,7 @@ SetBackgroundColor 255 255 255 255
 PlayAlertSound 6 300
 PlayEffect Red
 MinimapIcon 0 Red Star
+CustomAlertSound "Sounds\3uniques.mp3" 300
 
 Show # $type->uniques $tier->exsquire
 Sockets >= 3WWW
@@ -7817,6 +7878,7 @@ SetBackgroundColor 255 255 255 255
 PlayAlertSound 6 300
 PlayEffect Red
 MinimapIcon 0 Red Star
+CustomAlertSound "Sounds\3uniques.mp3" 300
 
 Show # $type->uniques $tier->extabula
 Rarity Unique
@@ -7829,6 +7891,7 @@ SetBackgroundColor 175 96 37 255
 PlayAlertSound 1 300
 PlayEffect Red
 MinimapIcon 0 Yellow Star
+CustomAlertSound "Sounds\3uniques.mp3" 300
 
 Show # $type->uniques $tier->exforgesword
 HasInfluence "Elder" "Shaper"
@@ -7841,6 +7904,7 @@ SetBackgroundColor 255 255 255 255
 PlayAlertSound 6 300
 PlayEffect Red
 MinimapIcon 0 Red Star
+CustomAlertSound "Sounds\3uniques.mp3" 300
 
 Show # $type->uniques $tier->exrationaljewel
 	SynthesisedItem True
@@ -7853,6 +7917,7 @@ Show # $type->uniques $tier->exrationaljewel
 	PlayAlertSound 6 300
 	PlayEffect Red
 	MinimapIcon 0 Red Star
+    CustomAlertSound "Sounds\3uniques.mp3" 300
 
 Show # $type->uniques $tier->exsynth
 	SynthesisedItem True
@@ -7865,6 +7930,7 @@ Show # $type->uniques $tier->exsynth
 	PlayAlertSound 1 300
 	PlayEffect Red
 	MinimapIcon 0 Yellow Star
+    CustomAlertSound "Sounds\3uniques.mp3" 300
 
 Show # $type->uniques $tier->ex6link
 	LinkedSockets 6
@@ -7876,6 +7942,7 @@ Show # $type->uniques $tier->ex6link
 	PlayAlertSound 6 300
 	PlayEffect Red
 	MinimapIcon 0 Red Star
+    CustomAlertSound "Sounds\3uniques.mp3" 300
 
 #------------------------------------
 #   [4202] Tier 1 and 2 uniques
@@ -7891,6 +7958,7 @@ SetBackgroundColor 255 255 255 255
 PlayAlertSound 6 300
 PlayEffect Red
 MinimapIcon 0 Red Star
+CustomAlertSound "Sounds\3uniques.mp3" 300
 
 Show # $type->uniques $tier->t2
 Rarity Unique
@@ -7902,6 +7970,7 @@ SetBackgroundColor 175 96 37 255
 PlayAlertSound 1 300
 PlayEffect Red
 MinimapIcon 0 Yellow Star
+CustomAlertSound "Sounds\3uniques.mp3" 300
 
 #------------------------------------
 #   [4203] Exceptions #2
@@ -7918,6 +7987,7 @@ Show # $type->uniques $tier->2xcorrupteduniques
 	PlayAlertSound 1 300
 	PlayEffect Red
 	MinimapIcon 0 Yellow Star
+    CustomAlertSound "Sounds\3uniques.mp3" 300
 
 Show # $type->uniques $tier->2xabyss
 	Sockets >= AA
@@ -7930,6 +8000,7 @@ Show # $type->uniques $tier->2xabyss
 	PlayAlertSound 1 300
 	PlayEffect Red
 	MinimapIcon 0 Yellow Star
+    CustomAlertSound "Sounds\3uniques.mp3" 300
 
 Show # $type->uniques $tier->excrucibleunique
 	HasCruciblePassiveTree True
@@ -7941,6 +8012,7 @@ Show # $type->uniques $tier->excrucibleunique
 	PlayAlertSound 2 300
 	PlayEffect Blue
 	MinimapIcon 1 Blue Star
+    CustomAlertSound "Sounds\3uniques.mp3" 300
 
 #------------------------------------
 #   [4204] Multi-Unique bases.
@@ -7959,6 +8031,7 @@ Show # %D4 $type->uniques $tier->5link
 	PlayAlertSound 2 300
 	PlayEffect Blue
 	MinimapIcon 1 Blue Star
+    CustomAlertSound "Sounds\3uniques.mp3" 300
 
 Show # $type->uniques $tier->multispecial
 Rarity Unique
@@ -7970,6 +8043,7 @@ SetBackgroundColor 175 96 37 255
 PlayAlertSound 2 300
 PlayEffect Blue
 MinimapIcon 1 Blue Star
+CustomAlertSound "Sounds\3uniques.mp3" 300
 
 # For those 6 sockets	
 
@@ -7999,6 +8073,7 @@ SetBackgroundColor 10 30 45 255
 PlayAlertSound 3 300
 PlayEffect Brown
 MinimapIcon 2 Brown Star
+CustomAlertSound "Sounds\3uniques.mp3" 300
 
 Show # $type->uniques $tier->exjewelscorrupted
 Corrupted True
@@ -8012,6 +8087,7 @@ SetBackgroundColor 53 13 13 255
 PlayAlertSound 3 300
 PlayEffect Blue
 MinimapIcon 2 Blue Star
+CustomAlertSound "Sounds\3uniques.mp3" 300
 
 Show # $type->uniques $tier->exjewels
 Rarity Unique
@@ -8023,6 +8099,7 @@ SetBackgroundColor 175 96 37 255
 PlayAlertSound 2 300
 PlayEffect Blue
 MinimapIcon 1 Blue Star
+CustomAlertSound "Sounds\3uniques.mp3" 300
 
 #Show  # $type->uniques $tier->highvinktar
 #	ItemLevel >= 82
@@ -8059,6 +8136,7 @@ Show # %D5 $type->uniques $tier->corrupteduniques
 	PlayAlertSound 3 300
 	PlayEffect Blue
 	MinimapIcon 2 Blue Star
+    CustomAlertSound "Sounds\3uniques.mp3" 300
 
 #------------------------------------
 #   [4206] Tier 3 uniques 
@@ -8074,6 +8152,7 @@ SetBackgroundColor 53 13 13 255
 PlayAlertSound 3 300
 PlayEffect Brown
 MinimapIcon 2 Brown Star
+CustomAlertSound "Sounds\3uniques.mp3" 300
 
 Show # %H4 $type->uniques $tier->t3
 Rarity Unique
@@ -8085,6 +8164,7 @@ SetBackgroundColor 53 13 13 255
 PlayAlertSound 3 300
 PlayEffect Brown
 MinimapIcon 2 Brown Star
+CustomAlertSound "Sounds\3uniques.mp3" 300
 
 #------------------------------------
 #   [4207] Tier 4 uniques
@@ -8100,6 +8180,7 @@ SetBackgroundColor 0 0 0 255
 PlayAlertSound 3 300
 PlayEffect Brown
 MinimapIcon 2 Brown Star
+CustomAlertSound "Sounds\3uniques.mp3" 300
 
 Show # %H3 $type->uniques $tier->hideable
 Rarity Unique
@@ -8111,6 +8192,7 @@ SetBackgroundColor 0 0 0 255
 PlayAlertSound 3 300
 PlayEffect Brown
 MinimapIcon 2 Brown Star
+CustomAlertSound "Sounds\3uniques.mp3" 300
 
 Show # $type->uniques $tier->restex
 	Rarity Unique
@@ -8121,6 +8203,7 @@ Show # $type->uniques $tier->restex
 	PlayAlertSound 3 300
 	PlayEffect Pink
 	MinimapIcon 0 Pink Circle
+    CustomAlertSound "Sounds\3uniques.mp3" 300 
 
 #===============================================================================================================
 # [[4300]] Misc Map Items
@@ -8136,6 +8219,7 @@ SetBackgroundColor 255 255 255 255
 PlayAlertSound 6 300
 PlayEffect Red
 MinimapIcon 0 Red Star
+CustomAlertSound "Sounds\5highmaps.mp3" 300
 
 Show # $type->miscmapitemsextra $tier->relickeyssafe
 	Class "Vault Key"
@@ -8146,6 +8230,7 @@ Show # $type->miscmapitemsextra $tier->relickeyssafe
 	PlayAlertSound 6 300
 	PlayEffect Red
 	MinimapIcon 0 Red Star
+    CustomAlertSound "Sounds\5highmaps.mp3" 300
 
 Show # $type->miscmapitemsextra $tier->itemizedleagues
 BaseType "Chronicle of Atzoatl" "Inscribed Ultimatum" "Mirrored Tablet" "Primeval Remnant" "Primordial Remnant"
@@ -8166,6 +8251,7 @@ Show # $type->miscmapitems $tier->restex
 	PlayAlertSound 3 300
 	PlayEffect Pink
 	MinimapIcon 0 Pink Circle
+    CustomAlertSound "Sounds\5highmaps.mp3" 300
 
 #===============================================================================================================
 # [[4400]] Questlike-Items2
@@ -8180,6 +8266,7 @@ SetBackgroundColor 0 0 0 255
 PlayAlertSound 3 300
 PlayEffect Green
 MinimapIcon 0 Green Pentagon
+CustomAlertSound "Sounds\3uniques.mp3" 300 
 
 Show # $type->questlike $tier->labyrinthconsumable
 	Class "Labyrinth"
@@ -8190,6 +8277,7 @@ Show # $type->questlike $tier->labyrinthconsumable
 	PlayAlertSound 3 300
 	PlayEffect Green
 	MinimapIcon 0 Green Pentagon
+    CustomAlertSound "Sounds\3uniques.mp3" 300 
 
 Show # $type->questlike $tier->incursionconsumable
 	Class "Incursion Item"
@@ -8200,6 +8288,7 @@ Show # $type->questlike $tier->incursionconsumable
 	PlayAlertSound 3 300
 	PlayEffect Green
 	MinimapIcon 0 Green Pentagon
+    CustomAlertSound "Sounds\3uniques.mp3" 300 
 
 #===============================================================================================================
 # [[4500]] Hide outdated leveling flasks

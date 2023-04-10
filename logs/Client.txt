@@ -2018,3 +2018,1019 @@ flags: 257
 2023/04/10 14:03:44 38457921 cffb071e [INFO Client 2300] #vortwxdvory: ну кормит ты конечно сильно преувеличил
 2023/04/10 14:04:07 38480500 cffb071e [INFO Client 2300] #BlazingIcyEmber: ну ССФ и на старте очень даже норм кормит
 2023/04/10 14:04:12 38486375 cffb071e [INFO Client 2300] : DeeToxilistaIIIXXI был повержен.
+2023/04/11 00:49:09 ***** LOG FILE OPENING *****
+2023/04/11 00:49:09 77182531 f9544283 [INFO Client 9520] [STARTUP] Job Queues
+2023/04/11 00:49:09 77182531 9e6a0b0a [INFO Client 9520] Enumerated adapter: NVIDIA GeForce GTX 1660
+2023/04/11 00:49:09 77182718 9e6a1d2a [INFO Client 9520] Enumerated device for adapter: NVIDIA GeForce GTX 1660. Selected feature level: 45312. Max feature level: 45312
+2023/04/11 00:49:09 77182718 9e6a1363 [INFO Client 9520] Enumerated output for adapter NVIDIA GeForce GTX 1660 of \\.\DISPLAY1
+2023/04/11 00:49:09 77182718 9e6a0b0a [INFO Client 9520] Enumerated adapter: Microsoft Basic Render Driver
+2023/04/11 00:49:09 77182718 9e6a1d2a [INFO Client 9520] Enumerated device for adapter: Microsoft Basic Render Driver. Selected feature level: 45312. Max feature level: 45312
+2023/04/11 00:49:09 77182718 84a7d27d [INFO Client 9520] [ENGINE] Init
+2023/04/11 00:49:09 77182718 55713145 [INFO Client 9520] [JOB] HIGH: 3
+2023/04/11 00:49:09 77182718 55713145 [INFO Client 9520] [JOB] MEDIUM: 3
+2023/04/11 00:49:09 77182718 55713145 [INFO Client 9520] [JOB] LOW: 3
+2023/04/11 00:49:09 77182734 55713145 [INFO Client 9520] [JOB] IDLE: 1
+2023/04/11 00:49:09 77182734 7bb548f [INFO Client 9520] [BUNDLE2] Init
+2023/04/11 00:49:09 77182734 7bb36c4 [INFO Client 9520] [BUNDLE2] Index: Bundles2/_.index.bin
+2023/04/11 00:49:09 77182984 7bb61e6 [INFO Client 9520] [BUNDLE2] File cache size: 1024
+2023/04/11 00:49:09 77182984 b51d61ab [INFO Client 9520] [RENDER] Async: ON
+2023/04/11 00:49:09 77182984 b51d60c8 [INFO Client 9520] [RENDER] Warmup: ON
+2023/04/11 00:49:09 77182984 b51d60ce [INFO Client 9520] [RENDER] Skip: ON
+2023/04/11 00:49:09 77182984 b51d60eb [INFO Client 9520] [RENDER] Throttling: ON
+2023/04/11 00:49:09 77182984 32759a7a [INFO Client 9520] [SHADER] Address: http://www.pathofexile.com/tool/shader-db?a=store
+2023/04/11 00:49:09 77182984 32759a70 [INFO Client 9520] [SHADER] Async: ON
+2023/04/11 00:49:09 77182984 32759a9f [INFO Client 9520] [SHADER] Delay: OFF
+2023/04/11 00:49:09 77182984 32759aba [INFO Client 9520] [SHADER] Limit: ON
+2023/04/11 00:49:09 77182984 32759abc [INFO Client 9520] [SHADER] Warmup: ON
+2023/04/11 00:49:09 77182984 327599d7 [INFO Client 9520] [SHADER] Parallel: OFF
+2023/04/11 00:49:09 77182984 84a7e376 [INFO Client 9520] [ENGINE] Running Engine version 1.8.0
+2023/04/11 00:49:09 77183031 47bbd15a [INFO Client 9520] [SOUND] Buffer size = 64.0 MB
+2023/04/11 00:49:09 77183109 9b0d205 [INFO Client 9520] [VIDEO] Enable: ON
+2023/04/11 00:49:09 77183140 84a7d2d8 [INFO Client 9520] [ENGINE] Ready
+2023/04/11 00:49:10 77183437 951bc0b0 [INFO Client 9520] [STARTUP] Bundle Startup Start
+2023/04/11 00:49:10 77183437 951bc057 [INFO Client 9520] [STARTUP] Bundle Startup in 4e-05 seconds
+2023/04/11 00:49:10 77183437 951bc0b0 [INFO Client 9520] [STARTUP] Game Start
+2023/04/11 00:49:10 77183765 ca86fd3f [DEBUG Client 9520] Rebuilding UI::Core properties. Current input mode = '1'
+2023/04/11 00:49:10 77184046 951bc057 [INFO Client 9520] [STARTUP] Game in 0.609614 seconds
+2023/04/11 00:49:10 77184046 951bc0b0 [INFO Client 9520] [STARTUP] Window Start
+2023/04/11 00:49:10 77184046 9e6a0b0a [INFO Client 9520] Enumerated adapter: NVIDIA GeForce GTX 1660
+2023/04/11 00:49:10 77184171 9e6a1d2a [INFO Client 9520] Enumerated device for adapter: NVIDIA GeForce GTX 1660. Selected feature level: 45312. Max feature level: 45312
+2023/04/11 00:49:10 77184171 9e6a1363 [INFO Client 9520] Enumerated output for adapter NVIDIA GeForce GTX 1660 of \\.\DISPLAY1
+2023/04/11 00:49:10 77184171 9e6a0b0a [INFO Client 9520] Enumerated adapter: Microsoft Basic Render Driver
+2023/04/11 00:49:10 77184171 9e6a1d2a [INFO Client 9520] Enumerated device for adapter: Microsoft Basic Render Driver. Selected feature level: 45312. Max feature level: 45312
+2023/04/11 00:49:10 77184187 951bc057 [INFO Client 9520] [STARTUP] Window in 0.141838 seconds
+2023/04/11 00:49:10 77184203 413b61ff [DEBUG Client 9520] [GamepadManager] Initialising
+2023/04/11 00:49:10 77184203 951bc0b0 [INFO Client 9520] [STARTUP] Device Start
+2023/04/11 00:49:10 77184203 b51d6589 [INFO Client 9520] [RENDER] StartDevice: DirectX11
+2023/04/11 00:49:10 77184328 71b2ea0 [DEBUG Client 9520] [SHADER] Load shader cache: ShaderCacheD3D11
+2023/04/11 00:49:11 77184484 fafff8cf [DEBUG Client 9520] CreateSwapChain: SetFullScreenState 0
+2023/04/11 00:49:11 77184484 29d4ce01 [INFO Client 9520] [D3D11] Runtime version = 11.1
+2023/04/11 00:49:11 77184484 29d4ce00 [INFO Client 9520] [D3D11] Feature Level = 11.1
+2023/04/11 00:49:11 77184484 29d4ce03 [INFO Client 9520] [D3D11] Driver Command Lists = YES
+2023/04/11 00:49:11 77184484 29d4ce02 [INFO Client 9520] [D3D11] Driver Concurrent Creates = YES
+2023/04/11 00:49:11 77184484 29d4ce05 [INFO Client 9520] [D3D11] Driver Constant Buffer Offsetting = YES
+2023/04/11 00:49:11 77184640 9d4eeb40 [DEBUG Client 9520] [WINDOW] TrigggerDeviceCreate
+2023/04/11 00:49:11 77184734 9d4eeba7 [DEBUG Client 9520] [WINDOW] TrigggerDeviceReset
+2023/04/11 00:49:11 77184750 9d4eec8a [DEBUG Client 9520] [WINDOW] TrigggerDeviceLost
+2023/04/11 00:49:11 77184750 9d4eeba7 [DEBUG Client 9520] [WINDOW] TrigggerDeviceReset
+2023/04/11 00:49:11 77184750 951bc057 [INFO Client 9520] [STARTUP] Device in 0.549041 seconds
+2023/04/11 00:49:11 77184750 951bc0b0 [INFO Client 9520] [STARTUP] Tencent Start
+2023/04/11 00:49:11 77184750 951bc057 [INFO Client 9520] [STARTUP] Tencent in 1.3e-05 seconds
+2023/04/11 00:49:11 77184750 951bc0b0 [INFO Client 9520] [STARTUP] Loading Start
+2023/04/11 00:49:11 77184765 951bc057 [INFO Client 9520] [STARTUP] Loading in 0.02175 seconds
+2023/04/11 00:49:11 77184765 951bc0b0 [INFO Client 9520] [STARTUP] DebugGUI Start
+2023/04/11 00:49:11 77184765 951bc057 [INFO Client 9520] [STARTUP] DebugGUI in 1.3e-05 seconds
+2023/04/11 00:49:11 77184765 951bc0b0 [INFO Client 9520] [STARTUP] Bundle Tiny Start
+2023/04/11 00:49:11 77184765 951bc0b0 [INFO Client 9520] [STARTUP] Bundle Login Start
+2023/04/11 00:49:11 77184765 951bc057 [INFO Client 9520] [STARTUP] Bundle Login in 2e-05 seconds
+2023/04/11 00:49:11 77184765 951bc0b0 [INFO Client 9520] [STARTUP] Audio Start
+2023/04/11 00:49:11 77184765 951bc0b0 [INFO Client 9520] [STARTUP] Registration Start
+2023/04/11 00:49:11 77184765 951bc057 [INFO Client 9520] [STARTUP] Bundle Tiny in 5.4e-05 seconds
+2023/04/11 00:49:11 77184765 47bbee18 [INFO Client 9520] [SOUND] Channel count = 64 (asked for 64)
+2023/04/11 00:49:11 77184765 47bbee19 [INFO Client 9520] [SOUND] Source count = 512
+2023/04/11 00:49:11 77184890 47bbea58 [INFO Client 9520] Changing to device "Line 1 (Virtual Audio Cable)"
+2023/04/11 00:49:11 77184890 951bc057 [INFO Client 9520] [STARTUP] Audio in 0.115792 seconds
+2023/04/11 00:49:11 77185125 951bc057 [INFO Client 9520] [STARTUP] Registration in 0.354687 seconds
+2023/04/11 00:49:12 77185687 5094179d [WARN Client 9520] tool_settings.json was not found. Resetting to default settings.
+2023/04/11 00:49:12 77186046 b51d4f61 [DEBUG Client 9520] [RENDER] SetRendererSettings
+2023/04/11 00:49:12 77186046 b51d6447 [DEBUG Client 9520] [RENDER] ResizeWindow
+2023/04/11 00:49:12 77186046 9d4eec8a [DEBUG Client 9520] [WINDOW] TrigggerDeviceLost
+2023/04/11 00:49:12 77186046 9d4eeba7 [DEBUG Client 9520] [WINDOW] TrigggerDeviceReset
+2023/04/11 00:49:12 77186046 b51d614c [DEBUG Client 9520] [RENDER] RestartSwapChain
+2023/04/11 00:49:12 77186062 9e6a0b0a [INFO Client 9520] Enumerated adapter: NVIDIA GeForce GTX 1660
+2023/04/11 00:49:12 77186109 9e6a1d2a [INFO Client 9520] Enumerated device for adapter: NVIDIA GeForce GTX 1660. Selected feature level: 45312. Max feature level: 45312
+2023/04/11 00:49:12 77186109 9e6a1363 [INFO Client 9520] Enumerated output for adapter NVIDIA GeForce GTX 1660 of \\.\DISPLAY1
+2023/04/11 00:49:12 77186109 9e6a0b0a [INFO Client 9520] Enumerated adapter: Microsoft Basic Render Driver
+2023/04/11 00:49:12 77186109 9e6a1d2a [INFO Client 9520] Enumerated device for adapter: Microsoft Basic Render Driver. Selected feature level: 45312. Max feature level: 45312
+2023/04/11 00:49:12 77186109 fafff8cf [DEBUG Client 9520] CreateSwapChain: SetFullScreenState 0
+2023/04/11 00:49:12 77186109 9d4eec8a [DEBUG Client 9520] [WINDOW] TrigggerDeviceLost
+2023/04/11 00:49:12 77186109 9d4eeba7 [DEBUG Client 9520] [WINDOW] TrigggerDeviceReset
+2023/04/11 00:49:12 77186125 3275a75e [INFO Client 9520] [SHADER] Disable Async: 1 frames
+2023/04/11 00:49:12 77186125 b51d610e [INFO Client 9520] [RENDER] Disable Async: 1 frames
+2023/04/11 00:49:27 77201359 890d9d5f [INFO Client 9520] Async connecting to mil01.login.pathofexile.com:20481
+2023/04/11 00:49:27 77201375 890d9cd8 [INFO Client 9520] Connected to mil01.login.pathofexile.com in 0ms.
+2023/04/11 00:49:50 77223843 88a904cb [DEBUG Client 9520] Got Instance Details from login server
+2023/04/11 00:49:50 77223875 32759a9f [INFO Client 9520] [SHADER] Delay: OFF
+2023/04/11 00:49:50 77223875 ca3a6a71 [INFO Client 9520] Connecting to instance server at 159.122.142.248:6112
+2023/04/11 00:49:50 77223937 ca3a4dbb [DEBUG Client 9520] Connect time to instance server was 31ms
+2023/04/11 00:49:50 77224031 1186a0e5 [DEBUG Client 9520] Generating level 69 area "2_10_town" with seed 1
+2023/04/11 00:49:52 77225718 f22b6987 [INFO Client 9520] Tile hash: 3862614232
+2023/04/11 00:49:52 77225718 f22b6986 [INFO Client 9520] Doodad hash: 2693664852
+2023/04/11 00:49:53 77227234 11870f49 [DEBUG Client 9520] Joined guild named Голосовой чат discord.com/invite/nXFKHzJ with 193 members 
+2023/04/11 00:49:55 77228843 2a1490e5 [INFO Client 9520] PrecalcBaseTypeHashMap
+2023/04/11 00:49:55 77228843 cffb071e [INFO Client 9520] &: ОБЪЯВЛЕНИЕ ГИЛЬДИИ: В гостяк у CARDIFF 
+2023/04/11 00:49:55 77228906 2a1490e7 [INFO Client 9520] PrecalcModNameHashMap
+2023/04/11 00:49:55 77229171 cffb071e [INFO Client 9520] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Доки Ориата.
+2023/04/11 00:49:56 77229875 2a1490e1 [INFO Client 9520] PrecalcItemClassMap
+2023/04/11 00:49:56 77229875 2a1490e3 [INFO Client 9520] PrecalcSoundEffects
+2023/04/11 00:49:56 77229875 2a1490ed [INFO Client 9520] PrecalcDropEffects
+2023/04/11 00:49:56 77229875 2a1490c6 [INFO Client 9520] PrecalcNonEnchantModHashes
+2023/04/11 00:49:56 77229875 2a1490c4 [INFO Client 9520] PrecalcRuleNameToTypeMap
+2023/04/11 00:49:56 77229875 2a1490c2 [INFO Client 9520] PrecalcCJESPNIndexMap
+2023/04/11 00:49:56 77229890 2a1490c0 [INFO Client 9520] PrecalcGemAlternateQualityMap
+2023/04/11 00:50:14 77248359 cffb071e [INFO Client 9520] : Вы присоединились к Общему каналу чата 9 968.
+2023/04/11 00:50:17 77250437 32759a9f [INFO Client 9520] [SHADER] Delay: ON
+2023/04/11 00:51:53 77346734 aecea334 [INFO Client 9520] Abnormal disconnect: Произошло неожиданное отключение от сервера.
+2023/04/11 00:51:54 77348359 890d9d5f [INFO Client 9520] Async connecting to mil01.login.pathofexile.com:20481
+2023/04/11 00:51:54 77348375 890d9cd8 [INFO Client 9520] Connected to mil01.login.pathofexile.com in 0ms.
+2023/04/11 00:52:00 77353531 88a904cb [DEBUG Client 9520] Got Instance Details from login server
+2023/04/11 00:52:00 77353531 32759a9f [INFO Client 9520] [SHADER] Delay: OFF
+2023/04/11 00:52:00 77353531 ca3a6a71 [INFO Client 9520] Connecting to instance server at 159.122.142.233:6112
+2023/04/11 00:52:00 77353687 ca3a4dbb [DEBUG Client 9520] Connect time to instance server was 140ms
+2023/04/11 00:52:00 77354250 1186a0e5 [DEBUG Client 9520] Generating level 69 area "2_10_town" with seed 1
+2023/04/11 00:52:00 77354281 f22b6987 [INFO Client 9520] Tile hash: 3862614232
+2023/04/11 00:52:00 77354281 f22b6986 [INFO Client 9520] Doodad hash: 2693664852
+2023/04/11 00:52:02 77356265 11870f49 [DEBUG Client 9520] Joined guild named Голосовой чат discord.com/invite/nXFKHzJ with 193 members 
+2023/04/11 00:52:03 77356875 cffb071e [INFO Client 9520] &: ОБЪЯВЛЕНИЕ ГИЛЬДИИ: В гостяк у CARDIFF 
+2023/04/11 00:52:03 77357109 cffb071e [INFO Client 9520] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Доки Ориата.
+2023/04/11 00:52:04 77357937 32759a9f [INFO Client 9520] [SHADER] Delay: ON
+2023/04/11 00:52:09 77363390 cffb071e [INFO Client 9520] #NyanBeta: 1хаос
+2023/04/11 00:52:15 77368515 cffb071e [INFO Client 9520] : Сделка отклонена.
+2023/04/11 00:52:23 77377234 cffb071e [INFO Client 9520] #KqAkeno: разве не 2в?
+2023/04/11 00:52:29 77382984 cffb071e [INFO Client 9520] #Pravoe_iichko: если кому интересно, то в моём случае множитель лучше на 40 урона
+2023/04/11 00:52:36 77390203 cffb071e [INFO Client 9520] #NyanBeta: показывает 1
+2023/04/11 00:52:45 77399125 cffb071e [INFO Client 9520] #PonafiMc: я нечайно возле контрольной точке ызвал огненых чертей не могу их одолеть,поможет ктО?
+2023/04/11 00:52:59 77412687 cffb071e [INFO Client 9520] #Себастиарро: значит множитель идёт не в сумму с увеличением
+2023/04/11 00:53:22 77435890 cffb071e [INFO Client 9520] #<<†>> BriganzeCrucible: ебать гений бизнеса себе атлас закрывает еще и бабосы имеет
+2023/04/11 00:53:40 77454296 cffb071e [INFO Client 9520] #Себастиарро: если не поможет - ктрл+клик при входе в локацию позволяет открыть её заново
+2023/04/11 00:54:01 77474953 cffb071e [INFO Client 9520] #ТвояРадость: пинг не улетай
+2023/04/11 00:54:11 77484765 88a904cb [DEBUG Client 9520] Got Instance Details from login server
+2023/04/11 00:54:11 77484781 32759a9f [INFO Client 9520] [SHADER] Delay: OFF
+2023/04/11 00:54:11 77484781 ca3a6a71 [INFO Client 9520] Connecting to instance server at 169.51.201.178:6112
+2023/04/11 00:54:11 77484843 ca3a4dbb [DEBUG Client 9520] Connect time to instance server was 31ms
+2023/04/11 00:54:11 77484890 1186a0e5 [DEBUG Client 9520] Generating level 33 area "Labyrinth_Airlock" with seed 4113443891
+2023/04/11 00:54:11 77485109 f22b6987 [INFO Client 9520] Tile hash: 1032763020
+2023/04/11 00:54:11 77485109 f22b6986 [INFO Client 9520] Doodad hash: 2223508528
+2023/04/11 00:54:12 77485781 11870f49 [DEBUG Client 9520] Joined guild named Голосовой чат discord.com/invite/nXFKHzJ with 193 members 
+2023/04/11 00:54:13 77486421 cffb071e [INFO Client 9520] : <<set:FS>><<set:F>><<set:S>>Вы вошли в область Площадь претендентов.
+2023/04/11 00:54:13 77487093 32759a9f [INFO Client 9520] [SHADER] Delay: ON
+2023/04/11 00:54:22 77495562 cffb071e [INFO Client 9520] Изаро: Справедливость восторжествует.
+2023/04/11 00:54:24 77498093 88a904cb [DEBUG Client 9520] Got Instance Details from login server
+2023/04/11 00:54:24 77498093 32759a9f [INFO Client 9520] [SHADER] Delay: OFF
+2023/04/11 00:54:24 77498093 ca3a6a71 [INFO Client 9520] Connecting to instance server at 34.65.217.231:6112
+2023/04/11 00:54:24 77498140 ca3a4dbb [DEBUG Client 9520] Connect time to instance server was 32ms
+2023/04/11 00:54:24 77498187 1186a0e5 [DEBUG Client 9520] Generating level 68 area "3_Labyrinth_OH_branch_door" with seed 2111910331
+2023/04/11 00:54:25 77498937 f22b6987 [INFO Client 9520] Tile hash: 150989748
+2023/04/11 00:54:25 77498937 f22b6986 [INFO Client 9520] Doodad hash: 1682732897
+2023/04/11 00:54:25 77499281 11870f49 [DEBUG Client 9520] Joined guild named Голосовой чат discord.com/invite/nXFKHzJ with 193 members 
+2023/04/11 00:54:26 77499890 cffb071e [INFO Client 9520] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Аллеи усадьбы.
+2023/04/11 00:54:27 77500515 32759a9f [INFO Client 9520] [SHADER] Delay: ON
+2023/04/11 00:55:00 77534281 cffb071e [INFO Client 9520] &<RiPE> БархаТнЫе_Тяги_Кринжы: рай т10
+2023/04/11 00:55:06 77540062 cffb071e [INFO Client 9520] &<RiPE> БархаТнЫе_Тяги_Кринжы: 1 место
+2023/04/11 00:55:12 77545437 374e128b [INFO Client 9520] [Item Filter] Downloading online list
+2023/04/11 00:55:12 77546125 374e12ec [INFO Client 9520] [Item Filter] Online list returned status: 200
+2023/04/11 00:55:12 77546125 374e12e6 [DEBUG Client 9520] [Item Filter] Online list request resolved to: 209.197.3.101
+2023/04/11 00:55:12 77546125 374df908 [INFO Client 9520] [Item Filter] List contained online filter 7Mr0AZHP with hash: 55b166a332ae6c51a1c0cef67a526c5a (local hash is: 0708546e06682bd51df5b0e702f33aed)
+2023/04/11 00:55:12 77546125 374df908 [INFO Client 9520] [Item Filter] List contained online filter Mpeqaot0 with hash: ac1481f27a298c3915966abc7f29151e (local hash is: ac1481f27a298c3915966abc7f29151e)
+2023/04/11 00:55:12 77546125 374df908 [INFO Client 9520] [Item Filter] List contained online filter G4AtJ5 with hash: e91933d704188fa8ee0f43d69df9a2aa (local hash is: f0db4894045a1a226b9a5ab288efcbe8)
+2023/04/11 00:55:12 77546125 374df908 [INFO Client 9520] [Item Filter] List contained online filter GmjoTD with hash: fe019cf01e4f7b9f9d095e001f38d74c (local hash is: fe019cf01e4f7b9f9d095e001f38d74c)
+2023/04/11 00:55:12 77546125 374df908 [INFO Client 9520] [Item Filter] List contained online filter 5XMehq with hash: de0eca9e3422bc0cfbc8148f25164bdb (local hash is: de0eca9e3422bc0cfbc8148f25164bdb)
+2023/04/11 00:55:12 77546125 374df908 [INFO Client 9520] [Item Filter] List contained online filter GmXoTD with hash: 9cefb88f0db0fc810e47e6bc073a405d (local hash is: 9cefb88f0db0fc810e47e6bc073a405d)
+2023/04/11 00:55:12 77546125 374df908 [INFO Client 9520] [Item Filter] List contained online filter wvPeTJ with hash: fa3d3b63ce1b638a5034e513769d3e0e (local hash is: fa3d3b63ce1b638a5034e513769d3e0e)
+2023/04/11 00:55:15 77549187 374e0d22 [INFO Client 9520] [Item Filter] Preparing to download online filter 7Mr0AZHP
+2023/04/11 00:55:15 77549187 374e0cc3 [INFO Client 9520] [Item Filter] Hash for online filter 7Mr0AZHP is: 0708546e06682bd51df5b0e702f33aed
+2023/04/11 00:55:16 77550218 374e0cc9 [INFO Client 9520] [Item Filter] Online item filter 7Mr0AZHP returned status: 200
+2023/04/11 00:55:16 77550218 374e0ce3 [DEBUG Client 9520] [Item Filter] Online item filter request resolved to: 209.197.3.101
+2023/04/11 00:55:16 77550218 374e0e8e [DEBUG Client 9520] [Item Filter] X-HW: 1681163711.dop222.ve1.t,1681163711.cds236.ve1.shn,1681163711.dop222.ve1.t,1681163711.cds241.ve1.s,1681163711.dop102.da2.r,1681163712.cds246.da2.p,1681163712.cds241.ve1.p
+2023/04/11 00:55:16 77550234 374df808 [INFO Client 9520] [Item Filter] Successfully saved online filter 7Mr0AZHP. Hash is now: 55b166a332ae6c51a1c0cef67a526c5a
+2023/04/11 00:55:16 77550234 7884752a [INFO Client 9520] [Item Filter] Finished reloading online filter 7Mr0AZHP. Result: true. Hash: 55b166a332ae6c51a1c0cef67a526c5a. Type: Normal. Message: 
+2023/04/11 00:55:41 77574906 118717eb [DEBUG Client 9520] Resyncing 719
+2023/04/11 00:56:49 77642656 cffb071e [INFO Client 9520] #PonafiMc: помгите кто то убить огненых
+2023/04/11 00:57:16 77669484 cffb071e [INFO Client 9520] #<>Ä®tâ>> unluckysuka: пособраней
+2023/04/11 00:57:17 77670828 cffb071e [INFO Client 9520] #<>Ä®tâ>> unluckysuka: чуть
+2023/04/11 00:58:09 77723296 cffb071e [INFO Client 9520] Изаро: Где есть золотой ключ, должна быть и золотая дверь.
+2023/04/11 00:58:13 77726687 cffb071e [INFO Client 9520] #Cynllwynion: подскажите какие камни в начале брать?
+2023/04/11 00:58:21 77735218 cffb071e [INFO Client 9520] #OreoCrucible: на кольцах есть свойство на броню?
+2023/04/11 00:58:22 77736375 cffb071e [INFO Client 9520] #СамыйСолидныйИгрок: какие хочешь
+2023/04/11 00:58:29 77743375 cffb071e [INFO Client 9520] #OreoCrucible: вообще такие существуют?
+2023/04/11 00:58:41 77755296 cffb071e [INFO Client 9520] #ТвояРадость: да есть
+2023/04/11 00:58:51 77765265 cffb071e [INFO Client 9520] #LKoTYNA: когда ливаешь с текущей локи предметы на земле остаются?
+2023/04/11 00:58:55 77769171 cffb071e [INFO Client 9520] #yyosiess: аахахах, на мейвухе отключается сервер
+2023/04/11 00:58:58 77771453 cffb071e [INFO Client 9520] #yyosiess: ахуенно
+2023/04/11 00:58:59 77773109 cffb071e [INFO Client 9520] #СамыйСолидныйИгрок: да пока она не обновится
+2023/04/11 00:58:59 77773187 cffb071e [INFO Client 9520] Изаро: Пусть день начнётся с золотого сияния возможности.
+2023/04/11 00:59:03 77776843 cffb071e [INFO Client 9520] #MommyOfSkeletons: можно ли как то сохранить спектров если достать камень из слота?
+2023/04/11 00:59:13 77786968 88a904cb [DEBUG Client 9520] Got Instance Details from login server
+2023/04/11 00:59:13 77786968 32759a9f [INFO Client 9520] [SHADER] Delay: OFF
+2023/04/11 00:59:13 77786968 ca3a6a71 [INFO Client 9520] Connecting to instance server at 159.122.142.250:6112
+2023/04/11 00:59:13 77787015 ca3a4dbb [DEBUG Client 9520] Connect time to instance server was 32ms
+2023/04/11 00:59:13 77787062 1186a0e5 [DEBUG Client 9520] Generating level 68 area "3_Labyrinth_RT_straight_bottleneck" with seed 3006287893
+2023/04/11 00:59:14 77787500 f22b6987 [INFO Client 9520] Tile hash: 675719368
+2023/04/11 00:59:14 77787500 f22b6986 [INFO Client 9520] Doodad hash: 554515545
+2023/04/11 00:59:14 77787906 11870f49 [DEBUG Client 9520] Joined guild named Голосовой чат discord.com/invite/nXFKHzJ with 193 members 
+2023/04/11 00:59:15 77788500 cffb071e [INFO Client 9520] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Коридоры храма.
+2023/04/11 00:59:15 77789046 32759a9f [INFO Client 9520] [SHADER] Delay: ON
+2023/04/11 00:59:17 77790796 cffb071e [INFO Client 9520] #СамыйСолидныйИгрок: можно
+2023/04/11 00:59:25 77798984 cffb071e [INFO Client 9520] #LordVelzivool: по поводу камней, если ты совсем новичок загугли сайт lootkeeper, выбери там билд и читай в прокачке персонажа, там все подробно тебе распишут
+2023/04/11 01:00:12 77845531 cffb071e [INFO Client 9520] #WALEDOLKA: pasives
+2023/04/11 01:00:15 77849203 cffb071e [INFO Client 9520] #<*HERO*> WhiteKing_: Могу с кем то картой т11 поменяться?
+2023/04/11 01:00:18 77851906 cffb071e [INFO Client 9520] #<*HERO*> WhiteKing_: пожалуйста
+2023/04/11 01:00:23 77856500 cffb071e [INFO Client 9520] #<*HERO*> WhiteKing_: Карта недр
+2023/04/11 01:00:52 77886281 88a904cb [DEBUG Client 9520] Got Instance Details from login server
+2023/04/11 01:00:52 77886296 32759a9f [INFO Client 9520] [SHADER] Delay: OFF
+2023/04/11 01:00:52 77886296 ca3a6a71 [INFO Client 9520] Connecting to instance server at 159.122.142.234:6112
+2023/04/11 01:00:52 77886343 ca3a4dbb [DEBUG Client 9520] Connect time to instance server was 32ms
+2023/04/11 01:00:52 77886390 1186a0e5 [DEBUG Client 9520] Generating level 68 area "3_Labyrinth_boss_2" with seed 1723432497
+2023/04/11 01:00:53 77886593 f22b6987 [INFO Client 9520] Tile hash: 1197929223
+2023/04/11 01:00:53 77886593 f22b6986 [INFO Client 9520] Doodad hash: 3706955394
+2023/04/11 01:00:53 77887203 11870f49 [DEBUG Client 9520] Joined guild named Голосовой чат discord.com/invite/nXFKHzJ with 193 members 
+2023/04/11 01:00:54 77887781 cffb071e [INFO Client 9520] : <<set:NS>><<set:N>><<set:S>>Вы вошли в область Испытание претендента.
+2023/04/11 01:00:54 77888265 32759a9f [INFO Client 9520] [SHADER] Delay: ON
+2023/04/11 01:00:55 77889171 cffb071e [INFO Client 9520] Изаро: Усталый путник приближается к концу пути.
+2023/04/11 01:00:58 77891640 cffb071e [INFO Client 9520] #<*HERO*> WhiteKing_: да любую 11
+2023/04/11 01:01:30 77924015 cffb071e [INFO Client 9520] Изаро: Оскверняя образы, ты оскверняешь и самого императора.
+2023/04/11 01:01:37 77931109 cffb071e [INFO Client 9520] #relax_ubic: Какой скил на под криты хороший
+2023/04/11 01:01:45 77938937 cffb071e [INFO Client 9520] #Воин_книфе: я сучковатый
+2023/04/11 01:01:55 77948875 cffb071e [INFO Client 9520] #relax_ubic: у кинжалов
+2023/04/11 01:02:03 77956734 cffb071e [INFO Client 9520] Изаро: Откуда у тебя берутся силы?
+2023/04/11 01:02:07 77961093 cffb071e [INFO Client 9520] Изаро: Не император ты, если никто не склонился пред тобой.
+2023/04/11 01:02:12 77966125 88a904cb [DEBUG Client 9520] Got Instance Details from login server
+2023/04/11 01:02:12 77966140 32759a9f [INFO Client 9520] [SHADER] Delay: OFF
+2023/04/11 01:02:12 77966140 ca3a6a71 [INFO Client 9520] Connecting to instance server at 169.51.201.136:6112
+2023/04/11 01:02:12 77966187 ca3a4dbb [DEBUG Client 9520] Connect time to instance server was 31ms
+2023/04/11 01:02:12 77966234 1186a0e5 [DEBUG Client 9520] Generating level 68 area "3_Labyrinth_RT_straight_bottleneck" with seed 3801096421
+2023/04/11 01:02:12 77966375 f22b6987 [INFO Client 9520] Tile hash: 686230807
+2023/04/11 01:02:12 77966375 f22b6986 [INFO Client 9520] Doodad hash: 3085668849
+2023/04/11 01:02:13 77967265 11870f49 [DEBUG Client 9520] Joined guild named Голосовой чат discord.com/invite/nXFKHzJ with 193 members 
+2023/04/11 01:02:14 77967828 cffb071e [INFO Client 9520] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Коридоры храма.
+2023/04/11 01:02:14 77968328 32759a9f [INFO Client 9520] [SHADER] Delay: ON
+2023/04/11 01:02:50 78003718 cffb071e [INFO Client 9520] #Cynllwynion: почему-то игра фризится
+2023/04/11 01:03:00 78014140 cffb071e [INFO Client 9520] #BanditDayn: Сколько от заданий пасивок? 24?
+2023/04/11 01:03:03 78017046 cffb071e [INFO Client 9520] #Cynllwynion: не успел за город выйти как все встало и убили
+2023/04/11 01:03:04 78017609 cffb071e [INFO Client 9520] #Pravoe_iichko: калькулятор не тянет
+2023/04/11 01:03:24 78037437 88a904cb [DEBUG Client 9520] Got Instance Details from login server
+2023/04/11 01:03:24 78037437 32759a9f [INFO Client 9520] [SHADER] Delay: OFF
+2023/04/11 01:03:24 78037437 ca3a6a71 [INFO Client 9520] Connecting to instance server at 159.122.142.247:6112
+2023/04/11 01:03:24 78037484 ca3a4dbb [DEBUG Client 9520] Connect time to instance server was 47ms
+2023/04/11 01:03:24 78037546 1186a0e5 [DEBUG Client 9520] Generating level 68 area "3_Labyrinth_C_branch_bottleneck_2" with seed 2920609378
+2023/04/11 01:03:24 78037984 f22b6987 [INFO Client 9520] Tile hash: 2709962447
+2023/04/11 01:03:24 78037984 f22b6986 [INFO Client 9520] Doodad hash: 1079338582
+2023/04/11 01:03:25 78038468 11870f49 [DEBUG Client 9520] Joined guild named Голосовой чат discord.com/invite/nXFKHzJ with 193 members 
+2023/04/11 01:03:25 78039046 cffb071e [INFO Client 9520] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Залы усыпальницы.
+2023/04/11 01:03:26 78039562 32759a9f [INFO Client 9520] [SHADER] Delay: ON
+2023/04/11 01:04:39 78113296 88a904cb [DEBUG Client 9520] Got Instance Details from login server
+2023/04/11 01:04:39 78113296 32759a9f [INFO Client 9520] [SHADER] Delay: OFF
+2023/04/11 01:04:39 78113296 ca3a6a71 [INFO Client 9520] Connecting to instance server at 159.122.142.244:6112
+2023/04/11 01:04:39 78113343 ca3a4dbb [DEBUG Client 9520] Connect time to instance server was 32ms
+2023/04/11 01:04:39 78113390 1186a0e5 [DEBUG Client 9520] Generating level 68 area "3_Labyrinth_boss_2" with seed 302346765
+2023/04/11 01:04:40 78113640 f22b6987 [INFO Client 9520] Tile hash: 145578200
+2023/04/11 01:04:40 78113640 f22b6986 [INFO Client 9520] Doodad hash: 241816519
+2023/04/11 01:04:40 78114156 11870f49 [DEBUG Client 9520] Joined guild named Голосовой чат discord.com/invite/nXFKHzJ with 193 members 
+2023/04/11 01:04:41 78114703 cffb071e [INFO Client 9520] : <<set:NS>><<set:N>><<set:S>>Вы вошли в область Испытание претендента.
+2023/04/11 01:04:41 78115156 32759a9f [INFO Client 9520] [SHADER] Delay: ON
+2023/04/11 01:04:43 78116859 cffb071e [INFO Client 9520] Изаро: Когда приходит время битвы, правитель бьёт без колебаний. Предаваться сомнениям значит дёргать смерть за усы.
+2023/04/11 01:04:45 78118671 cffb071e [INFO Client 9520] #Cynllwynion: ну да комп не новый, но покруче игрушки тянул норм
+2023/04/11 01:04:57 78130937 cffb071e [INFO Client 9520] Изаро: Император хорош настолько, насколько хороши его слуги.
+2023/04/11 01:05:04 78137859 cffb071e [INFO Client 9520] #<gßU))> KPota: Кто может купить камешик Storm Rain
+2023/04/11 01:05:12 78145531 cffb071e [INFO Client 9520] : DeeToxilistaIIIXXI был повержен.
+2023/04/11 01:05:13 78146546 cffb071e [INFO Client 9520] Изаро: Правосудие подано.
+2023/04/11 01:05:14 78147734 88a904cb [DEBUG Client 9520] Got Instance Details from login server
+2023/04/11 01:05:14 78147734 32759a9f [INFO Client 9520] [SHADER] Delay: OFF
+2023/04/11 01:05:14 78147734 ca3a6a71 [INFO Client 9520] Connecting to instance server at 169.51.201.145:6112
+2023/04/11 01:05:14 78147781 ca3a4dbb [DEBUG Client 9520] Connect time to instance server was 47ms
+2023/04/11 01:05:14 78147843 1186a0e5 [DEBUG Client 9520] Generating level 69 area "2_10_town" with seed 1
+2023/04/11 01:05:15 78148765 f22b6987 [INFO Client 9520] Tile hash: 3862614232
+2023/04/11 01:05:15 78148765 f22b6986 [INFO Client 9520] Doodad hash: 2693664852
+2023/04/11 01:05:15 78149000 11870f49 [DEBUG Client 9520] Joined guild named Голосовой чат discord.com/invite/nXFKHzJ with 193 members 
+2023/04/11 01:05:16 78149828 cffb071e [INFO Client 9520] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Доки Ориата.
+2023/04/11 01:05:17 78150656 32759a9f [INFO Client 9520] [SHADER] Delay: ON
+2023/04/11 01:05:33 78166609 88a904cb [DEBUG Client 9520] Got Instance Details from login server
+2023/04/11 01:05:33 78166609 32759a9f [INFO Client 9520] [SHADER] Delay: OFF
+2023/04/11 01:05:33 78166609 ca3a6a71 [INFO Client 9520] Connecting to instance server at 169.51.201.158:6112
+2023/04/11 01:05:33 78166671 ca3a4dbb [DEBUG Client 9520] Connect time to instance server was 31ms
+2023/04/11 01:05:33 78166718 1186a0e5 [DEBUG Client 9520] Generating level 33 area "Labyrinth_Airlock" with seed 3498548013
+2023/04/11 01:05:33 78166875 f22b6987 [INFO Client 9520] Tile hash: 657135233
+2023/04/11 01:05:33 78166875 f22b6986 [INFO Client 9520] Doodad hash: 2223508528
+2023/04/11 01:05:34 78167687 11870f49 [DEBUG Client 9520] Joined guild named Голосовой чат discord.com/invite/nXFKHzJ with 193 members 
+2023/04/11 01:05:34 78168265 cffb071e [INFO Client 9520] : <<set:FS>><<set:F>><<set:S>>Вы вошли в область Площадь претендентов.
+2023/04/11 01:05:35 78168843 32759a9f [INFO Client 9520] [SHADER] Delay: ON
+2023/04/11 01:05:40 78173890 cffb071e [INFO Client 9520] #MavenWillDie: он про сервер, а не твой комп
+2023/04/11 01:05:49 78182859 cffb071e [INFO Client 9520] Изаро: Поднимись из праха.
+2023/04/11 01:05:53 78186515 88a904cb [DEBUG Client 9520] Got Instance Details from login server
+2023/04/11 01:05:53 78186531 32759a9f [INFO Client 9520] [SHADER] Delay: OFF
+2023/04/11 01:05:53 78186531 ca3a6a71 [INFO Client 9520] Connecting to instance server at 159.122.142.239:6112
+2023/04/11 01:05:53 78186578 ca3a4dbb [DEBUG Client 9520] Connect time to instance server was 31ms
+2023/04/11 01:05:53 78186640 1186a0e5 [DEBUG Client 9520] Generating level 68 area "3_Labyrinth_OH_branch_door" with seed 2856458257
+2023/04/11 01:05:53 78187218 f22b6987 [INFO Client 9520] Tile hash: 1665392970
+2023/04/11 01:05:53 78187218 f22b6986 [INFO Client 9520] Doodad hash: 4060633628
+2023/04/11 01:05:54 78187562 11870f49 [DEBUG Client 9520] Joined guild named Голосовой чат discord.com/invite/nXFKHzJ with 193 members 
+2023/04/11 01:05:54 78188171 cffb071e [INFO Client 9520] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Аллеи усадьбы.
+2023/04/11 01:05:55 78188671 32759a9f [INFO Client 9520] [SHADER] Delay: ON
+2023/04/11 01:06:01 78195218 cffb071e [INFO Client 9520] #MavenWillDie: ну или сбрось настройки чутка, тут бывает такое месиво творится, то что даже топовые компы не вывозят
+2023/04/11 01:06:18 78211515 cffb071e [INFO Client 9520] #GHANGHSTER: Продайте мап 14-16 штук несколько
+2023/04/11 01:06:36 78230328 cffb071e [INFO Client 9520] #<O-M-G> mamba_stiik: соединялки продаст кто?
+2023/04/11 01:08:04 78318171 cffb071e [INFO Client 9520] #HartsyzAxe: Клык Аракаали, Кинжал изверга
+2023/04/11 01:08:09 78322656 cffb071e [INFO Client 9520] @Кому Tasta_SRS: Hi, I would like to buy your Corpse Eye Amethyst Ring listed for 6 chaos in Crucible (stash tab "~b/o 6 chaos"; position: left 15, top 11)
+2023/04/11 01:08:19 78333390 88a904cb [DEBUG Client 9520] Got Instance Details from login server
+2023/04/11 01:08:19 78333406 32759a9f [INFO Client 9520] [SHADER] Delay: OFF
+2023/04/11 01:08:19 78333406 ca3a6a71 [INFO Client 9520] Connecting to instance server at 169.51.201.173:6112
+2023/04/11 01:08:20 78333468 ca3a4dbb [DEBUG Client 9520] Connect time to instance server was 31ms
+2023/04/11 01:08:20 78333531 1186a0e5 [DEBUG Client 9520] Generating level 33 area "1_3_town" with seed 1
+2023/04/11 01:08:21 78334531 f22b6987 [INFO Client 9520] Tile hash: 1258686204
+2023/04/11 01:08:21 78334531 f22b6986 [INFO Client 9520] Doodad hash: 2013313320
+2023/04/11 01:08:21 78334921 11870f49 [DEBUG Client 9520] Joined guild named Голосовой чат discord.com/invite/nXFKHzJ with 193 members 
+2023/04/11 01:08:22 78335562 cffb071e [INFO Client 9520] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Лагерь Сарна.
+2023/04/11 01:08:22 78336125 32759a9f [INFO Client 9520] [SHADER] Delay: ON
+2023/04/11 01:08:26 78339546 88a904cb [DEBUG Client 9520] Got Instance Details from login server
+2023/04/11 01:08:26 78339578 32759a9f [INFO Client 9520] [SHADER] Delay: OFF
+2023/04/11 01:08:26 78339578 ca3a6a71 [INFO Client 9520] Connecting to instance server at 159.122.142.232:6112
+2023/04/11 01:08:26 78339609 ca3a4dbb [DEBUG Client 9520] Connect time to instance server was 31ms
+2023/04/11 01:08:26 78339671 1186a0e5 [DEBUG Client 9520] Generating level 20 area "HideoutCoral" with seed 1
+2023/04/11 01:08:26 78339953 f22b6987 [INFO Client 9520] Tile hash: 805187908
+2023/04/11 01:08:26 78339953 f22b6986 [INFO Client 9520] Doodad hash: 0
+2023/04/11 01:08:27 78340531 11870f49 [DEBUG Client 9520] Joined guild named Голосовой чат discord.com/invite/nXFKHzJ with 193 members 
+2023/04/11 01:08:27 78341343 cffb071e [INFO Client 9520] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Коралловое убежище.
+2023/04/11 01:08:28 78342031 32759a9f [INFO Client 9520] [SHADER] Delay: ON
+2023/04/11 01:08:39 78352500 88a904cb [DEBUG Client 9520] Got Instance Details from login server
+2023/04/11 01:08:39 78352500 32759a9f [INFO Client 9520] [SHADER] Delay: OFF
+2023/04/11 01:08:39 78352500 ca3a6a71 [INFO Client 9520] Connecting to instance server at 149.81.222.159:6112
+2023/04/11 01:08:39 78352546 ca3a4dbb [DEBUG Client 9520] Connect time to instance server was 31ms
+2023/04/11 01:08:39 78352578 1186a0e5 [DEBUG Client 9520] Generating level 60 area "HideoutMine" with seed 1
+2023/04/11 01:08:39 78352718 f22b6987 [INFO Client 9520] Tile hash: 954848677
+2023/04/11 01:08:39 78352718 f22b6986 [INFO Client 9520] Doodad hash: 0
+2023/04/11 01:08:39 78353187 11870f49 [DEBUG Client 9520] Joined guild named Голосовой чат discord.com/invite/nXFKHzJ with 193 members 
+2023/04/11 01:08:40 78354218 cffb071e [INFO Client 9520] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Убежище в шахте.
+2023/04/11 01:08:42 78355703 32759a9f [INFO Client 9520] [SHADER] Delay: ON
+2023/04/11 01:08:43 78356609 cffb071e [INFO Client 9520] #Stalva: три дропа подряд шикарно
+2023/04/11 01:08:46 78359765 cffb071e [INFO Client 9520] #ArtRain: че кидает из игры?
+2023/04/11 01:08:47 78360453 cffb071e [INFO Client 9520] #<ZJÜ4es> Jopa_v_ponose: парни нужна помощь, кто может помочь слинковать 5 связей а то я ебалай неемного
+2023/04/11 01:08:48 78361828 cffb071e [INFO Client 9520] #RantaSkER: говнило
+2023/04/11 01:08:51 78364953 cffb071e [INFO Client 9520] #Vedmaakk: СУККААА
+2023/04/11 01:08:53 78366531 cffb071e [INFO Client 9520] : Сделка совершена.
+2023/04/11 01:08:54 78367453 cffb071e [INFO Client 9520] #Залупинскаяя: -красная мапа заебись
+2023/04/11 01:08:54 78367718 cffb071e [INFO Client 9520] #Жорж_Хорко: свинство
+2023/04/11 01:08:54 78368125 cffb071e [INFO Client 9520] @Кому Tasta_SRS: Thank you Tasta_SRS! Have a nice day and good luck!
+2023/04/11 01:08:56 78369500 88a904cb [DEBUG Client 9520] Got Instance Details from login server
+2023/04/11 01:08:56 78369500 32759a9f [INFO Client 9520] [SHADER] Delay: OFF
+2023/04/11 01:08:56 78369500 ca3a6a71 [INFO Client 9520] Connecting to instance server at 159.122.142.232:6112
+2023/04/11 01:08:56 78369531 cffb071e [INFO Client 9520] #DestrezaRage: о чем ты, у меня 20 минут в игру запустить не мого
+2023/04/11 01:08:56 78369546 ca3a4dbb [DEBUG Client 9520] Connect time to instance server was 46ms
+2023/04/11 01:08:56 78369593 1186a0e5 [DEBUG Client 9520] Generating level 20 area "HideoutCoral" with seed 1
+2023/04/11 01:08:56 78369625 f22b6987 [INFO Client 9520] Tile hash: 805187908
+2023/04/11 01:08:56 78369625 f22b6986 [INFO Client 9520] Doodad hash: 0
+2023/04/11 01:08:56 78369843 cffb071e [INFO Client 9520] #no_data_available: еще и назад пускать не хотело
+2023/04/11 01:08:56 78370250 11870f49 [DEBUG Client 9520] Joined guild named Голосовой чат discord.com/invite/nXFKHzJ with 193 members 
+2023/04/11 01:08:57 78370843 cffb071e [INFO Client 9520] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Коралловое убежище.
+2023/04/11 01:08:58 78371437 32759a9f [INFO Client 9520] [SHADER] Delay: ON
+2023/04/11 01:08:58 78371625 cffb071e [INFO Client 9520] #Vedmaakk: я на кроже все проебал
+2023/04/11 01:09:04 78378109 cffb071e [INFO Client 9520] #Bylisis: сервер поменяйте
+2023/04/11 01:09:06 78379953 cffb071e [INFO Client 9520] #aqufhaufh: сломанная игра
+2023/04/11 01:09:09 78383156 cffb071e [INFO Client 9520] #Hex_Mine_:  Где мои порталы лысый
+2023/04/11 01:09:10 78383921 cffb071e [INFO Client 9520] #Vedmaakk: уроды
+2023/04/11 01:09:13 78386656 cffb071e [INFO Client 9520] #LiteWhxre: ладно я спать
+2023/04/11 01:09:14 78387468 cffb071e [INFO Client 9520] #<BurbOn> Джимми_Нейтрон: бля я атлас проходил выпали шмотки думал потом заберу
+2023/04/11 01:09:16 78390156 cffb071e [INFO Client 9520] #Hex_Mine_: БУНТ
+2023/04/11 01:09:17 78390843 cffb071e [INFO Client 9520] #<iddQd> Ggwppppp: =D
+2023/04/11 01:09:19 78393187 cffb071e [INFO Client 9520] #SorosE: тож кикнуло
+2023/04/11 01:09:19 78393359 cffb071e [INFO Client 9520] #FoliantGor: Всех ебануло я так понимаю
+2023/04/11 01:09:20 78393703 cffb071e [INFO Client 9520] #<iddQd> Ggwppppp: ЖЕСТЬ
+2023/04/11 01:09:20 78394281 cffb071e [INFO Client 9520] #ГовнарьБоб: положите подорожник на сервер
+2023/04/11 01:09:21 78395031 cffb071e [INFO Client 9520] #akumake: блять
+2023/04/11 01:09:22 78395937 cffb071e [INFO Client 9520] #Vedmaakk: где кража моя
+2023/04/11 01:09:23 78397015 cffb071e [INFO Client 9520] #VenomeGure: блэд....лпять лабу бежать я сегодня пройду лабу 2?..
+2023/04/11 01:09:24 78397640 cffb071e [INFO Client 9520] #LiteWhxre: какой кайф вообще атлас пробежал
+2023/04/11 01:09:24 78397937 cffb071e [INFO Client 9520] #Enrisefelon: просто тупо неиграбельно
+2023/04/11 01:09:26 78400093 cffb071e [INFO Client 9520] #Obanakh: в лабе само то.....
+2023/04/11 01:09:30 78403984 cffb071e [INFO Client 9520] #<iddQd> Ggwppppp: ЛОЛ
+2023/04/11 01:09:31 78404968 cffb071e [INFO Client 9520] #HeadEyes_: Нефентус сервер положил
+2023/04/11 01:09:31 78405375 cffb071e [INFO Client 9520] #<§©°©°§> ГанькаКрукибле: АУТЫЫЫ
+2023/04/11 01:09:35 78408937 cffb071e [INFO Client 9520] #Enrisefelon: лабу пройти просто НЕВОЗМОЖНО
+2023/04/11 01:09:36 78409468 cffb071e [INFO Client 9520] #Gornilo_Charm: А мне магаз за санкции заблочили мммм)
+2023/04/11 01:09:39 78412578 cffb071e [INFO Client 9520] #akumake: я подобрал диайн его нету
+2023/04/11 01:09:40 78413953 cffb071e [INFO Client 9520] #<§©°©°§> ГанькаКрукибле: КАК ЖЕ ГОРИТ
+2023/04/11 01:09:40 78414375 cffb071e [INFO Client 9520] #no_data_available: гг вп
+2023/04/11 01:09:43 78416859 cffb071e [INFO Client 9520] #akumake: на мапе нету
+2023/04/11 01:09:43 78417218 cffb071e [INFO Client 9520] #ICE_IV: почему вам не нравится?
+2023/04/11 01:09:46 78419750 cffb071e [INFO Client 9520] #akumake: проебали
+2023/04/11 01:09:48 78421609 cffb071e [INFO Client 9520] #ГовнарьБоб: опять нефентус провода погрыз
+2023/04/11 01:09:50 78424171 cffb071e [INFO Client 9520] #Воин_книфе: Я СУЧКОВАТЫЙ
+2023/04/11 01:09:51 78425375 cffb071e [INFO Client 9520] #Пивдотий: хкэнжоеры, чо с ебалом
+2023/04/11 01:09:57 78431046 cffb071e [INFO Client 9520] #JesusGayLords: нихуя не делал во время кика, каеф
+2023/04/11 01:10:00 78433953 cffb071e [INFO Client 9520] #Trapminerist: пизда скверна обмазаная пошла нахуй
+2023/04/11 01:10:02 78436296 cffb071e [INFO Client 9520] #<ÙÏÏÏÏ> AltyushkaMeow: -дистант
+2023/04/11 01:10:04 78438328 cffb071e [INFO Client 9520] #VenomeGure: кто вторую лабу проведет) заипался бегать от сервера)
+2023/04/11 01:10:06 78440187 cffb071e [INFO Client 9520] #ICE_IV: а что не так то
+2023/04/11 01:10:13 78446546 cffb071e [INFO Client 9520] #Gnes: когда дошел до конца длинной локи и выкидывает
+2023/04/11 01:10:21 78454609 cffb071e [INFO Client 9520] #<iddQd> Ggwppppp: GGWP
+2023/04/11 01:10:24 78458125 cffb071e [INFO Client 9520] #Fessusvitae: жиза
+2023/04/11 01:10:36 78470375 cffb071e [INFO Client 9520] #<§©°©°§> ГанькаКрукибле: сервак отлетает чаще, чем я умираю
+2023/04/11 01:10:43 78476453 cffb071e [INFO Client 9520] #Залупинскаяя: блять плацдарм проебал
+2023/04/11 01:10:49 78483281 cffb071e [INFO Client 9520] #Rucible: а порталы-то какого все закрывает?
+2023/04/11 01:10:55 78488796 cffb071e [INFO Client 9520] #Залупинскаяя: хз
+2023/04/11 01:11:00 78493640 cffb071e [INFO Client 9520] #Red_Eyes_Crucible: чат налетайте простто секс Чудовищная корона, Осадный шлем
+2023/04/11 01:11:07 78500515 cffb071e [INFO Client 9520] #блядскийурод: а норм что у меня флакон исчез просто ?
+2023/04/11 01:11:13 78506843 cffb071e [INFO Client 9520] #<§©°©°§> ГанькаКрукибле: аахаахах
+2023/04/11 01:11:24 78517671 cffb071e [INFO Client 9520] #Пивдотий: фанфурик спиздили
+2023/04/11 01:11:31 78524593 cffb071e [INFO Client 9520] #<§©°©°§> ГанькаКрукибле: дайте компенсацию коробками
+2023/04/11 01:11:37 78531046 cffb071e [INFO Client 9520] #блядскийурод:  я серьезно
+2023/04/11 01:11:45 78538703 cffb071e [INFO Client 9520] #блядскийурод: на 50 хаосов его купил , он исчез
+2023/04/11 01:11:56 78550140 cffb071e [INFO Client 9520] #<§©°©°§> ГанькаКрукибле: откат
+2023/04/11 01:12:04 78557500 cffb071e [INFO Client 9520] #Воин_книфе: рад за вас
+2023/04/11 01:12:04 78557640 cffb071e [INFO Client 9520] #блядскийурод: так денег то не вернули
+2023/04/11 01:12:06 78559578 cffb071e [INFO Client 9520] #блядскийурод: за это
+2023/04/11 01:12:07 78560531 cffb071e [INFO Client 9520] #<§©°©°§> ГанькаКрукибле: прикинь, у чела и 50с есть и флакон
+2023/04/11 01:12:12 78566062 cffb071e [INFO Client 9520] #Wishlesss: срочно починого гуся в чат
+2023/04/11 01:12:13 78566859 cffb071e [INFO Client 9520] #<!ßITÇH> Onethousandrips: https://market.yandex.ru/product--strop-tsepnoi-stropa-chetyrekhvetvevoi-4sts-pauk-4-25t-4m-ukorachivaiushchie-kriuki/1831073539?cpa=1
+2023/04/11 01:12:22 78576156 cffb071e [INFO Client 9520] #блядскийурод: а куда писать чтоб вернули флакон ?
+2023/04/11 01:12:35 78588562 cffb071e [INFO Client 9520] #<§©°©°§> ГанькаКрукибле: в подушку только поплакац
+2023/04/11 01:12:43 78596812 cffb071e [INFO Client 9520] #ArtRain: нард помогите китаву убить, изза отката не выдержут нервы 2 раз пинать ее
+2023/04/11 01:12:51 78604671 cffb071e [INFO Client 9520] #блядскийурод: изи ептать флакон нашел
+2023/04/11 01:12:56 78610218 cffb071e [INFO Client 9520] #JUDJUN: g
+2023/04/11 01:13:03 78617109 cffb071e [INFO Client 9520] #Pravoe_iichko: мегахарош
+2023/04/11 01:13:08 78621468 cffb071e [INFO Client 9520] #Pravoe_iichko: и где он был?
+2023/04/11 01:13:13 78626453 cffb071e [INFO Client 9520] #блядскийурод: в верстаке
+2023/04/11 01:13:18 78632265 cffb071e [INFO Client 9520] #Cynllwynion: да ппц фризы, пойду в нормальную лостарку поиграю, там хоть все работет =(
+2023/04/11 01:13:27 78641312 cffb071e [INFO Client 9520] #shvmilekq: лол
+2023/04/11 01:13:31 78644468 cffb071e [INFO Client 9520] #<§©°©°§> ГанькаКрукибле: сыглы, сам хочу в лостарк после пое залететь
+2023/04/11 01:13:33 78646750 cffb071e [INFO Client 9520] #Enrisefelon: але кринж, как лабу пройти, лысый хуй
+2023/04/11 01:13:36 78650312 cffb071e [INFO Client 9520] #<§©°©°§> ГанькаКрукибле: хотя все прошел сегодня
+2023/04/11 01:13:39 78653390 cffb071e [INFO Client 9520] #<§©°©°§> ГанькаКрукибле: мб твина покачаю
+2023/04/11 01:13:43 78657078 cffb071e [INFO Client 9520] #<§©°©°§> ГанькаКрукибле: за то без вылетов...
+2023/04/11 01:13:45 78658937 cffb071e [INFO Client 9520] #Дурашка_В_Горниле: а я уже оттуда
+2023/04/11 01:13:45 78659312 cffb071e [INFO Client 9520] #Pravoe_iichko: не ругайсэ, это маленькая инди студия под названием ГГГ
+2023/04/11 01:13:59 78672437 cffb071e [INFO Client 9520] #<§©°©°§> ГанькаКрукибле: обратно иди
+2023/04/11 01:14:09 78683203 cffb071e [INFO Client 9520] #Воин_книфе: я сучковатый
+2023/04/11 01:14:25 78698562 cffb071e [INFO Client 9520] #<§©°©°§> ГанькаКрукибле: ок
+2023/04/11 01:14:28 78701609 cffb071e [INFO Client 9520] #Недобил: парни
+2023/04/11 01:14:31 78704609 cffb071e [INFO Client 9520] #Недобил: а что за пантеон?
+2023/04/11 01:14:36 78710406 cffb071e [INFO Client 9520] #Недобил: я могу типо всех богов собрать?
+2023/04/11 01:14:40 78714109 cffb071e [INFO Client 9520] #Себастиарро: в 6 акте встретишь
+2023/04/11 01:14:41 78714890 cffb071e [INFO Client 9520] #Недобил: или избранных?
+2023/04/11 01:14:51 78724687 88a904cb [DEBUG Client 9520] Got Instance Details from login server
+2023/04/11 01:14:51 78724703 32759a9f [INFO Client 9520] [SHADER] Delay: OFF
+2023/04/11 01:14:51 78724703 ca3a6a71 [INFO Client 9520] Connecting to instance server at 169.51.201.132:6112
+2023/04/11 01:14:51 78724750 ca3a4dbb [DEBUG Client 9520] Connect time to instance server was 31ms
+2023/04/11 01:14:51 78724796 1186a0e5 [DEBUG Client 9520] Generating level 33 area "Labyrinth_Airlock" with seed 3876393080
+2023/04/11 01:14:51 78724937 f22b6987 [INFO Client 9520] Tile hash: 2448814177
+2023/04/11 01:14:51 78724937 f22b6986 [INFO Client 9520] Doodad hash: 2223508528
+2023/04/11 01:14:52 78725640 11870f49 [DEBUG Client 9520] Joined guild named Голосовой чат discord.com/invite/nXFKHzJ with 193 members 
+2023/04/11 01:14:52 78726234 cffb071e [INFO Client 9520] : <<set:FS>><<set:F>><<set:S>>Вы вошли в область Площадь претендентов.
+2023/04/11 01:14:53 78726781 32759a9f [INFO Client 9520] [SHADER] Delay: ON
+2023/04/11 01:14:54 78727781 cffb071e [INFO Client 9520] #Себастиарро: одновременно одного малого и одного большого
+2023/04/11 01:14:58 78732312 cffb071e [INFO Client 9520] Изаро: Справедливость восторжествует.
+2023/04/11 01:15:00 78733750 cffb071e [INFO Client 9520] #Залупинскаяя: Плацдарм, Карта Предвестника 10с
+2023/04/11 01:15:00 78734390 cffb071e [INFO Client 9520] #Недобил: а переключать могу?
+2023/04/11 01:15:01 78734859 88a904cb [DEBUG Client 9520] Got Instance Details from login server
+2023/04/11 01:15:01 78734859 32759a9f [INFO Client 9520] [SHADER] Delay: OFF
+2023/04/11 01:15:01 78734859 ca3a6a71 [INFO Client 9520] Connecting to instance server at 169.51.201.158:6112
+2023/04/11 01:15:01 78734921 ca3a4dbb [DEBUG Client 9520] Connect time to instance server was 31ms
+2023/04/11 01:15:01 78734968 1186a0e5 [DEBUG Client 9520] Generating level 68 area "3_Labyrinth_OH_branch_door" with seed 1661395164
+2023/04/11 01:15:02 78735671 f22b6987 [INFO Client 9520] Tile hash: 873317732
+2023/04/11 01:15:02 78735671 f22b6986 [INFO Client 9520] Doodad hash: 2151175608
+2023/04/11 01:15:02 78736046 11870f49 [DEBUG Client 9520] Joined guild named Голосовой чат discord.com/invite/nXFKHzJ with 193 members 
+2023/04/11 01:15:03 78736609 cffb071e [INFO Client 9520] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Аллеи усадьбы.
+2023/04/11 01:15:03 78737125 32759a9f [INFO Client 9520] [SHADER] Delay: ON
+2023/04/11 01:15:03 78737406 cffb071e [INFO Client 9520] #Воин_книфе: suslocan status
+2023/04/11 01:15:09 78742421 cffb071e [INFO Client 9520] #<§©°©°§> ГанькаКрукибле: Власть Доэдре, Бархатные перчатки тяги бархатные
+2023/04/11 01:15:23 78757046 cffb071e [INFO Client 9520] #Недобил: типо юзать другого бога
+2023/04/11 01:15:25 78758875 cffb071e [INFO Client 9520] #Недобил: или нет?
+2023/04/11 01:15:27 78760656 cffb071e [INFO Client 9520] #Себастиарро: да
+2023/04/11 01:15:29 78763109 cffb071e [INFO Client 9520] #Crystsal_ass: Укус стужи
+2023/04/11 01:15:34 78768125 cffb071e [INFO Client 9520] #Obanakh: да сука
+2023/04/11 01:15:44 78777593 cffb071e [INFO Client 9520] #Obanakh: дайте лабу пройти
+2023/04/11 01:15:53 78786875 cffb071e [INFO Client 9520] #no_data_available: шо, опять?
+2023/04/11 01:16:08 78801921 cffb071e [INFO Client 9520] #mallekulaman: париж не выкидывает
+2023/04/11 01:16:11 78804750 cffb071e [INFO Client 9520] #mallekulaman: попробуйте
+2023/04/11 01:16:12 78806109 cffb071e [INFO Client 9520] #AlfaStraik: Воинственная вера, Вневременной самоцвет на что влияет количество послушников кто знает??
+2023/04/11 01:16:20 78814250 cffb071e [INFO Client 9520] &<RiPE> ДимаКарыто: кто то уники проходит ?есть может слот
+2023/04/11 01:16:23 78816796 cffb071e [INFO Client 9520] Изаро: Где есть золотой ключ, должна быть и золотая дверь.
+2023/04/11 01:16:24 78817890 cffb071e [INFO Client 9520] &<RiPE> ДимаКарыто: чтоб закрыть тоже
+2023/04/11 01:16:28 78821484 118717eb [DEBUG Client 9520] Resyncing 808
+2023/04/11 01:16:36 78830203 cffb071e [INFO Client 9520] #Obanakh: на франфуркте всегда
+2023/04/11 01:16:39 78833000 cffb071e [INFO Client 9520] &<RiPE> ДимаКарыто: Вихрь хаоса, Карта атолламоже кому над
+2023/04/11 01:16:48 78842015 cffb071e [INFO Client 9520] &<RiPE> КотлетыВдуховке: +
+2023/04/11 01:16:52 78845812 cffb071e [INFO Client 9520] #<«xXx»> plotripper: Класс предмета: АмулетыРедкость: УникальныйNatural HierarchyRotfeather Talisman--------Требования:Уровень: 44--------Уровень предмета: 57--------Уровень талисмана: 3--------{ Собственное свойство — Урон }32(25-35)% увеличение урона (implicit)--------{ Уникальное свойство — Урон, Физический }11(10-15)% увеличение глобального физического урона{ Уникальное свойство — Урон, Хаос }33(30-35)% увеличение урона хаосом{ Уникальное свойство — Урон, Стихийный, Молния }18(15-20)% увеличение урона от молнии{ Уникаль
+2023/04/11 01:16:54 78848156 cffb071e [INFO Client 9520] &<RiPE> ДимаКарыто: закроешь?
+2023/04/11 01:16:55 78848875 cffb071e [INFO Client 9520] #DestrezaRage: F
+2023/04/11 01:16:56 78850140 cffb071e [INFO Client 9520] #ВИЧсрс: F
+2023/04/11 01:16:57 78850484 cffb071e [INFO Client 9520] #Дурашка_В_Горниле: f
+2023/04/11 01:16:57 78850484 cffb071e [INFO Client 9520] #<ÙÏÏÏÏ> AltyushkaMeow: бан
+2023/04/11 01:16:58 78852171 cffb071e [INFO Client 9520] #<«xXx»> plotripper: ля
+2023/04/11 01:16:59 78852875 cffb071e [INFO Client 9520] #Wishlesss: F
+2023/04/11 01:17:01 78854734 cffb071e [INFO Client 9520] @От кого SwiftAndSilenttStrongDu: Здравствуйте, хочу купить у вас Мучительные крылья, Лук охотника за 5 chaos в лиге Crucible (секция "1c2"; позиция: 11 столбец, 9 ряд)
+2023/04/11 01:17:05 78858453 cffb071e [INFO Client 9520] @Кому SwiftAndSilenttStrongDu: Currently in Аллеи усадьбы. Do you want to wait until finished?
+2023/04/11 01:17:16 78870234 cffb071e [INFO Client 9520] @От кого SwiftAndSilenttStrongDu: sure
+2023/04/11 01:17:17 78871390 cffb071e [INFO Client 9520] #Себастиарро: кстати, что в таких сообщениях банистого?
+2023/04/11 01:17:26 78879468 cffb071e [INFO Client 9520] Изаро: Пусть день начнётся с золотого сияния возможности.
+2023/04/11 01:17:29 78882968 cffb071e [INFO Client 9520] #LITR_PIVA: ублюдки на админах, чините сервера
+2023/04/11 01:17:31 78885406 cffb071e [INFO Client 9520] #Бамболейло: бесят прост
+2023/04/11 01:17:32 78885468 88a904cb [DEBUG Client 9520] Got Instance Details from login server
+2023/04/11 01:17:32 78885484 32759a9f [INFO Client 9520] [SHADER] Delay: OFF
+2023/04/11 01:17:32 78885484 ca3a6a71 [INFO Client 9520] Connecting to instance server at 159.122.142.247:6112
+2023/04/11 01:17:32 78885546 ca3a4dbb [DEBUG Client 9520] Connect time to instance server was 31ms
+2023/04/11 01:17:32 78885593 1186a0e5 [DEBUG Client 9520] Generating level 68 area "3_Labyrinth_RT_straight_bottleneck" with seed 4052660075
+2023/04/11 01:17:32 78886031 f22b6987 [INFO Client 9520] Tile hash: 2792433198
+2023/04/11 01:17:32 78886031 f22b6986 [INFO Client 9520] Doodad hash: 3933432693
+2023/04/11 01:17:32 78886390 11870f49 [DEBUG Client 9520] Joined guild named Голосовой чат discord.com/invite/nXFKHzJ with 193 members 
+2023/04/11 01:17:33 78886968 cffb071e [INFO Client 9520] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Коридоры храма.
+2023/04/11 01:17:34 78887468 32759a9f [INFO Client 9520] [SHADER] Delay: ON
+2023/04/11 01:17:45 78898656 cffb071e [INFO Client 9520] #_Tayler_: Смирение Сколько 1 стоит карта?
+2023/04/11 01:17:45 78899250 cffb071e [INFO Client 9520] #Себастиарро: а, я думал палево какое
+2023/04/11 01:18:02 78916218 cffb071e [INFO Client 9520] #Воин_книфе: я сучковатый
+2023/04/11 01:18:06 78919625 cffb071e [INFO Client 9520] #GovniloBuild: Божественная сфера Разбейте по 130 по фастике
+2023/04/11 01:18:10 78924000 cffb071e [INFO Client 9520] #Недобил: 1х
+2023/04/11 01:18:15 78929250 cffb071e [INFO Client 9520] #Свекло_Свекло: chlenix v2.1 activated
+2023/04/11 01:18:16 78929453 379702c8 [WARN Client 9520] Client couldn't execute an instant action from the server.
+action type id = 9220
+2023/04/11 01:18:16 78929453 3796fa8f [WARN Client 9520] Instant/Triggered actionwas serialized to the client, but the client failed to execute the action.
+skill_instance_id: 35848
+action_id: 35002
+object_id: 1550
+target_id: 0
+flags: 257
+2023/04/11 01:18:20 78933828 88a904cb [DEBUG Client 9520] Got Instance Details from login server
+2023/04/11 01:18:20 78933828 32759a9f [INFO Client 9520] [SHADER] Delay: OFF
+2023/04/11 01:18:20 78933828 ca3a6a71 [INFO Client 9520] Connecting to instance server at 159.122.142.234:6112
+2023/04/11 01:18:20 78933890 ca3a4dbb [DEBUG Client 9520] Connect time to instance server was 47ms
+2023/04/11 01:18:20 78933937 1186a0e5 [DEBUG Client 9520] Generating level 68 area "3_Labyrinth_boss_2" with seed 2795879187
+2023/04/11 01:18:20 78934140 f22b6987 [INFO Client 9520] Tile hash: 271337529
+2023/04/11 01:18:20 78934140 f22b6986 [INFO Client 9520] Doodad hash: 3706955394
+2023/04/11 01:18:21 78934890 11870f49 [DEBUG Client 9520] Joined guild named Голосовой чат discord.com/invite/nXFKHzJ with 193 members 
+2023/04/11 01:18:22 78935453 cffb071e [INFO Client 9520] : <<set:NS>><<set:N>><<set:S>>Вы вошли в область Испытание претендента.
+2023/04/11 01:18:22 78935921 32759a9f [INFO Client 9520] [SHADER] Delay: ON
+2023/04/11 01:18:23 78936890 cffb071e [INFO Client 9520] Изаро: Усталый путник приближается к концу пути.
+2023/04/11 01:18:33 78946734 cffb071e [INFO Client 9520] Изаро: Оскверняя образы, ты оскверняешь и самого императора.
+2023/04/11 01:18:44 78958203 cffb071e [INFO Client 9520] #_Tayler_: Смирение Парни сколько 1 карта такая стоит?
+2023/04/11 01:18:48 78962125 cffb071e [INFO Client 9520] #i_hate_being: здесь некромант на ведьме похож на некроманта из дьяблы 2?
+2023/04/11 01:19:05 78979359 cffb071e [INFO Client 9520] #Дурашка_В_Горниле: нит
+2023/04/11 01:19:11 78984625 cffb071e [INFO Client 9520] Изаро: Откуда у тебя берутся силы?
+2023/04/11 01:19:14 78988328 cffb071e [INFO Client 9520] #Дурашка_В_Горниле: там мужиг
+2023/04/11 01:19:15 78989109 cffb071e [INFO Client 9520] Изаро: Не император ты, если никто не склонился пред тобой.
+2023/04/11 01:19:21 78994703 88a904cb [DEBUG Client 9520] Got Instance Details from login server
+2023/04/11 01:19:21 78994703 32759a9f [INFO Client 9520] [SHADER] Delay: OFF
+2023/04/11 01:19:21 78994703 ca3a6a71 [INFO Client 9520] Connecting to instance server at 169.51.201.169:6112
+2023/04/11 01:19:21 78994765 ca3a4dbb [DEBUG Client 9520] Connect time to instance server was 31ms
+2023/04/11 01:19:21 78994812 1186a0e5 [DEBUG Client 9520] Generating level 68 area "3_Labyrinth_RT_straight_bottleneck" with seed 2522630680
+2023/04/11 01:19:21 78994890 f22b6987 [INFO Client 9520] Tile hash: 620357406
+2023/04/11 01:19:21 78994890 f22b6986 [INFO Client 9520] Doodad hash: 1789159306
+2023/04/11 01:19:22 78995921 11870f49 [DEBUG Client 9520] Joined guild named Голосовой чат discord.com/invite/nXFKHzJ with 193 members 
+2023/04/11 01:19:23 78996484 cffb071e [INFO Client 9520] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Коридоры храма.
+2023/04/11 01:19:23 78997000 32759a9f [INFO Client 9520] [SHADER] Delay: ON
+2023/04/11 01:20:02 79035984 88a904cb [DEBUG Client 9520] Got Instance Details from login server
+2023/04/11 01:20:02 79035984 32759a9f [INFO Client 9520] [SHADER] Delay: OFF
+2023/04/11 01:20:02 79035984 ca3a6a71 [INFO Client 9520] Connecting to instance server at 159.122.142.238:6112
+2023/04/11 01:20:02 79036046 ca3a4dbb [DEBUG Client 9520] Connect time to instance server was 31ms
+2023/04/11 01:20:02 79036109 1186a0e5 [DEBUG Client 9520] Generating level 68 area "3_Labyrinth_C_branch_bottleneck_2" with seed 3268592112
+2023/04/11 01:20:03 79036500 f22b6987 [INFO Client 9520] Tile hash: 1643001179
+2023/04/11 01:20:03 79036500 f22b6986 [INFO Client 9520] Doodad hash: 1053698188
+2023/04/11 01:20:03 79037046 11870f49 [DEBUG Client 9520] Joined guild named Голосовой чат discord.com/invite/nXFKHzJ with 193 members 
+2023/04/11 01:20:04 79037640 cffb071e [INFO Client 9520] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Залы усыпальницы.
+2023/04/11 01:20:04 79038140 32759a9f [INFO Client 9520] [SHADER] Delay: ON
+2023/04/11 01:20:28 79061875 cffb071e [INFO Client 9520] #Дурашка_В_Горниле: подошел к нико, пернул, он говорит, ну и запашок
+2023/04/11 01:20:35 79068640 88a904cb [DEBUG Client 9520] Got Instance Details from login server
+2023/04/11 01:20:35 79068640 32759a9f [INFO Client 9520] [SHADER] Delay: OFF
+2023/04/11 01:20:35 79068640 ca3a6a71 [INFO Client 9520] Connecting to instance server at 159.122.142.231:6112
+2023/04/11 01:20:35 79068687 ca3a4dbb [DEBUG Client 9520] Connect time to instance server was 31ms
+2023/04/11 01:20:35 79068750 1186a0e5 [DEBUG Client 9520] Generating level 68 area "3_Labyrinth_boss_2" with seed 2543390537
+2023/04/11 01:20:35 79069000 f22b6987 [INFO Client 9520] Tile hash: 1140668037
+2023/04/11 01:20:35 79069000 f22b6986 [INFO Client 9520] Doodad hash: 241816519
+2023/04/11 01:20:36 79069890 11870f49 [DEBUG Client 9520] Joined guild named Голосовой чат discord.com/invite/nXFKHzJ with 193 members 
+2023/04/11 01:20:37 79070453 cffb071e [INFO Client 9520] : <<set:NS>><<set:N>><<set:S>>Вы вошли в область Испытание претендента.
+2023/04/11 01:20:37 79070906 32759a9f [INFO Client 9520] [SHADER] Delay: ON
+2023/04/11 01:20:38 79071515 cffb071e [INFO Client 9520] Изаро: Когда приходит время битвы, правитель бьёт без колебаний. Предаваться сомнениям значит дёргать смерть за усы.
+2023/04/11 01:20:44 79077437 cffb071e [INFO Client 9520] Изаро: Император хорош настолько, насколько хороши его слуги.
+2023/04/11 01:21:10 79104406 cffb071e [INFO Client 9520] #Vedmaakk: лаги у всех*
+2023/04/11 01:21:11 79105062 cffb071e [INFO Client 9520] #Залупинскаяя: опять
+2023/04/11 01:21:11 79105125 cffb071e [INFO Client 9520] #JohneStone: Че так лагает
+2023/04/11 01:21:19 79113234 cffb071e [INFO Client 9520] #TheBldlo: Осадный лук хоть хаос стоит?
+2023/04/11 01:21:21 79114609 cffb071e [INFO Client 9520] #Сломанный_календарь: залупа
+2023/04/11 01:21:25 79118703 cffb071e [INFO Client 9520] Изаро: Откуда у тебя берутся силы?
+2023/04/11 01:21:29 79122921 cffb071e [INFO Client 9520] Изаро: Два из трёх - не так уж плохо. Это их худшее выступление.
+2023/04/11 01:21:32 79126187 cffb071e [INFO Client 9520] #Недобил: ну 5 линк
+2023/04/11 01:21:33 79126718 cffb071e [INFO Client 9520] #<MK-Ù> Gumpacelin: Договор, Одеяние из паучьего шёлка
+2023/04/11 01:21:34 79127875 88a904cb [DEBUG Client 9520] Got Instance Details from login server
+2023/04/11 01:21:34 79127875 32759a9f [INFO Client 9520] [SHADER] Delay: OFF
+2023/04/11 01:21:34 79127875 ca3a6a71 [INFO Client 9520] Connecting to instance server at 169.51.201.152:6112
+2023/04/11 01:21:34 79127937 ca3a4dbb [DEBUG Client 9520] Connect time to instance server was 31ms
+2023/04/11 01:21:34 79127984 1186a0e5 [DEBUG Client 9520] Generating level 68 area "3_Labyrinth_C_branch_bottleneck_1" with seed 1249952593
+2023/04/11 01:21:34 79128062 f22b6987 [INFO Client 9520] Tile hash: 1266242696
+2023/04/11 01:21:34 79128062 f22b6986 [INFO Client 9520] Doodad hash: 1646253695
+2023/04/11 01:21:35 79128890 11870f49 [DEBUG Client 9520] Joined guild named Голосовой чат discord.com/invite/nXFKHzJ with 193 members 
+2023/04/11 01:21:36 79129437 cffb071e [INFO Client 9520] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Залы усыпальницы.
+2023/04/11 01:21:36 79129906 32759a9f [INFO Client 9520] [SHADER] Delay: ON
+2023/04/11 01:21:37 79131000 cffb071e [INFO Client 9520] #Недобил: мб кто и заберёт
+2023/04/11 01:21:42 79136187 cffb071e [INFO Client 9520] #Gnes: кек
+2023/04/11 01:21:46 79140031 cffb071e [INFO Client 9520] #Avrelsud: почему выкидывает
+2023/04/11 01:21:56 79149640 cffb071e [INFO Client 9520] #Avrelsud: только начал играть, что за ублюдство
+2023/04/11 01:22:03 79157343 88a904cb [DEBUG Client 9520] Got Instance Details from login server
+2023/04/11 01:22:03 79157343 32759a9f [INFO Client 9520] [SHADER] Delay: OFF
+2023/04/11 01:22:03 79157343 ca3a6a71 [INFO Client 9520] Connecting to instance server at 159.122.142.238:6112
+2023/04/11 01:22:03 79157390 ca3a4dbb [DEBUG Client 9520] Connect time to instance server was 32ms
+2023/04/11 01:22:04 79157437 1186a0e5 [DEBUG Client 9520] Generating level 68 area "3_Labyrinth_OH_quad_#" with seed 1413113112
+2023/04/11 01:22:04 79158046 f22b6987 [INFO Client 9520] Tile hash: 4066497720
+2023/04/11 01:22:04 79158046 f22b6986 [INFO Client 9520] Doodad hash: 320981128
+2023/04/11 01:22:04 79158343 11870f49 [DEBUG Client 9520] Joined guild named Голосовой чат discord.com/invite/nXFKHzJ with 193 members 
+2023/04/11 01:22:05 79158921 cffb071e [INFO Client 9520] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Перекрёсток усадьбы.
+2023/04/11 01:22:06 79159468 32759a9f [INFO Client 9520] [SHADER] Delay: ON
+2023/04/11 01:22:06 79160187 cffb071e [INFO Client 9520] #<BurbOn> Джимми_Нейтрон: так и знал что это повторится
+2023/04/11 01:22:10 79163515 cffb071e [INFO Client 9520] #<Ðè§âq> ДроппДеадд: всем привет
+2023/04/11 01:22:11 79164609 cffb071e [INFO Client 9520] #Gnes: тролинг
+2023/04/11 01:22:17 79171109 cffb071e [INFO Client 9520] #JABMO: ника гей
+2023/04/11 01:22:25 79178500 cffb071e [INFO Client 9520] #Азазазелька: как заебало
+2023/04/11 01:22:34 79187531 cffb071e [INFO Client 9520] #WhoIIsDante:  едем на экзайлкон 29 июня бить лысому ебало
+2023/04/11 01:22:36 79190281 cffb071e [INFO Client 9520] #Азазазелька: 5 контрат проебал из за вылетов
+2023/04/11 01:22:37 79191171 cffb071e [INFO Client 9520] #An_Arrow_in_the_eye: Я их рот шатал. Еще и откатывается тварь. Хорошо ничего не выпало.
+2023/04/11 01:22:38 79191515 cffb071e [INFO Client 9520] #<BurbOn> Джимми_Нейтрон: пока они найдут причину
+2023/04/11 01:22:42 79195953 cffb071e [INFO Client 9520] #<BurbOn> Джимми_Нейтрон: еще пройдет часа 2
+2023/04/11 01:22:47 79201328 cffb071e [INFO Client 9520] #<+ÊÌè> UnvincibleAlcoholist: бля выкинуло с мап с ласт порталла
+2023/04/11 01:22:49 79203078 cffb071e [INFO Client 9520] #<‹†›> anal_rodeo: сука на москве играть не дают
+2023/04/11 01:22:56 79210343 cffb071e [INFO Client 9520] #<§©°©°§> ГанькаКрукибле: весд ьен
+2023/04/11 01:23:01 79215218 cffb071e [INFO Client 9520] #<§©°©°§> ГанькаКрукибле: так
+2023/04/11 01:23:26 79240406 cffb071e [INFO Client 9520] #<BurbOn> Джимми_Нейтрон: то пое трейд не рабтал починили теперь сервы не работают
+2023/04/11 01:23:28 79242015 88a904cb [DEBUG Client 9520] Got Instance Details from login server
+2023/04/11 01:23:28 79242031 32759a9f [INFO Client 9520] [SHADER] Delay: OFF
+2023/04/11 01:23:28 79242031 ca3a6a71 [INFO Client 9520] Connecting to instance server at 169.51.201.146:6112
+2023/04/11 01:23:28 79242078 ca3a4dbb [DEBUG Client 9520] Connect time to instance server was 31ms
+2023/04/11 01:23:28 79242125 1186a0e5 [DEBUG Client 9520] Generating level 68 area "3_Labyrinth_boss_2_end_#" with seed 2743736523
+2023/04/11 01:23:28 79242359 f22b6987 [INFO Client 9520] Tile hash: 4073156805
+2023/04/11 01:23:28 79242359 f22b6986 [INFO Client 9520] Doodad hash: 620423581
+2023/04/11 01:23:29 79242984 11870f49 [DEBUG Client 9520] Joined guild named Голосовой чат discord.com/invite/nXFKHzJ with 193 members 
+2023/04/11 01:23:30 79243531 cffb071e [INFO Client 9520] : <<set:NS>><<set:N>><<set:S>>Вы вошли в область Испытание претендента.
+2023/04/11 01:23:30 79244031 32759a9f [INFO Client 9520] [SHADER] Delay: ON
+2023/04/11 01:23:31 79244515 cffb071e [INFO Client 9520] Изаро: Претендент может подавать надежды. Император обязан им соответствовать.
+2023/04/11 01:23:32 79245468 88a904cb [DEBUG Client 9520] Got Instance Details from login server
+2023/04/11 01:23:32 79245468 32759a9f [INFO Client 9520] [SHADER] Delay: OFF
+2023/04/11 01:23:32 79245468 ca3a6a71 [INFO Client 9520] Connecting to instance server at 159.122.142.238:6112
+2023/04/11 01:23:32 79245531 ca3a4dbb [DEBUG Client 9520] Connect time to instance server was 32ms
+2023/04/11 01:23:32 79245578 1186a0e5 [DEBUG Client 9520] Generating level 68 area "3_Labyrinth_OH_quad_#" with seed 1413113112
+2023/04/11 01:23:32 79245640 f22b6987 [INFO Client 9520] Tile hash: 4066497720
+2023/04/11 01:23:32 79245640 f22b6986 [INFO Client 9520] Doodad hash: 320981128
+2023/04/11 01:23:32 79246187 11870f49 [DEBUG Client 9520] Joined guild named Голосовой чат discord.com/invite/nXFKHzJ with 193 members 
+2023/04/11 01:23:33 79246765 cffb071e [INFO Client 9520] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Перекрёсток усадьбы.
+2023/04/11 01:23:33 79247312 32759a9f [INFO Client 9520] [SHADER] Delay: ON
+2023/04/11 01:23:35 79249187 88a904cb [DEBUG Client 9520] Got Instance Details from login server
+2023/04/11 01:23:35 79249187 32759a9f [INFO Client 9520] [SHADER] Delay: OFF
+2023/04/11 01:23:35 79249187 ca3a6a71 [INFO Client 9520] Connecting to instance server at 169.51.201.146:6112
+2023/04/11 01:23:35 79249250 ca3a4dbb [DEBUG Client 9520] Connect time to instance server was 31ms
+2023/04/11 01:23:35 79249296 1186a0e5 [DEBUG Client 9520] Generating level 68 area "3_Labyrinth_boss_2_end_#" with seed 2743736523
+2023/04/11 01:23:35 79249312 f22b6987 [INFO Client 9520] Tile hash: 4073156805
+2023/04/11 01:23:35 79249312 f22b6986 [INFO Client 9520] Doodad hash: 620423581
+2023/04/11 01:23:36 79250015 11870f49 [DEBUG Client 9520] Joined guild named Голосовой чат discord.com/invite/nXFKHzJ with 193 members 
+2023/04/11 01:23:37 79250562 cffb071e [INFO Client 9520] : <<set:NS>><<set:N>><<set:S>>Вы вошли в область Испытание претендента.
+2023/04/11 01:23:37 79251031 32759a9f [INFO Client 9520] [SHADER] Delay: ON
+2023/04/11 01:23:47 79260625 cffb071e [INFO Client 9520] Изаро: Империя ждёт тебя с раззявленной пастью!
+2023/04/11 01:23:49 79262562 cffb071e [INFO Client 9520] #<BurbOn> Джимми_Нейтрон: душат
+2023/04/11 01:23:54 79267906 cffb071e [INFO Client 9520] #TheAsMixSRS: народ на какую комбинация клавиш подсветить и прочитать имена трупов надо для призраков?
+2023/04/11 01:23:58 79272328 cffb071e [INFO Client 9520] #NadoelPOE: еще бы
+2023/04/11 01:24:05 79279031 cffb071e [INFO Client 9520] #JagaShatal: ну так почини! Ты же Джими Нейтрон!
+2023/04/11 01:24:06 79279484 cffb071e [INFO Client 9520] Изаро: Я умираю за Империю!
+2023/04/11 01:24:08 79282250 cffb071e [INFO Client 9520] #Крусибл_Кулибин: Ф
+2023/04/11 01:24:15 79288765 cffb071e [INFO Client 9520] #TheAsMixSRS: сенкс
+2023/04/11 01:24:24 79297484 cffb071e [INFO Client 9520] : Этот сундук закрыт. Для него нужен ключ от сокровищницы.
+2023/04/11 01:24:58 79332359 cffb071e [INFO Client 9520] #БудемГулятьИВеселитьсяЪ: булоффная?
+2023/04/11 01:25:05 79338468 cffb071e [INFO Client 9520] #<BurbOn> Джимми_Нейтрон: думай думай думай ...... Не придумал
+2023/04/11 01:25:50 79383546 cffb071e [INFO Client 9520] #Плохая_зайка: фух
+2023/04/11 01:25:55 79388890 cffb071e [INFO Client 9520] #Плохая_зайка: хорошие сервера
+2023/04/11 01:26:26 79419875 cffb071e [INFO Client 9520] #Archi_Crucible: куплю диван за 130 хаоса
+2023/04/11 01:26:28 79422218 fb7abcab [INFO Client 9520] Successfully allocated passive skill id: AscendancyPathfinder5, name: Эффекты флакона и получение зарядов
+2023/04/11 01:26:30 79423421 fb7abcab [INFO Client 9520] Successfully allocated passive skill id: AscendancyPathfinder6, name: Дар природы
+2023/04/11 01:26:34 79428031 cffb071e [INFO Client 9520] #<^®®^> AyakoTyan: я в этой лиге загружался уже больше чем в прошлой
+2023/04/11 01:26:35 79429187 cffb071e [INFO Client 9520] #Jojopog: АЗЕБАЛИ
+2023/04/11 01:26:55 79449171 cffb071e [INFO Client 9520] #BaMbOnII_HB: сука включил карту, а все порталы пропали, пиздец
+2023/04/11 01:26:58 79451656 cffb071e [INFO Client 9520] #Бамболея: блин карты пропала 3 раз)
+2023/04/11 01:27:00 79454203 cffb071e [INFO Client 9520] #BreathlessMannequin: плохие сервера, зато донат ахуенный
+2023/04/11 01:27:06 79459609 cffb071e [INFO Client 9520] #Дворян___Очка: СУКА КАК ИГРАТЬ
+2023/04/11 01:27:07 79460921 cffb071e [INFO Client 9520] #<CURSÈD> KvokDK: Домой не пускает....(
+2023/04/11 01:27:08 79461953 cffb071e [INFO Client 9520] #Недобил: донат всегда такой был
+2023/04/11 01:27:22 79475421 88a904cb [DEBUG Client 9520] Got Instance Details from login server
+2023/04/11 01:27:22 79475437 32759a9f [INFO Client 9520] [SHADER] Delay: OFF
+2023/04/11 01:27:22 79475437 ca3a6a71 [INFO Client 9520] Connecting to instance server at 169.51.201.173:6112
+2023/04/11 01:27:22 79475484 ca3a4dbb [DEBUG Client 9520] Connect time to instance server was 31ms
+2023/04/11 01:27:22 79475531 1186a0e5 [DEBUG Client 9520] Generating level 33 area "1_3_town" with seed 1
+2023/04/11 01:27:23 79476562 f22b6987 [INFO Client 9520] Tile hash: 1258686204
+2023/04/11 01:27:23 79476562 f22b6986 [INFO Client 9520] Doodad hash: 2013313320
+2023/04/11 01:27:23 79476796 11870f49 [DEBUG Client 9520] Joined guild named Голосовой чат discord.com/invite/nXFKHzJ with 193 members 
+2023/04/11 01:27:24 79477687 cffb071e [INFO Client 9520] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Лагерь Сарна.
+2023/04/11 01:27:24 79477687 cffb071e [INFO Client 9520] @От кого SwiftAndSilenttStrongDu: t4t
+2023/04/11 01:27:25 79478562 32759a9f [INFO Client 9520] [SHADER] Delay: ON
+2023/04/11 01:27:34 79487609 cffb071e [INFO Client 9520] #BreathlessMannequin: ну сразу видно, на что все сборы уходят с донатов
+2023/04/11 01:27:37 79490828 88a904cb [DEBUG Client 9520] Got Instance Details from login server
+2023/04/11 01:27:37 79490828 32759a9f [INFO Client 9520] [SHADER] Delay: OFF
+2023/04/11 01:27:37 79490828 ca3a6a71 [INFO Client 9520] Connecting to instance server at 159.122.142.234:6112
+2023/04/11 01:27:37 79490875 ca3a4dbb [DEBUG Client 9520] Connect time to instance server was 31ms
+2023/04/11 01:27:37 79490937 1186a0e5 [DEBUG Client 9520] Generating level 20 area "HideoutCoral" with seed 1
+2023/04/11 01:27:37 79491171 f22b6987 [INFO Client 9520] Tile hash: 805187908
+2023/04/11 01:27:37 79491171 f22b6986 [INFO Client 9520] Doodad hash: 0
+2023/04/11 01:27:38 79491828 11870f49 [DEBUG Client 9520] Joined guild named Голосовой чат discord.com/invite/nXFKHzJ with 193 members 
+2023/04/11 01:27:39 79492515 cffb071e [INFO Client 9520] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Коралловое убежище.
+2023/04/11 01:27:39 79492953 cffb071e [INFO Client 9520] #Плохая_зайка: кушаем кушаем
+2023/04/11 01:27:39 79493140 32759a9f [INFO Client 9520] [SHADER] Delay: ON
+2023/04/11 01:27:46 79500093 cffb071e [INFO Client 9520] : SwiftAndSilenttStrongDu присоединился.
+2023/04/11 01:28:02 79516156 cffb071e [INFO Client 9520] : Сделка совершена.
+2023/04/11 01:28:04 79517609 cffb071e [INFO Client 9520] @Кому SwiftAndSilenttStrongDu: Thank you SwiftAndSilenttStrongDu! Have a nice day and good luck!
+2023/04/11 01:28:06 79520140 cffb071e [INFO Client 9520] @От кого SwiftAndSilenttStrongDu: t4t
+2023/04/11 01:28:07 79520578 cffb071e [INFO Client 9520] : SwiftAndSilenttStrongDu покинул область.
+2023/04/11 01:29:05 79579312 cffb071e [INFO Client 9520] #EvanIyn: Первобытная кристализованная жизненная сила Дикая кристализованная жизненная сила
+2023/04/11 01:29:17 79591390 cffb071e [INFO Client 9520] : Не удалось применить предмет: Предмет не сможет вместить дополнительные свойства.
+2023/04/11 01:30:30 79663718 cffb071e [INFO Client 9520] #<Ãÿë> Makccon: 1 диван если угадаете число от 1 до 100
+2023/04/11 01:30:36 79669984 cffb071e [INFO Client 9520] #mallekulaman: 6
+2023/04/11 01:30:37 79670500 cffb071e [INFO Client 9520] #Qdfcvbmj: 74
+2023/04/11 01:30:37 79671031 cffb071e [INFO Client 9520] #RIPONXCDUDE: 13
+2023/04/11 01:30:39 79672625 cffb071e [INFO Client 9520] : Не удалось применить предмет: Предмет уже достиг наивысшего качества.
+2023/04/11 01:30:39 79672781 cffb071e [INFO Client 9520] : Не удалось применить предмет: Предмет уже достиг наивысшего качества.
+2023/04/11 01:30:39 79672984 cffb071e [INFO Client 9520] : Не удалось применить предмет: Предмет уже достиг наивысшего качества.
+2023/04/11 01:30:39 79673156 cffb071e [INFO Client 9520] : Не удалось применить предмет: Предмет уже достиг наивысшего качества.
+2023/04/11 01:30:42 79675781 cffb071e [INFO Client 9520] #MikaneLove: 14
+2023/04/11 01:30:43 79677296 cffb071e [INFO Client 9520] #kakoi_ya_molodez: 54
+2023/04/11 01:30:44 79677703 cffb071e [INFO Client 9520] #Makrobilla: 78
+2023/04/11 01:30:46 79679750 cffb071e [INFO Client 9520] #<Ðholly> bcuzLisayaMolniya: 44
+2023/04/11 01:30:46 79680375 cffb071e [INFO Client 9520] #Xanaro: 17
+2023/04/11 01:30:47 79681203 cffb071e [INFO Client 9520] #BreathlessMannequin: 56
+2023/04/11 01:30:48 79682250 cffb071e [INFO Client 9520] : Не удалось применить предмет: Предмет уже достиг наивысшего качества.
+2023/04/11 01:30:48 79682421 cffb071e [INFO Client 9520] : Не удалось применить предмет: Предмет уже достиг наивысшего качества.
+2023/04/11 01:30:49 79682578 cffb071e [INFO Client 9520] : Не удалось применить предмет: Предмет уже достиг наивысшего качества.
+2023/04/11 01:30:49 79682718 cffb071e [INFO Client 9520] : Не удалось применить предмет: Предмет уже достиг наивысшего качества.
+2023/04/11 01:30:49 79682890 cffb071e [INFO Client 9520] : Не удалось применить предмет: Предмет уже достиг наивысшего качества.
+2023/04/11 01:30:50 79683468 cffb071e [INFO Client 9520] #квпавпквпвпквпквпвапкв: 12
+2023/04/11 01:30:50 79683937 cffb071e [INFO Client 9520] #Nastuska_One_love: 1
+2023/04/11 01:30:54 79688125 cffb071e [INFO Client 9520] #УкралТепловоз: 69
+2023/04/11 01:30:56 79690109 cffb071e [INFO Client 9520] #na_energetikah: 67
+2023/04/11 01:30:59 79692781 cffb071e [INFO Client 9520] #hihihahahahaha: 22
+2023/04/11 01:31:01 79694718 cffb071e [INFO Client 9520] #Makrobilla: 99
+2023/04/11 01:31:01 79694718 cffb071e [INFO Client 9520] #Nastuska_One_love: 100
+2023/04/11 01:31:02 79695843 cffb071e [INFO Client 9520] #O_o_Casper_o_O: 39
+2023/04/11 01:31:03 79696640 cffb071e [INFO Client 9520] #BreathlessMannequin: 18
+2023/04/11 01:31:03 79697359 cffb071e [INFO Client 9520] #<NoDPS!> KriksisLiga: 66
+2023/04/11 01:31:03 79697359 cffb071e [INFO Client 9520] #Нуболиг: 44
+2023/04/11 01:31:04 79697468 cffb071e [INFO Client 9520] #Cibulenok: 13
+2023/04/11 01:31:04 79698125 cffb071e [INFO Client 9520] #na_energetikah: 83
+2023/04/11 01:31:05 79699421 cffb071e [INFO Client 9520] #Makrobilla: 22
+2023/04/11 01:31:06 79699750 cffb071e [INFO Client 9520] #na_energetikah: 76
+2023/04/11 01:31:06 79700218 cffb071e [INFO Client 9520] #<X3-> PotrowutelCrucible: 33
+2023/04/11 01:31:08 79701796 cffb071e [INFO Client 9520] #Токсик_Вихрь: 55
+2023/04/11 01:31:08 79701796 cffb071e [INFO Client 9520] #Makrobilla: 25
+2023/04/11 01:31:08 79701875 cffb071e [INFO Client 9520] #na_energetikah: 92
+2023/04/11 01:31:08 79702078 cffb071e [INFO Client 9520] #Qubitte: 34,123
+2023/04/11 01:31:10 79703734 cffb071e [INFO Client 9520] #na_energetikah: 24
+2023/04/11 01:31:10 79704125 cffb071e [INFO Client 9520] #JesusGayLords: 18
+2023/04/11 01:31:12 79705906 cffb071e [INFO Client 9520] #na_energetikah: 54
+2023/04/11 01:31:13 79706703 cffb071e [INFO Client 9520] #BreathlessMannequin: 6
+2023/04/11 01:31:13 79707343 cffb071e [INFO Client 9520] #HeadEyes_: 0
+2023/04/11 01:31:14 79707796 cffb071e [INFO Client 9520] #Makrobilla: 23
+2023/04/11 01:31:14 79708328 cffb071e [INFO Client 9520] #GidraUWU: 26
+2023/04/11 01:31:14 79708328 cffb071e [INFO Client 9520] #na_energetikah: 75
+2023/04/11 01:31:16 79710109 cffb071e [INFO Client 9520] #Makrobilla: 29
+2023/04/11 01:31:16 79710296 cffb071e [INFO Client 9520] #frickroke: 55
+2023/04/11 01:31:17 79711328 cffb071e [INFO Client 9520] #na_energetikah: 11
+2023/04/11 01:31:18 79711453 cffb071e [INFO Client 9520] #<O.z> mr_Uss: 77
+2023/04/11 01:31:18 79712390 cffb071e [INFO Client 9520] #mallekulaman: 100
+2023/04/11 01:31:19 79712609 cffb071e [INFO Client 9520] #na_energetikah: 22
+2023/04/11 01:31:20 79713437 cffb071e [INFO Client 9520] #XuClA: 66
+2023/04/11 01:31:20 79714156 cffb071e [INFO Client 9520] #na_energetikah: 33
+2023/04/11 01:31:20 79714296 cffb071e [INFO Client 9520] #Makrobilla: 62
+2023/04/11 01:31:21 79714953 cffb071e [INFO Client 9520] #Zalatriel: 42
+2023/04/11 01:31:22 79715593 cffb071e [INFO Client 9520] #na_energetikah: 44
+2023/04/11 01:31:22 79715656 cffb071e [INFO Client 9520] #ya_igrayou_na_toxice: 78
+2023/04/11 01:31:22 79715875 cffb071e [INFO Client 9520] #<HELENE> aigashizophrenia: 99
+2023/04/11 01:31:23 79716906 cffb071e [INFO Client 9520] #na_energetikah: 55
+2023/04/11 01:31:23 79716968 cffb071e [INFO Client 9520] #SladkiyKostello: 27
+2023/04/11 01:31:24 79718093 cffb071e [INFO Client 9520] #BreathlessMannequin: 94
+2023/04/11 01:31:24 79718390 cffb071e [INFO Client 9520] #na_energetikah: 66
+2023/04/11 01:31:25 79718984 cffb071e [INFO Client 9520] #spirit_llll: 111
+2023/04/11 01:31:25 79719406 cffb071e [INFO Client 9520] #Makrobilla: 61
+2023/04/11 01:31:26 79719437 cffb071e [INFO Client 9520] #na_energetikah: 77
+2023/04/11 01:31:26 79719937 cffb071e [INFO Client 9520] #<ZJÜ4es> Jopa_v_ponose: 3
+2023/04/11 01:31:27 79720609 cffb071e [INFO Client 9520] #Senemy_Crucible: 33
+2023/04/11 01:31:27 79720875 cffb071e [INFO Client 9520] #na_energetikah: 88
+2023/04/11 01:31:27 79721359 cffb071e [INFO Client 9520] #НакаПсих: 29
+2023/04/11 01:31:27 79721359 cffb071e [INFO Client 9520] #ZXChunterPUPS: 13
+2023/04/11 01:31:28 79721421 cffb071e [INFO Client 9520] #DiggyKneeRat: 34
+2023/04/11 01:31:28 79721625 cffb071e [INFO Client 9520] #Crucible_Freya: 78
+2023/04/11 01:31:28 79721890 cffb071e [INFO Client 9520] #na_energetikah: 99
+2023/04/11 01:31:29 79722515 cffb071e [INFO Client 9520] #Makrobilla: 63
+2023/04/11 01:31:29 79723109 cffb071e [INFO Client 9520] #<O.z> mr_Uss: 1
+2023/04/11 01:31:30 79723812 cffb071e [INFO Client 9520] #ВыводыДелай: расчет долбаебов окончен
+2023/04/11 01:31:30 79723875 cffb071e [INFO Client 9520] #<O.z> mr_Uss: 2
+2023/04/11 01:31:31 79724593 cffb071e [INFO Client 9520] #<O.z> mr_Uss: 3
+2023/04/11 01:31:31 79725187 cffb071e [INFO Client 9520] #<O.z> mr_Uss: 4
+2023/04/11 01:31:32 79725859 cffb071e [INFO Client 9520] #<O.z> mr_Uss: 5
+2023/04/11 01:31:32 79726000 cffb071e [INFO Client 9520] #na_energetikah: 85
+2023/04/11 01:31:32 79726140 cffb071e [INFO Client 9520] #Makrobilla: 64
+2023/04/11 01:31:32 79726140 cffb071e [INFO Client 9520] #Ледяная_Вилка: 69
+2023/04/11 01:31:33 79726765 cffb071e [INFO Client 9520] #<O.z> mr_Uss: 65
+2023/04/11 01:31:34 79728062 cffb071e [INFO Client 9520] #<O.z> mr_Uss: 6
+2023/04/11 01:31:35 79728859 cffb071e [INFO Client 9520] #<O.z> mr_Uss: 7
+2023/04/11 01:31:36 79729546 cffb071e [INFO Client 9520] #<O.z> mr_Uss: 8
+2023/04/11 01:31:36 79730203 cffb071e [INFO Client 9520] #<O.z> mr_Uss: 9
+2023/04/11 01:31:36 79730375 cffb071e [INFO Client 9520] #DiggyKneeRat: 98
+2023/04/11 01:31:37 79731015 cffb071e [INFO Client 9520] #<O.z> mr_Uss: 0
+2023/04/11 01:31:39 79733343 cffb071e [INFO Client 9520] #<O.z> mr_Uss: 10
+2023/04/11 01:31:40 79733531 cffb071e [INFO Client 9520] #spirit_llll: 99
+2023/04/11 01:31:42 79735515 cffb071e [INFO Client 9520] #<O.z> mr_Uss: 11
+2023/04/11 01:31:42 79736312 cffb071e [INFO Client 9520] #<ZJÜ4es> Jopa_v_ponose: 92
+2023/04/11 01:31:42 79736375 cffb071e [INFO Client 9520] #<O.z> mr_Uss: 12
+2023/04/11 01:31:44 79737906 cffb071e [INFO Client 9520] #<O.z> mr_Uss: 14
+2023/04/11 01:31:44 79737906 cffb071e [INFO Client 9520] #SladkiyKostello: 91
+2023/04/11 01:31:45 79739109 cffb071e [INFO Client 9520] #<O.z> mr_Uss: 13
+2023/04/11 01:31:47 79740515 cffb071e [INFO Client 9520] #BRADIAGA: 78
+2023/04/11 01:31:47 79741390 cffb071e [INFO Client 9520] #<O.z> mr_Uss: 15
+2023/04/11 01:31:49 79742812 cffb071e [INFO Client 9520] #<ZJÜ4es> Jopa_v_ponose: 58
+2023/04/11 01:31:49 79743109 cffb071e [INFO Client 9520] #XuClA: 45
+2023/04/11 01:31:50 79743468 cffb071e [INFO Client 9520] #<O.z> mr_Uss: 16
+2023/04/11 01:31:54 79747734 cffb071e [INFO Client 9520] #SladkiyKostello: 83
+2023/04/11 01:31:56 79749734 cffb071e [INFO Client 9520] #<ZJÜ4es> Jopa_v_ponose: 26
+2023/04/11 01:32:02 79755781 cffb071e [INFO Client 9520] #BreathlessMannequin: да я уже отгадал расслабьтесб
+2023/04/11 01:32:03 79756468 cffb071e [INFO Client 9520] #YiaOchenUstal: 8
+2023/04/11 01:32:13 79767140 cffb071e [INFO Client 9520] #limmma: 64
+2023/04/11 01:32:19 79772703 cffb071e [INFO Client 9520] #Дробитель_Покоритель: 9999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999
+2023/04/11 01:32:21 79774687 cffb071e [INFO Client 9520] #Nastuska_One_love: чел у тя нет дивана
+2023/04/11 01:32:23 79776640 cffb071e [INFO Client 9520] #ВИЧсрс: F
+2023/04/11 01:32:25 79778687 cffb071e [INFO Client 9520] #<ZJÜ4es> Jopa_v_ponose: f
+2023/04/11 01:32:36 79789484 cffb071e [INFO Client 9520] #<NoDPS!> KriksisLiga: ну что отпустило серваки? можно играть уже?
+2023/04/11 01:32:37 79791328 88a904cb [DEBUG Client 9520] Got Instance Details from login server
+2023/04/11 01:32:37 79791328 32759a9f [INFO Client 9520] [SHADER] Delay: OFF
+2023/04/11 01:32:37 79791328 ca3a6a71 [INFO Client 9520] Connecting to instance server at 159.122.142.247:6112
+2023/04/11 01:32:37 79791375 ca3a4dbb [DEBUG Client 9520] Connect time to instance server was 47ms
+2023/04/11 01:32:38 79791453 1186a0e5 [DEBUG Client 9520] Generating level 64 area "2_10_2" with seed 3355104798
+2023/04/11 01:32:39 79792484 f22b6987 [INFO Client 9520] Tile hash: 152303509
+2023/04/11 01:32:39 79792484 f22b6986 [INFO Client 9520] Doodad hash: 748267832
+2023/04/11 01:32:39 79793218 11870f49 [DEBUG Client 9520] Joined guild named Голосовой чат discord.com/invite/nXFKHzJ with 193 members 
+2023/04/11 01:32:40 79793890 cffb071e [INFO Client 9520] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Разорённая площадь.
+2023/04/11 01:32:41 79794796 32759a9f [INFO Client 9520] [SHADER] Delay: ON
+2023/04/11 01:32:43 79797125 cffb071e [INFO Client 9520] #MikaneLove: на нем можно спать ?
+2023/04/11 01:32:53 79806765 cffb071e [INFO Client 9520] #ya_igrayou_na_toxice: divine orb
+2023/04/11 01:32:59 79812875 88a904cb [DEBUG Client 9520] Got Instance Details from login server
+2023/04/11 01:32:59 79812875 32759a9f [INFO Client 9520] [SHADER] Delay: OFF
+2023/04/11 01:32:59 79812875 ca3a6a71 [INFO Client 9520] Connecting to instance server at 159.122.142.254:6112
+2023/04/11 01:32:59 79812921 ca3a4dbb [DEBUG Client 9520] Connect time to instance server was 31ms
+2023/04/11 01:32:59 79812984 1186a0e5 [DEBUG Client 9520] Generating level 66 area "2_10_5" with seed 1916895144
+2023/04/11 01:33:00 79813703 f22b6987 [INFO Client 9520] Tile hash: 2369975106
+2023/04/11 01:33:00 79813703 f22b6986 [INFO Client 9520] Doodad hash: 766691323
+2023/04/11 01:33:00 79814359 11870f49 [DEBUG Client 9520] Joined guild named Голосовой чат discord.com/invite/nXFKHzJ with 193 members 
+2023/04/11 01:33:01 79814937 cffb071e [INFO Client 9520] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Каналы.
+2023/04/11 01:33:01 79814937 cffb071e [INFO Client 9520] #Азазазелька: починили? я срать ходил
+2023/04/11 01:33:02 79815453 32759a9f [INFO Client 9520] [SHADER] Delay: ON
+2023/04/11 01:33:04 79817968 cffb071e [INFO Client 9520] #HeadEyes_: да вроде из икеи такой, нот бэд
+2023/04/11 01:33:27 79840609 cffb071e [INFO Client 9520] #<fan> WinAlX_Gognilo: нет, я уже 4 карты всрал(
+2023/04/11 01:34:30 79903875 cffb071e [INFO Client 9520] #ВыводыДелай: дам миррор, если угадает от 1до1000 цифру
+2023/04/11 01:34:33 79906906 cffb071e [INFO Client 9520] #<NoDPS!> KriksisLiga: все признаю близы лучше, так на страте лиги тог ггг умеют обсираться
+2023/04/11 01:34:37 79910875 cffb071e [INFO Client 9520] #RIPONXCDUDE: 541
+2023/04/11 01:34:40 79913484 cffb071e [INFO Client 9520] #Casperokkk: 997
+2023/04/11 01:34:41 79914640 cffb071e [INFO Client 9520] #Недобил: f ns kbyrfyb
+2023/04/11 01:34:44 79917640 cffb071e [INFO Client 9520] #Недобил: линкани
+2023/04/11 01:34:49 79922421 cffb071e [INFO Client 9520] #Недобил: вначале что он у тебя есть
+2023/04/11 01:35:02 79935500 cffb071e [INFO Client 9520] #ВыводыДелай: солнце светит
+2023/04/11 01:35:08 79941921 cffb071e [INFO Client 9520] #ВыводыДелай: долбаебы в чате пишут
+2023/04/11 01:35:15 79949421 cffb071e [INFO Client 9520] #Недобил: 993
+2023/04/11 01:35:26 79959828 cffb071e [INFO Client 9520] #govnilo_witch: 2
+2023/04/11 01:35:26 79959828 cffb071e [INFO Client 9520] #<NoDPS!> KriksisLiga: какое солнце? ночь же
+2023/04/11 01:35:42 79976312 cffb071e [INFO Client 9520] #ВыводыДелай: у кого как
+2023/04/11 01:36:00 79993875 cffb071e [INFO Client 9520] #Klikern: ребзя подкиньте раскаялок плез
+2023/04/11 01:36:01 79995312 cffb071e [INFO Client 9520] #<NoDPS!> KriksisLiga: в смысле у кого как? у всех же ночь
+2023/04/11 01:36:17 80011203 cffb071e [INFO Client 9520] #ВыводыДелай: ты че тупая
+2023/04/11 01:36:19 80013312 cffb071e [INFO Client 9520] #ВыводыДелай: ?
+2023/04/11 01:36:34 80027609 cffb071e [INFO Client 9520] #shebk: сколько часовых поясов в России?)
+2023/04/11 01:36:49 80042953 cffb071e [INFO Client 9520] #Shining_Gyre: вроде 11
+2023/04/11 01:36:57 80050640 cffb071e [INFO Client 9520] #shebk: риторический вопрос
+2023/04/11 01:37:27 80081265 cffb071e [INFO Client 9520] #<NoDPS!> KriksisLiga: а причем пояся и ночь?
+2023/04/11 01:38:22 80135546 cffb071e [INFO Client 9520] #ТвояРадость: продаст кто диван?
+2023/04/11 01:38:47 80160437 cffb071e [INFO Client 9520] #<NoDPS!> KriksisLiga: тебе бу или новый?
+2023/04/11 01:38:58 80172406 cffb071e [INFO Client 9520] #Недобил: копчёный
+2023/04/11 01:40:41 80274531 cffb071e [INFO Client 9520] Нико, Мастер глубин: Ничего, сойдёт.
+2023/04/11 01:40:50 80284281 cffb071e [INFO Client 9520] : Пусть сильнее грянет буря
+2023/04/11 01:40:56 80289453 cffb071e [INFO Client 9520] Нико, Мастер глубин: Ух. Ну и запашок.
+2023/04/11 01:41:41 80335187 cffb071e [INFO Client 9520] #kekLkekW: ns
+2023/04/11 01:41:42 80335671 cffb071e [INFO Client 9520] #kekLkekW: yt
+2023/04/11 01:41:49 80343296 379702c8 [WARN Client 9520] Client couldn't execute an instant action from the server.
+action type id = 9220
+2023/04/11 01:41:49 80343296 3796fa8f [WARN Client 9520] Instant/Triggered actionwas serialized to the client, but the client failed to execute the action.
+skill_instance_id: 35848
+action_id: 38258
+object_id: 1172
+target_id: 0
+flags: 257
+2023/04/11 01:42:28 80382000 cffb071e [INFO Client 9520] Нико, Мастер глубин: Ничего, сойдёт.
+2023/04/11 01:42:38 80392375 cffb071e [INFO Client 9520] #NoCold: ну чо глиномесы, отпустило серваки вроде
+2023/04/11 01:42:44 80398359 cffb071e [INFO Client 9520] : DeeToxilistaIIIXXI был повержен.
+2023/04/11 01:44:15 80489406 88a904cb [DEBUG Client 9520] Got Instance Details from login server
+2023/04/11 01:44:15 80489406 32759a9f [INFO Client 9520] [SHADER] Delay: OFF
+2023/04/11 01:44:15 80489406 ca3a6a71 [INFO Client 9520] Connecting to instance server at 169.51.201.180:6112
+2023/04/11 01:44:16 80489453 ca3a4dbb [DEBUG Client 9520] Connect time to instance server was 31ms
+2023/04/11 01:44:16 80489703 1186a0e5 [DEBUG Client 9520] Generating level 67 area "2_10_6" with seed 3047232845
+2023/04/11 01:44:17 80490828 f22b6987 [INFO Client 9520] Tile hash: 2227875683
+2023/04/11 01:44:17 80490828 f22b6986 [INFO Client 9520] Doodad hash: 4023508253
+2023/04/11 01:44:18 80491843 11870f49 [DEBUG Client 9520] Joined guild named Голосовой чат discord.com/invite/nXFKHzJ with 193 members 
+2023/04/11 01:44:19 80492437 cffb071e [INFO Client 9520] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Кормушка.
+2023/04/11 01:44:19 80493171 32759a9f [INFO Client 9520] [SHADER] Delay: ON
+2023/04/11 01:45:33 80566750 118717eb [DEBUG Client 9520] Resyncing 1283
+2023/04/11 01:45:33 80566750 118717eb [DEBUG Client 9520] Resyncing 1286
+2023/04/11 01:45:50 80583687 cffb071e [INFO Client 9520] #GGWPGUYSSS: Вражеская защита, Амулет с ониксом стоит что нибудь?
+2023/04/11 01:46:41 80635359 cffb071e [INFO Client 9520] Грех: Я сражу тебя!
+2023/04/11 01:46:53 80646984 cffb071e [INFO Client 9520] : DeeToxilistaIIIXXI был повержен.
+2023/04/11 01:48:15 80728484 cffb071e [INFO Client 9520] #BlackDeagle_WoC: ггг верните дивайн
+2023/04/11 01:48:24 80738046 cffb071e [INFO Client 9520] #BlackDeagle_WoC: с туджина достал дивайн и минус сервак
+2023/04/11 01:48:46 80759843 cffb071e [INFO Client 9520] : DeeToxilistaIIIXXI был повержен.
+2023/04/11 01:48:57 80770906 cffb071e [INFO Client 9520] #ТвояРадость: продайте диван
+2023/04/11 01:49:04 80777718 bce2d691 [INFO Client 9520] Steam stats stored
+2023/04/11 01:49:04 80777906 cffb071e [INFO Client 9520] Грех: Да разгорится новая заря!
+2023/04/11 01:49:18 80791671 cffb071e [INFO Client 9520] : Под безжалостным влиянием Китавы вы навсегда ослабли. Ваши сопротивления в общем уменьшены на 60%.
+2023/04/11 01:49:36 80809921 88a904cb [DEBUG Client 9520] Got Instance Details from login server
+2023/04/11 01:49:36 80809937 32759a9f [INFO Client 9520] [SHADER] Delay: OFF
+2023/04/11 01:49:36 80809937 ca3a6a71 [INFO Client 9520] Connecting to instance server at 169.51.201.145:6112
+2023/04/11 01:49:36 80809984 ca3a4dbb [DEBUG Client 9520] Connect time to instance server was 31ms
+2023/04/11 01:49:36 80810031 1186a0e5 [DEBUG Client 9520] Generating level 69 area "2_10_town" with seed 1
+2023/04/11 01:49:37 80811203 f22b6987 [INFO Client 9520] Tile hash: 3862614232
+2023/04/11 01:49:37 80811203 f22b6986 [INFO Client 9520] Doodad hash: 2693664852
+2023/04/11 01:49:37 80811375 11870f49 [DEBUG Client 9520] Joined guild named Голосовой чат discord.com/invite/nXFKHzJ with 193 members 
+2023/04/11 01:49:39 80812453 cffb071e [INFO Client 9520] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Доки Ориата.
+2023/04/11 01:49:40 80813656 32759a9f [INFO Client 9520] [SHADER] Delay: ON
+2023/04/11 01:49:49 80822890 cffb071e [INFO Client 9520] : Сделка отклонена.
+2023/04/11 01:51:09 80902546 cffb071e [INFO Client 9520] #Недобил: парни
+2023/04/11 01:51:14 80907890 cffb071e [INFO Client 9520] #Недобил: а как юзнуть откопанный реликт
+2023/04/11 01:51:49 80943031 cffb071e [INFO Client 9520] : Вы получили очков пассивных умений: 2.
+2023/04/11 01:51:59 80952937 fb7abcab [INFO Client 9520] Successfully allocated passive skill id: attack_speed1645, name: Скорость атаки
+2023/04/11 01:52:00 80953953 fb7abcab [INFO Client 9520] Successfully allocated passive skill id: attack_speed1646, name: Скорость атаки
+2023/04/11 01:52:08 80961656 cffb071e [INFO Client 9520] : Сделка отклонена.
+2023/04/11 01:52:10 80963937 88a904cb [DEBUG Client 9520] Got Instance Details from login server
+2023/04/11 01:52:10 80963953 32759a9f [INFO Client 9520] [SHADER] Delay: OFF
+2023/04/11 01:52:10 80963953 ca3a6a71 [INFO Client 9520] Connecting to instance server at 169.51.201.132:6112
+2023/04/11 01:52:10 80964031 ca3a4dbb [DEBUG Client 9520] Connect time to instance server was 47ms
+2023/04/11 01:52:10 80964093 1186a0e5 [DEBUG Client 9520] Generating level 69 area "2_11_endgame_town" with seed 1
+2023/04/11 01:52:12 80966218 f22b6987 [INFO Client 9520] Tile hash: 589033374
+2023/04/11 01:52:12 80966218 f22b6986 [INFO Client 9520] Doodad hash: 4274160400
+2023/04/11 01:52:13 80966984 11870f49 [DEBUG Client 9520] Joined guild named Голосовой чат discord.com/invite/nXFKHzJ with 193 members 
+2023/04/11 01:52:14 80967671 cffb071e [INFO Client 9520] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Берега Каруи.
+2023/04/11 01:52:14 80967671 cffb071e [INFO Client 9520] #xXx_RFJuggernauT_xXx: Мягкое касание Азенат, Шёлковые перчатки20С
+2023/04/11 01:52:15 80968500 32759a9f [INFO Client 9520] [SHADER] Delay: ON
+2023/04/11 01:52:16 80970406 890d9d5f [INFO Client 9520] Async connecting to mil01.login.pathofexile.com:20481
+2023/04/11 01:52:16 80970421 890d9cd8 [INFO Client 9520] Connected to mil01.login.pathofexile.com in 0ms.
+2023/04/11 01:52:20 80973750 88a904cb [DEBUG Client 9520] Got Instance Details from login server
+2023/04/11 01:52:20 80973765 32759a9f [INFO Client 9520] [SHADER] Delay: OFF
+2023/04/11 01:52:20 80973765 ca3a6a71 [INFO Client 9520] Connecting to instance server at 169.51.201.171:6112
+2023/04/11 01:52:20 80973812 ca3a4dbb [DEBUG Client 9520] Connect time to instance server was 31ms
+2023/04/11 01:52:20 80973875 1186a0e5 [DEBUG Client 9520] Generating level 69 area "2_11_endgame_town" with seed 1
+2023/04/11 01:52:20 80974093 f22b6987 [INFO Client 9520] Tile hash: 589033374
+2023/04/11 01:52:20 80974093 f22b6986 [INFO Client 9520] Doodad hash: 4274160400
+2023/04/11 01:52:23 80976468 11870f49 [DEBUG Client 9520] Joined guild named Голосовой чат discord.com/invite/nXFKHzJ with 193 members 
+2023/04/11 01:52:23 80977234 cffb071e [INFO Client 9520] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Берега Каруи.
+2023/04/11 01:52:24 80977500 cffb071e [INFO Client 9520] #DxDgladgodxPWNZxqtdeath: хотя я и не нюхал
+2023/04/11 01:52:24 80977593 cffb071e [INFO Client 9520] : Вы присоединились к Общему каналу чата 9 968.
+2023/04/11 01:52:24 80977906 32759a9f [INFO Client 9520] [SHADER] Delay: ON
+2023/04/11 01:52:24 80977921 374e0d22 [INFO Client 9520] [Item Filter] Preparing to download online filter 7Mr0AZHP
+2023/04/11 01:52:24 80977921 374e0cc3 [INFO Client 9520] [Item Filter] Hash for online filter 7Mr0AZHP is: 55b166a332ae6c51a1c0cef67a526c5a
+2023/04/11 01:52:24 80978046 374e0cc9 [INFO Client 9520] [Item Filter] Online item filter 7Mr0AZHP returned status: 200
+2023/04/11 01:52:24 80978046 374e0ce3 [DEBUG Client 9520] [Item Filter] Online item filter request resolved to: 209.197.3.101
+2023/04/11 01:52:24 80978046 374e0e8e [DEBUG Client 9520] [Item Filter] X-HW: 1681167140.dop216.ve1.t,1681167140.cds220.ve1.shn,1681167140.dop216.ve1.t,1681167140.cds241.ve1.c
+2023/04/11 01:52:24 80978062 374df808 [INFO Client 9520] [Item Filter] Successfully saved online filter 7Mr0AZHP. Hash is now: 55b166a332ae6c51a1c0cef67a526c5a
+2023/04/11 01:52:24 80978062 7884752a [INFO Client 9520] [Item Filter] Finished reloading online filter 7Mr0AZHP. Result: true. Hash: 55b166a332ae6c51a1c0cef67a526c5a. Type: Normal. Message: 
+2023/04/11 01:53:18 81031515 88a904cb [DEBUG Client 9520] Got Instance Details from login server
+2023/04/11 01:53:18 81031531 32759a9f [INFO Client 9520] [SHADER] Delay: OFF
+2023/04/11 01:53:18 81031531 ca3a6a71 [INFO Client 9520] Connecting to instance server at 169.51.201.171:6112
+2023/04/11 01:53:18 81031593 ca3a4dbb [DEBUG Client 9520] Connect time to instance server was 31ms
+2023/04/11 01:53:18 81031640 1186a0e5 [DEBUG Client 9520] Generating level 68 area "MapWorldsColonnade" with seed 1653144559
+2023/04/11 01:53:20 81033546 f22b6987 [INFO Client 9520] Tile hash: 2832758925
+2023/04/11 01:53:20 81033546 f22b6986 [INFO Client 9520] Doodad hash: 3394231243
+2023/04/11 01:53:20 81034187 11870f49 [DEBUG Client 9520] Joined guild named Голосовой чат discord.com/invite/nXFKHzJ with 193 members 
+2023/04/11 01:53:21 81034859 cffb071e [INFO Client 9520] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Колоннада.
+2023/04/11 01:53:22 81035718 32759a9f [INFO Client 9520] [SHADER] Delay: ON
+2023/04/11 01:54:13 81086750 cffb071e [INFO Client 9520] : DeeToxilistaIIIXXI был повержен.
+2023/04/11 01:54:15 81088921 88a904cb [DEBUG Client 9520] Got Instance Details from login server
+2023/04/11 01:54:15 81088921 32759a9f [INFO Client 9520] [SHADER] Delay: OFF
+2023/04/11 01:54:15 81088921 ca3a6a71 [INFO Client 9520] Connecting to instance server at 169.51.201.166:6112
+2023/04/11 01:54:15 81088968 ca3a4dbb [DEBUG Client 9520] Connect time to instance server was 32ms
+2023/04/11 01:54:15 81089031 1186a0e5 [DEBUG Client 9520] Generating level 69 area "2_11_endgame_town" with seed 1
+2023/04/11 01:54:15 81089312 f22b6987 [INFO Client 9520] Tile hash: 589033374
+2023/04/11 01:54:15 81089312 f22b6986 [INFO Client 9520] Doodad hash: 4274160400
+2023/04/11 01:54:16 81089796 11870f49 [DEBUG Client 9520] Joined guild named Голосовой чат discord.com/invite/nXFKHzJ with 193 members 
+2023/04/11 01:54:16 81090406 cffb071e [INFO Client 9520] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Берега Каруи.
+2023/04/11 01:54:17 81091125 32759a9f [INFO Client 9520] [SHADER] Delay: ON
+2023/04/11 01:54:26 81099812 88a904cb [DEBUG Client 9520] Got Instance Details from login server
+2023/04/11 01:54:26 81099812 32759a9f [INFO Client 9520] [SHADER] Delay: OFF
+2023/04/11 01:54:26 81099812 ca3a6a71 [INFO Client 9520] Connecting to instance server at 169.51.201.171:6112
+2023/04/11 01:54:26 81099875 ca3a4dbb [DEBUG Client 9520] Connect time to instance server was 47ms
+2023/04/11 01:54:26 81099937 1186a0e5 [DEBUG Client 9520] Generating level 68 area "MapWorldsColonnade" with seed 1653144559
+2023/04/11 01:54:26 81100062 f22b6987 [INFO Client 9520] Tile hash: 2832758925
+2023/04/11 01:54:26 81100062 f22b6986 [INFO Client 9520] Doodad hash: 3394231243
+2023/04/11 01:54:27 81100765 11870f49 [DEBUG Client 9520] Joined guild named Голосовой чат discord.com/invite/nXFKHzJ with 193 members 
+2023/04/11 01:54:27 81101328 cffb071e [INFO Client 9520] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Колоннада.
+2023/04/11 01:54:28 81101875 32759a9f [INFO Client 9520] [SHADER] Delay: ON
+2023/04/11 02:01:31 81524875 cffb071e [INFO Client 9520] : DeeToxilistaIIIXXI был повержен.
+2023/04/11 02:01:33 81526718 88a904cb [DEBUG Client 9520] Got Instance Details from login server
+2023/04/11 02:01:33 81526718 32759a9f [INFO Client 9520] [SHADER] Delay: OFF
+2023/04/11 02:01:33 81526718 ca3a6a71 [INFO Client 9520] Connecting to instance server at 169.51.201.142:6112
+2023/04/11 02:01:33 81526765 ca3a4dbb [DEBUG Client 9520] Connect time to instance server was 32ms
+2023/04/11 02:01:33 81526828 1186a0e5 [DEBUG Client 9520] Generating level 69 area "2_11_endgame_town" with seed 1
+2023/04/11 02:01:33 81527281 f22b6987 [INFO Client 9520] Tile hash: 589033374
+2023/04/11 02:01:33 81527281 f22b6986 [INFO Client 9520] Doodad hash: 4274160400
+2023/04/11 02:01:34 81527609 11870f49 [DEBUG Client 9520] Joined guild named Голосовой чат discord.com/invite/nXFKHzJ with 193 members 
+2023/04/11 02:01:34 81528328 cffb071e [INFO Client 9520] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Берега Каруи.
+2023/04/11 02:01:35 81529046 32759a9f [INFO Client 9520] [SHADER] Delay: ON
+2023/04/11 02:02:34 81588281 cffb071e [INFO Client 9520] : В вашей секции сундука с привязкой "Уникальные предметы" недостаточно места для этого предмета.
+2023/04/11 02:02:36 81590234 cffb071e [INFO Client 9520] : В вашей секции сундука с привязкой "Уникальные предметы" недостаточно места для этого предмета.
+2023/04/11 02:04:00 81673828 bce2d656 [INFO Client 9520] Achivement stored: AllWaypoints
+2023/04/11 02:04:00 81673968 bce2d691 [INFO Client 9520] Steam stats stored
+2023/04/11 02:04:01 81674937 cffb071e [INFO Client 9520] : Указанный предмет уничтожен
+2023/04/11 02:05:13 81746453 88a904cb [DEBUG Client 9520] Got Instance Details from login server
+2023/04/11 02:05:13 81746453 32759a9f [INFO Client 9520] [SHADER] Delay: OFF
+2023/04/11 02:05:13 81746453 ca3a6a71 [INFO Client 9520] Connecting to instance server at 169.51.201.140:6112
+2023/04/11 02:05:13 81746515 ca3a4dbb [DEBUG Client 9520] Connect time to instance server was 47ms
+2023/04/11 02:05:13 81746578 1186a0e5 [DEBUG Client 9520] Generating level 70 area "MapWorldsStrand" with seed 1101555687
+2023/04/11 02:05:13 81747171 f22b6987 [INFO Client 9520] Tile hash: 3828010952
+2023/04/11 02:05:13 81747171 f22b6986 [INFO Client 9520] Doodad hash: 10112901
+2023/04/11 02:05:14 81748343 11870f49 [DEBUG Client 9520] Joined guild named Голосовой чат discord.com/invite/nXFKHzJ with 193 members 
+2023/04/11 02:05:15 81748953 cffb071e [INFO Client 9520] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Взморье.
+2023/04/11 02:05:16 81749562 32759a9f [INFO Client 9520] [SHADER] Delay: ON
+2023/04/11 02:07:40 81894000 cffb071e [INFO Client 9520] Ошаби: Сюда, изгнанница.
+2023/04/11 02:07:48 81901796 cffb071e [INFO Client 9520] Ошаби: Упокой это порождение.
+2023/04/11 02:10:55 82089281 cffb071e [INFO Client 9520] : DeeToxilistaIIIXXI (Следопыт) достигает 78 уровня
+2023/04/11 02:11:34 82128250 fb7abcab [INFO Client 9520] Successfully allocated passive skill id: attack_damage_notable2242, name: Залп
