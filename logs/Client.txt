@@ -466,3 +466,1287 @@
 2023/04/10 05:12:35 6588781 b51d610e [INFO Client 10088] [RENDER] Disable Async: 1 frames
 2023/04/10 05:12:35 6588781 9d4eec8a [DEBUG Client 10088] [WINDOW] TrigggerDeviceLost
 2023/04/10 05:12:35 6588781 9d4eeba7 [DEBUG Client 10088] [WINDOW] TrigggerDeviceReset
+2023/04/10 05:13:40 6654343 b51d4f61 [DEBUG Client 10088] [RENDER] SetRendererSettings
+2023/04/10 05:13:40 6654343 b51d6447 [DEBUG Client 10088] [RENDER] ResizeWindow
+2023/04/10 05:13:40 6654343 b51d614c [DEBUG Client 10088] [RENDER] RestartSwapChain
+2023/04/10 05:13:40 6654343 9e6a0b0a [INFO Client 10088] Enumerated adapter: NVIDIA GeForce GTX 1660
+2023/04/10 05:13:40 6654390 9e6a1d2a [INFO Client 10088] Enumerated device for adapter: NVIDIA GeForce GTX 1660. Selected feature level: 45312. Max feature level: 45312
+2023/04/10 05:13:40 6654390 9e6a1363 [INFO Client 10088] Enumerated output for adapter NVIDIA GeForce GTX 1660 of \\.\DISPLAY1
+2023/04/10 05:13:40 6654390 9e6a0b0a [INFO Client 10088] Enumerated adapter: Microsoft Basic Render Driver
+2023/04/10 05:13:40 6654406 9e6a1d2a [INFO Client 10088] Enumerated device for adapter: Microsoft Basic Render Driver. Selected feature level: 45312. Max feature level: 45312
+2023/04/10 05:13:40 6654406 fafff8cf [DEBUG Client 10088] CreateSwapChain: SetFullScreenState 1
+2023/04/10 05:13:41 6654453 9d4eec8a [DEBUG Client 10088] [WINDOW] TrigggerDeviceLost
+2023/04/10 05:13:41 6654453 9d4eeba7 [DEBUG Client 10088] [WINDOW] TrigggerDeviceReset
+2023/04/10 05:13:41 6654484 3275a75e [INFO Client 10088] [SHADER] Disable Async: 1 frames
+2023/04/10 05:13:41 6654484 b51d610e [INFO Client 10088] [RENDER] Disable Async: 1 frames
+2023/04/10 05:13:42 6655812 890d9d5f [INFO Client 10088] Async connecting to mil01.login.pathofexile.com:20481
+2023/04/10 05:13:42 6655828 890d9cd8 [INFO Client 10088] Connected to mil01.login.pathofexile.com in 0ms.
+2023/04/10 05:13:44 6658343 b51d4f61 [DEBUG Client 10088] [RENDER] SetRendererSettings
+2023/04/10 05:13:44 6658343 b51d6447 [DEBUG Client 10088] [RENDER] ResizeWindow
+2023/04/10 05:13:44 6658343 9d4eec8a [DEBUG Client 10088] [WINDOW] TrigggerDeviceLost
+2023/04/10 05:13:44 6658359 9d4eeba7 [DEBUG Client 10088] [WINDOW] TrigggerDeviceReset
+2023/04/10 05:13:44 6658375 b51d614c [DEBUG Client 10088] [RENDER] RestartSwapChain
+2023/04/10 05:13:44 6658375 9e6a0b0a [INFO Client 10088] Enumerated adapter: NVIDIA GeForce GTX 1660
+2023/04/10 05:13:45 6658437 9e6a1d2a [INFO Client 10088] Enumerated device for adapter: NVIDIA GeForce GTX 1660. Selected feature level: 45312. Max feature level: 45312
+2023/04/10 05:13:45 6658437 9e6a1363 [INFO Client 10088] Enumerated output for adapter NVIDIA GeForce GTX 1660 of \\.\DISPLAY1
+2023/04/10 05:13:45 6658437 9e6a0b0a [INFO Client 10088] Enumerated adapter: Microsoft Basic Render Driver
+2023/04/10 05:13:45 6658453 9e6a1d2a [INFO Client 10088] Enumerated device for adapter: Microsoft Basic Render Driver. Selected feature level: 45312. Max feature level: 45312
+2023/04/10 05:13:45 6658500 9d4eec8a [DEBUG Client 10088] [WINDOW] TrigggerDeviceLost
+2023/04/10 05:13:45 6658515 9d4eeba7 [DEBUG Client 10088] [WINDOW] TrigggerDeviceReset
+2023/04/10 05:13:45 6658531 fafff8cf [DEBUG Client 10088] CreateSwapChain: SetFullScreenState 0
+2023/04/10 05:13:45 6658531 9d4eec8a [DEBUG Client 10088] [WINDOW] TrigggerDeviceLost
+2023/04/10 05:13:45 6658531 9d4eeba7 [DEBUG Client 10088] [WINDOW] TrigggerDeviceReset
+2023/04/10 05:13:45 6658546 3275a75e [INFO Client 10088] [SHADER] Disable Async: 1 frames
+2023/04/10 05:13:45 6658546 b51d610e [INFO Client 10088] [RENDER] Disable Async: 1 frames
+2023/04/10 05:13:45 6658546 9d4eec8a [DEBUG Client 10088] [WINDOW] TrigggerDeviceLost
+2023/04/10 05:13:45 6658546 9d4eeba7 [DEBUG Client 10088] [WINDOW] TrigggerDeviceReset
+2023/04/10 05:14:54 6728000 b51d4f61 [DEBUG Client 10088] [RENDER] SetRendererSettings
+2023/04/10 05:14:54 6728000 b51d6447 [DEBUG Client 10088] [RENDER] ResizeWindow
+2023/04/10 05:14:54 6728000 b51d614c [DEBUG Client 10088] [RENDER] RestartSwapChain
+2023/04/10 05:14:54 6728015 9e6a0b0a [INFO Client 10088] Enumerated adapter: NVIDIA GeForce GTX 1660
+2023/04/10 05:14:54 6728062 9e6a1d2a [INFO Client 10088] Enumerated device for adapter: NVIDIA GeForce GTX 1660. Selected feature level: 45312. Max feature level: 45312
+2023/04/10 05:14:54 6728062 9e6a1363 [INFO Client 10088] Enumerated output for adapter NVIDIA GeForce GTX 1660 of \\.\DISPLAY1
+2023/04/10 05:14:54 6728062 9e6a0b0a [INFO Client 10088] Enumerated adapter: Microsoft Basic Render Driver
+2023/04/10 05:14:54 6728062 9e6a1d2a [INFO Client 10088] Enumerated device for adapter: Microsoft Basic Render Driver. Selected feature level: 45312. Max feature level: 45312
+2023/04/10 05:14:54 6728062 fafff8cf [DEBUG Client 10088] CreateSwapChain: SetFullScreenState 1
+2023/04/10 05:14:54 6728109 9d4eec8a [DEBUG Client 10088] [WINDOW] TrigggerDeviceLost
+2023/04/10 05:14:54 6728125 9d4eeba7 [DEBUG Client 10088] [WINDOW] TrigggerDeviceReset
+2023/04/10 05:14:54 6728140 3275a75e [INFO Client 10088] [SHADER] Disable Async: 1 frames
+2023/04/10 05:14:54 6728140 b51d610e [INFO Client 10088] [RENDER] Disable Async: 1 frames
+2023/04/10 05:14:56 6730250 88a904cb [DEBUG Client 10088] Got Instance Details from login server
+2023/04/10 05:14:56 6730250 32759a9f [INFO Client 10088] [SHADER] Delay: OFF
+2023/04/10 05:14:56 6730250 ca3a6a71 [INFO Client 10088] Connecting to instance server at 159.122.142.234:6112
+2023/04/10 05:14:56 6730296 ca3a4dbb [DEBUG Client 10088] Connect time to instance server was 31ms
+2023/04/10 05:14:56 6730375 1186a0e5 [DEBUG Client 10088] Generating level 69 area "2_10_town" with seed 1
+2023/04/10 05:14:58 6731546 f22b6987 [INFO Client 10088] Tile hash: 3862614232
+2023/04/10 05:14:58 6731546 f22b6986 [INFO Client 10088] Doodad hash: 2693664852
+2023/04/10 05:14:59 6732968 11870f49 [DEBUG Client 10088] Joined guild named Голосовой чат discord.com/invite/nXFKHzJ with 193 members 
+2023/04/10 05:15:00 6733625 cffb071e [INFO Client 10088] &: ОБЪЯВЛЕНИЕ ГИЛЬДИИ: В гостяк у CARDIFF 
+2023/04/10 05:15:00 6733890 cffb071e [INFO Client 10088] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Доки Ориата.
+2023/04/10 05:15:00 6734265 cffb071e [INFO Client 10088] : Вы присоединились к Общему каналу чата 9 968.
+2023/04/10 05:15:01 6734468 32759a9f [INFO Client 10088] [SHADER] Delay: ON
+2023/04/10 05:15:01 6734484 374e0d22 [INFO Client 10088] [Item Filter] Preparing to download online filter G4AtJ5
+2023/04/10 05:15:01 6734484 374e0cc3 [INFO Client 10088] [Item Filter] Hash for online filter G4AtJ5 is: f0db4894045a1a226b9a5ab288efcbe8
+2023/04/10 05:15:01 6734609 374e0cc9 [INFO Client 10088] [Item Filter] Online item filter G4AtJ5 returned status: 200
+2023/04/10 05:15:01 6734609 374e0ce3 [DEBUG Client 10088] [Item Filter] Online item filter request resolved to: 209.197.3.101
+2023/04/10 05:15:01 6734609 374e0e8e [DEBUG Client 10088] [Item Filter] X-HW: 1681092900.dop224.ve1.t,1681092900.cds208.ve1.shn,1681092900.dop224.ve1.t,1681092900.cds260.ve1.c
+2023/04/10 05:15:01 6734609 374df808 [INFO Client 10088] [Item Filter] Successfully saved online filter G4AtJ5. Hash is now: f0db4894045a1a226b9a5ab288efcbe8
+2023/04/10 05:15:01 6734625 7884752a [INFO Client 10088] [Item Filter] Finished reloading online filter G4AtJ5. Result: true. Hash: f0db4894045a1a226b9a5ab288efcbe8. Type: Normal. Message: 
+2023/04/10 05:15:09 6742968 374e128b [INFO Client 10088] [Item Filter] Downloading online list
+2023/04/10 05:15:10 6743640 374e12ec [INFO Client 10088] [Item Filter] Online list returned status: 200
+2023/04/10 05:15:10 6743640 374e12e6 [DEBUG Client 10088] [Item Filter] Online list request resolved to: 209.197.3.101
+2023/04/10 05:15:10 6743640 374df908 [INFO Client 10088] [Item Filter] List contained online filter 7Mr0AZHP with hash: 0708546e06682bd51df5b0e702f33aed (local hash is: bde292f2d937d7aca73b74ed63adf3e7)
+2023/04/10 05:15:10 6743640 374df908 [INFO Client 10088] [Item Filter] List contained online filter G4AtJ5 with hash: f0db4894045a1a226b9a5ab288efcbe8 (local hash is: f0db4894045a1a226b9a5ab288efcbe8)
+2023/04/10 05:15:10 6743640 374df908 [INFO Client 10088] [Item Filter] List contained online filter GmjoTD with hash: 65680df1f434b4f9bc70c57f1d911daa (local hash is: 65680df1f434b4f9bc70c57f1d911daa)
+2023/04/10 05:15:10 6743640 374df908 [INFO Client 10088] [Item Filter] List contained online filter 5XMehq with hash: c219e68a17153050d0f25fa99a53678a (local hash is: c219e68a17153050d0f25fa99a53678a)
+2023/04/10 05:15:10 6743640 374df908 [INFO Client 10088] [Item Filter] List contained online filter GmXoTD with hash: 7c076e3fd4373fc359418079e4488f0b (local hash is: 7c076e3fd4373fc359418079e4488f0b)
+2023/04/10 05:15:10 6743640 374df908 [INFO Client 10088] [Item Filter] List contained online filter wvPeTJ with hash: 0177e469efb849660e2d7a9f21416034 (local hash is: 0177e469efb849660e2d7a9f21416034)
+2023/04/10 05:15:11 6744984 374e0d22 [INFO Client 10088] [Item Filter] Preparing to download online filter 7Mr0AZHP
+2023/04/10 05:15:11 6744984 374e0cc3 [INFO Client 10088] [Item Filter] Hash for online filter 7Mr0AZHP is: bde292f2d937d7aca73b74ed63adf3e7
+2023/04/10 05:15:12 6746015 374e0cc9 [INFO Client 10088] [Item Filter] Online item filter 7Mr0AZHP returned status: 200
+2023/04/10 05:15:12 6746015 374e0ce3 [DEBUG Client 10088] [Item Filter] Online item filter request resolved to: 209.197.3.101
+2023/04/10 05:15:12 6746015 374e0e8e [DEBUG Client 10088] [Item Filter] X-HW: 1681092911.dop224.ve1.t,1681092911.cds236.ve1.shn,1681092911.dop224.ve1.t,1681092911.cds241.ve1.s,1681092911.dop132.da2.r,1681092911.cds246.da2.p,1681092911.cds241.ve1.p
+2023/04/10 05:15:12 6746015 374df808 [INFO Client 10088] [Item Filter] Successfully saved online filter 7Mr0AZHP. Hash is now: 0708546e06682bd51df5b0e702f33aed
+2023/04/10 05:15:12 6746031 7884752a [INFO Client 10088] [Item Filter] Finished reloading online filter 7Mr0AZHP. Result: true. Hash: 0708546e06682bd51df5b0e702f33aed. Type: Normal. Message: 
+2023/04/10 05:15:14 6747687 374e0d22 [INFO Client 10088] [Item Filter] Preparing to download online filter G4AtJ5
+2023/04/10 05:15:14 6747687 374e0cc3 [INFO Client 10088] [Item Filter] Hash for online filter G4AtJ5 is: f0db4894045a1a226b9a5ab288efcbe8
+2023/04/10 05:15:14 6747843 374e0cc9 [INFO Client 10088] [Item Filter] Online item filter G4AtJ5 returned status: 200
+2023/04/10 05:15:14 6747843 374e0ce3 [DEBUG Client 10088] [Item Filter] Online item filter request resolved to: 209.197.3.101
+2023/04/10 05:15:14 6747843 374e0e8e [DEBUG Client 10088] [Item Filter] X-HW: 1681092913.dop208.ve1.t,1681092914.cds239.ve1.shn,1681092914.dop208.ve1.t,1681092914.cds260.ve1.c
+2023/04/10 05:15:14 6747859 374df808 [INFO Client 10088] [Item Filter] Successfully saved online filter G4AtJ5. Hash is now: f0db4894045a1a226b9a5ab288efcbe8
+2023/04/10 05:15:14 6747859 7884752a [INFO Client 10088] [Item Filter] Finished reloading online filter G4AtJ5. Result: true. Hash: f0db4894045a1a226b9a5ab288efcbe8. Type: Normal. Message: 
+2023/04/10 05:15:17 6751328 cffb071e [INFO Client 10088] : Не удалось применить предмет: Цель уже опознана.
+2023/04/10 05:15:29 6762921 88a904cb [DEBUG Client 10088] Got Instance Details from login server
+2023/04/10 05:15:29 6762921 32759a9f [INFO Client 10088] [SHADER] Delay: OFF
+2023/04/10 05:15:29 6762921 ca3a6a71 [INFO Client 10088] Connecting to instance server at 169.51.201.190:6112
+2023/04/10 05:15:29 6762968 ca3a4dbb [DEBUG Client 10088] Connect time to instance server was 32ms
+2023/04/10 05:15:29 6763015 1186a0e5 [DEBUG Client 10088] Generating level 20 area "HideoutCoral" with seed 1
+2023/04/10 05:15:29 6763218 f22b6987 [INFO Client 10088] Tile hash: 805187908
+2023/04/10 05:15:29 6763218 f22b6986 [INFO Client 10088] Doodad hash: 0
+2023/04/10 05:15:30 6763984 11870f49 [DEBUG Client 10088] Joined guild named Голосовой чат discord.com/invite/nXFKHzJ with 193 members 
+2023/04/10 05:15:31 6764687 cffb071e [INFO Client 10088] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Коралловое убежище.
+2023/04/10 05:15:31 6765281 32759a9f [INFO Client 10088] [SHADER] Delay: ON
+2023/04/10 05:16:41 6834562 cffb071e [INFO Client 10088] : Сделка совершена.
+2023/04/10 05:16:49 6842781 88a904cb [DEBUG Client 10088] Got Instance Details from login server
+2023/04/10 05:16:49 6842781 32759a9f [INFO Client 10088] [SHADER] Delay: OFF
+2023/04/10 05:16:49 6842781 ca3a6a71 [INFO Client 10088] Connecting to instance server at 169.51.201.138:6112
+2023/04/10 05:16:49 6842828 ca3a4dbb [DEBUG Client 10088] Connect time to instance server was 31ms
+2023/04/10 05:16:49 6842875 1186a0e5 [DEBUG Client 10088] Generating level 64 area "2_10_2" with seed 2275962541
+2023/04/10 05:16:50 6843687 f22b6987 [INFO Client 10088] Tile hash: 277692208
+2023/04/10 05:16:50 6843687 f22b6986 [INFO Client 10088] Doodad hash: 1095436865
+2023/04/10 05:16:50 6844312 11870f49 [DEBUG Client 10088] Joined guild named Голосовой чат discord.com/invite/nXFKHzJ with 193 members 
+2023/04/10 05:16:51 6844921 cffb071e [INFO Client 10088] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Разорённая площадь.
+2023/04/10 05:16:52 6845531 32759a9f [INFO Client 10088] [SHADER] Delay: ON
+2023/04/10 05:17:53 6906437 b51d4f61 [DEBUG Client 10088] [RENDER] SetRendererSettings
+2023/04/10 05:17:53 6906437 b51d6447 [DEBUG Client 10088] [RENDER] ResizeWindow
+2023/04/10 05:17:53 6906453 9d4eec8a [DEBUG Client 10088] [WINDOW] TrigggerDeviceLost
+2023/04/10 05:17:53 6906484 9d4eeba7 [DEBUG Client 10088] [WINDOW] TrigggerDeviceReset
+2023/04/10 05:17:53 6907093 b51d614c [DEBUG Client 10088] [RENDER] RestartSwapChain
+2023/04/10 05:17:53 6907093 9e6a0b0a [INFO Client 10088] Enumerated adapter: NVIDIA GeForce GTX 1660
+2023/04/10 05:17:53 6907140 9e6a1d2a [INFO Client 10088] Enumerated device for adapter: NVIDIA GeForce GTX 1660. Selected feature level: 45312. Max feature level: 45312
+2023/04/10 05:17:53 6907140 9e6a1363 [INFO Client 10088] Enumerated output for adapter NVIDIA GeForce GTX 1660 of \\.\DISPLAY1
+2023/04/10 05:17:53 6907140 9e6a0b0a [INFO Client 10088] Enumerated adapter: Microsoft Basic Render Driver
+2023/04/10 05:17:53 6907140 9e6a1d2a [INFO Client 10088] Enumerated device for adapter: Microsoft Basic Render Driver. Selected feature level: 45312. Max feature level: 45312
+2023/04/10 05:17:53 6907171 9d4eec8a [DEBUG Client 10088] [WINDOW] TrigggerDeviceLost
+2023/04/10 05:17:53 6907234 9d4eeba7 [DEBUG Client 10088] [WINDOW] TrigggerDeviceReset
+2023/04/10 05:17:54 6908125 fafff8cf [DEBUG Client 10088] CreateSwapChain: SetFullScreenState 0
+2023/04/10 05:17:54 6908125 9d4eec8a [DEBUG Client 10088] [WINDOW] TrigggerDeviceLost
+2023/04/10 05:17:54 6908203 9d4eeba7 [DEBUG Client 10088] [WINDOW] TrigggerDeviceReset
+2023/04/10 05:17:55 6909203 3275a75e [INFO Client 10088] [SHADER] Disable Async: 1 frames
+2023/04/10 05:17:55 6909203 b51d610e [INFO Client 10088] [RENDER] Disable Async: 1 frames
+2023/04/10 05:17:55 6909203 9d4eec8a [DEBUG Client 10088] [WINDOW] TrigggerDeviceLost
+2023/04/10 05:17:55 6909281 9d4eeba7 [DEBUG Client 10088] [WINDOW] TrigggerDeviceReset
+2023/04/10 05:18:48 6961593 b51d4f61 [DEBUG Client 10088] [RENDER] SetRendererSettings
+2023/04/10 05:18:48 6961593 b51d6447 [DEBUG Client 10088] [RENDER] ResizeWindow
+2023/04/10 05:18:48 6961609 b51d614c [DEBUG Client 10088] [RENDER] RestartSwapChain
+2023/04/10 05:18:48 6961609 9e6a0b0a [INFO Client 10088] Enumerated adapter: NVIDIA GeForce GTX 1660
+2023/04/10 05:18:48 6961656 9e6a1d2a [INFO Client 10088] Enumerated device for adapter: NVIDIA GeForce GTX 1660. Selected feature level: 45312. Max feature level: 45312
+2023/04/10 05:18:48 6961656 9e6a1363 [INFO Client 10088] Enumerated output for adapter NVIDIA GeForce GTX 1660 of \\.\DISPLAY1
+2023/04/10 05:18:48 6961656 9e6a0b0a [INFO Client 10088] Enumerated adapter: Microsoft Basic Render Driver
+2023/04/10 05:18:48 6961656 9e6a1d2a [INFO Client 10088] Enumerated device for adapter: Microsoft Basic Render Driver. Selected feature level: 45312. Max feature level: 45312
+2023/04/10 05:18:48 6961656 fafff8cf [DEBUG Client 10088] CreateSwapChain: SetFullScreenState 1
+2023/04/10 05:18:48 6961718 9d4eec8a [DEBUG Client 10088] [WINDOW] TrigggerDeviceLost
+2023/04/10 05:18:48 6961750 9d4eeba7 [DEBUG Client 10088] [WINDOW] TrigggerDeviceReset
+2023/04/10 05:18:48 6962406 3275a75e [INFO Client 10088] [SHADER] Disable Async: 1 frames
+2023/04/10 05:18:48 6962406 b51d610e [INFO Client 10088] [RENDER] Disable Async: 1 frames
+2023/04/10 05:19:36 7009984 b51d4f61 [DEBUG Client 10088] [RENDER] SetRendererSettings
+2023/04/10 05:19:36 7009984 b51d6447 [DEBUG Client 10088] [RENDER] ResizeWindow
+2023/04/10 05:19:36 7009984 9d4eec8a [DEBUG Client 10088] [WINDOW] TrigggerDeviceLost
+2023/04/10 05:19:36 7010015 9d4eeba7 [DEBUG Client 10088] [WINDOW] TrigggerDeviceReset
+2023/04/10 05:19:37 7010671 b51d614c [DEBUG Client 10088] [RENDER] RestartSwapChain
+2023/04/10 05:19:37 7010671 9e6a0b0a [INFO Client 10088] Enumerated adapter: NVIDIA GeForce GTX 1660
+2023/04/10 05:19:37 7010718 9e6a1d2a [INFO Client 10088] Enumerated device for adapter: NVIDIA GeForce GTX 1660. Selected feature level: 45312. Max feature level: 45312
+2023/04/10 05:19:37 7010718 9e6a1363 [INFO Client 10088] Enumerated output for adapter NVIDIA GeForce GTX 1660 of \\.\DISPLAY1
+2023/04/10 05:19:37 7010718 9e6a0b0a [INFO Client 10088] Enumerated adapter: Microsoft Basic Render Driver
+2023/04/10 05:19:37 7010718 9e6a1d2a [INFO Client 10088] Enumerated device for adapter: Microsoft Basic Render Driver. Selected feature level: 45312. Max feature level: 45312
+2023/04/10 05:19:37 7010750 9d4eec8a [DEBUG Client 10088] [WINDOW] TrigggerDeviceLost
+2023/04/10 05:19:37 7010828 9d4eeba7 [DEBUG Client 10088] [WINDOW] TrigggerDeviceReset
+2023/04/10 05:19:38 7012171 fafff8cf [DEBUG Client 10088] CreateSwapChain: SetFullScreenState 0
+2023/04/10 05:19:38 7012171 9d4eec8a [DEBUG Client 10088] [WINDOW] TrigggerDeviceLost
+2023/04/10 05:19:38 7012234 9d4eeba7 [DEBUG Client 10088] [WINDOW] TrigggerDeviceReset
+2023/04/10 05:19:40 7013531 3275a75e [INFO Client 10088] [SHADER] Disable Async: 1 frames
+2023/04/10 05:19:40 7013531 b51d610e [INFO Client 10088] [RENDER] Disable Async: 1 frames
+2023/04/10 05:19:40 7013531 9d4eec8a [DEBUG Client 10088] [WINDOW] TrigggerDeviceLost
+2023/04/10 05:19:40 7013593 9d4eeba7 [DEBUG Client 10088] [WINDOW] TrigggerDeviceReset
+2023/04/10 05:19:45 7018656 b51d4f61 [DEBUG Client 10088] [RENDER] SetRendererSettings
+2023/04/10 05:19:45 7018656 b51d6447 [DEBUG Client 10088] [RENDER] ResizeWindow
+2023/04/10 05:19:45 7018671 b51d614c [DEBUG Client 10088] [RENDER] RestartSwapChain
+2023/04/10 05:19:45 7018671 9e6a0b0a [INFO Client 10088] Enumerated adapter: NVIDIA GeForce GTX 1660
+2023/04/10 05:19:45 7018703 9e6a1d2a [INFO Client 10088] Enumerated device for adapter: NVIDIA GeForce GTX 1660. Selected feature level: 45312. Max feature level: 45312
+2023/04/10 05:19:45 7018703 9e6a1363 [INFO Client 10088] Enumerated output for adapter NVIDIA GeForce GTX 1660 of \\.\DISPLAY1
+2023/04/10 05:19:45 7018703 9e6a0b0a [INFO Client 10088] Enumerated adapter: Microsoft Basic Render Driver
+2023/04/10 05:19:45 7018703 9e6a1d2a [INFO Client 10088] Enumerated device for adapter: Microsoft Basic Render Driver. Selected feature level: 45312. Max feature level: 45312
+2023/04/10 05:19:45 7018718 fafff8cf [DEBUG Client 10088] CreateSwapChain: SetFullScreenState 1
+2023/04/10 05:19:45 7018781 9d4eec8a [DEBUG Client 10088] [WINDOW] TrigggerDeviceLost
+2023/04/10 05:19:45 7018812 9d4eeba7 [DEBUG Client 10088] [WINDOW] TrigggerDeviceReset
+2023/04/10 05:19:46 7019515 3275a75e [INFO Client 10088] [SHADER] Disable Async: 1 frames
+2023/04/10 05:19:46 7019515 b51d610e [INFO Client 10088] [RENDER] Disable Async: 1 frames
+2023/04/10 05:19:50 7023687 b51d4f61 [DEBUG Client 10088] [RENDER] SetRendererSettings
+2023/04/10 05:19:50 7023687 b51d6447 [DEBUG Client 10088] [RENDER] ResizeWindow
+2023/04/10 05:19:50 7023687 9d4eec8a [DEBUG Client 10088] [WINDOW] TrigggerDeviceLost
+2023/04/10 05:19:50 7023703 9d4eeba7 [DEBUG Client 10088] [WINDOW] TrigggerDeviceReset
+2023/04/10 05:19:51 7024421 b51d614c [DEBUG Client 10088] [RENDER] RestartSwapChain
+2023/04/10 05:19:51 7024437 9e6a0b0a [INFO Client 10088] Enumerated adapter: NVIDIA GeForce GTX 1660
+2023/04/10 05:19:51 7024484 9e6a1d2a [INFO Client 10088] Enumerated device for adapter: NVIDIA GeForce GTX 1660. Selected feature level: 45312. Max feature level: 45312
+2023/04/10 05:19:51 7024484 9e6a1363 [INFO Client 10088] Enumerated output for adapter NVIDIA GeForce GTX 1660 of \\.\DISPLAY1
+2023/04/10 05:19:51 7024484 9e6a0b0a [INFO Client 10088] Enumerated adapter: Microsoft Basic Render Driver
+2023/04/10 05:19:51 7024484 9e6a1d2a [INFO Client 10088] Enumerated device for adapter: Microsoft Basic Render Driver. Selected feature level: 45312. Max feature level: 45312
+2023/04/10 05:19:51 7024500 9d4eec8a [DEBUG Client 10088] [WINDOW] TrigggerDeviceLost
+2023/04/10 05:19:51 7024562 9d4eeba7 [DEBUG Client 10088] [WINDOW] TrigggerDeviceReset
+2023/04/10 05:19:52 7026046 fafff8cf [DEBUG Client 10088] CreateSwapChain: SetFullScreenState 0
+2023/04/10 05:19:52 7026046 9d4eec8a [DEBUG Client 10088] [WINDOW] TrigggerDeviceLost
+2023/04/10 05:19:52 7026125 9d4eeba7 [DEBUG Client 10088] [WINDOW] TrigggerDeviceReset
+2023/04/10 05:19:54 7027718 3275a75e [INFO Client 10088] [SHADER] Disable Async: 1 frames
+2023/04/10 05:19:54 7027718 b51d610e [INFO Client 10088] [RENDER] Disable Async: 1 frames
+2023/04/10 05:19:54 7027718 9d4eec8a [DEBUG Client 10088] [WINDOW] TrigggerDeviceLost
+2023/04/10 05:19:54 7027796 9d4eeba7 [DEBUG Client 10088] [WINDOW] TrigggerDeviceReset
+2023/04/10 05:20:45 7079156 b51d4f61 [DEBUG Client 10088] [RENDER] SetRendererSettings
+2023/04/10 05:20:45 7079156 b51d6447 [DEBUG Client 10088] [RENDER] ResizeWindow
+2023/04/10 05:20:45 7079156 b51d614c [DEBUG Client 10088] [RENDER] RestartSwapChain
+2023/04/10 05:20:45 7079156 9e6a0b0a [INFO Client 10088] Enumerated adapter: NVIDIA GeForce GTX 1660
+2023/04/10 05:20:45 7079203 9e6a1d2a [INFO Client 10088] Enumerated device for adapter: NVIDIA GeForce GTX 1660. Selected feature level: 45312. Max feature level: 45312
+2023/04/10 05:20:45 7079203 9e6a1363 [INFO Client 10088] Enumerated output for adapter NVIDIA GeForce GTX 1660 of \\.\DISPLAY1
+2023/04/10 05:20:45 7079203 9e6a0b0a [INFO Client 10088] Enumerated adapter: Microsoft Basic Render Driver
+2023/04/10 05:20:45 7079203 9e6a1d2a [INFO Client 10088] Enumerated device for adapter: Microsoft Basic Render Driver. Selected feature level: 45312. Max feature level: 45312
+2023/04/10 05:20:45 7079203 fafff8cf [DEBUG Client 10088] CreateSwapChain: SetFullScreenState 1
+2023/04/10 05:20:45 7079281 9d4eec8a [DEBUG Client 10088] [WINDOW] TrigggerDeviceLost
+2023/04/10 05:20:45 7079296 9d4eeba7 [DEBUG Client 10088] [WINDOW] TrigggerDeviceReset
+2023/04/10 05:20:46 7080062 3275a75e [INFO Client 10088] [SHADER] Disable Async: 1 frames
+2023/04/10 05:20:46 7080062 b51d610e [INFO Client 10088] [RENDER] Disable Async: 1 frames
+2023/04/10 05:21:11 7105031 88a904cb [DEBUG Client 10088] Got Instance Details from login server
+2023/04/10 05:21:11 7105031 32759a9f [INFO Client 10088] [SHADER] Delay: OFF
+2023/04/10 05:21:11 7105031 ca3a6a71 [INFO Client 10088] Connecting to instance server at 169.51.201.169:6112
+2023/04/10 05:21:11 7105078 ca3a4dbb [DEBUG Client 10088] Connect time to instance server was 47ms
+2023/04/10 05:21:11 7105140 1186a0e5 [DEBUG Client 10088] Generating level 66 area "2_10_5" with seed 547615676
+2023/04/10 05:21:12 7105625 f22b6987 [INFO Client 10088] Tile hash: 4029034340
+2023/04/10 05:21:12 7105625 f22b6986 [INFO Client 10088] Doodad hash: 2043568656
+2023/04/10 05:21:12 7106203 11870f49 [DEBUG Client 10088] Joined guild named Голосовой чат discord.com/invite/nXFKHzJ with 193 members 
+2023/04/10 05:21:13 7106796 cffb071e [INFO Client 10088] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Каналы.
+2023/04/10 05:21:13 7107281 32759a9f [INFO Client 10088] [SHADER] Delay: ON
+2023/04/10 05:22:01 7155031 cffb071e [INFO Client 10088] : Не удалось применить предмет: Цель уже опознана.
+2023/04/10 05:23:05 7218671 cffb071e [INFO Client 10088] : DeeToxilistaIIIXXI был повержен.
+2023/04/10 05:23:37 7250859 cffb071e [INFO Client 10088] : Не удалось применить предмет: Невозможно опознать предмет.
+2023/04/10 05:23:38 7251578 cffb071e [INFO Client 10088] : Не удалось применить предмет: Цель уже опознана.
+2023/04/10 05:25:37 7371218 374e128b [INFO Client 10088] [Item Filter] Downloading online list
+2023/04/10 05:25:38 7371890 374e12ec [INFO Client 10088] [Item Filter] Online list returned status: 200
+2023/04/10 05:25:38 7371890 374e12e6 [DEBUG Client 10088] [Item Filter] Online list request resolved to: 209.197.3.101
+2023/04/10 05:25:38 7371890 374df908 [INFO Client 10088] [Item Filter] List contained online filter 7Mr0AZHP with hash: 0708546e06682bd51df5b0e702f33aed (local hash is: 0708546e06682bd51df5b0e702f33aed)
+2023/04/10 05:25:38 7371890 374df908 [INFO Client 10088] [Item Filter] List contained online filter G4AtJ5 with hash: f0db4894045a1a226b9a5ab288efcbe8 (local hash is: f0db4894045a1a226b9a5ab288efcbe8)
+2023/04/10 05:25:38 7371890 374df908 [INFO Client 10088] [Item Filter] List contained online filter GmjoTD with hash: 65680df1f434b4f9bc70c57f1d911daa (local hash is: 65680df1f434b4f9bc70c57f1d911daa)
+2023/04/10 05:25:38 7371890 374df908 [INFO Client 10088] [Item Filter] List contained online filter 5XMehq with hash: c219e68a17153050d0f25fa99a53678a (local hash is: c219e68a17153050d0f25fa99a53678a)
+2023/04/10 05:25:38 7371890 374df908 [INFO Client 10088] [Item Filter] List contained online filter GmXoTD with hash: 7c076e3fd4373fc359418079e4488f0b (local hash is: 7c076e3fd4373fc359418079e4488f0b)
+2023/04/10 05:25:38 7371890 374df908 [INFO Client 10088] [Item Filter] List contained online filter wvPeTJ with hash: 0177e469efb849660e2d7a9f21416034 (local hash is: 0177e469efb849660e2d7a9f21416034)
+2023/04/10 05:25:40 7373421 374e0d22 [INFO Client 10088] [Item Filter] Preparing to download online filter 7Mr0AZHP
+2023/04/10 05:25:40 7373421 374e0cc3 [INFO Client 10088] [Item Filter] Hash for online filter 7Mr0AZHP is: 0708546e06682bd51df5b0e702f33aed
+2023/04/10 05:25:40 7373562 374e0cc9 [INFO Client 10088] [Item Filter] Online item filter 7Mr0AZHP returned status: 200
+2023/04/10 05:25:40 7373562 374e0ce3 [DEBUG Client 10088] [Item Filter] Online item filter request resolved to: 209.197.3.101
+2023/04/10 05:25:40 7373562 374e0e8e [DEBUG Client 10088] [Item Filter] X-HW: 1681093539.dop225.ve1.t,1681093539.cds253.ve1.shn,1681093539.dop225.ve1.t,1681093539.cds241.ve1.c
+2023/04/10 05:25:40 7373562 374df808 [INFO Client 10088] [Item Filter] Successfully saved online filter 7Mr0AZHP. Hash is now: 0708546e06682bd51df5b0e702f33aed
+2023/04/10 05:25:40 7373578 7884752a [INFO Client 10088] [Item Filter] Finished reloading online filter 7Mr0AZHP. Result: true. Hash: 0708546e06682bd51df5b0e702f33aed. Type: Normal. Message: 
+2023/04/10 05:25:42 7376328 374e0d22 [INFO Client 10088] [Item Filter] Preparing to download online filter G4AtJ5
+2023/04/10 05:25:42 7376328 374e0cc3 [INFO Client 10088] [Item Filter] Hash for online filter G4AtJ5 is: f0db4894045a1a226b9a5ab288efcbe8
+2023/04/10 05:25:43 7376468 374e0cc9 [INFO Client 10088] [Item Filter] Online item filter G4AtJ5 returned status: 200
+2023/04/10 05:25:43 7376468 374e0ce3 [DEBUG Client 10088] [Item Filter] Online item filter request resolved to: 209.197.3.101
+2023/04/10 05:25:43 7376468 374e0e8e [DEBUG Client 10088] [Item Filter] X-HW: 1681093542.dop223.ve1.t,1681093542.cds226.ve1.shn,1681093542.dop223.ve1.t,1681093542.cds260.ve1.c
+2023/04/10 05:25:43 7376468 374df808 [INFO Client 10088] [Item Filter] Successfully saved online filter G4AtJ5. Hash is now: f0db4894045a1a226b9a5ab288efcbe8
+2023/04/10 05:25:43 7376484 7884752a [INFO Client 10088] [Item Filter] Finished reloading online filter G4AtJ5. Result: true. Hash: f0db4894045a1a226b9a5ab288efcbe8. Type: Normal. Message: 
+2023/04/10 05:25:55 7389125 374e128b [INFO Client 10088] [Item Filter] Downloading online list
+2023/04/10 05:25:56 7389859 374e12ec [INFO Client 10088] [Item Filter] Online list returned status: 200
+2023/04/10 05:25:56 7389859 374e12e6 [DEBUG Client 10088] [Item Filter] Online list request resolved to: 209.197.3.101
+2023/04/10 05:25:56 7389859 374df908 [INFO Client 10088] [Item Filter] List contained online filter 7Mr0AZHP with hash: 0708546e06682bd51df5b0e702f33aed (local hash is: 0708546e06682bd51df5b0e702f33aed)
+2023/04/10 05:25:56 7389859 374df908 [INFO Client 10088] [Item Filter] List contained online filter G4AtJ5 with hash: f0db4894045a1a226b9a5ab288efcbe8 (local hash is: f0db4894045a1a226b9a5ab288efcbe8)
+2023/04/10 05:25:56 7389859 374df908 [INFO Client 10088] [Item Filter] List contained online filter GmjoTD with hash: 65680df1f434b4f9bc70c57f1d911daa (local hash is: 65680df1f434b4f9bc70c57f1d911daa)
+2023/04/10 05:25:56 7389859 374df908 [INFO Client 10088] [Item Filter] List contained online filter 5XMehq with hash: c219e68a17153050d0f25fa99a53678a (local hash is: c219e68a17153050d0f25fa99a53678a)
+2023/04/10 05:25:56 7389859 374df908 [INFO Client 10088] [Item Filter] List contained online filter GmXoTD with hash: 7c076e3fd4373fc359418079e4488f0b (local hash is: 7c076e3fd4373fc359418079e4488f0b)
+2023/04/10 05:25:56 7389859 374df908 [INFO Client 10088] [Item Filter] List contained online filter wvPeTJ with hash: 0177e469efb849660e2d7a9f21416034 (local hash is: 0177e469efb849660e2d7a9f21416034)
+2023/04/10 05:25:57 7390500 374e0d22 [INFO Client 10088] [Item Filter] Preparing to download online filter 7Mr0AZHP
+2023/04/10 05:25:57 7390500 374e0cc3 [INFO Client 10088] [Item Filter] Hash for online filter 7Mr0AZHP is: 0708546e06682bd51df5b0e702f33aed
+2023/04/10 05:25:57 7390656 374e0cc9 [INFO Client 10088] [Item Filter] Online item filter 7Mr0AZHP returned status: 200
+2023/04/10 05:25:57 7390656 374e0ce3 [DEBUG Client 10088] [Item Filter] Online item filter request resolved to: 209.197.3.101
+2023/04/10 05:25:57 7390656 374e0e8e [DEBUG Client 10088] [Item Filter] X-HW: 1681093556.dop217.ve1.t,1681093556.cds238.ve1.shn,1681093556.dop217.ve1.t,1681093556.cds241.ve1.c
+2023/04/10 05:25:57 7390656 374df808 [INFO Client 10088] [Item Filter] Successfully saved online filter 7Mr0AZHP. Hash is now: 0708546e06682bd51df5b0e702f33aed
+2023/04/10 05:25:57 7390656 7884752a [INFO Client 10088] [Item Filter] Finished reloading online filter 7Mr0AZHP. Result: true. Hash: 0708546e06682bd51df5b0e702f33aed. Type: Normal. Message: 
+2023/04/10 05:26:14 7407890 374e128b [INFO Client 10088] [Item Filter] Downloading online list
+2023/04/10 05:26:15 7408562 374e12ec [INFO Client 10088] [Item Filter] Online list returned status: 200
+2023/04/10 05:26:15 7408562 374e12e6 [DEBUG Client 10088] [Item Filter] Online list request resolved to: 209.197.3.101
+2023/04/10 05:26:15 7408562 374df908 [INFO Client 10088] [Item Filter] List contained online filter 7Mr0AZHP with hash: 0708546e06682bd51df5b0e702f33aed (local hash is: 0708546e06682bd51df5b0e702f33aed)
+2023/04/10 05:26:15 7408562 374df908 [INFO Client 10088] [Item Filter] List contained online filter G4AtJ5 with hash: f0db4894045a1a226b9a5ab288efcbe8 (local hash is: f0db4894045a1a226b9a5ab288efcbe8)
+2023/04/10 05:26:15 7408562 374df908 [INFO Client 10088] [Item Filter] List contained online filter GmjoTD with hash: 65680df1f434b4f9bc70c57f1d911daa (local hash is: 65680df1f434b4f9bc70c57f1d911daa)
+2023/04/10 05:26:15 7408562 374df908 [INFO Client 10088] [Item Filter] List contained online filter 5XMehq with hash: c219e68a17153050d0f25fa99a53678a (local hash is: c219e68a17153050d0f25fa99a53678a)
+2023/04/10 05:26:15 7408562 374df908 [INFO Client 10088] [Item Filter] List contained online filter GmXoTD with hash: 7c076e3fd4373fc359418079e4488f0b (local hash is: 7c076e3fd4373fc359418079e4488f0b)
+2023/04/10 05:26:15 7408562 374df908 [INFO Client 10088] [Item Filter] List contained online filter wvPeTJ with hash: 0177e469efb849660e2d7a9f21416034 (local hash is: 0177e469efb849660e2d7a9f21416034)
+2023/04/10 05:26:18 7412140 b51d4f61 [DEBUG Client 10088] [RENDER] SetRendererSettings
+2023/04/10 05:26:18 7412140 b51d6447 [DEBUG Client 10088] [RENDER] ResizeWindow
+2023/04/10 05:26:18 7412156 9d4eec8a [DEBUG Client 10088] [WINDOW] TrigggerDeviceLost
+2023/04/10 05:26:18 7412171 9d4eeba7 [DEBUG Client 10088] [WINDOW] TrigggerDeviceReset
+2023/04/10 05:26:19 7412828 b51d614c [DEBUG Client 10088] [RENDER] RestartSwapChain
+2023/04/10 05:26:19 7412828 9e6a0b0a [INFO Client 10088] Enumerated adapter: NVIDIA GeForce GTX 1660
+2023/04/10 05:26:19 7412875 9e6a1d2a [INFO Client 10088] Enumerated device for adapter: NVIDIA GeForce GTX 1660. Selected feature level: 45312. Max feature level: 45312
+2023/04/10 05:26:19 7412875 9e6a1363 [INFO Client 10088] Enumerated output for adapter NVIDIA GeForce GTX 1660 of \\.\DISPLAY1
+2023/04/10 05:26:19 7412875 9e6a0b0a [INFO Client 10088] Enumerated adapter: Microsoft Basic Render Driver
+2023/04/10 05:26:19 7412875 9e6a1d2a [INFO Client 10088] Enumerated device for adapter: Microsoft Basic Render Driver. Selected feature level: 45312. Max feature level: 45312
+2023/04/10 05:26:19 7412890 9d4eec8a [DEBUG Client 10088] [WINDOW] TrigggerDeviceLost
+2023/04/10 05:26:19 7412953 9d4eeba7 [DEBUG Client 10088] [WINDOW] TrigggerDeviceReset
+2023/04/10 05:26:20 7413656 fafff8cf [DEBUG Client 10088] CreateSwapChain: SetFullScreenState 0
+2023/04/10 05:26:20 7413656 9d4eec8a [DEBUG Client 10088] [WINDOW] TrigggerDeviceLost
+2023/04/10 05:26:20 7413718 9d4eeba7 [DEBUG Client 10088] [WINDOW] TrigggerDeviceReset
+2023/04/10 05:26:21 7414562 3275a75e [INFO Client 10088] [SHADER] Disable Async: 1 frames
+2023/04/10 05:26:21 7414562 b51d610e [INFO Client 10088] [RENDER] Disable Async: 1 frames
+2023/04/10 05:26:21 7414562 9d4eec8a [DEBUG Client 10088] [WINDOW] TrigggerDeviceLost
+2023/04/10 05:26:21 7414625 9d4eeba7 [DEBUG Client 10088] [WINDOW] TrigggerDeviceReset
+2023/04/10 05:26:45 7439312 b51d4f61 [DEBUG Client 10088] [RENDER] SetRendererSettings
+2023/04/10 05:26:45 7439312 b51d6447 [DEBUG Client 10088] [RENDER] ResizeWindow
+2023/04/10 05:26:45 7439312 b51d614c [DEBUG Client 10088] [RENDER] RestartSwapChain
+2023/04/10 05:26:45 7439328 9e6a0b0a [INFO Client 10088] Enumerated adapter: NVIDIA GeForce GTX 1660
+2023/04/10 05:26:45 7439375 9e6a1d2a [INFO Client 10088] Enumerated device for adapter: NVIDIA GeForce GTX 1660. Selected feature level: 45312. Max feature level: 45312
+2023/04/10 05:26:45 7439375 9e6a1363 [INFO Client 10088] Enumerated output for adapter NVIDIA GeForce GTX 1660 of \\.\DISPLAY1
+2023/04/10 05:26:45 7439375 9e6a0b0a [INFO Client 10088] Enumerated adapter: Microsoft Basic Render Driver
+2023/04/10 05:26:45 7439375 9e6a1d2a [INFO Client 10088] Enumerated device for adapter: Microsoft Basic Render Driver. Selected feature level: 45312. Max feature level: 45312
+2023/04/10 05:26:45 7439375 fafff8cf [DEBUG Client 10088] CreateSwapChain: SetFullScreenState 1
+2023/04/10 05:26:46 7439453 9d4eec8a [DEBUG Client 10088] [WINDOW] TrigggerDeviceLost
+2023/04/10 05:26:46 7439468 9d4eeba7 [DEBUG Client 10088] [WINDOW] TrigggerDeviceReset
+2023/04/10 05:26:46 7440312 3275a75e [INFO Client 10088] [SHADER] Disable Async: 1 frames
+2023/04/10 05:26:46 7440312 b51d610e [INFO Client 10088] [RENDER] Disable Async: 1 frames
+2023/04/10 05:26:53 7447390 374e128b [INFO Client 10088] [Item Filter] Downloading online list
+2023/04/10 05:26:54 7448171 374e12ec [INFO Client 10088] [Item Filter] Online list returned status: 200
+2023/04/10 05:26:54 7448171 374e12e6 [DEBUG Client 10088] [Item Filter] Online list request resolved to: 209.197.3.101
+2023/04/10 05:26:54 7448171 374df908 [INFO Client 10088] [Item Filter] List contained online filter 7Mr0AZHP with hash: 0708546e06682bd51df5b0e702f33aed (local hash is: 0708546e06682bd51df5b0e702f33aed)
+2023/04/10 05:26:54 7448171 374df908 [INFO Client 10088] [Item Filter] List contained online filter G4AtJ5 with hash: f0db4894045a1a226b9a5ab288efcbe8 (local hash is: f0db4894045a1a226b9a5ab288efcbe8)
+2023/04/10 05:26:54 7448171 374df908 [INFO Client 10088] [Item Filter] List contained online filter GmjoTD with hash: 65680df1f434b4f9bc70c57f1d911daa (local hash is: 65680df1f434b4f9bc70c57f1d911daa)
+2023/04/10 05:26:54 7448171 374df908 [INFO Client 10088] [Item Filter] List contained online filter 5XMehq with hash: c219e68a17153050d0f25fa99a53678a (local hash is: c219e68a17153050d0f25fa99a53678a)
+2023/04/10 05:26:54 7448171 374df908 [INFO Client 10088] [Item Filter] List contained online filter GmXoTD with hash: 7c076e3fd4373fc359418079e4488f0b (local hash is: 7c076e3fd4373fc359418079e4488f0b)
+2023/04/10 05:26:54 7448171 374df908 [INFO Client 10088] [Item Filter] List contained online filter wvPeTJ with hash: 0177e469efb849660e2d7a9f21416034 (local hash is: 0177e469efb849660e2d7a9f21416034)
+2023/04/10 05:27:30 7484171 374e0d22 [INFO Client 10088] [Item Filter] Preparing to download online filter 7Mr0AZHP
+2023/04/10 05:27:30 7484171 374e0cc3 [INFO Client 10088] [Item Filter] Hash for online filter 7Mr0AZHP is: 0708546e06682bd51df5b0e702f33aed
+2023/04/10 05:27:30 7484328 374e0cc9 [INFO Client 10088] [Item Filter] Online item filter 7Mr0AZHP returned status: 200
+2023/04/10 05:27:30 7484328 374e0ce3 [DEBUG Client 10088] [Item Filter] Online item filter request resolved to: 209.197.3.101
+2023/04/10 05:27:30 7484328 374e0e8e [DEBUG Client 10088] [Item Filter] X-HW: 1681093650.dop211.ve1.t,1681093650.cds229.ve1.shn,1681093650.dop211.ve1.t,1681093650.cds241.ve1.c
+2023/04/10 05:27:30 7484328 374df808 [INFO Client 10088] [Item Filter] Successfully saved online filter 7Mr0AZHP. Hash is now: 0708546e06682bd51df5b0e702f33aed
+2023/04/10 05:27:30 7484343 7884752a [INFO Client 10088] [Item Filter] Finished reloading online filter 7Mr0AZHP. Result: true. Hash: 0708546e06682bd51df5b0e702f33aed. Type: Normal. Message: 
+2023/04/10 05:27:47 7500765 b51d4f61 [DEBUG Client 10088] [RENDER] SetRendererSettings
+2023/04/10 05:27:47 7500765 b51d6447 [DEBUG Client 10088] [RENDER] ResizeWindow
+2023/04/10 05:27:47 7500765 9d4eec8a [DEBUG Client 10088] [WINDOW] TrigggerDeviceLost
+2023/04/10 05:27:47 7500781 9d4eeba7 [DEBUG Client 10088] [WINDOW] TrigggerDeviceReset
+2023/04/10 05:27:48 7501671 b51d614c [DEBUG Client 10088] [RENDER] RestartSwapChain
+2023/04/10 05:27:48 7501671 9e6a0b0a [INFO Client 10088] Enumerated adapter: NVIDIA GeForce GTX 1660
+2023/04/10 05:27:48 7501718 9e6a1d2a [INFO Client 10088] Enumerated device for adapter: NVIDIA GeForce GTX 1660. Selected feature level: 45312. Max feature level: 45312
+2023/04/10 05:27:48 7501718 9e6a1363 [INFO Client 10088] Enumerated output for adapter NVIDIA GeForce GTX 1660 of \\.\DISPLAY1
+2023/04/10 05:27:48 7501718 9e6a0b0a [INFO Client 10088] Enumerated adapter: Microsoft Basic Render Driver
+2023/04/10 05:27:48 7501734 9e6a1d2a [INFO Client 10088] Enumerated device for adapter: Microsoft Basic Render Driver. Selected feature level: 45312. Max feature level: 45312
+2023/04/10 05:27:48 7501750 9d4eec8a [DEBUG Client 10088] [WINDOW] TrigggerDeviceLost
+2023/04/10 05:27:48 7501796 9d4eeba7 [DEBUG Client 10088] [WINDOW] TrigggerDeviceReset
+2023/04/10 05:27:49 7503031 fafff8cf [DEBUG Client 10088] CreateSwapChain: SetFullScreenState 0
+2023/04/10 05:27:49 7503031 9d4eec8a [DEBUG Client 10088] [WINDOW] TrigggerDeviceLost
+2023/04/10 05:27:49 7503093 9d4eeba7 [DEBUG Client 10088] [WINDOW] TrigggerDeviceReset
+2023/04/10 05:27:51 7504453 3275a75e [INFO Client 10088] [SHADER] Disable Async: 1 frames
+2023/04/10 05:27:51 7504453 b51d610e [INFO Client 10088] [RENDER] Disable Async: 1 frames
+2023/04/10 05:27:51 7504453 9d4eec8a [DEBUG Client 10088] [WINDOW] TrigggerDeviceLost
+2023/04/10 05:27:51 7504515 9d4eeba7 [DEBUG Client 10088] [WINDOW] TrigggerDeviceReset
+2023/04/10 05:28:24 7537937 b51d4f61 [DEBUG Client 10088] [RENDER] SetRendererSettings
+2023/04/10 05:28:24 7537937 b51d6447 [DEBUG Client 10088] [RENDER] ResizeWindow
+2023/04/10 05:28:24 7537937 b51d614c [DEBUG Client 10088] [RENDER] RestartSwapChain
+2023/04/10 05:28:24 7537953 9e6a0b0a [INFO Client 10088] Enumerated adapter: NVIDIA GeForce GTX 1660
+2023/04/10 05:28:24 7538015 9e6a1d2a [INFO Client 10088] Enumerated device for adapter: NVIDIA GeForce GTX 1660. Selected feature level: 45312. Max feature level: 45312
+2023/04/10 05:28:24 7538015 9e6a1363 [INFO Client 10088] Enumerated output for adapter NVIDIA GeForce GTX 1660 of \\.\DISPLAY1
+2023/04/10 05:28:24 7538015 9e6a0b0a [INFO Client 10088] Enumerated adapter: Microsoft Basic Render Driver
+2023/04/10 05:28:24 7538015 9e6a1d2a [INFO Client 10088] Enumerated device for adapter: Microsoft Basic Render Driver. Selected feature level: 45312. Max feature level: 45312
+2023/04/10 05:28:24 7538015 fafff8cf [DEBUG Client 10088] CreateSwapChain: SetFullScreenState 1
+2023/04/10 05:28:24 7538078 9d4eec8a [DEBUG Client 10088] [WINDOW] TrigggerDeviceLost
+2023/04/10 05:28:24 7538109 9d4eeba7 [DEBUG Client 10088] [WINDOW] TrigggerDeviceReset
+2023/04/10 05:28:25 7539171 3275a75e [INFO Client 10088] [SHADER] Disable Async: 1 frames
+2023/04/10 05:28:25 7539171 b51d610e [INFO Client 10088] [RENDER] Disable Async: 1 frames
+2023/04/10 05:28:46 7560296 374e128b [INFO Client 10088] [Item Filter] Downloading online list
+2023/04/10 05:28:47 7560953 374e12ec [INFO Client 10088] [Item Filter] Online list returned status: 200
+2023/04/10 05:28:47 7560953 374e12e6 [DEBUG Client 10088] [Item Filter] Online list request resolved to: 209.197.3.101
+2023/04/10 05:28:47 7560953 374df908 [INFO Client 10088] [Item Filter] List contained online filter 7Mr0AZHP with hash: 0708546e06682bd51df5b0e702f33aed (local hash is: 0708546e06682bd51df5b0e702f33aed)
+2023/04/10 05:28:47 7560953 374df908 [INFO Client 10088] [Item Filter] List contained online filter G4AtJ5 with hash: f0db4894045a1a226b9a5ab288efcbe8 (local hash is: f0db4894045a1a226b9a5ab288efcbe8)
+2023/04/10 05:28:47 7560953 374df908 [INFO Client 10088] [Item Filter] List contained online filter GmjoTD with hash: 65680df1f434b4f9bc70c57f1d911daa (local hash is: 65680df1f434b4f9bc70c57f1d911daa)
+2023/04/10 05:28:47 7560953 374df908 [INFO Client 10088] [Item Filter] List contained online filter 5XMehq with hash: c219e68a17153050d0f25fa99a53678a (local hash is: c219e68a17153050d0f25fa99a53678a)
+2023/04/10 05:28:47 7560953 374df908 [INFO Client 10088] [Item Filter] List contained online filter GmXoTD with hash: 7c076e3fd4373fc359418079e4488f0b (local hash is: 7c076e3fd4373fc359418079e4488f0b)
+2023/04/10 05:28:47 7560953 374df908 [INFO Client 10088] [Item Filter] List contained online filter wvPeTJ with hash: 0177e469efb849660e2d7a9f21416034 (local hash is: 0177e469efb849660e2d7a9f21416034)
+2023/04/10 05:29:47 7621031 b51d4f61 [DEBUG Client 10088] [RENDER] SetRendererSettings
+2023/04/10 05:29:47 7621031 b51d6447 [DEBUG Client 10088] [RENDER] ResizeWindow
+2023/04/10 05:29:47 7621046 9d4eec8a [DEBUG Client 10088] [WINDOW] TrigggerDeviceLost
+2023/04/10 05:29:47 7621062 9d4eeba7 [DEBUG Client 10088] [WINDOW] TrigggerDeviceReset
+2023/04/10 05:29:48 7621953 9d4eec8a [DEBUG Client 10088] [WINDOW] TrigggerDeviceLost
+2023/04/10 05:29:48 7622015 9d4eeba7 [DEBUG Client 10088] [WINDOW] TrigggerDeviceReset
+2023/04/10 05:29:50 7624046 b51d614c [DEBUG Client 10088] [RENDER] RestartSwapChain
+2023/04/10 05:29:50 7624046 9e6a0b0a [INFO Client 10088] Enumerated adapter: NVIDIA GeForce GTX 1660
+2023/04/10 05:29:50 7624093 9e6a1d2a [INFO Client 10088] Enumerated device for adapter: NVIDIA GeForce GTX 1660. Selected feature level: 45312. Max feature level: 45312
+2023/04/10 05:29:50 7624093 9e6a1363 [INFO Client 10088] Enumerated output for adapter NVIDIA GeForce GTX 1660 of \\.\DISPLAY1
+2023/04/10 05:29:50 7624093 9e6a0b0a [INFO Client 10088] Enumerated adapter: Microsoft Basic Render Driver
+2023/04/10 05:29:50 7624109 9e6a1d2a [INFO Client 10088] Enumerated device for adapter: Microsoft Basic Render Driver. Selected feature level: 45312. Max feature level: 45312
+2023/04/10 05:29:50 7624109 fafff8cf [DEBUG Client 10088] CreateSwapChain: SetFullScreenState 0
+2023/04/10 05:29:50 7624109 9d4eec8a [DEBUG Client 10088] [WINDOW] TrigggerDeviceLost
+2023/04/10 05:29:50 7624156 9d4eeba7 [DEBUG Client 10088] [WINDOW] TrigggerDeviceReset
+2023/04/10 05:29:52 7625796 3275a75e [INFO Client 10088] [SHADER] Disable Async: 1 frames
+2023/04/10 05:29:52 7625796 b51d610e [INFO Client 10088] [RENDER] Disable Async: 1 frames
+2023/04/10 05:29:52 7625796 9d4eec8a [DEBUG Client 10088] [WINDOW] TrigggerDeviceLost
+2023/04/10 05:29:52 7625859 9d4eeba7 [DEBUG Client 10088] [WINDOW] TrigggerDeviceReset
+2023/04/10 05:29:54 7627937 aecea334 [INFO Client 10088] Abnormal disconnect: Произошло неожиданное отключение от сервера.
+2023/04/10 05:30:28 7662234 b51d4f61 [DEBUG Client 10088] [RENDER] SetRendererSettings
+2023/04/10 05:30:28 7662234 b51d6447 [DEBUG Client 10088] [RENDER] ResizeWindow
+2023/04/10 05:30:28 7662234 b51d614c [DEBUG Client 10088] [RENDER] RestartSwapChain
+2023/04/10 05:30:28 7662234 9e6a0b0a [INFO Client 10088] Enumerated adapter: NVIDIA GeForce GTX 1660
+2023/04/10 05:30:28 7662296 9e6a1d2a [INFO Client 10088] Enumerated device for adapter: NVIDIA GeForce GTX 1660. Selected feature level: 45312. Max feature level: 45312
+2023/04/10 05:30:28 7662296 9e6a1363 [INFO Client 10088] Enumerated output for adapter NVIDIA GeForce GTX 1660 of \\.\DISPLAY1
+2023/04/10 05:30:28 7662296 9e6a0b0a [INFO Client 10088] Enumerated adapter: Microsoft Basic Render Driver
+2023/04/10 05:30:28 7662296 9e6a1d2a [INFO Client 10088] Enumerated device for adapter: Microsoft Basic Render Driver. Selected feature level: 45312. Max feature level: 45312
+2023/04/10 05:30:28 7662296 fafff8cf [DEBUG Client 10088] CreateSwapChain: SetFullScreenState 1
+2023/04/10 05:30:28 7662359 9d4eec8a [DEBUG Client 10088] [WINDOW] TrigggerDeviceLost
+2023/04/10 05:30:28 7662359 9d4eeba7 [DEBUG Client 10088] [WINDOW] TrigggerDeviceReset
+2023/04/10 05:30:28 7662390 3275a75e [INFO Client 10088] [SHADER] Disable Async: 1 frames
+2023/04/10 05:30:28 7662390 b51d610e [INFO Client 10088] [RENDER] Disable Async: 1 frames
+2023/04/10 05:30:30 7663468 890d9d5f [INFO Client 10088] Async connecting to mil01.login.pathofexile.com:20481
+2023/04/10 05:30:30 7663484 890d9cd8 [INFO Client 10088] Connected to mil01.login.pathofexile.com in 0ms.
+2023/04/10 05:30:33 7666546 88a904cb [DEBUG Client 10088] Got Instance Details from login server
+2023/04/10 05:30:33 7666546 32759a9f [INFO Client 10088] [SHADER] Delay: OFF
+2023/04/10 05:30:33 7666546 ca3a6a71 [INFO Client 10088] Connecting to instance server at 159.122.142.234:6112
+2023/04/10 05:30:33 7666593 ca3a4dbb [DEBUG Client 10088] Connect time to instance server was 32ms
+2023/04/10 05:30:33 7666671 1186a0e5 [DEBUG Client 10088] Generating level 69 area "2_10_town" with seed 1
+2023/04/10 05:30:34 7667875 f22b6987 [INFO Client 10088] Tile hash: 3862614232
+2023/04/10 05:30:34 7667875 f22b6986 [INFO Client 10088] Doodad hash: 2693664852
+2023/04/10 05:30:35 7669218 11870f49 [DEBUG Client 10088] Joined guild named Голосовой чат discord.com/invite/nXFKHzJ with 193 members 
+2023/04/10 05:30:36 7669984 cffb071e [INFO Client 10088] &: ОБЪЯВЛЕНИЕ ГИЛЬДИИ: В гостяк у CARDIFF 
+2023/04/10 05:30:36 7670218 cffb071e [INFO Client 10088] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Доки Ориата.
+2023/04/10 05:30:37 7670625 cffb071e [INFO Client 10088] : Вы присоединились к Общему каналу чата 9 968.
+2023/04/10 05:30:37 7671125 32759a9f [INFO Client 10088] [SHADER] Delay: ON
+2023/04/10 05:30:54 7687890 cffb071e [INFO Client 10088] : Сделка совершена.
+2023/04/10 05:31:42 7735890 b51d4f61 [DEBUG Client 10088] [RENDER] SetRendererSettings
+2023/04/10 05:31:42 7735890 b51d6447 [DEBUG Client 10088] [RENDER] ResizeWindow
+2023/04/10 05:31:42 7735890 9d4eec8a [DEBUG Client 10088] [WINDOW] TrigggerDeviceLost
+2023/04/10 05:31:42 7735906 9d4eeba7 [DEBUG Client 10088] [WINDOW] TrigggerDeviceReset
+2023/04/10 05:31:42 7736234 b51d614c [DEBUG Client 10088] [RENDER] RestartSwapChain
+2023/04/10 05:31:42 7736250 9e6a0b0a [INFO Client 10088] Enumerated adapter: NVIDIA GeForce GTX 1660
+2023/04/10 05:31:42 7736281 9e6a1d2a [INFO Client 10088] Enumerated device for adapter: NVIDIA GeForce GTX 1660. Selected feature level: 45312. Max feature level: 45312
+2023/04/10 05:31:42 7736281 9e6a1363 [INFO Client 10088] Enumerated output for adapter NVIDIA GeForce GTX 1660 of \\.\DISPLAY1
+2023/04/10 05:31:42 7736281 9e6a0b0a [INFO Client 10088] Enumerated adapter: Microsoft Basic Render Driver
+2023/04/10 05:31:42 7736281 9e6a1d2a [INFO Client 10088] Enumerated device for adapter: Microsoft Basic Render Driver. Selected feature level: 45312. Max feature level: 45312
+2023/04/10 05:31:42 7736328 9d4eec8a [DEBUG Client 10088] [WINDOW] TrigggerDeviceLost
+2023/04/10 05:31:42 7736343 9d4eeba7 [DEBUG Client 10088] [WINDOW] TrigggerDeviceReset
+2023/04/10 05:31:43 7736656 fafff8cf [DEBUG Client 10088] CreateSwapChain: SetFullScreenState 0
+2023/04/10 05:31:43 7736656 9d4eec8a [DEBUG Client 10088] [WINDOW] TrigggerDeviceLost
+2023/04/10 05:31:43 7736671 9d4eeba7 [DEBUG Client 10088] [WINDOW] TrigggerDeviceReset
+2023/04/10 05:31:43 7736953 3275a75e [INFO Client 10088] [SHADER] Disable Async: 1 frames
+2023/04/10 05:31:43 7736953 b51d610e [INFO Client 10088] [RENDER] Disable Async: 1 frames
+2023/04/10 05:31:43 7736953 9d4eec8a [DEBUG Client 10088] [WINDOW] TrigggerDeviceLost
+2023/04/10 05:31:43 7736968 9d4eeba7 [DEBUG Client 10088] [WINDOW] TrigggerDeviceReset
+2023/04/10 05:32:32 7785812 b51d4f61 [DEBUG Client 10088] [RENDER] SetRendererSettings
+2023/04/10 05:32:32 7785812 b51d6447 [DEBUG Client 10088] [RENDER] ResizeWindow
+2023/04/10 05:32:32 7785812 b51d614c [DEBUG Client 10088] [RENDER] RestartSwapChain
+2023/04/10 05:32:32 7785812 9e6a0b0a [INFO Client 10088] Enumerated adapter: NVIDIA GeForce GTX 1660
+2023/04/10 05:32:32 7785875 9e6a1d2a [INFO Client 10088] Enumerated device for adapter: NVIDIA GeForce GTX 1660. Selected feature level: 45312. Max feature level: 45312
+2023/04/10 05:32:32 7785875 9e6a1363 [INFO Client 10088] Enumerated output for adapter NVIDIA GeForce GTX 1660 of \\.\DISPLAY1
+2023/04/10 05:32:32 7785875 9e6a0b0a [INFO Client 10088] Enumerated adapter: Microsoft Basic Render Driver
+2023/04/10 05:32:32 7785875 9e6a1d2a [INFO Client 10088] Enumerated device for adapter: Microsoft Basic Render Driver. Selected feature level: 45312. Max feature level: 45312
+2023/04/10 05:32:32 7785875 fafff8cf [DEBUG Client 10088] CreateSwapChain: SetFullScreenState 1
+2023/04/10 05:32:32 7785937 9d4eec8a [DEBUG Client 10088] [WINDOW] TrigggerDeviceLost
+2023/04/10 05:32:32 7785953 9d4eeba7 [DEBUG Client 10088] [WINDOW] TrigggerDeviceReset
+2023/04/10 05:32:32 7786265 3275a75e [INFO Client 10088] [SHADER] Disable Async: 1 frames
+2023/04/10 05:32:32 7786265 b51d610e [INFO Client 10088] [RENDER] Disable Async: 1 frames
+2023/04/10 05:32:48 7801687 b51d4f61 [DEBUG Client 10088] [RENDER] SetRendererSettings
+2023/04/10 05:32:48 7801687 b51d6447 [DEBUG Client 10088] [RENDER] ResizeWindow
+2023/04/10 05:32:48 7801703 9d4eec8a [DEBUG Client 10088] [WINDOW] TrigggerDeviceLost
+2023/04/10 05:32:48 7801703 9d4eeba7 [DEBUG Client 10088] [WINDOW] TrigggerDeviceReset
+2023/04/10 05:32:48 7802046 b51d614c [DEBUG Client 10088] [RENDER] RestartSwapChain
+2023/04/10 05:32:48 7802046 9e6a0b0a [INFO Client 10088] Enumerated adapter: NVIDIA GeForce GTX 1660
+2023/04/10 05:32:48 7802078 9e6a1d2a [INFO Client 10088] Enumerated device for adapter: NVIDIA GeForce GTX 1660. Selected feature level: 45312. Max feature level: 45312
+2023/04/10 05:32:48 7802078 9e6a1363 [INFO Client 10088] Enumerated output for adapter NVIDIA GeForce GTX 1660 of \\.\DISPLAY1
+2023/04/10 05:32:48 7802078 9e6a0b0a [INFO Client 10088] Enumerated adapter: Microsoft Basic Render Driver
+2023/04/10 05:32:48 7802093 9e6a1d2a [INFO Client 10088] Enumerated device for adapter: Microsoft Basic Render Driver. Selected feature level: 45312. Max feature level: 45312
+2023/04/10 05:32:48 7802125 9d4eec8a [DEBUG Client 10088] [WINDOW] TrigggerDeviceLost
+2023/04/10 05:32:48 7802140 9d4eeba7 [DEBUG Client 10088] [WINDOW] TrigggerDeviceReset
+2023/04/10 05:32:49 7802453 fafff8cf [DEBUG Client 10088] CreateSwapChain: SetFullScreenState 0
+2023/04/10 05:32:49 7802453 9d4eec8a [DEBUG Client 10088] [WINDOW] TrigggerDeviceLost
+2023/04/10 05:32:49 7802468 9d4eeba7 [DEBUG Client 10088] [WINDOW] TrigggerDeviceReset
+2023/04/10 05:32:49 7802750 3275a75e [INFO Client 10088] [SHADER] Disable Async: 1 frames
+2023/04/10 05:32:49 7802750 b51d610e [INFO Client 10088] [RENDER] Disable Async: 1 frames
+2023/04/10 05:32:49 7802750 9d4eec8a [DEBUG Client 10088] [WINDOW] TrigggerDeviceLost
+2023/04/10 05:32:49 7802765 9d4eeba7 [DEBUG Client 10088] [WINDOW] TrigggerDeviceReset
+2023/04/10 05:33:12 7825515 b51d4f61 [DEBUG Client 10088] [RENDER] SetRendererSettings
+2023/04/10 05:33:12 7825515 b51d6447 [DEBUG Client 10088] [RENDER] ResizeWindow
+2023/04/10 05:33:12 7825515 b51d614c [DEBUG Client 10088] [RENDER] RestartSwapChain
+2023/04/10 05:33:12 7825515 9e6a0b0a [INFO Client 10088] Enumerated adapter: NVIDIA GeForce GTX 1660
+2023/04/10 05:33:12 7825562 9e6a1d2a [INFO Client 10088] Enumerated device for adapter: NVIDIA GeForce GTX 1660. Selected feature level: 45312. Max feature level: 45312
+2023/04/10 05:33:12 7825562 9e6a1363 [INFO Client 10088] Enumerated output for adapter NVIDIA GeForce GTX 1660 of \\.\DISPLAY1
+2023/04/10 05:33:12 7825562 9e6a0b0a [INFO Client 10088] Enumerated adapter: Microsoft Basic Render Driver
+2023/04/10 05:33:12 7825578 9e6a1d2a [INFO Client 10088] Enumerated device for adapter: Microsoft Basic Render Driver. Selected feature level: 45312. Max feature level: 45312
+2023/04/10 05:33:12 7825578 fafff8cf [DEBUG Client 10088] CreateSwapChain: SetFullScreenState 1
+2023/04/10 05:33:12 7825640 9d4eec8a [DEBUG Client 10088] [WINDOW] TrigggerDeviceLost
+2023/04/10 05:33:12 7825640 9d4eeba7 [DEBUG Client 10088] [WINDOW] TrigggerDeviceReset
+2023/04/10 05:33:12 7825984 3275a75e [INFO Client 10088] [SHADER] Disable Async: 1 frames
+2023/04/10 05:33:12 7825984 b51d610e [INFO Client 10088] [RENDER] Disable Async: 1 frames
+2023/04/10 05:33:20 7833562 88a904cb [DEBUG Client 10088] Got Instance Details from login server
+2023/04/10 05:33:20 7833562 32759a9f [INFO Client 10088] [SHADER] Delay: OFF
+2023/04/10 05:33:20 7833562 ca3a6a71 [INFO Client 10088] Connecting to instance server at 169.51.201.176:6112
+2023/04/10 05:33:20 7833625 ca3a4dbb [DEBUG Client 10088] Connect time to instance server was 31ms
+2023/04/10 05:33:20 7833671 1186a0e5 [DEBUG Client 10088] Generating level 64 area "2_10_2" with seed 2954978328
+2023/04/10 05:33:20 7834281 f22b6987 [INFO Client 10088] Tile hash: 1720116976
+2023/04/10 05:33:20 7834281 f22b6986 [INFO Client 10088] Doodad hash: 3964213492
+2023/04/10 05:33:21 7834828 11870f49 [DEBUG Client 10088] Joined guild named Голосовой чат discord.com/invite/nXFKHzJ with 193 members 
+2023/04/10 05:33:22 7835421 cffb071e [INFO Client 10088] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Разорённая площадь.
+2023/04/10 05:33:22 7836000 32759a9f [INFO Client 10088] [SHADER] Delay: ON
+2023/04/10 05:42:18 8371453 88a904cb [DEBUG Client 10088] Got Instance Details from login server
+2023/04/10 05:42:18 8371453 32759a9f [INFO Client 10088] [SHADER] Delay: OFF
+2023/04/10 05:42:18 8371453 ca3a6a71 [INFO Client 10088] Connecting to instance server at 169.51.201.176:6112
+2023/04/10 05:42:18 8371500 ca3a4dbb [DEBUG Client 10088] Connect time to instance server was 31ms
+2023/04/10 05:42:18 8371546 1186a0e5 [DEBUG Client 10088] Generating level 66 area "2_10_5" with seed 685763391
+2023/04/10 05:42:18 8372031 f22b6987 [INFO Client 10088] Tile hash: 3698574795
+2023/04/10 05:42:18 8372031 f22b6986 [INFO Client 10088] Doodad hash: 2576450873
+2023/04/10 05:42:19 8372593 11870f49 [DEBUG Client 10088] Joined guild named Голосовой чат discord.com/invite/nXFKHzJ with 193 members 
+2023/04/10 05:42:19 8373250 cffb071e [INFO Client 10088] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Каналы.
+2023/04/10 05:42:20 8373734 32759a9f [INFO Client 10088] [SHADER] Delay: ON
+2023/04/10 05:43:02 8416296 cffb071e [INFO Client 10088] Нико, Мастер глубин: Тоже хорошая находка.
+2023/04/10 05:44:10 8484078 379702c8 [WARN Client 10088] Client couldn't execute a triggered action from the server.
+action type id = 368
+2023/04/10 05:44:10 8484078 3796fa8f [WARN Client 10088] Instant/Triggered actionwas serialized to the client, but the client failed to execute the action.
+skill_instance_id: 41736
+action_id: 34970
+object_id: 1153
+target_id: 1153
+flags: 129
+2023/04/10 05:44:51 8524578 88a904cb [DEBUG Client 10088] Got Instance Details from login server
+2023/04/10 05:44:51 8524593 32759a9f [INFO Client 10088] [SHADER] Delay: OFF
+2023/04/10 05:44:51 8524593 ca3a6a71 [INFO Client 10088] Connecting to instance server at 159.122.142.234:6112
+2023/04/10 05:44:51 8524656 ca3a4dbb [DEBUG Client 10088] Connect time to instance server was 32ms
+2023/04/10 05:44:51 8524718 1186a0e5 [DEBUG Client 10088] Generating level 69 area "2_10_town" with seed 1
+2023/04/10 05:44:52 8525843 f22b6987 [INFO Client 10088] Tile hash: 3862614232
+2023/04/10 05:44:52 8525843 f22b6986 [INFO Client 10088] Doodad hash: 2693664852
+2023/04/10 05:44:52 8526015 11870f49 [DEBUG Client 10088] Joined guild named Голосовой чат discord.com/invite/nXFKHzJ with 193 members 
+2023/04/10 05:44:53 8526828 cffb071e [INFO Client 10088] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Доки Ориата.
+2023/04/10 05:44:54 8527484 32759a9f [INFO Client 10088] [SHADER] Delay: ON
+2023/04/10 05:47:14 8668109 88a904cb [DEBUG Client 10088] Got Instance Details from login server
+2023/04/10 05:47:14 8668109 32759a9f [INFO Client 10088] [SHADER] Delay: OFF
+2023/04/10 05:47:14 8668109 ca3a6a71 [INFO Client 10088] Connecting to instance server at 169.51.201.176:6112
+2023/04/10 05:47:14 8668156 ca3a4dbb [DEBUG Client 10088] Connect time to instance server was 31ms
+2023/04/10 05:47:14 8668203 1186a0e5 [DEBUG Client 10088] Generating level 64 area "2_10_2" with seed 2954978328
+2023/04/10 05:47:15 8668828 f22b6987 [INFO Client 10088] Tile hash: 1720116976
+2023/04/10 05:47:15 8668828 f22b6986 [INFO Client 10088] Doodad hash: 3964213492
+2023/04/10 05:47:15 8669375 11870f49 [DEBUG Client 10088] Joined guild named Голосовой чат discord.com/invite/nXFKHzJ with 193 members 
+2023/04/10 05:47:16 8669984 cffb071e [INFO Client 10088] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Разорённая площадь.
+2023/04/10 05:47:17 8670578 32759a9f [INFO Client 10088] [SHADER] Delay: ON
+2023/04/10 05:47:21 8675328 88a904cb [DEBUG Client 10088] Got Instance Details from login server
+2023/04/10 05:47:21 8675343 32759a9f [INFO Client 10088] [SHADER] Delay: OFF
+2023/04/10 05:47:21 8675343 ca3a6a71 [INFO Client 10088] Connecting to instance server at 169.51.201.176:6112
+2023/04/10 05:47:21 8675406 ca3a4dbb [DEBUG Client 10088] Connect time to instance server was 32ms
+2023/04/10 05:47:22 8675453 1186a0e5 [DEBUG Client 10088] Generating level 66 area "2_10_5" with seed 685763391
+2023/04/10 05:47:22 8675937 f22b6987 [INFO Client 10088] Tile hash: 3698574795
+2023/04/10 05:47:22 8675937 f22b6986 [INFO Client 10088] Doodad hash: 2576450873
+2023/04/10 05:47:23 8676515 11870f49 [DEBUG Client 10088] Joined guild named Голосовой чат discord.com/invite/nXFKHzJ with 193 members 
+2023/04/10 05:47:23 8677140 cffb071e [INFO Client 10088] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Каналы.
+2023/04/10 05:47:24 8677609 32759a9f [INFO Client 10088] [SHADER] Delay: ON
+2023/04/10 05:47:26 8680343 88a904cb [DEBUG Client 10088] Got Instance Details from login server
+2023/04/10 05:47:26 8680343 32759a9f [INFO Client 10088] [SHADER] Delay: OFF
+2023/04/10 05:47:26 8680343 ca3a6a71 [INFO Client 10088] Connecting to instance server at 169.51.201.176:6112
+2023/04/10 05:47:26 8680406 ca3a4dbb [DEBUG Client 10088] Connect time to instance server was 47ms
+2023/04/10 05:47:27 8680468 1186a0e5 [DEBUG Client 10088] Generating level 64 area "2_10_2" with seed 2954978328
+2023/04/10 05:47:27 8680703 f22b6987 [INFO Client 10088] Tile hash: 1720116976
+2023/04/10 05:47:27 8680703 f22b6986 [INFO Client 10088] Doodad hash: 3964213492
+2023/04/10 05:47:27 8681265 11870f49 [DEBUG Client 10088] Joined guild named Голосовой чат discord.com/invite/nXFKHzJ with 193 members 
+2023/04/10 05:47:28 8681796 cffb071e [INFO Client 10088] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Разорённая площадь.
+2023/04/10 05:47:28 8682312 32759a9f [INFO Client 10088] [SHADER] Delay: ON
+2023/04/10 05:47:32 8686359 88a904cb [DEBUG Client 10088] Got Instance Details from login server
+2023/04/10 05:47:32 8686359 32759a9f [INFO Client 10088] [SHADER] Delay: OFF
+2023/04/10 05:47:32 8686359 ca3a6a71 [INFO Client 10088] Connecting to instance server at 159.122.142.236:6112
+2023/04/10 05:47:32 8686421 ca3a4dbb [DEBUG Client 10088] Connect time to instance server was 31ms
+2023/04/10 05:47:33 8686468 1186a0e5 [DEBUG Client 10088] Generating level 66 area "2_10_5" with seed 4201625458
+2023/04/10 05:47:33 8686687 f22b6987 [INFO Client 10088] Tile hash: 1140240014
+2023/04/10 05:47:33 8686687 f22b6986 [INFO Client 10088] Doodad hash: 1754952855
+2023/04/10 05:47:33 8687328 11870f49 [DEBUG Client 10088] Joined guild named Голосовой чат discord.com/invite/nXFKHzJ with 193 members 
+2023/04/10 05:47:34 8687890 cffb071e [INFO Client 10088] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Каналы.
+2023/04/10 05:47:35 8688437 32759a9f [INFO Client 10088] [SHADER] Delay: ON
+2023/04/10 05:48:09 8722781 cffb071e [INFO Client 10088] : DeeToxilistaIIIXXI был повержен.
+2023/04/10 05:48:38 8752390 cffb071e [INFO Client 10088] : DeeToxilistaIIIXXI был повержен.
+2023/04/10 05:52:58 9012109 88a904cb [DEBUG Client 10088] Got Instance Details from login server
+2023/04/10 05:52:58 9012109 32759a9f [INFO Client 10088] [SHADER] Delay: OFF
+2023/04/10 05:52:58 9012109 ca3a6a71 [INFO Client 10088] Connecting to instance server at 169.51.201.142:6112
+2023/04/10 05:52:58 9012156 ca3a4dbb [DEBUG Client 10088] Connect time to instance server was 31ms
+2023/04/10 05:52:58 9012234 1186a0e5 [DEBUG Client 10088] Generating level 67 area "2_10_6" with seed 1145460045
+2023/04/10 05:52:59 9012984 f22b6987 [INFO Client 10088] Tile hash: 3008816573
+2023/04/10 05:52:59 9012984 f22b6986 [INFO Client 10088] Doodad hash: 973588448
+2023/04/10 05:53:00 9013968 11870f49 [DEBUG Client 10088] Joined guild named Голосовой чат discord.com/invite/nXFKHzJ with 193 members 
+2023/04/10 05:53:01 9014546 cffb071e [INFO Client 10088] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Кормушка.
+2023/04/10 05:53:01 9015203 32759a9f [INFO Client 10088] [SHADER] Delay: ON
+2023/04/10 05:55:24 9158093 890d9d5f [INFO Client 10088] Async connecting to mil01.login.pathofexile.com:20481
+2023/04/10 05:55:24 9158109 890d9cd8 [INFO Client 10088] Connected to mil01.login.pathofexile.com in 0ms.
+2023/04/10 05:55:28 9161500 88a904cb [DEBUG Client 10088] Got Instance Details from login server
+2023/04/10 05:55:28 9161500 32759a9f [INFO Client 10088] [SHADER] Delay: OFF
+2023/04/10 05:55:28 9161500 ca3a6a71 [INFO Client 10088] Connecting to instance server at 159.122.142.234:6112
+2023/04/10 05:55:28 9161546 ca3a4dbb [DEBUG Client 10088] Connect time to instance server was 46ms
+2023/04/10 05:55:28 9161609 1186a0e5 [DEBUG Client 10088] Generating level 69 area "2_10_town" with seed 1
+2023/04/10 05:55:29 9162906 f22b6987 [INFO Client 10088] Tile hash: 3862614232
+2023/04/10 05:55:29 9162906 f22b6986 [INFO Client 10088] Doodad hash: 2693664852
+2023/04/10 05:55:30 9164218 11870f49 [DEBUG Client 10088] Joined guild named Голосовой чат discord.com/invite/nXFKHzJ with 193 members 
+2023/04/10 05:55:31 9165250 cffb071e [INFO Client 10088] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Доки Ориата.
+2023/04/10 05:55:32 9165640 cffb071e [INFO Client 10088] : Вы присоединились к Общему каналу чата 9 968.
+2023/04/10 05:55:32 9166109 32759a9f [INFO Client 10088] [SHADER] Delay: ON
+2023/04/10 05:57:55 9308765 88a904cb [DEBUG Client 10088] Got Instance Details from login server
+2023/04/10 05:57:55 9308765 32759a9f [INFO Client 10088] [SHADER] Delay: OFF
+2023/04/10 05:57:55 9308765 ca3a6a71 [INFO Client 10088] Connecting to instance server at 159.122.142.236:6112
+2023/04/10 05:57:55 9308812 ca3a4dbb [DEBUG Client 10088] Connect time to instance server was 47ms
+2023/04/10 05:57:55 9308875 1186a0e5 [DEBUG Client 10088] Generating level 64 area "2_10_2" with seed 2149772044
+2023/04/10 05:57:56 9309484 f22b6987 [INFO Client 10088] Tile hash: 2216875592
+2023/04/10 05:57:56 9309484 f22b6986 [INFO Client 10088] Doodad hash: 2927988037
+2023/04/10 05:57:56 9310031 11870f49 [DEBUG Client 10088] Joined guild named Голосовой чат discord.com/invite/nXFKHzJ with 193 members 
+2023/04/10 05:57:57 9310640 cffb071e [INFO Client 10088] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Разорённая площадь.
+2023/04/10 05:57:57 9311234 32759a9f [INFO Client 10088] [SHADER] Delay: ON
+2023/04/10 05:59:03 9376937 118717eb [DEBUG Client 10088] Resyncing 1715
+2023/04/10 06:01:03 9497296 118717eb [DEBUG Client 10088] Resyncing 1531
+2023/04/10 06:01:11 9504968 cffb071e [INFO Client 10088] &<RiPE> Dermaken: Болезненный вертел, Имперский коготь
+2023/04/10 06:01:23 9516421 118717eb [DEBUG Client 10088] Resyncing 1622
+2023/04/10 06:02:07 9561125 88a904cb [DEBUG Client 10088] Got Instance Details from login server
+2023/04/10 06:02:07 9561125 32759a9f [INFO Client 10088] [SHADER] Delay: OFF
+2023/04/10 06:02:07 9561125 ca3a6a71 [INFO Client 10088] Connecting to instance server at 169.51.201.165:6112
+2023/04/10 06:02:07 9561171 ca3a4dbb [DEBUG Client 10088] Connect time to instance server was 46ms
+2023/04/10 06:02:07 9561234 1186a0e5 [DEBUG Client 10088] Generating level 66 area "2_10_5" with seed 3293558666
+2023/04/10 06:02:08 9561703 f22b6987 [INFO Client 10088] Tile hash: 3212739698
+2023/04/10 06:02:08 9561703 f22b6986 [INFO Client 10088] Doodad hash: 2048325807
+2023/04/10 06:02:08 9562281 11870f49 [DEBUG Client 10088] Joined guild named Голосовой чат discord.com/invite/nXFKHzJ with 193 members 
+2023/04/10 06:02:09 9562937 cffb071e [INFO Client 10088] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Каналы.
+2023/04/10 06:02:10 9563421 32759a9f [INFO Client 10088] [SHADER] Delay: ON
+2023/04/10 06:03:28 9641500 cffb071e [INFO Client 10088] : DeeToxilistaIIIXXI был повержен.
+2023/04/10 06:06:13 9806734 890d9d5f [INFO Client 10088] Async connecting to mil01.login.pathofexile.com:20481
+2023/04/10 06:06:13 9806750 890d9cd8 [INFO Client 10088] Connected to mil01.login.pathofexile.com in 0ms.
+2023/04/10 06:06:16 9810015 88a904cb [DEBUG Client 10088] Got Instance Details from login server
+2023/04/10 06:06:16 9810031 32759a9f [INFO Client 10088] [SHADER] Delay: OFF
+2023/04/10 06:06:16 9810031 ca3a6a71 [INFO Client 10088] Connecting to instance server at 159.122.142.234:6112
+2023/04/10 06:06:16 9810078 ca3a4dbb [DEBUG Client 10088] Connect time to instance server was 31ms
+2023/04/10 06:06:16 9810156 1186a0e5 [DEBUG Client 10088] Generating level 69 area "2_10_town" with seed 1
+2023/04/10 06:06:17 9811343 f22b6987 [INFO Client 10088] Tile hash: 3862614232
+2023/04/10 06:06:17 9811343 f22b6986 [INFO Client 10088] Doodad hash: 2693664852
+2023/04/10 06:06:19 9812718 11870f49 [DEBUG Client 10088] Joined guild named Голосовой чат discord.com/invite/nXFKHzJ with 193 members 
+2023/04/10 06:06:20 9813609 cffb071e [INFO Client 10088] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Доки Ориата.
+2023/04/10 06:06:20 9814000 cffb071e [INFO Client 10088] : Вы присоединились к Общему каналу чата 9 968.
+2023/04/10 06:06:20 9814250 32759a9f [INFO Client 10088] [SHADER] Delay: ON
+2023/04/10 06:06:26 9819625 cffb071e [INFO Client 10088] : Сделка совершена.
+2023/04/10 06:06:29 9822781 cffb071e [INFO Client 10088] : Сделка отклонена.
+2023/04/10 06:09:32 10005656 88a904cb [DEBUG Client 10088] Got Instance Details from login server
+2023/04/10 06:09:32 10005656 32759a9f [INFO Client 10088] [SHADER] Delay: OFF
+2023/04/10 06:09:32 10005656 ca3a6a71 [INFO Client 10088] Connecting to instance server at 159.122.142.231:6112
+2023/04/10 06:09:32 10005734 ca3a4dbb [DEBUG Client 10088] Connect time to instance server was 47ms
+2023/04/10 06:09:32 10005781 1186a0e5 [DEBUG Client 10088] Generating level 64 area "2_10_2" with seed 2341004192
+2023/04/10 06:09:32 10006375 f22b6987 [INFO Client 10088] Tile hash: 1183646605
+2023/04/10 06:09:32 10006375 f22b6986 [INFO Client 10088] Doodad hash: 3011265229
+2023/04/10 06:09:33 10006937 11870f49 [DEBUG Client 10088] Joined guild named Голосовой чат discord.com/invite/nXFKHzJ with 193 members 
+2023/04/10 06:09:34 10007546 cffb071e [INFO Client 10088] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Разорённая площадь.
+2023/04/10 06:09:34 10008140 32759a9f [INFO Client 10088] [SHADER] Delay: ON
+2023/04/10 06:09:40 10014109 88a904cb [DEBUG Client 10088] Got Instance Details from login server
+2023/04/10 06:09:40 10014125 32759a9f [INFO Client 10088] [SHADER] Delay: OFF
+2023/04/10 06:09:40 10014125 ca3a6a71 [INFO Client 10088] Connecting to instance server at 169.51.201.165:6112
+2023/04/10 06:09:40 10014171 ca3a4dbb [DEBUG Client 10088] Connect time to instance server was 31ms
+2023/04/10 06:09:40 10014218 1186a0e5 [DEBUG Client 10088] Generating level 66 area "2_10_5" with seed 3293558666
+2023/04/10 06:09:41 10014703 f22b6987 [INFO Client 10088] Tile hash: 3212739698
+2023/04/10 06:09:41 10014703 f22b6986 [INFO Client 10088] Doodad hash: 2048325807
+2023/04/10 06:09:41 10015296 11870f49 [DEBUG Client 10088] Joined guild named Голосовой чат discord.com/invite/nXFKHzJ with 193 members 
+2023/04/10 06:09:42 10015937 cffb071e [INFO Client 10088] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Каналы.
+2023/04/10 06:09:43 10016437 32759a9f [INFO Client 10088] [SHADER] Delay: ON
+2023/04/10 06:13:08 10221703 88a904cb [DEBUG Client 10088] Got Instance Details from login server
+2023/04/10 06:13:08 10221703 32759a9f [INFO Client 10088] [SHADER] Delay: OFF
+2023/04/10 06:13:08 10221703 ca3a6a71 [INFO Client 10088] Connecting to instance server at 159.122.142.248:6112
+2023/04/10 06:13:08 10221765 ca3a4dbb [DEBUG Client 10088] Connect time to instance server was 47ms
+2023/04/10 06:13:08 10221984 1186a0e5 [DEBUG Client 10088] Generating level 67 area "2_10_6" with seed 2323464518
+2023/04/10 06:13:10 10223421 f22b6987 [INFO Client 10088] Tile hash: 3215922891
+2023/04/10 06:13:10 10223421 f22b6986 [INFO Client 10088] Doodad hash: 1518105835
+2023/04/10 06:13:11 10224484 11870f49 [DEBUG Client 10088] Joined guild named Голосовой чат discord.com/invite/nXFKHzJ with 193 members 
+2023/04/10 06:13:11 10225046 cffb071e [INFO Client 10088] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Кормушка.
+2023/04/10 06:13:12 10225921 32759a9f [INFO Client 10088] [SHADER] Delay: ON
+2023/04/10 06:13:25 10238718 cffb071e [INFO Client 10088] Странный голос: Ты идёшь по коридорам сумасшествия прямо в пасть смерти. Теперь я верю, что разум полностью тебя покинул.
+2023/04/10 06:16:43 10437359 cffb071e [INFO Client 10088] : Былое сущему послужит
+2023/04/10 06:18:10 10524234 88a904cb [DEBUG Client 10088] Got Instance Details from login server
+2023/04/10 06:18:10 10524234 32759a9f [INFO Client 10088] [SHADER] Delay: OFF
+2023/04/10 06:18:10 10524234 ca3a6a71 [INFO Client 10088] Connecting to instance server at 159.122.142.234:6112
+2023/04/10 06:18:10 10524281 ca3a4dbb [DEBUG Client 10088] Connect time to instance server was 47ms
+2023/04/10 06:18:10 10524359 1186a0e5 [DEBUG Client 10088] Generating level 69 area "2_10_town" with seed 1
+2023/04/10 06:18:12 10525640 f22b6987 [INFO Client 10088] Tile hash: 3862614232
+2023/04/10 06:18:12 10525640 f22b6986 [INFO Client 10088] Doodad hash: 2693664852
+2023/04/10 06:18:12 10525859 11870f49 [DEBUG Client 10088] Joined guild named Голосовой чат discord.com/invite/nXFKHzJ with 193 members 
+2023/04/10 06:18:13 10526562 cffb071e [INFO Client 10088] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Доки Ориата.
+2023/04/10 06:18:13 10527109 32759a9f [INFO Client 10088] [SHADER] Delay: ON
+2023/04/10 06:18:17 10531390 cffb071e [INFO Client 10088] : Сделка отклонена.
+2023/04/10 06:20:00 10633859 cffb071e [INFO Client 10088] Лейтенант: Ничего сложного для вас!
+2023/04/10 06:20:14 10648343 cffb071e [INFO Client 10088] : Сделка совершена.
+2023/04/10 06:20:15 10649234 cffb071e [INFO Client 10088] Лейтенант: * радостно восклицает *
+2023/04/10 06:20:16 10650156 88a904cb [DEBUG Client 10088] Got Instance Details from login server
+2023/04/10 06:20:16 10650156 32759a9f [INFO Client 10088] [SHADER] Delay: OFF
+2023/04/10 06:20:16 10650156 ca3a6a71 [INFO Client 10088] Connecting to instance server at 159.122.142.248:6112
+2023/04/10 06:20:16 10650203 ca3a4dbb [DEBUG Client 10088] Connect time to instance server was 47ms
+2023/04/10 06:20:16 10650250 1186a0e5 [DEBUG Client 10088] Generating level 67 area "2_10_6" with seed 2323464518
+2023/04/10 06:20:17 10650515 f22b6987 [INFO Client 10088] Tile hash: 3215922891
+2023/04/10 06:20:17 10650515 f22b6986 [INFO Client 10088] Doodad hash: 1518105835
+2023/04/10 06:20:18 10651531 11870f49 [DEBUG Client 10088] Joined guild named Голосовой чат discord.com/invite/nXFKHzJ with 193 members 
+2023/04/10 06:20:18 10652125 cffb071e [INFO Client 10088] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Кормушка.
+2023/04/10 06:20:19 10652859 32759a9f [INFO Client 10088] [SHADER] Delay: ON
+2023/04/10 06:22:01 10754640 cffb071e [INFO Client 10088] Янус Перандус: Стань свидетелем зарождения нового мирового порядка!
+2023/04/10 06:22:10 10763562 cffb071e [INFO Client 10088] : DeeToxilistaIIIXXI был повержен.
+2023/04/10 06:22:10 10763578 cffb071e [INFO Client 10088] Янус Перандус: Чудесно. А можно поскорее?
+2023/04/10 06:22:28 10782125 cffb071e [INFO Client 10088] Джун, Скрытый мастер: Оставайся в грязи, червь.
+2023/04/10 06:22:32 10786375 cffb071e [INFO Client 10088] Джун, Скрытый мастер: Чтоб тебе сгнить в этой клетке, ублюдок.
+2023/04/10 06:25:45 10979234 cffb071e [INFO Client 10088] : DeeToxilistaIIIXXI был повержен.
+2023/04/10 06:26:29 11022703 88a904cb [DEBUG Client 10088] Got Instance Details from login server
+2023/04/10 06:26:29 11022718 32759a9f [INFO Client 10088] [SHADER] Delay: OFF
+2023/04/10 06:26:29 11022718 ca3a6a71 [INFO Client 10088] Connecting to instance server at 169.51.201.145:6112
+2023/04/10 06:26:29 11022750 ca3a4dbb [DEBUG Client 10088] Connect time to instance server was 32ms
+2023/04/10 06:26:29 11022812 1186a0e5 [DEBUG Client 10088] Generating level 66 area "2_10_5" with seed 1157612730
+2023/04/10 06:26:29 11023421 f22b6987 [INFO Client 10088] Tile hash: 995275669
+2023/04/10 06:26:29 11023421 f22b6986 [INFO Client 10088] Doodad hash: 892682461
+2023/04/10 06:26:30 11024000 11870f49 [DEBUG Client 10088] Joined guild named Голосовой чат discord.com/invite/nXFKHzJ with 193 members 
+2023/04/10 06:26:31 11024656 cffb071e [INFO Client 10088] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Каналы.
+2023/04/10 06:26:31 11025156 32759a9f [INFO Client 10088] [SHADER] Delay: ON
+2023/04/10 06:27:30 11083875 88a904cb [DEBUG Client 10088] Got Instance Details from login server
+2023/04/10 06:27:30 11083875 32759a9f [INFO Client 10088] [SHADER] Delay: OFF
+2023/04/10 06:27:30 11083875 ca3a6a71 [INFO Client 10088] Connecting to instance server at 169.51.201.182:6112
+2023/04/10 06:27:30 11083921 ca3a4dbb [DEBUG Client 10088] Connect time to instance server was 31ms
+2023/04/10 06:27:30 11083968 1186a0e5 [DEBUG Client 10088] Generating level 67 area "2_10_6" with seed 3602768861
+2023/04/10 06:27:30 11084203 f22b6987 [INFO Client 10088] Tile hash: 2260039457
+2023/04/10 06:27:30 11084203 f22b6986 [INFO Client 10088] Doodad hash: 603749541
+2023/04/10 06:27:31 11085093 11870f49 [DEBUG Client 10088] Joined guild named Голосовой чат discord.com/invite/nXFKHzJ with 193 members 
+2023/04/10 06:27:32 11085687 cffb071e [INFO Client 10088] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Кормушка.
+2023/04/10 06:27:32 11086343 32759a9f [INFO Client 10088] [SHADER] Delay: ON
+2023/04/10 06:29:26 11200296 cffb071e [INFO Client 10088] : Взгляни на страхи свысока
+2023/04/10 06:31:14 11308312 cffb071e [INFO Client 10088] : DeeToxilistaIIIXXI был повержен.
+2023/04/10 06:32:29 11382593 cffb071e [INFO Client 10088] : DeeToxilistaIIIXXI был повержен.
+2023/04/10 06:34:56 11529484 cffb071e [INFO Client 10088] : DeeToxilistaIIIXXI был повержен.
+2023/04/10 06:38:12 11726000 cffb071e [INFO Client 10088] : DeeToxilistaIIIXXI был повержен.
+2023/04/10 06:41:33 11926750 88a904cb [DEBUG Client 10088] Got Instance Details from login server
+2023/04/10 06:41:33 11926765 32759a9f [INFO Client 10088] [SHADER] Delay: OFF
+2023/04/10 06:41:33 11926765 ca3a6a71 [INFO Client 10088] Connecting to instance server at 159.122.142.234:6112
+2023/04/10 06:41:33 11926812 ca3a4dbb [DEBUG Client 10088] Connect time to instance server was 31ms
+2023/04/10 06:41:33 11926890 1186a0e5 [DEBUG Client 10088] Generating level 69 area "2_10_town" with seed 1
+2023/04/10 06:41:34 11928125 f22b6987 [INFO Client 10088] Tile hash: 3862614232
+2023/04/10 06:41:34 11928125 f22b6986 [INFO Client 10088] Doodad hash: 2693664852
+2023/04/10 06:41:34 11928343 11870f49 [DEBUG Client 10088] Joined guild named Голосовой чат discord.com/invite/nXFKHzJ with 193 members 
+2023/04/10 06:41:35 11929140 cffb071e [INFO Client 10088] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Доки Ориата.
+2023/04/10 06:41:36 11929781 32759a9f [INFO Client 10088] [SHADER] Delay: ON
+2023/04/10 06:42:48 12002109 cffb071e [INFO Client 10088] &<RiPE> Dermaken: Проклятая выемка, Лук предвестника
+2023/04/10 06:43:25 12038515 88a904cb [DEBUG Client 10088] Got Instance Details from login server
+2023/04/10 06:43:25 12038515 32759a9f [INFO Client 10088] [SHADER] Delay: OFF
+2023/04/10 06:43:25 12038515 ca3a6a71 [INFO Client 10088] Connecting to instance server at 169.51.201.169:6112
+2023/04/10 06:43:25 12038578 ca3a4dbb [DEBUG Client 10088] Connect time to instance server was 31ms
+2023/04/10 06:43:25 12038625 1186a0e5 [DEBUG Client 10088] Generating level 64 area "2_10_2" with seed 434852276
+2023/04/10 06:43:25 12039281 f22b6987 [INFO Client 10088] Tile hash: 3534075564
+2023/04/10 06:43:25 12039281 f22b6986 [INFO Client 10088] Doodad hash: 858465625
+2023/04/10 06:43:26 12039843 11870f49 [DEBUG Client 10088] Joined guild named Голосовой чат discord.com/invite/nXFKHzJ with 193 members 
+2023/04/10 06:43:27 12040468 cffb071e [INFO Client 10088] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Разорённая площадь.
+2023/04/10 06:43:27 12041046 32759a9f [INFO Client 10088] [SHADER] Delay: ON
+2023/04/10 06:43:36 12049921 88a904cb [DEBUG Client 10088] Got Instance Details from login server
+2023/04/10 06:43:36 12049921 32759a9f [INFO Client 10088] [SHADER] Delay: OFF
+2023/04/10 06:43:36 12049921 ca3a6a71 [INFO Client 10088] Connecting to instance server at 159.122.142.233:6112
+2023/04/10 06:43:36 12049968 ca3a4dbb [DEBUG Client 10088] Connect time to instance server was 32ms
+2023/04/10 06:43:36 12050015 1186a0e5 [DEBUG Client 10088] Generating level 66 area "2_10_5" with seed 2123671025
+2023/04/10 06:43:37 12050531 f22b6987 [INFO Client 10088] Tile hash: 3149402862
+2023/04/10 06:43:37 12050531 f22b6986 [INFO Client 10088] Doodad hash: 3971411959
+2023/04/10 06:43:37 12051109 11870f49 [DEBUG Client 10088] Joined guild named Голосовой чат discord.com/invite/nXFKHzJ with 193 members 
+2023/04/10 06:43:38 12051750 cffb071e [INFO Client 10088] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Каналы.
+2023/04/10 06:43:38 12052234 32759a9f [INFO Client 10088] [SHADER] Delay: ON
+2023/04/10 06:49:46 12419453 88a904cb [DEBUG Client 10088] Got Instance Details from login server
+2023/04/10 06:49:46 12419453 32759a9f [INFO Client 10088] [SHADER] Delay: OFF
+2023/04/10 06:49:46 12419453 ca3a6a71 [INFO Client 10088] Connecting to instance server at 159.122.142.239:6112
+2023/04/10 06:49:46 12419515 ca3a4dbb [DEBUG Client 10088] Connect time to instance server was 31ms
+2023/04/10 06:49:46 12419562 1186a0e5 [DEBUG Client 10088] Generating level 67 area "2_10_6" with seed 3887993730
+2023/04/10 06:49:46 12420328 f22b6987 [INFO Client 10088] Tile hash: 2174443655
+2023/04/10 06:49:46 12420328 f22b6986 [INFO Client 10088] Doodad hash: 1459583964
+2023/04/10 06:49:47 12421203 11870f49 [DEBUG Client 10088] Joined guild named Голосовой чат discord.com/invite/nXFKHzJ with 193 members 
+2023/04/10 06:49:48 12421796 cffb071e [INFO Client 10088] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Кормушка.
+2023/04/10 06:49:49 12422437 32759a9f [INFO Client 10088] [SHADER] Delay: ON
+2023/04/10 06:53:16 12629796 88a904cb [DEBUG Client 10088] Got Instance Details from login server
+2023/04/10 06:53:16 12629812 32759a9f [INFO Client 10088] [SHADER] Delay: OFF
+2023/04/10 06:53:16 12629812 ca3a6a71 [INFO Client 10088] Connecting to instance server at 159.122.142.233:6112
+2023/04/10 06:53:16 12629875 ca3a4dbb [DEBUG Client 10088] Connect time to instance server was 31ms
+2023/04/10 06:53:16 12629921 1186a0e5 [DEBUG Client 10088] Generating level 66 area "2_10_5" with seed 2123671025
+2023/04/10 06:53:16 12630031 f22b6987 [INFO Client 10088] Tile hash: 3149402862
+2023/04/10 06:53:16 12630031 f22b6986 [INFO Client 10088] Doodad hash: 3971411959
+2023/04/10 06:53:17 12630812 11870f49 [DEBUG Client 10088] Joined guild named Голосовой чат discord.com/invite/nXFKHzJ with 193 members 
+2023/04/10 06:53:17 12631421 cffb071e [INFO Client 10088] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Каналы.
+2023/04/10 06:53:18 12631921 32759a9f [INFO Client 10088] [SHADER] Delay: ON
+2023/04/10 06:53:25 12639375 88a904cb [DEBUG Client 10088] Got Instance Details from login server
+2023/04/10 06:53:25 12639375 32759a9f [INFO Client 10088] [SHADER] Delay: OFF
+2023/04/10 06:53:25 12639375 ca3a6a71 [INFO Client 10088] Connecting to instance server at 159.122.142.234:6112
+2023/04/10 06:53:25 12639421 ca3a4dbb [DEBUG Client 10088] Connect time to instance server was 31ms
+2023/04/10 06:53:26 12639484 1186a0e5 [DEBUG Client 10088] Generating level 69 area "2_10_town" with seed 1
+2023/04/10 06:53:27 12640671 f22b6987 [INFO Client 10088] Tile hash: 3862614232
+2023/04/10 06:53:27 12640671 f22b6986 [INFO Client 10088] Doodad hash: 2693664852
+2023/04/10 06:53:27 12640875 11870f49 [DEBUG Client 10088] Joined guild named Голосовой чат discord.com/invite/nXFKHzJ with 193 members 
+2023/04/10 06:53:28 12641656 cffb071e [INFO Client 10088] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Доки Ориата.
+2023/04/10 06:53:28 12642281 32759a9f [INFO Client 10088] [SHADER] Delay: ON
+2023/04/10 06:55:04 12738140 cffb071e [INFO Client 10088] : Сделка совершена.
+2023/04/10 06:57:57 12910812 cffb071e [INFO Client 10088] &<RiPE> Dermaken: Воцарившаяся тьма, Тёмные тиски
+2023/04/10 07:00:39 13072593 88a904cb [DEBUG Client 10088] Got Instance Details from login server
+2023/04/10 07:00:39 13072593 32759a9f [INFO Client 10088] [SHADER] Delay: OFF
+2023/04/10 07:00:39 13072593 ca3a6a71 [INFO Client 10088] Connecting to instance server at 159.122.142.236:6112
+2023/04/10 07:00:39 13072656 ca3a4dbb [DEBUG Client 10088] Connect time to instance server was 32ms
+2023/04/10 07:00:39 13072703 1186a0e5 [DEBUG Client 10088] Generating level 20 area "HideoutCoral" with seed 1
+2023/04/10 07:00:39 13072937 f22b6987 [INFO Client 10088] Tile hash: 805187908
+2023/04/10 07:00:39 13072937 f22b6986 [INFO Client 10088] Doodad hash: 0
+2023/04/10 07:00:40 13073593 11870f49 [DEBUG Client 10088] Joined guild named Голосовой чат discord.com/invite/nXFKHzJ with 193 members 
+2023/04/10 07:00:40 13074328 cffb071e [INFO Client 10088] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Коралловое убежище.
+2023/04/10 07:00:41 13074968 32759a9f [INFO Client 10088] [SHADER] Delay: ON
+2023/04/10 07:01:29 13122859 b51d4f61 [DEBUG Client 10088] [RENDER] SetRendererSettings
+2023/04/10 07:01:29 13122859 b51d6447 [DEBUG Client 10088] [RENDER] ResizeWindow
+2023/04/10 07:01:29 13122875 9d4eec8a [DEBUG Client 10088] [WINDOW] TrigggerDeviceLost
+2023/04/10 07:01:29 13122890 9d4eeba7 [DEBUG Client 10088] [WINDOW] TrigggerDeviceReset
+2023/04/10 07:01:30 13123468 b51d614c [DEBUG Client 10088] [RENDER] RestartSwapChain
+2023/04/10 07:01:30 13123468 9e6a0b0a [INFO Client 10088] Enumerated adapter: NVIDIA GeForce GTX 1660
+2023/04/10 07:01:30 13123515 9e6a1d2a [INFO Client 10088] Enumerated device for adapter: NVIDIA GeForce GTX 1660. Selected feature level: 45312. Max feature level: 45312
+2023/04/10 07:01:30 13123531 9e6a1363 [INFO Client 10088] Enumerated output for adapter NVIDIA GeForce GTX 1660 of \\.\DISPLAY1
+2023/04/10 07:01:30 13123531 9e6a0b0a [INFO Client 10088] Enumerated adapter: Microsoft Basic Render Driver
+2023/04/10 07:01:30 13123531 9e6a1d2a [INFO Client 10088] Enumerated device for adapter: Microsoft Basic Render Driver. Selected feature level: 45312. Max feature level: 45312
+2023/04/10 07:01:30 13123593 9d4eec8a [DEBUG Client 10088] [WINDOW] TrigggerDeviceLost
+2023/04/10 07:01:30 13123625 9d4eeba7 [DEBUG Client 10088] [WINDOW] TrigggerDeviceReset
+2023/04/10 07:01:30 13124187 fafff8cf [DEBUG Client 10088] CreateSwapChain: SetFullScreenState 0
+2023/04/10 07:01:30 13124187 9d4eec8a [DEBUG Client 10088] [WINDOW] TrigggerDeviceLost
+2023/04/10 07:01:30 13124203 9d4eeba7 [DEBUG Client 10088] [WINDOW] TrigggerDeviceReset
+2023/04/10 07:01:31 13124765 3275a75e [INFO Client 10088] [SHADER] Disable Async: 1 frames
+2023/04/10 07:01:31 13124765 b51d610e [INFO Client 10088] [RENDER] Disable Async: 1 frames
+2023/04/10 07:01:31 13124781 9d4eec8a [DEBUG Client 10088] [WINDOW] TrigggerDeviceLost
+2023/04/10 07:01:31 13124796 9d4eeba7 [DEBUG Client 10088] [WINDOW] TrigggerDeviceReset
+2023/04/10 07:01:39 13133281 b51d4f61 [DEBUG Client 10088] [RENDER] SetRendererSettings
+2023/04/10 07:01:39 13133281 b51d6447 [DEBUG Client 10088] [RENDER] ResizeWindow
+2023/04/10 07:01:39 13133296 b51d614c [DEBUG Client 10088] [RENDER] RestartSwapChain
+2023/04/10 07:01:39 13133296 9e6a0b0a [INFO Client 10088] Enumerated adapter: NVIDIA GeForce GTX 1660
+2023/04/10 07:01:39 13133343 9e6a1d2a [INFO Client 10088] Enumerated device for adapter: NVIDIA GeForce GTX 1660. Selected feature level: 45312. Max feature level: 45312
+2023/04/10 07:01:39 13133343 9e6a1363 [INFO Client 10088] Enumerated output for adapter NVIDIA GeForce GTX 1660 of \\.\DISPLAY1
+2023/04/10 07:01:39 13133343 9e6a0b0a [INFO Client 10088] Enumerated adapter: Microsoft Basic Render Driver
+2023/04/10 07:01:39 13133343 9e6a1d2a [INFO Client 10088] Enumerated device for adapter: Microsoft Basic Render Driver. Selected feature level: 45312. Max feature level: 45312
+2023/04/10 07:01:39 13133343 fafff8cf [DEBUG Client 10088] CreateSwapChain: SetFullScreenState 1
+2023/04/10 07:01:40 13133453 9d4eec8a [DEBUG Client 10088] [WINDOW] TrigggerDeviceLost
+2023/04/10 07:01:40 13133468 9d4eeba7 [DEBUG Client 10088] [WINDOW] TrigggerDeviceReset
+2023/04/10 07:01:40 13134187 3275a75e [INFO Client 10088] [SHADER] Disable Async: 1 frames
+2023/04/10 07:01:40 13134187 b51d610e [INFO Client 10088] [RENDER] Disable Async: 1 frames
+2023/04/10 07:01:40 13134312 cffb071e [INFO Client 10088] : Убежище сохранено: C:/Projects/POE/sandbeach.hideout
+2023/04/10 07:03:25 13239062 b51d4f61 [DEBUG Client 10088] [RENDER] SetRendererSettings
+2023/04/10 07:03:25 13239062 b51d6447 [DEBUG Client 10088] [RENDER] ResizeWindow
+2023/04/10 07:03:25 13239078 9d4eec8a [DEBUG Client 10088] [WINDOW] TrigggerDeviceLost
+2023/04/10 07:03:25 13239078 9d4eeba7 [DEBUG Client 10088] [WINDOW] TrigggerDeviceReset
+2023/04/10 07:03:26 13239656 9d4eec8a [DEBUG Client 10088] [WINDOW] TrigggerDeviceLost
+2023/04/10 07:03:26 13239671 9d4eeba7 [DEBUG Client 10088] [WINDOW] TrigggerDeviceReset
+2023/04/10 07:03:27 13240875 b51d614c [DEBUG Client 10088] [RENDER] RestartSwapChain
+2023/04/10 07:03:27 13240875 9e6a0b0a [INFO Client 10088] Enumerated adapter: NVIDIA GeForce GTX 1660
+2023/04/10 07:03:27 13240921 9e6a1d2a [INFO Client 10088] Enumerated device for adapter: NVIDIA GeForce GTX 1660. Selected feature level: 45312. Max feature level: 45312
+2023/04/10 07:03:27 13240921 9e6a1363 [INFO Client 10088] Enumerated output for adapter NVIDIA GeForce GTX 1660 of \\.\DISPLAY1
+2023/04/10 07:03:27 13240921 9e6a0b0a [INFO Client 10088] Enumerated adapter: Microsoft Basic Render Driver
+2023/04/10 07:03:27 13240937 9e6a1d2a [INFO Client 10088] Enumerated device for adapter: Microsoft Basic Render Driver. Selected feature level: 45312. Max feature level: 45312
+2023/04/10 07:03:27 13240937 fafff8cf [DEBUG Client 10088] CreateSwapChain: SetFullScreenState 0
+2023/04/10 07:03:27 13240937 9d4eec8a [DEBUG Client 10088] [WINDOW] TrigggerDeviceLost
+2023/04/10 07:03:27 13240953 9d4eeba7 [DEBUG Client 10088] [WINDOW] TrigggerDeviceReset
+2023/04/10 07:03:28 13241796 3275a75e [INFO Client 10088] [SHADER] Disable Async: 1 frames
+2023/04/10 07:03:28 13241796 b51d610e [INFO Client 10088] [RENDER] Disable Async: 1 frames
+2023/04/10 07:03:28 13241796 9d4eec8a [DEBUG Client 10088] [WINDOW] TrigggerDeviceLost
+2023/04/10 07:03:28 13241828 9d4eeba7 [DEBUG Client 10088] [WINDOW] TrigggerDeviceReset
+2023/04/10 07:03:33 13246703 b51d4f61 [DEBUG Client 10088] [RENDER] SetRendererSettings
+2023/04/10 07:03:33 13246703 b51d6447 [DEBUG Client 10088] [RENDER] ResizeWindow
+2023/04/10 07:03:33 13246718 b51d614c [DEBUG Client 10088] [RENDER] RestartSwapChain
+2023/04/10 07:03:33 13246718 9e6a0b0a [INFO Client 10088] Enumerated adapter: NVIDIA GeForce GTX 1660
+2023/04/10 07:03:33 13246765 9e6a1d2a [INFO Client 10088] Enumerated device for adapter: NVIDIA GeForce GTX 1660. Selected feature level: 45312. Max feature level: 45312
+2023/04/10 07:03:33 13246765 9e6a1363 [INFO Client 10088] Enumerated output for adapter NVIDIA GeForce GTX 1660 of \\.\DISPLAY1
+2023/04/10 07:03:33 13246765 9e6a0b0a [INFO Client 10088] Enumerated adapter: Microsoft Basic Render Driver
+2023/04/10 07:03:33 13246765 9e6a1d2a [INFO Client 10088] Enumerated device for adapter: Microsoft Basic Render Driver. Selected feature level: 45312. Max feature level: 45312
+2023/04/10 07:03:33 13246781 fafff8cf [DEBUG Client 10088] CreateSwapChain: SetFullScreenState 1
+2023/04/10 07:03:33 13246875 9d4eec8a [DEBUG Client 10088] [WINDOW] TrigggerDeviceLost
+2023/04/10 07:03:33 13246890 9d4eeba7 [DEBUG Client 10088] [WINDOW] TrigggerDeviceReset
+2023/04/10 07:03:34 13247875 3275a75e [INFO Client 10088] [SHADER] Disable Async: 1 frames
+2023/04/10 07:03:34 13247875 b51d610e [INFO Client 10088] [RENDER] Disable Async: 1 frames
+2023/04/10 07:03:34 13247984 cffb071e [INFO Client 10088] : Убежище сохранено: C:/Projects/POE/sandbeach.hideout
+2023/04/10 07:03:36 13250109 b51d4f61 [DEBUG Client 10088] [RENDER] SetRendererSettings
+2023/04/10 07:03:36 13250109 b51d6447 [DEBUG Client 10088] [RENDER] ResizeWindow
+2023/04/10 07:03:36 13250125 9d4eec8a [DEBUG Client 10088] [WINDOW] TrigggerDeviceLost
+2023/04/10 07:03:36 13250125 9d4eeba7 [DEBUG Client 10088] [WINDOW] TrigggerDeviceReset
+2023/04/10 07:03:37 13250968 9d4eec8a [DEBUG Client 10088] [WINDOW] TrigggerDeviceLost
+2023/04/10 07:03:37 13251000 9d4eeba7 [DEBUG Client 10088] [WINDOW] TrigggerDeviceReset
+2023/04/10 07:03:39 13252500 b51d614c [DEBUG Client 10088] [RENDER] RestartSwapChain
+2023/04/10 07:03:39 13252500 9e6a0b0a [INFO Client 10088] Enumerated adapter: NVIDIA GeForce GTX 1660
+2023/04/10 07:03:39 13252546 9e6a1d2a [INFO Client 10088] Enumerated device for adapter: NVIDIA GeForce GTX 1660. Selected feature level: 45312. Max feature level: 45312
+2023/04/10 07:03:39 13252546 9e6a1363 [INFO Client 10088] Enumerated output for adapter NVIDIA GeForce GTX 1660 of \\.\DISPLAY1
+2023/04/10 07:03:39 13252546 9e6a0b0a [INFO Client 10088] Enumerated adapter: Microsoft Basic Render Driver
+2023/04/10 07:03:39 13252546 9e6a1d2a [INFO Client 10088] Enumerated device for adapter: Microsoft Basic Render Driver. Selected feature level: 45312. Max feature level: 45312
+2023/04/10 07:03:39 13252546 fafff8cf [DEBUG Client 10088] CreateSwapChain: SetFullScreenState 0
+2023/04/10 07:03:39 13252546 9d4eec8a [DEBUG Client 10088] [WINDOW] TrigggerDeviceLost
+2023/04/10 07:03:39 13252578 9d4eeba7 [DEBUG Client 10088] [WINDOW] TrigggerDeviceReset
+2023/04/10 07:03:40 13253718 3275a75e [INFO Client 10088] [SHADER] Disable Async: 1 frames
+2023/04/10 07:03:40 13253718 b51d610e [INFO Client 10088] [RENDER] Disable Async: 1 frames
+2023/04/10 07:03:40 13253718 9d4eec8a [DEBUG Client 10088] [WINDOW] TrigggerDeviceLost
+2023/04/10 07:03:40 13253734 9d4eeba7 [DEBUG Client 10088] [WINDOW] TrigggerDeviceReset
+2023/04/10 07:03:41 13255000 b51d4f61 [DEBUG Client 10088] [RENDER] SetRendererSettings
+2023/04/10 07:03:41 13255000 b51d6447 [DEBUG Client 10088] [RENDER] ResizeWindow
+2023/04/10 07:03:41 13255000 b51d614c [DEBUG Client 10088] [RENDER] RestartSwapChain
+2023/04/10 07:03:41 13255000 9e6a0b0a [INFO Client 10088] Enumerated adapter: NVIDIA GeForce GTX 1660
+2023/04/10 07:03:41 13255046 9e6a1d2a [INFO Client 10088] Enumerated device for adapter: NVIDIA GeForce GTX 1660. Selected feature level: 45312. Max feature level: 45312
+2023/04/10 07:03:41 13255046 9e6a1363 [INFO Client 10088] Enumerated output for adapter NVIDIA GeForce GTX 1660 of \\.\DISPLAY1
+2023/04/10 07:03:41 13255046 9e6a0b0a [INFO Client 10088] Enumerated adapter: Microsoft Basic Render Driver
+2023/04/10 07:03:41 13255046 9e6a1d2a [INFO Client 10088] Enumerated device for adapter: Microsoft Basic Render Driver. Selected feature level: 45312. Max feature level: 45312
+2023/04/10 07:03:41 13255062 fafff8cf [DEBUG Client 10088] CreateSwapChain: SetFullScreenState 1
+2023/04/10 07:03:41 13255125 9d4eec8a [DEBUG Client 10088] [WINDOW] TrigggerDeviceLost
+2023/04/10 07:03:41 13255156 9d4eeba7 [DEBUG Client 10088] [WINDOW] TrigggerDeviceReset
+2023/04/10 07:03:43 13256437 3275a75e [INFO Client 10088] [SHADER] Disable Async: 1 frames
+2023/04/10 07:03:43 13256437 b51d610e [INFO Client 10088] [RENDER] Disable Async: 1 frames
+2023/04/10 07:03:48 13261640 b51d4f61 [DEBUG Client 10088] [RENDER] SetRendererSettings
+2023/04/10 07:03:48 13261640 b51d6447 [DEBUG Client 10088] [RENDER] ResizeWindow
+2023/04/10 07:03:48 13261656 9d4eec8a [DEBUG Client 10088] [WINDOW] TrigggerDeviceLost
+2023/04/10 07:03:48 13261656 9d4eeba7 [DEBUG Client 10088] [WINDOW] TrigggerDeviceReset
+2023/04/10 07:03:49 13262765 9d4eec8a [DEBUG Client 10088] [WINDOW] TrigggerDeviceLost
+2023/04/10 07:03:49 13262796 9d4eeba7 [DEBUG Client 10088] [WINDOW] TrigggerDeviceReset
+2023/04/10 07:03:51 13264562 b51d614c [DEBUG Client 10088] [RENDER] RestartSwapChain
+2023/04/10 07:03:51 13264562 9e6a0b0a [INFO Client 10088] Enumerated adapter: NVIDIA GeForce GTX 1660
+2023/04/10 07:03:51 13264609 9e6a1d2a [INFO Client 10088] Enumerated device for adapter: NVIDIA GeForce GTX 1660. Selected feature level: 45312. Max feature level: 45312
+2023/04/10 07:03:51 13264609 9e6a1363 [INFO Client 10088] Enumerated output for adapter NVIDIA GeForce GTX 1660 of \\.\DISPLAY1
+2023/04/10 07:03:51 13264609 9e6a0b0a [INFO Client 10088] Enumerated adapter: Microsoft Basic Render Driver
+2023/04/10 07:03:51 13264609 9e6a1d2a [INFO Client 10088] Enumerated device for adapter: Microsoft Basic Render Driver. Selected feature level: 45312. Max feature level: 45312
+2023/04/10 07:03:51 13264609 fafff8cf [DEBUG Client 10088] CreateSwapChain: SetFullScreenState 0
+2023/04/10 07:03:51 13264609 9d4eec8a [DEBUG Client 10088] [WINDOW] TrigggerDeviceLost
+2023/04/10 07:03:51 13264640 9d4eeba7 [DEBUG Client 10088] [WINDOW] TrigggerDeviceReset
+2023/04/10 07:03:52 13266062 3275a75e [INFO Client 10088] [SHADER] Disable Async: 1 frames
+2023/04/10 07:03:52 13266062 b51d610e [INFO Client 10088] [RENDER] Disable Async: 1 frames
+2023/04/10 07:03:52 13266062 9d4eec8a [DEBUG Client 10088] [WINDOW] TrigggerDeviceLost
+2023/04/10 07:03:52 13266078 9d4eeba7 [DEBUG Client 10088] [WINDOW] TrigggerDeviceReset
+2023/04/10 07:03:58 13271750 b51d4f61 [DEBUG Client 10088] [RENDER] SetRendererSettings
+2023/04/10 07:03:58 13271750 b51d6447 [DEBUG Client 10088] [RENDER] ResizeWindow
+2023/04/10 07:03:58 13271750 b51d614c [DEBUG Client 10088] [RENDER] RestartSwapChain
+2023/04/10 07:03:58 13271750 9e6a0b0a [INFO Client 10088] Enumerated adapter: NVIDIA GeForce GTX 1660
+2023/04/10 07:03:58 13271796 9e6a1d2a [INFO Client 10088] Enumerated device for adapter: NVIDIA GeForce GTX 1660. Selected feature level: 45312. Max feature level: 45312
+2023/04/10 07:03:58 13271796 9e6a1363 [INFO Client 10088] Enumerated output for adapter NVIDIA GeForce GTX 1660 of \\.\DISPLAY1
+2023/04/10 07:03:58 13271796 9e6a0b0a [INFO Client 10088] Enumerated adapter: Microsoft Basic Render Driver
+2023/04/10 07:03:58 13271812 9e6a1d2a [INFO Client 10088] Enumerated device for adapter: Microsoft Basic Render Driver. Selected feature level: 45312. Max feature level: 45312
+2023/04/10 07:03:58 13271812 fafff8cf [DEBUG Client 10088] CreateSwapChain: SetFullScreenState 1
+2023/04/10 07:03:58 13271921 9d4eec8a [DEBUG Client 10088] [WINDOW] TrigggerDeviceLost
+2023/04/10 07:03:58 13271937 9d4eeba7 [DEBUG Client 10088] [WINDOW] TrigggerDeviceReset
+2023/04/10 07:04:00 13273531 3275a75e [INFO Client 10088] [SHADER] Disable Async: 1 frames
+2023/04/10 07:04:00 13273531 b51d610e [INFO Client 10088] [RENDER] Disable Async: 1 frames
+2023/04/10 07:04:00 13273625 cffb071e [INFO Client 10088] : Убежище сохранено: C:/Projects/POE/sandbeach.hideout
+2023/04/10 07:04:13 13286859 88a904cb [DEBUG Client 10088] Got Instance Details from login server
+2023/04/10 07:04:13 13286859 32759a9f [INFO Client 10088] [SHADER] Delay: OFF
+2023/04/10 07:04:13 13286859 ca3a6a71 [INFO Client 10088] Connecting to instance server at 169.51.201.142:6112
+2023/04/10 07:04:13 13286906 ca3a4dbb [DEBUG Client 10088] Connect time to instance server was 47ms
+2023/04/10 07:04:13 13286968 1186a0e5 [DEBUG Client 10088] Generating level 64 area "2_10_2" with seed 4170167344
+2023/04/10 07:04:14 13287875 f22b6987 [INFO Client 10088] Tile hash: 2008584320
+2023/04/10 07:04:14 13287875 f22b6986 [INFO Client 10088] Doodad hash: 2880003726
+2023/04/10 07:04:15 13288546 11870f49 [DEBUG Client 10088] Joined guild named Голосовой чат discord.com/invite/nXFKHzJ with 193 members 
+2023/04/10 07:04:15 13289187 cffb071e [INFO Client 10088] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Разорённая площадь.
+2023/04/10 07:04:16 13289812 32759a9f [INFO Client 10088] [SHADER] Delay: ON
+2023/04/10 07:04:23 13297296 88a904cb [DEBUG Client 10088] Got Instance Details from login server
+2023/04/10 07:04:23 13297296 32759a9f [INFO Client 10088] [SHADER] Delay: OFF
+2023/04/10 07:04:23 13297296 ca3a6a71 [INFO Client 10088] Connecting to instance server at 169.51.201.151:6112
+2023/04/10 07:04:23 13297359 ca3a4dbb [DEBUG Client 10088] Connect time to instance server was 32ms
+2023/04/10 07:04:23 13297406 1186a0e5 [DEBUG Client 10088] Generating level 66 area "2_10_5" with seed 1829189312
+2023/04/10 07:04:24 13297984 f22b6987 [INFO Client 10088] Tile hash: 3218709200
+2023/04/10 07:04:24 13297984 f22b6986 [INFO Client 10088] Doodad hash: 2194421164
+2023/04/10 07:04:25 13298609 11870f49 [DEBUG Client 10088] Joined guild named Голосовой чат discord.com/invite/nXFKHzJ with 193 members 
+2023/04/10 07:04:25 13299187 cffb071e [INFO Client 10088] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Каналы.
+2023/04/10 07:04:26 13299734 32759a9f [INFO Client 10088] [SHADER] Delay: ON
+2023/04/10 07:04:33 13306953 118717eb [DEBUG Client 10088] Resyncing 735
+2023/04/10 07:04:33 13306953 118717eb [DEBUG Client 10088] Resyncing 749
+2023/04/10 07:04:33 13306953 118717eb [DEBUG Client 10088] Resyncing 738
+2023/04/10 07:04:39 13313031 cffb071e [INFO Client 10088] Странный голос: Китава примет тебя с распростёртыми челюстями.
+2023/04/10 07:07:18 13472390 cffb071e [INFO Client 10088] : DeeToxilistaIIIXXI (Следопыт) достигает 77 уровня
+2023/04/10 07:07:46 13500062 fb7abcab [INFO Client 10088] Successfully allocated passive skill id: attack_speed1231, name: Скорость атаки
+2023/04/10 07:09:12 13585734 88a904cb [DEBUG Client 10088] Got Instance Details from login server
+2023/04/10 07:09:12 13585734 32759a9f [INFO Client 10088] [SHADER] Delay: OFF
+2023/04/10 07:09:12 13585734 ca3a6a71 [INFO Client 10088] Connecting to instance server at 169.51.201.169:6112
+2023/04/10 07:09:12 13585796 ca3a4dbb [DEBUG Client 10088] Connect time to instance server was 47ms
+2023/04/10 07:09:12 13585859 1186a0e5 [DEBUG Client 10088] Generating level 67 area "2_10_6" with seed 2721111626
+2023/04/10 07:09:13 13586484 f22b6987 [INFO Client 10088] Tile hash: 3425412461
+2023/04/10 07:09:13 13586484 f22b6986 [INFO Client 10088] Doodad hash: 537995934
+2023/04/10 07:09:14 13587437 11870f49 [DEBUG Client 10088] Joined guild named Голосовой чат discord.com/invite/nXFKHzJ with 193 members 
+2023/04/10 07:09:14 13587984 cffb071e [INFO Client 10088] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Кормушка.
+2023/04/10 07:09:15 13588625 32759a9f [INFO Client 10088] [SHADER] Delay: ON
+2023/04/10 07:09:30 13604390 379702c8 [WARN Client 10088] Client couldn't execute an instant action from the server.
+action type id = 9220
+2023/04/10 07:09:30 13604390 3796fa8f [WARN Client 10088] Instant/Triggered actionwas serialized to the client, but the client failed to execute the action.
+skill_instance_id: 35848
+action_id: 34730
+object_id: 1793
+target_id: 0
+flags: 257
+2023/04/10 07:10:02 13636265 cffb071e [INFO Client 10088] @От кого <-EPIC-> Behrmann: Здравствуйте, хочу купить у вас Лук из рога за 1 chaos в лиге Crucible (секция "~b/o 1 chaos"; позиция: 1 столбец, 1 ряд)
+2023/04/10 07:10:18 13651437 cffb071e [INFO Client 10088] : Behrmann присоединился.
+2023/04/10 07:10:26 13659875 88a904cb [DEBUG Client 10088] Got Instance Details from login server
+2023/04/10 07:10:26 13659875 32759a9f [INFO Client 10088] [SHADER] Delay: OFF
+2023/04/10 07:10:26 13659875 ca3a6a71 [INFO Client 10088] Connecting to instance server at 159.122.142.234:6112
+2023/04/10 07:10:26 13659937 ca3a4dbb [DEBUG Client 10088] Connect time to instance server was 46ms
+2023/04/10 07:10:26 13660015 1186a0e5 [DEBUG Client 10088] Generating level 69 area "2_10_town" with seed 1
+2023/04/10 07:10:27 13661156 f22b6987 [INFO Client 10088] Tile hash: 3862614232
+2023/04/10 07:10:27 13661156 f22b6986 [INFO Client 10088] Doodad hash: 2693664852
+2023/04/10 07:10:27 13661359 11870f49 [DEBUG Client 10088] Joined guild named Голосовой чат discord.com/invite/nXFKHzJ with 193 members 
+2023/04/10 07:10:28 13662093 cffb071e [INFO Client 10088] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Доки Ориата.
+2023/04/10 07:10:29 13662656 32759a9f [INFO Client 10088] [SHADER] Delay: ON
+2023/04/10 07:10:31 13664765 88a904cb [DEBUG Client 10088] Got Instance Details from login server
+2023/04/10 07:10:31 13664765 32759a9f [INFO Client 10088] [SHADER] Delay: OFF
+2023/04/10 07:10:31 13664765 ca3a6a71 [INFO Client 10088] Connecting to instance server at 169.51.201.167:6112
+2023/04/10 07:10:31 13664812 ca3a4dbb [DEBUG Client 10088] Connect time to instance server was 47ms
+2023/04/10 07:10:31 13664859 1186a0e5 [DEBUG Client 10088] Generating level 20 area "HideoutCoral" with seed 1
+2023/04/10 07:10:31 13665078 f22b6987 [INFO Client 10088] Tile hash: 805187908
+2023/04/10 07:10:31 13665078 f22b6986 [INFO Client 10088] Doodad hash: 0
+2023/04/10 07:10:32 13665859 11870f49 [DEBUG Client 10088] Joined guild named Голосовой чат discord.com/invite/nXFKHzJ with 193 members 
+2023/04/10 07:10:33 13666546 cffb071e [INFO Client 10088] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Коралловое убежище.
+2023/04/10 07:10:33 13667140 32759a9f [INFO Client 10088] [SHADER] Delay: ON
+2023/04/10 07:10:39 13673218 cffb071e [INFO Client 10088] : Behrmann присоединился.
+2023/04/10 07:11:03 13696531 cffb071e [INFO Client 10088] : Сделка совершена.
+2023/04/10 07:11:04 13697421 cffb071e [INFO Client 10088] <-EPIC-> Behrmann: ty
+2023/04/10 07:11:06 13700125 cffb071e [INFO Client 10088] : Behrmann покинул область.
+2023/04/10 07:11:12 13706046 cffb071e [INFO Client 10088] @Кому Behrmann: Thank you Behrmann! Have a nice day and good luck!
+2023/04/10 07:13:38 13852218 cffb071e [INFO Client 10088] @От кого AbsolutelyCRUC: Здравствуйте, хочу купить у вас Химерический сосуд, Большой кластерный самоцвет в лиге Crucible (секция "1c"; позиция: 7 столбец, 3 ряд)
+2023/04/10 07:13:41 13855078 cffb071e [INFO Client 10088] @От кого AbsolutelyCRUC:  35c offer invite me
+2023/04/10 07:13:56 13869687 cffb071e [INFO Client 10088] : AbsolutelyCRUC присоединился.
+2023/04/10 07:14:10 13883656 cffb071e [INFO Client 10088] : Сделка совершена.
+2023/04/10 07:14:13 13887125 cffb071e [INFO Client 10088] @Кому AbsolutelyCRUC: Thank you AbsolutelyCRUC! Have a nice day and good luck!
+2023/04/10 07:14:21 13894875 cffb071e [INFO Client 10088] : AbsolutelyCRUC покинул область.
+2023/04/10 07:16:46 14039984 88a904cb [DEBUG Client 10088] Got Instance Details from login server
+2023/04/10 07:16:46 14039984 32759a9f [INFO Client 10088] [SHADER] Delay: OFF
+2023/04/10 07:16:46 14039984 ca3a6a71 [INFO Client 10088] Connecting to instance server at 159.122.142.233:6112
+2023/04/10 07:16:46 14040046 ca3a4dbb [DEBUG Client 10088] Connect time to instance server was 47ms
+2023/04/10 07:16:46 14040093 1186a0e5 [DEBUG Client 10088] Generating level 64 area "2_10_2" with seed 1230836216
+2023/04/10 07:16:47 14040953 f22b6987 [INFO Client 10088] Tile hash: 288862994
+2023/04/10 07:16:47 14040953 f22b6986 [INFO Client 10088] Doodad hash: 1837320984
+2023/04/10 07:16:48 14041625 11870f49 [DEBUG Client 10088] Joined guild named Голосовой чат discord.com/invite/nXFKHzJ with 193 members 
+2023/04/10 07:16:48 14042250 cffb071e [INFO Client 10088] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Разорённая площадь.
+2023/04/10 07:16:49 14042875 32759a9f [INFO Client 10088] [SHADER] Delay: ON
+2023/04/10 07:17:07 14061203 88a904cb [DEBUG Client 10088] Got Instance Details from login server
+2023/04/10 07:17:07 14061203 32759a9f [INFO Client 10088] [SHADER] Delay: OFF
+2023/04/10 07:17:07 14061203 ca3a6a71 [INFO Client 10088] Connecting to instance server at 169.51.201.146:6112
+2023/04/10 07:17:07 14061281 ca3a4dbb [DEBUG Client 10088] Connect time to instance server was 32ms
+2023/04/10 07:17:07 14061328 1186a0e5 [DEBUG Client 10088] Generating level 66 area "2_10_5" with seed 4204002417
+2023/04/10 07:17:08 14061843 f22b6987 [INFO Client 10088] Tile hash: 1445541461
+2023/04/10 07:17:08 14061843 f22b6986 [INFO Client 10088] Doodad hash: 3324370650
+2023/04/10 07:17:09 14062437 11870f49 [DEBUG Client 10088] Joined guild named Голосовой чат discord.com/invite/nXFKHzJ with 193 members 
+2023/04/10 07:17:09 14063015 cffb071e [INFO Client 10088] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Каналы.
+2023/04/10 07:17:10 14063500 32759a9f [INFO Client 10088] [SHADER] Delay: ON
+2023/04/10 07:18:09 14123015 cffb071e [INFO Client 10088] Нико, Мастер глубин: Ух. Ну и запашок.
+2023/04/10 07:19:53 14226859 cffb071e [INFO Client 10088] : Сокрой свой путь войны туманом
+2023/04/10 07:21:10 14304218 cffb071e [INFO Client 10088] : DeeToxilistaIIIXXI был повержен.
+2023/04/10 07:21:20 14314203 890d9d5f [INFO Client 10088] Async connecting to mil01.login.pathofexile.com:20481
+2023/04/10 07:21:20 14314218 890d9cd8 [INFO Client 10088] Connected to mil01.login.pathofexile.com in 15ms.
+2023/04/10 07:21:25 14318718 88a904cb [DEBUG Client 10088] Got Instance Details from login server
+2023/04/10 07:21:25 14318718 32759a9f [INFO Client 10088] [SHADER] Delay: OFF
+2023/04/10 07:21:25 14318718 ca3a6a71 [INFO Client 10088] Connecting to instance server at 159.122.142.234:6112
+2023/04/10 07:21:25 14318765 ca3a4dbb [DEBUG Client 10088] Connect time to instance server was 32ms
+2023/04/10 07:21:25 14318843 1186a0e5 [DEBUG Client 10088] Generating level 69 area "2_10_town" with seed 1
+2023/04/10 07:21:26 14320187 f22b6987 [INFO Client 10088] Tile hash: 3862614232
+2023/04/10 07:21:26 14320187 f22b6986 [INFO Client 10088] Doodad hash: 2693664852
+2023/04/10 07:21:27 14321390 11870f49 [DEBUG Client 10088] Joined guild named Голосовой чат discord.com/invite/nXFKHzJ with 193 members 
+2023/04/10 07:21:28 14322343 cffb071e [INFO Client 10088] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Доки Ориата.
+2023/04/10 07:21:29 14322781 cffb071e [INFO Client 10088] : Вы присоединились к Общему каналу чата 9 968.
+2023/04/10 07:21:29 14323218 32759a9f [INFO Client 10088] [SHADER] Delay: ON
+2023/04/10 07:22:46 14399781 cffb071e [INFO Client 10088] : Сделка совершена.
+2023/04/10 07:23:19 14433078 88a904cb [DEBUG Client 10088] Got Instance Details from login server
+2023/04/10 07:23:19 14433109 32759a9f [INFO Client 10088] [SHADER] Delay: OFF
+2023/04/10 07:23:19 14433109 ca3a6a71 [INFO Client 10088] Connecting to instance server at 169.51.201.146:6112
+2023/04/10 07:23:19 14433171 ca3a4dbb [DEBUG Client 10088] Connect time to instance server was 31ms
+2023/04/10 07:23:19 14433218 1186a0e5 [DEBUG Client 10088] Generating level 33 area "Labyrinth_Airlock" with seed 621468109
+2023/04/10 07:23:20 14433453 f22b6987 [INFO Client 10088] Tile hash: 1764711442
+2023/04/10 07:23:20 14433453 f22b6986 [INFO Client 10088] Doodad hash: 2223508528
+2023/04/10 07:23:20 14434250 11870f49 [DEBUG Client 10088] Joined guild named Голосовой чат discord.com/invite/nXFKHzJ with 193 members 
+2023/04/10 07:23:21 14434875 cffb071e [INFO Client 10088] : <<set:FS>><<set:F>><<set:S>>Вы вошли в область Площадь претендентов.
+2023/04/10 07:23:22 14435453 32759a9f [INFO Client 10088] [SHADER] Delay: ON
+2023/04/10 07:23:38 14452359 cffb071e [INFO Client 10088] : Всего очков пассивных умений: 97 (распределено: 97)
+2023/04/10 07:23:38 14452359 cffb071e [INFO Client 10088] : 4 очков Восхождения (4 использовано)
+2023/04/10 07:23:38 14452359 cffb071e [INFO Client 10088] : 76 от уровня героя
+2023/04/10 07:23:38 14452359 cffb071e [INFO Client 10088] : 21 от заданий:
+2023/04/10 07:23:38 14452359 cffb071e [INFO Client 10088] : (1 от Обитатель глубин)
+2023/04/10 07:23:38 14452359 cffb071e [INFO Client 10088] : (1 от Обманутый моряк)
+2023/04/10 07:23:38 14452359 cffb071e [INFO Client 10088] : (1 от Путь вперёд)
+2023/04/10 07:23:38 14452359 cffb071e [INFO Client 10088] : (2 от Разбойничьи дрязги)
+2023/04/10 07:23:38 14452359 cffb071e [INFO Client 10088] : (1 от Секреты Виктарио)
+2023/04/10 07:23:38 14452359 cffb071e [INFO Client 10088] : (1 от Питомцы Веры)
+2023/04/10 07:23:38 14452359 cffb071e [INFO Client 10088] : (1 от Неукротимый дух)
+2023/04/10 07:23:38 14452359 cffb071e [INFO Client 10088] : (1 от В служении науке)
+2023/04/10 07:23:38 14452359 cffb071e [INFO Client 10088] : (1 от Мучения Китавы)
+2023/04/10 07:23:38 14452359 cffb071e [INFO Client 10088] : (1 от Отец войны)
+2023/04/10 07:23:38 14452359 cffb071e [INFO Client 10088] : (1 от Госпожа марионеток)
+2023/04/10 07:23:38 14452359 cffb071e [INFO Client 10088] : (1 от Хозяин миллиона лиц)
+2023/04/10 07:23:38 14452359 cffb071e [INFO Client 10088] : (1 от Царица отчаяния)
+2023/04/10 07:23:38 14452359 cffb071e [INFO Client 10088] : (1 от Звезда Кишары)
+2023/04/10 07:23:38 14452359 cffb071e [INFO Client 10088] : (1 от Любовь мертва)
+2023/04/10 07:23:38 14452359 cffb071e [INFO Client 10088] : (1 от Отражение ужаса)
+2023/04/10 07:23:38 14452359 cffb071e [INFO Client 10088] : (1 от Легион каменитов)
+2023/04/10 07:23:38 14452359 cffb071e [INFO Client 10088] : (1 от Царица песков)
+2023/04/10 07:23:38 14452359 cffb071e [INFO Client 10088] : (1 от Правитель Макед)
+2023/04/10 07:23:38 14452359 cffb071e [INFO Client 10088] : (1 от Месть Виленты)
+2023/04/10 07:24:14 14487859 cffb071e [INFO Client 10088] : Вы не можете попасть в убежище отсюда.
+2023/04/10 07:24:16 14490171 890d9d5f [INFO Client 10088] Async connecting to mil01.login.pathofexile.com:20481
+2023/04/10 07:24:16 14490187 890d9cd8 [INFO Client 10088] Connected to mil01.login.pathofexile.com in 0ms.
+2023/04/10 07:24:20 14494296 88a904cb [DEBUG Client 10088] Got Instance Details from login server
+2023/04/10 07:24:20 14494296 32759a9f [INFO Client 10088] [SHADER] Delay: OFF
+2023/04/10 07:24:20 14494296 ca3a6a71 [INFO Client 10088] Connecting to instance server at 159.122.142.234:6112
+2023/04/10 07:24:20 14494359 ca3a4dbb [DEBUG Client 10088] Connect time to instance server was 32ms
+2023/04/10 07:24:20 14494421 1186a0e5 [DEBUG Client 10088] Generating level 69 area "2_10_town" with seed 1
+2023/04/10 07:24:21 14494453 f22b6987 [INFO Client 10088] Tile hash: 3862614232
+2023/04/10 07:24:21 14494453 f22b6986 [INFO Client 10088] Doodad hash: 2693664852
+2023/04/10 07:24:23 14496796 11870f49 [DEBUG Client 10088] Joined guild named Голосовой чат discord.com/invite/nXFKHzJ with 193 members 
+2023/04/10 07:24:24 14497546 cffb071e [INFO Client 10088] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Доки Ориата.
+2023/04/10 07:24:24 14497953 cffb071e [INFO Client 10088] : Вы присоединились к Общему каналу чата 9 968.
+2023/04/10 07:24:24 14498140 32759a9f [INFO Client 10088] [SHADER] Delay: ON
+2023/04/10 07:24:40 14513937 88a904cb [DEBUG Client 10088] Got Instance Details from login server
+2023/04/10 07:24:40 14513937 32759a9f [INFO Client 10088] [SHADER] Delay: OFF
+2023/04/10 07:24:40 14513937 ca3a6a71 [INFO Client 10088] Connecting to instance server at 169.51.201.141:6112
+2023/04/10 07:24:40 14513984 ca3a4dbb [DEBUG Client 10088] Connect time to instance server was 47ms
+2023/04/10 07:24:40 14514046 1186a0e5 [DEBUG Client 10088] Generating level 64 area "2_10_2" with seed 2963902277
+2023/04/10 07:24:41 14514890 f22b6987 [INFO Client 10088] Tile hash: 2430965089
+2023/04/10 07:24:41 14514890 f22b6986 [INFO Client 10088] Doodad hash: 2188481964
+2023/04/10 07:24:42 14515484 11870f49 [DEBUG Client 10088] Joined guild named Голосовой чат discord.com/invite/nXFKHzJ with 193 members 
+2023/04/10 07:24:42 14516031 cffb071e [INFO Client 10088] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Разорённая площадь.
+2023/04/10 07:24:43 14516625 32759a9f [INFO Client 10088] [SHADER] Delay: ON
+2023/04/10 07:24:49 14522687 88a904cb [DEBUG Client 10088] Got Instance Details from login server
+2023/04/10 07:24:49 14522687 32759a9f [INFO Client 10088] [SHADER] Delay: OFF
+2023/04/10 07:24:49 14522687 ca3a6a71 [INFO Client 10088] Connecting to instance server at 159.122.142.248:6112
+2023/04/10 07:24:49 14522734 ca3a4dbb [DEBUG Client 10088] Connect time to instance server was 47ms
+2023/04/10 07:24:49 14522812 1186a0e5 [DEBUG Client 10088] Generating level 67 area "2_10_9" with seed 2812131764
+2023/04/10 07:24:49 14523015 b5a581a7 [INFO Client 10088] Spawning discoverable Hideout HideoutOssuary
+2023/04/10 07:24:50 14523671 f22b6987 [INFO Client 10088] Tile hash: 1168458216
+2023/04/10 07:24:50 14523671 f22b6986 [INFO Client 10088] Doodad hash: 2599734729
+2023/04/10 07:24:50 14524125 11870f49 [DEBUG Client 10088] Joined guild named Голосовой чат discord.com/invite/nXFKHzJ with 193 members 
+2023/04/10 07:24:51 14524750 cffb071e [INFO Client 10088] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Костница.
+2023/04/10 07:24:51 14525281 32759a9f [INFO Client 10088] [SHADER] Delay: ON
+2023/04/10 07:26:27 14620984 cffb071e [INFO Client 10088] : Былое сущему послужит
+2023/04/10 07:27:42 14695968 cffb071e [INFO Client 10088] : Дверь заперта
+2023/04/10 07:28:04 14718265 cffb071e [INFO Client 10088] Изаро: Император должен точно знать своё место.
+2023/04/10 07:31:03 14896781 88a904cb [DEBUG Client 10088] Got Instance Details from login server
+2023/04/10 07:31:03 14896781 32759a9f [INFO Client 10088] [SHADER] Delay: OFF
+2023/04/10 07:31:03 14896781 ca3a6a71 [INFO Client 10088] Connecting to instance server at 159.122.142.234:6112
+2023/04/10 07:31:03 14896828 ca3a4dbb [DEBUG Client 10088] Connect time to instance server was 47ms
+2023/04/10 07:31:03 14896906 1186a0e5 [DEBUG Client 10088] Generating level 69 area "2_10_town" with seed 1
+2023/04/10 07:31:04 14898109 f22b6987 [INFO Client 10088] Tile hash: 3862614232
+2023/04/10 07:31:04 14898109 f22b6986 [INFO Client 10088] Doodad hash: 2693664852
+2023/04/10 07:31:04 14898312 11870f49 [DEBUG Client 10088] Joined guild named Голосовой чат discord.com/invite/nXFKHzJ with 193 members 
+2023/04/10 07:31:05 14899046 cffb071e [INFO Client 10088] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Доки Ориата.
+2023/04/10 07:31:06 14899578 32759a9f [INFO Client 10088] [SHADER] Delay: ON
+2023/04/10 07:37:04 15258031 88a904cb [DEBUG Client 10088] Got Instance Details from login server
+2023/04/10 07:37:04 15258031 32759a9f [INFO Client 10088] [SHADER] Delay: OFF
+2023/04/10 07:37:04 15258031 ca3a6a71 [INFO Client 10088] Connecting to instance server at 159.122.142.228:6112
+2023/04/10 07:37:04 15258078 ca3a4dbb [DEBUG Client 10088] Connect time to instance server was 31ms
+2023/04/10 07:37:04 15258125 1186a0e5 [DEBUG Client 10088] Generating level 20 area "HideoutCoral" with seed 1
+2023/04/10 07:37:04 15258359 f22b6987 [INFO Client 10088] Tile hash: 805187908
+2023/04/10 07:37:04 15258359 f22b6986 [INFO Client 10088] Doodad hash: 0
+2023/04/10 07:37:05 15258968 11870f49 [DEBUG Client 10088] Joined guild named Голосовой чат discord.com/invite/nXFKHzJ with 193 members 
+2023/04/10 07:37:06 15259656 cffb071e [INFO Client 10088] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Коралловое убежище.
+2023/04/10 07:37:06 15260265 32759a9f [INFO Client 10088] [SHADER] Delay: ON
+2023/04/10 07:37:08 15261515 b51d4f61 [DEBUG Client 10088] [RENDER] SetRendererSettings
+2023/04/10 07:37:08 15261515 b51d6447 [DEBUG Client 10088] [RENDER] ResizeWindow
+2023/04/10 07:37:08 15261515 9d4eec8a [DEBUG Client 10088] [WINDOW] TrigggerDeviceLost
+2023/04/10 07:37:08 15261531 9d4eeba7 [DEBUG Client 10088] [WINDOW] TrigggerDeviceReset
+2023/04/10 07:37:08 15262125 b51d614c [DEBUG Client 10088] [RENDER] RestartSwapChain
+2023/04/10 07:37:08 15262125 9e6a0b0a [INFO Client 10088] Enumerated adapter: NVIDIA GeForce GTX 1660
+2023/04/10 07:37:08 15262171 9e6a1d2a [INFO Client 10088] Enumerated device for adapter: NVIDIA GeForce GTX 1660. Selected feature level: 45312. Max feature level: 45312
+2023/04/10 07:37:08 15262171 9e6a1363 [INFO Client 10088] Enumerated output for adapter NVIDIA GeForce GTX 1660 of \\.\DISPLAY1
+2023/04/10 07:37:08 15262171 9e6a0b0a [INFO Client 10088] Enumerated adapter: Microsoft Basic Render Driver
+2023/04/10 07:37:08 15262171 9e6a1d2a [INFO Client 10088] Enumerated device for adapter: Microsoft Basic Render Driver. Selected feature level: 45312. Max feature level: 45312
+2023/04/10 07:37:08 15262203 9d4eec8a [DEBUG Client 10088] [WINDOW] TrigggerDeviceLost
+2023/04/10 07:37:08 15262234 9d4eeba7 [DEBUG Client 10088] [WINDOW] TrigggerDeviceReset
+2023/04/10 07:37:09 15262828 fafff8cf [DEBUG Client 10088] CreateSwapChain: SetFullScreenState 0
+2023/04/10 07:37:09 15262828 9d4eec8a [DEBUG Client 10088] [WINDOW] TrigggerDeviceLost
+2023/04/10 07:37:09 15262843 9d4eeba7 [DEBUG Client 10088] [WINDOW] TrigggerDeviceReset
+2023/04/10 07:37:10 15263421 3275a75e [INFO Client 10088] [SHADER] Disable Async: 1 frames
+2023/04/10 07:37:10 15263421 b51d610e [INFO Client 10088] [RENDER] Disable Async: 1 frames
+2023/04/10 07:37:10 15263421 9d4eec8a [DEBUG Client 10088] [WINDOW] TrigggerDeviceLost
+2023/04/10 07:37:10 15263453 9d4eeba7 [DEBUG Client 10088] [WINDOW] TrigggerDeviceReset
+2023/04/10 07:37:49 15302828 b51d4f61 [DEBUG Client 10088] [RENDER] SetRendererSettings
+2023/04/10 07:37:49 15302828 b51d6447 [DEBUG Client 10088] [RENDER] ResizeWindow
+2023/04/10 07:37:49 15302828 b51d614c [DEBUG Client 10088] [RENDER] RestartSwapChain
+2023/04/10 07:37:49 15302843 9e6a0b0a [INFO Client 10088] Enumerated adapter: NVIDIA GeForce GTX 1660
+2023/04/10 07:37:49 15302890 9e6a1d2a [INFO Client 10088] Enumerated device for adapter: NVIDIA GeForce GTX 1660. Selected feature level: 45312. Max feature level: 45312
+2023/04/10 07:37:49 15302890 9e6a1363 [INFO Client 10088] Enumerated output for adapter NVIDIA GeForce GTX 1660 of \\.\DISPLAY1
+2023/04/10 07:37:49 15302890 9e6a0b0a [INFO Client 10088] Enumerated adapter: Microsoft Basic Render Driver
+2023/04/10 07:37:49 15302890 9e6a1d2a [INFO Client 10088] Enumerated device for adapter: Microsoft Basic Render Driver. Selected feature level: 45312. Max feature level: 45312
+2023/04/10 07:37:49 15302906 fafff8cf [DEBUG Client 10088] CreateSwapChain: SetFullScreenState 1
+2023/04/10 07:37:49 15303000 9d4eec8a [DEBUG Client 10088] [WINDOW] TrigggerDeviceLost
+2023/04/10 07:37:49 15303015 9d4eeba7 [DEBUG Client 10088] [WINDOW] TrigggerDeviceReset
+2023/04/10 07:37:50 15303734 3275a75e [INFO Client 10088] [SHADER] Disable Async: 1 frames
+2023/04/10 07:37:50 15303734 b51d610e [INFO Client 10088] [RENDER] Disable Async: 1 frames
+2023/04/10 07:40:14 15447687 88a904cb [DEBUG Client 10088] Got Instance Details from login server
+2023/04/10 07:40:14 15447687 32759a9f [INFO Client 10088] [SHADER] Delay: OFF
+2023/04/10 07:40:14 15447687 ca3a6a71 [INFO Client 10088] Connecting to instance server at 159.122.142.234:6112
+2023/04/10 07:40:14 15447750 ca3a4dbb [DEBUG Client 10088] Connect time to instance server was 47ms
+2023/04/10 07:40:14 15447828 1186a0e5 [DEBUG Client 10088] Generating level 69 area "2_10_town" with seed 1
+2023/04/10 07:40:14 15447843 f22b6987 [INFO Client 10088] Tile hash: 3862614232
+2023/04/10 07:40:14 15447843 f22b6986 [INFO Client 10088] Doodad hash: 2693664852
+2023/04/10 07:40:15 15448546 11870f49 [DEBUG Client 10088] Joined guild named Голосовой чат discord.com/invite/nXFKHzJ with 193 members 
+2023/04/10 07:40:16 15449437 cffb071e [INFO Client 10088] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Доки Ориата.
+2023/04/10 07:40:16 15450375 32759a9f [INFO Client 10088] [SHADER] Delay: ON
+2023/04/10 07:42:33 15587250 88a904cb [DEBUG Client 10088] Got Instance Details from login server
+2023/04/10 07:42:33 15587250 32759a9f [INFO Client 10088] [SHADER] Delay: OFF
+2023/04/10 07:42:33 15587250 ca3a6a71 [INFO Client 10088] Connecting to instance server at 159.122.142.228:6112
+2023/04/10 07:42:33 15587312 ca3a4dbb [DEBUG Client 10088] Connect time to instance server was 46ms
+2023/04/10 07:42:33 15587359 1186a0e5 [DEBUG Client 10088] Generating level 20 area "HideoutCoral" with seed 1
+2023/04/10 07:42:33 15587375 f22b6987 [INFO Client 10088] Tile hash: 805187908
+2023/04/10 07:42:33 15587375 f22b6986 [INFO Client 10088] Doodad hash: 0
+2023/04/10 07:42:34 15588031 11870f49 [DEBUG Client 10088] Joined guild named Голосовой чат discord.com/invite/nXFKHzJ with 193 members 
+2023/04/10 07:42:35 15588640 cffb071e [INFO Client 10088] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Коралловое убежище.
+2023/04/10 07:42:35 15589203 32759a9f [INFO Client 10088] [SHADER] Delay: ON
+2023/04/10 07:42:56 15610140 88a904cb [DEBUG Client 10088] Got Instance Details from login server
+2023/04/10 07:42:56 15610140 32759a9f [INFO Client 10088] [SHADER] Delay: OFF
+2023/04/10 07:42:56 15610140 ca3a6a71 [INFO Client 10088] Connecting to instance server at 169.51.201.173:6112
+2023/04/10 07:42:56 15610203 ca3a4dbb [DEBUG Client 10088] Connect time to instance server was 31ms
+2023/04/10 07:42:56 15610250 1186a0e5 [DEBUG Client 10088] Generating level 64 area "2_10_2" with seed 3588075872
+2023/04/10 07:42:57 15611156 f22b6987 [INFO Client 10088] Tile hash: 1527638537
+2023/04/10 07:42:57 15611156 f22b6986 [INFO Client 10088] Doodad hash: 702950427
+2023/04/10 07:42:58 15611828 11870f49 [DEBUG Client 10088] Joined guild named Голосовой чат discord.com/invite/nXFKHzJ with 193 members 
+2023/04/10 07:42:59 15612468 cffb071e [INFO Client 10088] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Разорённая площадь.
+2023/04/10 07:42:59 15613093 32759a9f [INFO Client 10088] [SHADER] Delay: ON
+2023/04/10 07:43:38 15652203 88a904cb [DEBUG Client 10088] Got Instance Details from login server
+2023/04/10 07:43:38 15652203 32759a9f [INFO Client 10088] [SHADER] Delay: OFF
+2023/04/10 07:43:38 15652203 ca3a6a71 [INFO Client 10088] Connecting to instance server at 169.51.201.180:6112
+2023/04/10 07:43:38 15652265 ca3a4dbb [DEBUG Client 10088] Connect time to instance server was 47ms
+2023/04/10 07:43:38 15652328 1186a0e5 [DEBUG Client 10088] Generating level 20 area "HideoutCoral" with seed 1
+2023/04/10 07:43:38 15652359 f22b6987 [INFO Client 10088] Tile hash: 805187908
+2023/04/10 07:43:38 15652359 f22b6986 [INFO Client 10088] Doodad hash: 0
+2023/04/10 07:43:39 15653265 11870f49 [DEBUG Client 10088] Joined guild named Голосовой чат discord.com/invite/nXFKHzJ with 193 members 
+2023/04/10 07:43:40 15653875 cffb071e [INFO Client 10088] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Коралловое убежище.
+2023/04/10 07:43:41 15654421 32759a9f [INFO Client 10088] [SHADER] Delay: ON
+2023/04/10 07:44:12 15686078 88a904cb [DEBUG Client 10088] Got Instance Details from login server
+2023/04/10 07:44:12 15686078 32759a9f [INFO Client 10088] [SHADER] Delay: OFF
+2023/04/10 07:44:12 15686078 ca3a6a71 [INFO Client 10088] Connecting to instance server at 169.51.201.173:6112
+2023/04/10 07:44:12 15686125 ca3a4dbb [DEBUG Client 10088] Connect time to instance server was 31ms
+2023/04/10 07:44:12 15686171 1186a0e5 [DEBUG Client 10088] Generating level 64 area "2_10_2" with seed 3588075872
+2023/04/10 07:44:12 15686421 f22b6987 [INFO Client 10088] Tile hash: 1527638537
+2023/04/10 07:44:12 15686421 f22b6986 [INFO Client 10088] Doodad hash: 702950427
+2023/04/10 07:44:13 15686937 11870f49 [DEBUG Client 10088] Joined guild named Голосовой чат discord.com/invite/nXFKHzJ with 193 members 
+2023/04/10 07:44:14 15687515 cffb071e [INFO Client 10088] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Разорённая площадь.
+2023/04/10 07:44:14 15688140 32759a9f [INFO Client 10088] [SHADER] Delay: ON
+2023/04/10 07:45:25 15758500 88a904cb [DEBUG Client 10088] Got Instance Details from login server
+2023/04/10 07:45:25 15758500 32759a9f [INFO Client 10088] [SHADER] Delay: OFF
+2023/04/10 07:45:25 15758500 ca3a6a71 [INFO Client 10088] Connecting to instance server at 169.51.201.190:6112
+2023/04/10 07:45:25 15758546 ca3a4dbb [DEBUG Client 10088] Connect time to instance server was 31ms
+2023/04/10 07:45:25 15758593 1186a0e5 [DEBUG Client 10088] Generating level 66 area "2_10_5" with seed 1364411623
+2023/04/10 07:45:25 15759187 f22b6987 [INFO Client 10088] Tile hash: 3399813400
+2023/04/10 07:45:25 15759187 f22b6986 [INFO Client 10088] Doodad hash: 2197962624
+2023/04/10 07:45:26 15759812 11870f49 [DEBUG Client 10088] Joined guild named Голосовой чат discord.com/invite/nXFKHzJ with 193 members 
+2023/04/10 07:45:26 15760421 cffb071e [INFO Client 10088] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Каналы.
+2023/04/10 07:45:27 15760906 32759a9f [INFO Client 10088] [SHADER] Delay: ON
+2023/04/10 07:45:30 15763421 88a904cb [DEBUG Client 10088] Got Instance Details from login server
+2023/04/10 07:45:30 15763421 32759a9f [INFO Client 10088] [SHADER] Delay: OFF
+2023/04/10 07:45:30 15763421 ca3a6a71 [INFO Client 10088] Connecting to instance server at 169.51.201.173:6112
+2023/04/10 07:45:30 15763484 ca3a4dbb [DEBUG Client 10088] Connect time to instance server was 47ms
+2023/04/10 07:45:30 15763546 1186a0e5 [DEBUG Client 10088] Generating level 64 area "2_10_2" with seed 3588075872
+2023/04/10 07:45:30 15763781 f22b6987 [INFO Client 10088] Tile hash: 1527638537
+2023/04/10 07:45:30 15763781 f22b6986 [INFO Client 10088] Doodad hash: 702950427
+2023/04/10 07:45:30 15764328 11870f49 [DEBUG Client 10088] Joined guild named Голосовой чат discord.com/invite/nXFKHzJ with 193 members 
+2023/04/10 07:45:31 15764890 cffb071e [INFO Client 10088] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Разорённая площадь.
+2023/04/10 07:45:31 15765406 32759a9f [INFO Client 10088] [SHADER] Delay: ON
+2023/04/10 07:45:33 15766921 88a904cb [DEBUG Client 10088] Got Instance Details from login server
+2023/04/10 07:45:33 15766921 32759a9f [INFO Client 10088] [SHADER] Delay: OFF
+2023/04/10 07:45:33 15766921 ca3a6a71 [INFO Client 10088] Connecting to instance server at 169.51.201.190:6112
+2023/04/10 07:45:33 15766984 ca3a4dbb [DEBUG Client 10088] Connect time to instance server was 47ms
+2023/04/10 07:45:33 15767046 1186a0e5 [DEBUG Client 10088] Generating level 66 area "2_10_5" with seed 1364411623
+2023/04/10 07:45:33 15767140 f22b6987 [INFO Client 10088] Tile hash: 3399813400
+2023/04/10 07:45:33 15767140 f22b6986 [INFO Client 10088] Doodad hash: 2197962624
+2023/04/10 07:45:34 15768031 11870f49 [DEBUG Client 10088] Joined guild named Голосовой чат discord.com/invite/nXFKHzJ with 193 members 
+2023/04/10 07:45:35 15768578 cffb071e [INFO Client 10088] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Каналы.
+2023/04/10 07:45:35 15769078 32759a9f [INFO Client 10088] [SHADER] Delay: ON
+2023/04/10 07:47:44 15897500 cffb071e [INFO Client 10088] : DeeToxilistaIIIXXI был повержен.
+2023/04/10 07:49:01 15975265 118717eb [DEBUG Client 10088] Resyncing 8183
+2023/04/10 07:49:01 15975265 118717eb [DEBUG Client 10088] Resyncing 8186
+2023/04/10 07:49:01 15975265 118717eb [DEBUG Client 10088] Resyncing 8160
+2023/04/10 07:49:01 15975265 118717eb [DEBUG Client 10088] Resyncing 8206
+2023/04/10 07:49:01 15975265 118717eb [DEBUG Client 10088] Resyncing 8164
+2023/04/10 07:49:01 15975265 118717eb [DEBUG Client 10088] Resyncing 8197
+2023/04/10 07:49:01 15975265 118717eb [DEBUG Client 10088] Resyncing 8192
+2023/04/10 07:49:08 15981890 cffb071e [INFO Client 10088] : DeeToxilistaIIIXXI был повержен.
+2023/04/10 07:51:17 16111000 cffb071e [INFO Client 10088] : DeeToxilistaIIIXXI был повержен.
+2023/04/10 07:51:32 16126343 cffb071e [INFO Client 10088] #Gerodan: Круг геомантии, Посох патриция что это за дичь
+2023/04/10 07:52:33 16187109 cffb071e [INFO Client 10088] : DeeToxilistaIIIXXI был повержен.
+2023/04/10 07:53:33 16246734 cffb071e [INFO Client 10088] #Автроитетная_кракозябра: собери себе на рандоме шестилинк. для архилюбителей казино видать =)
+2023/04/10 07:54:42 16315890 cffb071e [INFO Client 10088] #mbx_vg: 4хлинк же
+2023/04/10 07:54:47 16321218 cffb071e [INFO Client 10088] #mbx_vg: в данном случае
+2023/04/10 07:55:04 16338171 cffb071e [INFO Client 10088] #Автроитетная_кракозябра: а, да там же не все вкачать можно
+2023/04/10 07:56:17 16410984 cffb071e [INFO Client 10088] #Gerodan: ну если был бы 6линк было бы сильно
+2023/04/10 07:56:20 16413609 cffb071e [INFO Client 10088] #Gerodan: камни то 30
+2023/04/10 07:58:23 16537218 118717eb [DEBUG Client 10088] Resyncing 31266
+2023/04/10 07:58:23 16537218 118717eb [DEBUG Client 10088] Resyncing 31298
+2023/04/10 08:01:03 16696843 88a904cb [DEBUG Client 10088] Got Instance Details from login server
+2023/04/10 08:01:03 16696843 32759a9f [INFO Client 10088] [SHADER] Delay: OFF
+2023/04/10 08:01:03 16696843 ca3a6a71 [INFO Client 10088] Connecting to instance server at 169.51.201.190:6112
+2023/04/10 08:01:03 16696921 ca3a4dbb [DEBUG Client 10088] Connect time to instance server was 47ms
+2023/04/10 08:01:03 16696968 1186a0e5 [DEBUG Client 10088] Generating level 67 area "2_10_6" with seed 3997437079
+2023/04/10 08:01:04 16697687 f22b6987 [INFO Client 10088] Tile hash: 4195649961
+2023/04/10 08:01:04 16697687 f22b6986 [INFO Client 10088] Doodad hash: 1511448314
+2023/04/10 08:01:05 16698734 11870f49 [DEBUG Client 10088] Joined guild named Голосовой чат discord.com/invite/nXFKHzJ with 193 members 
+2023/04/10 08:01:05 16699296 cffb071e [INFO Client 10088] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Кормушка.
+2023/04/10 08:01:06 16699984 32759a9f [INFO Client 10088] [SHADER] Delay: ON
+2023/04/10 08:02:15 16769203 cffb071e [INFO Client 10088] : DeeToxilistaIIIXXI был повержен.
+2023/04/10 08:02:50 16804109 cffb071e [INFO Client 10088] : DeeToxilistaIIIXXI был повержен.
+2023/04/10 08:05:14 16947453 cffb071e [INFO Client 10088] : DeeToxilistaIIIXXI был повержен.
+2023/04/10 08:05:38 16972359 cffb071e [INFO Client 10088] : DeeToxilistaIIIXXI был повержен.
+2023/04/10 08:06:48 17041937 cffb071e [INFO Client 10088] : DeeToxilistaIIIXXI был повержен.
+2023/04/10 08:07:42 17096046 cffb071e [INFO Client 10088] : DeeToxilistaIIIXXI был повержен.
+2023/04/10 08:08:06 17119515 cffb071e [INFO Client 10088] : DeeToxilistaIIIXXI был повержен.
+2023/04/10 08:08:32 17145625 cffb071e [INFO Client 10088] : DeeToxilistaIIIXXI был повержен.
+2023/04/10 08:08:36 17149812 88a904cb [DEBUG Client 10088] Got Instance Details from login server
+2023/04/10 08:08:36 17149812 32759a9f [INFO Client 10088] [SHADER] Delay: OFF
+2023/04/10 08:08:36 17149812 ca3a6a71 [INFO Client 10088] Connecting to instance server at 159.122.142.236:6112
+2023/04/10 08:08:36 17149875 ca3a4dbb [DEBUG Client 10088] Connect time to instance server was 31ms
+2023/04/10 08:08:36 17149921 1186a0e5 [DEBUG Client 10088] Generating level 66 area "2_10_5" with seed 3798029691
+2023/04/10 08:08:36 17150359 f22b6987 [INFO Client 10088] Tile hash: 1669142027
+2023/04/10 08:08:36 17150359 f22b6986 [INFO Client 10088] Doodad hash: 3066803313
+2023/04/10 08:08:37 17151125 11870f49 [DEBUG Client 10088] Joined guild named Голосовой чат discord.com/invite/nXFKHzJ with 193 members 
+2023/04/10 08:08:38 17151734 cffb071e [INFO Client 10088] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Каналы.
+2023/04/10 08:08:38 17152328 32759a9f [INFO Client 10088] [SHADER] Delay: ON
+2023/04/10 08:08:40 17153953 890d9d5f [INFO Client 10088] Async connecting to mil01.login.pathofexile.com:20481
+2023/04/10 08:08:40 17153968 890d9cd8 [INFO Client 10088] Connected to mil01.login.pathofexile.com in 0ms.
+2023/04/10 08:08:43 17157265 88a904cb [DEBUG Client 10088] Got Instance Details from login server
+2023/04/10 08:08:43 17157265 32759a9f [INFO Client 10088] [SHADER] Delay: OFF
+2023/04/10 08:08:43 17157265 ca3a6a71 [INFO Client 10088] Connecting to instance server at 159.122.142.234:6112
+2023/04/10 08:08:43 17157328 ca3a4dbb [DEBUG Client 10088] Connect time to instance server was 47ms
+2023/04/10 08:08:43 17157390 1186a0e5 [DEBUG Client 10088] Generating level 69 area "2_10_town" with seed 1
+2023/04/10 08:08:45 17158781 f22b6987 [INFO Client 10088] Tile hash: 3862614232
+2023/04/10 08:08:45 17158781 f22b6986 [INFO Client 10088] Doodad hash: 2693664852
+2023/04/10 08:08:46 17160000 11870f49 [DEBUG Client 10088] Joined guild named Голосовой чат discord.com/invite/nXFKHzJ with 193 members 
+2023/04/10 08:08:47 17160890 cffb071e [INFO Client 10088] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Доки Ориата.
+2023/04/10 08:08:47 17161343 cffb071e [INFO Client 10088] : Вы присоединились к Общему каналу чата 9 968.
+2023/04/10 08:08:48 17161828 32759a9f [INFO Client 10088] [SHADER] Delay: ON
