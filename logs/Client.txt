@@ -1965,3 +1965,56 @@ flags: 257
 2023/04/10 13:47:46 37500093 cffb071e [INFO Client 2300] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Доки Ориата.
 2023/04/10 13:47:47 37500468 cffb071e [INFO Client 2300] : Вы присоединились к Общему каналу чата 9 968.
 2023/04/10 13:47:47 37501015 32759a9f [INFO Client 2300] [SHADER] Delay: ON
+2023/04/10 13:56:38 38031718 88a904cb [DEBUG Client 2300] Got Instance Details from login server
+2023/04/10 13:56:38 38031718 32759a9f [INFO Client 2300] [SHADER] Delay: OFF
+2023/04/10 13:56:38 38031718 ca3a6a71 [INFO Client 2300] Connecting to instance server at 169.51.201.178:6112
+2023/04/10 13:56:38 38031765 ca3a4dbb [DEBUG Client 2300] Connect time to instance server was 47ms
+2023/04/10 13:56:38 38031828 1186a0e5 [DEBUG Client 2300] Generating level 64 area "2_10_2" with seed 3734999929
+2023/04/10 13:56:39 38032703 f22b6987 [INFO Client 2300] Tile hash: 2463584488
+2023/04/10 13:56:39 38032703 f22b6986 [INFO Client 2300] Doodad hash: 2900767777
+2023/04/10 13:56:39 38033328 11870f49 [DEBUG Client 2300] Joined guild named Голосовой чат discord.com/invite/nXFKHzJ with 193 members 
+2023/04/10 13:56:40 38033968 cffb071e [INFO Client 2300] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Разорённая площадь.
+2023/04/10 13:56:41 38034578 32759a9f [INFO Client 2300] [SHADER] Delay: ON
+2023/04/10 13:56:58 38051781 88a904cb [DEBUG Client 2300] Got Instance Details from login server
+2023/04/10 13:56:58 38051781 32759a9f [INFO Client 2300] [SHADER] Delay: OFF
+2023/04/10 13:56:58 38051781 ca3a6a71 [INFO Client 2300] Connecting to instance server at 169.51.201.169:6112
+2023/04/10 13:56:58 38051828 ca3a4dbb [DEBUG Client 2300] Connect time to instance server was 31ms
+2023/04/10 13:56:58 38051875 1186a0e5 [DEBUG Client 2300] Generating level 66 area "2_10_5" with seed 1872282796
+2023/04/10 13:56:58 38052421 f22b6987 [INFO Client 2300] Tile hash: 3876603552
+2023/04/10 13:56:58 38052421 f22b6986 [INFO Client 2300] Doodad hash: 3755149407
+2023/04/10 13:56:59 38053015 11870f49 [DEBUG Client 2300] Joined guild named Голосовой чат discord.com/invite/nXFKHzJ with 193 members 
+2023/04/10 13:57:00 38053640 cffb071e [INFO Client 2300] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Каналы.
+2023/04/10 13:57:00 38054140 32759a9f [INFO Client 2300] [SHADER] Delay: ON
+2023/04/10 13:57:47 38100546 cffb071e [INFO Client 2300] : Да не убоишься стихий
+2023/04/10 13:58:38 38151843 118717eb [DEBUG Client 2300] Resyncing 812
+2023/04/10 13:58:38 38151843 118717eb [DEBUG Client 2300] Resyncing 814
+2023/04/10 13:58:38 38151843 118717eb [DEBUG Client 2300] Resyncing 671
+2023/04/10 13:58:38 38151843 118717eb [DEBUG Client 2300] Resyncing 670
+2023/04/10 13:58:38 38151843 118717eb [DEBUG Client 2300] Resyncing 4817
+2023/04/10 13:58:38 38151843 118717eb [DEBUG Client 2300] Resyncing 770
+2023/04/10 13:58:38 38151843 118717eb [DEBUG Client 2300] Resyncing 4825
+2023/04/10 13:58:38 38151843 118717eb [DEBUG Client 2300] Resyncing 811
+2023/04/10 13:58:38 38151843 118717eb [DEBUG Client 2300] Resyncing 771
+2023/04/10 13:58:38 38151843 118717eb [DEBUG Client 2300] Resyncing 813
+2023/04/10 13:58:38 38151843 118717eb [DEBUG Client 2300] Resyncing 772
+2023/04/10 14:00:04 38237968 cffb071e [INFO Client 2300] &<RiPE> КотлетыВдуховке: Вивинсекция, Кольцо без камня
+2023/04/10 14:00:56 38290109 88a904cb [DEBUG Client 2300] Got Instance Details from login server
+2023/04/10 14:00:56 38290109 32759a9f [INFO Client 2300] [SHADER] Delay: OFF
+2023/04/10 14:00:56 38290109 ca3a6a71 [INFO Client 2300] Connecting to instance server at 169.51.201.182:6112
+2023/04/10 14:00:56 38290187 ca3a4dbb [DEBUG Client 2300] Connect time to instance server was 31ms
+2023/04/10 14:00:56 38290250 1186a0e5 [DEBUG Client 2300] Generating level 67 area "2_10_6" with seed 1294668711
+2023/04/10 14:00:57 38290937 f22b6987 [INFO Client 2300] Tile hash: 4242458982
+2023/04/10 14:00:57 38290937 f22b6986 [INFO Client 2300] Doodad hash: 4044867986
+2023/04/10 14:00:58 38291890 11870f49 [DEBUG Client 2300] Joined guild named Голосовой чат discord.com/invite/nXFKHzJ with 193 members 
+2023/04/10 14:00:59 38292453 cffb071e [INFO Client 2300] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Кормушка.
+2023/04/10 14:00:59 38293156 32759a9f [INFO Client 2300] [SHADER] Delay: ON
+2023/04/10 14:01:55 38348750 cffb071e [INFO Client 2300] #BlazingIcyEmber: о, а теперь хранилище кирака кормит валюткой
+2023/04/10 14:02:08 38362125 cffb071e [INFO Client 2300] #vortwxdvory: ?
+2023/04/10 14:02:57 38410703 cffb071e [INFO Client 2300] #BlazingIcyEmber: ну теперь у проходки Кирака, раньше только вроде микротранзакции всякие были на уники. а там сверху бесплатная валюта за закрытие
+2023/04/10 14:03:06 38420125 cffb071e [INFO Client 2300] #BlazingIcyEmber: или раньше тоже давали всякие ништяки:?
+2023/04/10 14:03:16 38430000 cffb071e [INFO Client 2300] #BlazingIcyEmber: Сфера горизонтов вот дало за 1
+2023/04/10 14:03:26 38440171 cffb071e [INFO Client 2300] #BlazingIcyEmber: на 5 вроде уник карта рандомная
+2023/04/10 14:03:31 38444812 cffb071e [INFO Client 2300] #vortwxdvory: ааа)
+2023/04/10 14:03:44 38457921 cffb071e [INFO Client 2300] #vortwxdvory: ну кормит ты конечно сильно преувеличил
+2023/04/10 14:04:07 38480500 cffb071e [INFO Client 2300] #BlazingIcyEmber: ну ССФ и на старте очень даже норм кормит
+2023/04/10 14:04:12 38486375 cffb071e [INFO Client 2300] : DeeToxilistaIIIXXI был повержен.
