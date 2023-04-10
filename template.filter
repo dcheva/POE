@@ -1,0 +1,180 @@
+#+ Templates
+
+#-2-chaos-sets-------------------------------
+
+Show # $type->2chaos-a
+	Class "Amulets" "Rings"
+	SetBackgroundColor 50 40 30 255
+	SetBorderColor 100 255 100 255
+	SetTextColor 255 205 155 255
+	Identified False
+	Corrupted False
+	Mirrored False
+	Rarity Rare
+    ItemLevel >= 60
+    ItemLevel <= 85
+	SetFontSize 40
+	CustomAlertSound "d2\malus.wav" 300
+	#PlayAlertSound 4 200
+	PlayEffect Orange
+	MinimapIcon 1 Orange Circle	
+	
+Show # $type->2chaos-b
+	Class "Belts"
+	SetBackgroundColor 50 40 30 255
+	SetBorderColor 100 100 255 255
+	SetTextColor 255 205 155 255
+	Identified False
+	Corrupted False
+	Mirrored False
+	Rarity Rare
+    ItemLevel >= 60
+    ItemLevel <= 85
+	SetFontSize 40
+	CustomAlertSound "d2\malus.wav" 300
+	#PlayAlertSound 4 200
+	PlayEffect Orange
+	MinimapIcon 1 Orange Circle
+	
+Show # $type->2chaos-c
+	Class "Daggers" "Rune Dagger" "Wands"
+	SetBackgroundColor 50 40 30 255
+	SetBorderColor 255 100 100 255
+	SetTextColor 255 205 155 255
+	Identified False
+	Corrupted False
+	Mirrored False
+	Rarity Rare
+    ItemLevel >= 60
+    ItemLevel <= 85
+	SetFontSize 40
+	CustomAlertSound "d2\malus.wav" 300
+	#PlayAlertSound 4 200
+	PlayEffect Orange
+	MinimapIcon 1 Orange Circle	
+	
+Show # $type->2chaos-d
+	Class "Boots" "Gloves" "Helmets"
+	SetBackgroundColor 50 40 30 255
+	SetBorderColor 200 150 100 255
+	SetTextColor 255 205 155 255
+	Identified False
+	Corrupted False
+	Mirrored False
+	Rarity Rare
+    ItemLevel >= 60
+    ItemLevel <= 85
+	SetFontSize 40
+	CustomAlertSound "d2\malus.wav" 300
+	#PlayAlertSound 4 200
+	PlayEffect Orange
+	MinimapIcon 1 Orange Circle
+	
+Show # $type->2chaos-e
+	Class "Body Armours"
+	SetBackgroundColor 50 40 30 255
+	SetBorderColor 255 255 100 255
+	SetTextColor 255 205 155 255
+	Identified False
+	Corrupted False
+	Mirrored False
+	Rarity Rare
+    ItemLevel >= 60
+    ItemLevel <= 74
+	SetFontSize 40
+	#PlayAlertSound 4 200
+	CustomAlertSound "d2\malus.wav" 300
+	PlayEffect Orange
+	MinimapIcon 1 Orange Circle
+	
+#/2-chaos-sets-------------------------------
+
+
+#-sceptres----------------------------------
+#--- FilterBlade: Conditional Entry scepters
+#--- FilterBlade: Conditional Entry < 80
+
+Show
+SetBorderColor 202 202 202 133
+SetFontSize 40
+ItemLevel >= 1
+ItemLevel <= 80
+Rarity Normal
+BaseType "Karui Sceptre" "Carnal Sceptre" "Abyssal Sceptre" "Blood Sceptre" "Crystal Sceptre" "Shadow Sceptre" "Quartz Sceptre" "Bronze Sceptre" "Opal Sceptre" "Alternating Sceptre" "Oscillating Sceptre" "Stabilising Sceptre" "Void Sceptre"
+SetBackgroundColor 115 98 75 122
+SetTextColor 255 255 255 193
+MinimapIcon 0 Grey Cross
+PlayEffect Grey
+CustomAlertSound "d2/ironmaiden.wav" 300
+
+#--- FilterBlade: Conditional Entry < 80
+Show
+SetBorderColor 202 202 202 133
+SetFontSize 40
+ItemLevel >= 1
+ItemLevel <= 80
+Rarity Magic
+SetTextColor 130 130 255 255
+SetBackgroundColor 115 98 75 123
+CustomAlertSound "d2/ironmaiden.wav" 300
+MinimapIcon 0 Blue Cross
+PlayEffect Blue
+BaseType "Karui Sceptre" "Carnal Sceptre" "Abyssal Sceptre" "Blood Sceptre" "Crystal Sceptre" "Shadow Sceptre" "Quartz Sceptre" "Bronze Sceptre" "Opal Sceptre" "Alternating Sceptre" "Oscillating Sceptre" "Stabilising Sceptre" "Void Sceptre"
+
+#--- FilterBlade: Conditional Entry < 80
+Show
+SetBorderColor 201 201 201 135
+SetFontSize 40
+ItemLevel >= 1
+ItemLevel <= 80
+Rarity Rare Unique
+BaseType "Karui Sceptre" "Carnal Sceptre" "Abyssal Sceptre" "Blood Sceptre" "Crystal Sceptre" "Shadow Sceptre" "Quartz Sceptre" "Bronze Sceptre" "Opal Sceptre" "Alternating Sceptre" "Oscillating Sceptre" "Stabilising Sceptre" "Void Sceptre"
+SetTextColor 255 242 121 195
+SetBackgroundColor 115 98 75 123
+CustomAlertSound "d2/ironmaiden.wav" 300
+MinimapIcon 0 Yellow Cross
+PlayEffect Yellow
+
+#--- FilterBlade: Conditional Entry > 80
+Show
+SetBorderColor 200 200 200 255
+SetFontSize 40
+ItemLevel >= 80
+Rarity Normal
+SetTextColor 255 255 255 255
+SetBackgroundColor 115 98 75 255
+CustomAlertSound "d2/thorns.wav" 300
+MinimapIcon 0 White Cross
+PlayEffect White
+BaseType "Karui Sceptre" "Carnal Sceptre" "Abyssal Sceptre" "Blood Sceptre" "Crystal Sceptre" "Shadow Sceptre" "Quartz Sceptre" "Bronze Sceptre" "Opal Sceptre" "Alternating Sceptre" "Oscillating Sceptre" "Stabilising Sceptre" "Void Sceptre"
+
+#--- FilterBlade: Conditional Entry > 80
+Show
+SetBorderColor 202 202 202 255
+SetFontSize 40
+ItemLevel >= 80
+Rarity Magic
+SetTextColor 166 168 255 255
+SetBackgroundColor 115 98 75 255
+CustomAlertSound "d2/thorns.wav" 300
+MinimapIcon 0 Blue Cross
+PlayEffect Blue
+BaseType "Karui Sceptre" "Carnal Sceptre" "Abyssal Sceptre" "Blood Sceptre" "Crystal Sceptre" "Shadow Sceptre" "Quartz Sceptre" "Bronze Sceptre" "Opal Sceptre" "Alternating Sceptre" "Oscillating Sceptre" "Stabilising Sceptre" "Void Sceptre"
+
+#--- FilterBlade: Conditional Entry > 80
+Show
+SetBorderColor 200 200 200 255
+SetFontSize 40
+ItemLevel >= 80
+Rarity Rare
+SetTextColor 244 255 121 255
+SetBackgroundColor 115 98 75 255
+CustomAlertSound "d2/thorns.wav" 300
+MinimapIcon 0 Yellow Cross
+PlayEffect Yellow
+BaseType "Karui Sceptre" "Carnal Sceptre" "Abyssal Sceptre" "Blood Sceptre" "Crystal Sceptre" "Shadow Sceptre" "Quartz Sceptre" "Bronze Sceptre" "Opal Sceptre" "Alternating Sceptre" "Oscillating Sceptre" "Stabilising Sceptre" "Void Sceptre"
+
+#-/- FilterBlade: Conditional Entry scepters
+#/sceptres-----------------------------------
+
+
