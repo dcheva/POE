@@ -305,3 +305,164 @@
 2023/04/10 04:44:51 4924734 b51d610e [INFO Client 10088] [RENDER] Disable Async: 1 frames
 2023/04/10 04:44:51 4924734 9d4eec8a [DEBUG Client 10088] [WINDOW] TrigggerDeviceLost
 2023/04/10 04:44:51 4924796 9d4eeba7 [DEBUG Client 10088] [WINDOW] TrigggerDeviceReset
+2023/04/10 04:45:57 4990937 b51d4f61 [DEBUG Client 10088] [RENDER] SetRendererSettings
+2023/04/10 04:45:57 4990937 b51d6447 [DEBUG Client 10088] [RENDER] ResizeWindow
+2023/04/10 04:45:57 4990937 b51d614c [DEBUG Client 10088] [RENDER] RestartSwapChain
+2023/04/10 04:45:57 4990937 9e6a0b0a [INFO Client 10088] Enumerated adapter: NVIDIA GeForce GTX 1660
+2023/04/10 04:45:57 4991000 9e6a1d2a [INFO Client 10088] Enumerated device for adapter: NVIDIA GeForce GTX 1660. Selected feature level: 45312. Max feature level: 45312
+2023/04/10 04:45:57 4991000 9e6a1363 [INFO Client 10088] Enumerated output for adapter NVIDIA GeForce GTX 1660 of \\.\DISPLAY1
+2023/04/10 04:45:57 4991000 9e6a0b0a [INFO Client 10088] Enumerated adapter: Microsoft Basic Render Driver
+2023/04/10 04:45:57 4991000 9e6a1d2a [INFO Client 10088] Enumerated device for adapter: Microsoft Basic Render Driver. Selected feature level: 45312. Max feature level: 45312
+2023/04/10 04:45:57 4991000 fafff8cf [DEBUG Client 10088] CreateSwapChain: SetFullScreenState 1
+2023/04/10 04:45:57 4991046 9d4eec8a [DEBUG Client 10088] [WINDOW] TrigggerDeviceLost
+2023/04/10 04:45:57 4991078 9d4eeba7 [DEBUG Client 10088] [WINDOW] TrigggerDeviceReset
+2023/04/10 04:45:58 4991890 3275a75e [INFO Client 10088] [SHADER] Disable Async: 1 frames
+2023/04/10 04:45:58 4991890 b51d610e [INFO Client 10088] [RENDER] Disable Async: 1 frames
+2023/04/10 04:46:24 5018265 cffb071e [INFO Client 10088] Ашлинг Лаффрей, Безмолвный палач: Когда мы закончим, никто даже не сможет назвать тебя человеком.
+2023/04/10 04:46:25 5018531 118717eb [DEBUG Client 10088] Resyncing 700
+2023/04/10 04:46:29 5022546 cffb071e [INFO Client 10088] Ашлинг Лаффрей, Безмолвный палач: Но... Я не могу...
+2023/04/10 04:46:37 5031171 cffb071e [INFO Client 10088] Джун, Скрытый мастер: Смерть - слишком мягкий приговор для чудовища вроде тебя.
+2023/04/10 04:47:02 5055453 374e128b [INFO Client 10088] [Item Filter] Downloading online list
+2023/04/10 04:47:02 5056171 374e12ec [INFO Client 10088] [Item Filter] Online list returned status: 200
+2023/04/10 04:47:02 5056171 374e12e6 [DEBUG Client 10088] [Item Filter] Online list request resolved to: 209.197.3.101
+2023/04/10 04:47:02 5056171 374df908 [INFO Client 10088] [Item Filter] List contained online filter 7Mr0AZHP with hash: bde292f2d937d7aca73b74ed63adf3e7 (local hash is: bde292f2d937d7aca73b74ed63adf3e7)
+2023/04/10 04:47:02 5056171 374df908 [INFO Client 10088] [Item Filter] List contained online filter G4AtJ5 with hash: f0db4894045a1a226b9a5ab288efcbe8 (local hash is: f0db4894045a1a226b9a5ab288efcbe8)
+2023/04/10 04:47:02 5056171 374df908 [INFO Client 10088] [Item Filter] List contained online filter GmjoTD with hash: 65680df1f434b4f9bc70c57f1d911daa (local hash is: 65680df1f434b4f9bc70c57f1d911daa)
+2023/04/10 04:47:02 5056171 374df908 [INFO Client 10088] [Item Filter] List contained online filter 5XMehq with hash: c219e68a17153050d0f25fa99a53678a (local hash is: c219e68a17153050d0f25fa99a53678a)
+2023/04/10 04:47:02 5056171 374df908 [INFO Client 10088] [Item Filter] List contained online filter GmXoTD with hash: 7c076e3fd4373fc359418079e4488f0b (local hash is: 7c076e3fd4373fc359418079e4488f0b)
+2023/04/10 04:47:02 5056171 374df908 [INFO Client 10088] [Item Filter] List contained online filter wvPeTJ with hash: 0177e469efb849660e2d7a9f21416034 (local hash is: 0177e469efb849660e2d7a9f21416034)
+2023/04/10 04:47:04 5057500 374e0d22 [INFO Client 10088] [Item Filter] Preparing to download online filter 7Mr0AZHP
+2023/04/10 04:47:04 5057500 374e0cc3 [INFO Client 10088] [Item Filter] Hash for online filter 7Mr0AZHP is: bde292f2d937d7aca73b74ed63adf3e7
+2023/04/10 04:47:04 5057656 374e0cc9 [INFO Client 10088] [Item Filter] Online item filter 7Mr0AZHP returned status: 200
+2023/04/10 04:47:04 5057656 374e0ce3 [DEBUG Client 10088] [Item Filter] Online item filter request resolved to: 209.197.3.101
+2023/04/10 04:47:04 5057656 374e0e8e [DEBUG Client 10088] [Item Filter] X-HW: 1681091223.dop222.ve1.t,1681091223.cds259.ve1.shn,1681091223.dop222.ve1.t,1681091223.cds241.ve1.c
+2023/04/10 04:47:04 5057656 374df808 [INFO Client 10088] [Item Filter] Successfully saved online filter 7Mr0AZHP. Hash is now: bde292f2d937d7aca73b74ed63adf3e7
+2023/04/10 04:47:04 5057671 7884752a [INFO Client 10088] [Item Filter] Finished reloading online filter 7Mr0AZHP. Result: true. Hash: bde292f2d937d7aca73b74ed63adf3e7. Type: Normal. Message: 
+2023/04/10 04:47:06 5060328 374e0d22 [INFO Client 10088] [Item Filter] Preparing to download online filter 7Mr0AZHP
+2023/04/10 04:47:06 5060328 374e0cc3 [INFO Client 10088] [Item Filter] Hash for online filter 7Mr0AZHP is: (empty)
+2023/04/10 04:47:07 5060500 374e0cc9 [INFO Client 10088] [Item Filter] Online item filter 7Mr0AZHP returned status: 200
+2023/04/10 04:47:07 5060500 374e0ce3 [DEBUG Client 10088] [Item Filter] Online item filter request resolved to: 209.197.3.101
+2023/04/10 04:47:07 5060500 374e0e8e [DEBUG Client 10088] [Item Filter] X-HW: 1681091226.dop226.ve1.t,1681091226.cds249.ve1.shn,1681091226.dop226.ve1.t,1681091226.cds241.ve1.c
+2023/04/10 04:47:07 5060500 374df808 [INFO Client 10088] [Item Filter] Successfully saved online filter 7Mr0AZHP. Hash is now: bde292f2d937d7aca73b74ed63adf3e7
+2023/04/10 04:47:07 5060515 7884752a [INFO Client 10088] [Item Filter] Finished reloading online filter 7Mr0AZHP. Result: true. Hash: bde292f2d937d7aca73b74ed63adf3e7. Type: Normal. Message: 
+2023/04/10 04:47:18 5072218 374e128b [INFO Client 10088] [Item Filter] Downloading online list
+2023/04/10 04:47:19 5072953 374e12ec [INFO Client 10088] [Item Filter] Online list returned status: 200
+2023/04/10 04:47:19 5072953 374e12e6 [DEBUG Client 10088] [Item Filter] Online list request resolved to: 209.197.3.101
+2023/04/10 04:47:19 5072953 374df908 [INFO Client 10088] [Item Filter] List contained online filter 7Mr0AZHP with hash: bde292f2d937d7aca73b74ed63adf3e7 (local hash is: bde292f2d937d7aca73b74ed63adf3e7)
+2023/04/10 04:47:19 5072953 374df908 [INFO Client 10088] [Item Filter] List contained online filter G4AtJ5 with hash: f0db4894045a1a226b9a5ab288efcbe8 (local hash is: f0db4894045a1a226b9a5ab288efcbe8)
+2023/04/10 04:47:19 5072953 374df908 [INFO Client 10088] [Item Filter] List contained online filter GmjoTD with hash: 65680df1f434b4f9bc70c57f1d911daa (local hash is: 65680df1f434b4f9bc70c57f1d911daa)
+2023/04/10 04:47:19 5072953 374df908 [INFO Client 10088] [Item Filter] List contained online filter 5XMehq with hash: c219e68a17153050d0f25fa99a53678a (local hash is: c219e68a17153050d0f25fa99a53678a)
+2023/04/10 04:47:19 5072953 374df908 [INFO Client 10088] [Item Filter] List contained online filter GmXoTD with hash: 7c076e3fd4373fc359418079e4488f0b (local hash is: 7c076e3fd4373fc359418079e4488f0b)
+2023/04/10 04:47:19 5072953 374df908 [INFO Client 10088] [Item Filter] List contained online filter wvPeTJ with hash: 0177e469efb849660e2d7a9f21416034 (local hash is: 0177e469efb849660e2d7a9f21416034)
+2023/04/10 04:47:19 5072953 374e0d22 [INFO Client 10088] [Item Filter] Preparing to download online filter 7Mr0AZHP
+2023/04/10 04:47:19 5072953 374e0cc3 [INFO Client 10088] [Item Filter] Hash for online filter 7Mr0AZHP is: bde292f2d937d7aca73b74ed63adf3e7
+2023/04/10 04:47:19 5073093 374e0cc9 [INFO Client 10088] [Item Filter] Online item filter 7Mr0AZHP returned status: 200
+2023/04/10 04:47:19 5073093 374e0ce3 [DEBUG Client 10088] [Item Filter] Online item filter request resolved to: 209.197.3.101
+2023/04/10 04:47:19 5073093 374e0e8e [DEBUG Client 10088] [Item Filter] X-HW: 1681091239.dop221.ve1.t,1681091239.cds223.ve1.shn,1681091239.dop221.ve1.t,1681091239.cds241.ve1.c
+2023/04/10 04:47:19 5073093 374df808 [INFO Client 10088] [Item Filter] Successfully saved online filter 7Mr0AZHP. Hash is now: bde292f2d937d7aca73b74ed63adf3e7
+2023/04/10 04:47:19 5073109 7884752a [INFO Client 10088] [Item Filter] Finished reloading online filter 7Mr0AZHP. Result: true. Hash: bde292f2d937d7aca73b74ed63adf3e7. Type: Normal. Message: 
+2023/04/10 04:47:26 5079890 374e0d22 [INFO Client 10088] [Item Filter] Preparing to download online filter G4AtJ5
+2023/04/10 04:47:26 5079890 374e0cc3 [INFO Client 10088] [Item Filter] Hash for online filter G4AtJ5 is: f0db4894045a1a226b9a5ab288efcbe8
+2023/04/10 04:47:26 5080062 374e0cc9 [INFO Client 10088] [Item Filter] Online item filter G4AtJ5 returned status: 200
+2023/04/10 04:47:26 5080062 374e0ce3 [DEBUG Client 10088] [Item Filter] Online item filter request resolved to: 209.197.3.101
+2023/04/10 04:47:26 5080062 374e0e8e [DEBUG Client 10088] [Item Filter] X-HW: 1681091246.dop206.ve1.t,1681091246.cds242.ve1.shn,1681091246.dop206.ve1.t,1681091246.cds260.ve1.c
+2023/04/10 04:47:26 5080062 374df808 [INFO Client 10088] [Item Filter] Successfully saved online filter G4AtJ5. Hash is now: f0db4894045a1a226b9a5ab288efcbe8
+2023/04/10 04:47:26 5080078 7884752a [INFO Client 10088] [Item Filter] Finished reloading online filter G4AtJ5. Result: true. Hash: f0db4894045a1a226b9a5ab288efcbe8. Type: Normal. Message: 
+2023/04/10 04:47:28 5082296 b51d4f61 [DEBUG Client 10088] [RENDER] SetRendererSettings
+2023/04/10 04:47:28 5082296 b51d6447 [DEBUG Client 10088] [RENDER] ResizeWindow
+2023/04/10 04:47:28 5082296 9d4eec8a [DEBUG Client 10088] [WINDOW] TrigggerDeviceLost
+2023/04/10 04:47:28 5082328 9d4eeba7 [DEBUG Client 10088] [WINDOW] TrigggerDeviceReset
+2023/04/10 04:47:29 5083203 b51d614c [DEBUG Client 10088] [RENDER] RestartSwapChain
+2023/04/10 04:47:29 5083203 9e6a0b0a [INFO Client 10088] Enumerated adapter: NVIDIA GeForce GTX 1660
+2023/04/10 04:47:29 5083250 9e6a1d2a [INFO Client 10088] Enumerated device for adapter: NVIDIA GeForce GTX 1660. Selected feature level: 45312. Max feature level: 45312
+2023/04/10 04:47:29 5083250 9e6a1363 [INFO Client 10088] Enumerated output for adapter NVIDIA GeForce GTX 1660 of \\.\DISPLAY1
+2023/04/10 04:47:29 5083250 9e6a0b0a [INFO Client 10088] Enumerated adapter: Microsoft Basic Render Driver
+2023/04/10 04:47:29 5083250 9e6a1d2a [INFO Client 10088] Enumerated device for adapter: Microsoft Basic Render Driver. Selected feature level: 45312. Max feature level: 45312
+2023/04/10 04:47:29 5083281 9d4eec8a [DEBUG Client 10088] [WINDOW] TrigggerDeviceLost
+2023/04/10 04:47:29 5083343 9d4eeba7 [DEBUG Client 10088] [WINDOW] TrigggerDeviceReset
+2023/04/10 04:47:31 5084578 fafff8cf [DEBUG Client 10088] CreateSwapChain: SetFullScreenState 0
+2023/04/10 04:47:31 5084578 9d4eec8a [DEBUG Client 10088] [WINDOW] TrigggerDeviceLost
+2023/04/10 04:47:31 5084640 9d4eeba7 [DEBUG Client 10088] [WINDOW] TrigggerDeviceReset
+2023/04/10 04:47:32 5086062 3275a75e [INFO Client 10088] [SHADER] Disable Async: 1 frames
+2023/04/10 04:47:32 5086062 b51d610e [INFO Client 10088] [RENDER] Disable Async: 1 frames
+2023/04/10 04:47:32 5086062 9d4eec8a [DEBUG Client 10088] [WINDOW] TrigggerDeviceLost
+2023/04/10 04:47:32 5086109 9d4eeba7 [DEBUG Client 10088] [WINDOW] TrigggerDeviceReset
+2023/04/10 04:47:57 5110875 cffb071e [INFO Client 10088] #ВиРТуОЗ_Горнилос: ok
+2023/04/10 04:54:14 5487796 cffb071e [INFO Client 10088] &<RiPE> Dermaken: Мучимый надзор, Ростовой щит с гербом
+2023/04/10 04:55:31 5564625 cffb071e [INFO Client 10088] &<RiPE> Dermaken: +
+2023/04/10 05:01:55 5948656 cffb071e [INFO Client 10088] : Режим "отошёл" включён. Авто-ответ "Игрок отошёл.".
+2023/04/10 05:11:51 6544562 b51d4f61 [DEBUG Client 10088] [RENDER] SetRendererSettings
+2023/04/10 05:11:51 6544562 b51d6447 [DEBUG Client 10088] [RENDER] ResizeWindow
+2023/04/10 05:11:51 6544562 b51d614c [DEBUG Client 10088] [RENDER] RestartSwapChain
+2023/04/10 05:11:51 6544562 9e6a0b0a [INFO Client 10088] Enumerated adapter: NVIDIA GeForce GTX 1660
+2023/04/10 05:11:51 6544609 9e6a1d2a [INFO Client 10088] Enumerated device for adapter: NVIDIA GeForce GTX 1660. Selected feature level: 45312. Max feature level: 45312
+2023/04/10 05:11:51 6544609 9e6a1363 [INFO Client 10088] Enumerated output for adapter NVIDIA GeForce GTX 1660 of \\.\DISPLAY1
+2023/04/10 05:11:51 6544609 9e6a0b0a [INFO Client 10088] Enumerated adapter: Microsoft Basic Render Driver
+2023/04/10 05:11:51 6544609 9e6a1d2a [INFO Client 10088] Enumerated device for adapter: Microsoft Basic Render Driver. Selected feature level: 45312. Max feature level: 45312
+2023/04/10 05:11:51 6544609 fafff8cf [DEBUG Client 10088] CreateSwapChain: SetFullScreenState 1
+2023/04/10 05:11:51 6544687 9d4eec8a [DEBUG Client 10088] [WINDOW] TrigggerDeviceLost
+2023/04/10 05:11:51 6544718 9d4eeba7 [DEBUG Client 10088] [WINDOW] TrigggerDeviceReset
+2023/04/10 05:11:52 6545828 3275a75e [INFO Client 10088] [SHADER] Disable Async: 1 frames
+2023/04/10 05:11:52 6545828 b51d610e [INFO Client 10088] [RENDER] Disable Async: 1 frames
+2023/04/10 05:11:57 6550875 374e128b [INFO Client 10088] [Item Filter] Downloading online list
+2023/04/10 05:11:58 6551578 374e12ec [INFO Client 10088] [Item Filter] Online list returned status: 200
+2023/04/10 05:11:58 6551578 374e12e6 [DEBUG Client 10088] [Item Filter] Online list request resolved to: 209.197.3.101
+2023/04/10 05:11:58 6551578 374df908 [INFO Client 10088] [Item Filter] List contained online filter 7Mr0AZHP with hash: bde292f2d937d7aca73b74ed63adf3e7 (local hash is: bde292f2d937d7aca73b74ed63adf3e7)
+2023/04/10 05:11:58 6551578 374df908 [INFO Client 10088] [Item Filter] List contained online filter G4AtJ5 with hash: f0db4894045a1a226b9a5ab288efcbe8 (local hash is: f0db4894045a1a226b9a5ab288efcbe8)
+2023/04/10 05:11:58 6551578 374df908 [INFO Client 10088] [Item Filter] List contained online filter GmjoTD with hash: 65680df1f434b4f9bc70c57f1d911daa (local hash is: 65680df1f434b4f9bc70c57f1d911daa)
+2023/04/10 05:11:58 6551578 374df908 [INFO Client 10088] [Item Filter] List contained online filter 5XMehq with hash: c219e68a17153050d0f25fa99a53678a (local hash is: c219e68a17153050d0f25fa99a53678a)
+2023/04/10 05:11:58 6551578 374df908 [INFO Client 10088] [Item Filter] List contained online filter GmXoTD with hash: 7c076e3fd4373fc359418079e4488f0b (local hash is: 7c076e3fd4373fc359418079e4488f0b)
+2023/04/10 05:11:58 6551578 374df908 [INFO Client 10088] [Item Filter] List contained online filter wvPeTJ with hash: 0177e469efb849660e2d7a9f21416034 (local hash is: 0177e469efb849660e2d7a9f21416034)
+2023/04/10 05:12:08 6562281 cffb071e [INFO Client 10088] : Режим "отошёл" выключен.
+2023/04/10 05:12:25 6579046 b51d4f61 [DEBUG Client 10088] [RENDER] SetRendererSettings
+2023/04/10 05:12:25 6579046 b51d6447 [DEBUG Client 10088] [RENDER] ResizeWindow
+2023/04/10 05:12:25 6579046 9d4eec8a [DEBUG Client 10088] [WINDOW] TrigggerDeviceLost
+2023/04/10 05:12:25 6579062 9d4eeba7 [DEBUG Client 10088] [WINDOW] TrigggerDeviceReset
+2023/04/10 05:12:26 6579968 9d4eec8a [DEBUG Client 10088] [WINDOW] TrigggerDeviceLost
+2023/04/10 05:12:26 6580015 9d4eeba7 [DEBUG Client 10088] [WINDOW] TrigggerDeviceReset
+2023/04/10 05:12:28 6582046 b51d614c [DEBUG Client 10088] [RENDER] RestartSwapChain
+2023/04/10 05:12:28 6582046 9e6a0b0a [INFO Client 10088] Enumerated adapter: NVIDIA GeForce GTX 1660
+2023/04/10 05:12:28 6582093 9e6a1d2a [INFO Client 10088] Enumerated device for adapter: NVIDIA GeForce GTX 1660. Selected feature level: 45312. Max feature level: 45312
+2023/04/10 05:12:28 6582093 9e6a1363 [INFO Client 10088] Enumerated output for adapter NVIDIA GeForce GTX 1660 of \\.\DISPLAY1
+2023/04/10 05:12:28 6582093 9e6a0b0a [INFO Client 10088] Enumerated adapter: Microsoft Basic Render Driver
+2023/04/10 05:12:28 6582109 9e6a1d2a [INFO Client 10088] Enumerated device for adapter: Microsoft Basic Render Driver. Selected feature level: 45312. Max feature level: 45312
+2023/04/10 05:12:28 6582109 fafff8cf [DEBUG Client 10088] CreateSwapChain: SetFullScreenState 0
+2023/04/10 05:12:28 6582109 9d4eec8a [DEBUG Client 10088] [WINDOW] TrigggerDeviceLost
+2023/04/10 05:12:28 6582171 9d4eeba7 [DEBUG Client 10088] [WINDOW] TrigggerDeviceReset
+2023/04/10 05:12:30 6583812 3275a75e [INFO Client 10088] [SHADER] Disable Async: 1 frames
+2023/04/10 05:12:30 6583812 b51d610e [INFO Client 10088] [RENDER] Disable Async: 1 frames
+2023/04/10 05:12:30 6583812 9d4eec8a [DEBUG Client 10088] [WINDOW] TrigggerDeviceLost
+2023/04/10 05:12:30 6583875 9d4eeba7 [DEBUG Client 10088] [WINDOW] TrigggerDeviceReset
+2023/04/10 05:12:32 6585921 aecea334 [INFO Client 10088] Abnormal disconnect: Произошло неожиданное отключение от сервера.
+2023/04/10 05:12:33 6586593 b51d4f61 [DEBUG Client 10088] [RENDER] SetRendererSettings
+2023/04/10 05:12:33 6586593 b51d6447 [DEBUG Client 10088] [RENDER] ResizeWindow
+2023/04/10 05:12:33 6586609 b51d614c [DEBUG Client 10088] [RENDER] RestartSwapChain
+2023/04/10 05:12:33 6586609 9e6a0b0a [INFO Client 10088] Enumerated adapter: NVIDIA GeForce GTX 1660
+2023/04/10 05:12:33 6586671 9e6a1d2a [INFO Client 10088] Enumerated device for adapter: NVIDIA GeForce GTX 1660. Selected feature level: 45312. Max feature level: 45312
+2023/04/10 05:12:33 6586687 9e6a1363 [INFO Client 10088] Enumerated output for adapter NVIDIA GeForce GTX 1660 of \\.\DISPLAY1
+2023/04/10 05:12:33 6586687 9e6a0b0a [INFO Client 10088] Enumerated adapter: Microsoft Basic Render Driver
+2023/04/10 05:12:33 6586687 9e6a1d2a [INFO Client 10088] Enumerated device for adapter: Microsoft Basic Render Driver. Selected feature level: 45312. Max feature level: 45312
+2023/04/10 05:12:33 6586687 fafff8cf [DEBUG Client 10088] CreateSwapChain: SetFullScreenState 1
+2023/04/10 05:12:33 6586734 9d4eec8a [DEBUG Client 10088] [WINDOW] TrigggerDeviceLost
+2023/04/10 05:12:33 6586734 9d4eeba7 [DEBUG Client 10088] [WINDOW] TrigggerDeviceReset
+2023/04/10 05:12:33 6586765 3275a75e [INFO Client 10088] [SHADER] Disable Async: 1 frames
+2023/04/10 05:12:33 6586765 b51d610e [INFO Client 10088] [RENDER] Disable Async: 1 frames
+2023/04/10 05:12:35 6588578 b51d4f61 [DEBUG Client 10088] [RENDER] SetRendererSettings
+2023/04/10 05:12:35 6588578 b51d6447 [DEBUG Client 10088] [RENDER] ResizeWindow
+2023/04/10 05:12:35 6588593 9d4eec8a [DEBUG Client 10088] [WINDOW] TrigggerDeviceLost
+2023/04/10 05:12:35 6588593 9d4eeba7 [DEBUG Client 10088] [WINDOW] TrigggerDeviceReset
+2023/04/10 05:12:35 6588625 b51d614c [DEBUG Client 10088] [RENDER] RestartSwapChain
+2023/04/10 05:12:35 6588625 9e6a0b0a [INFO Client 10088] Enumerated adapter: NVIDIA GeForce GTX 1660
+2023/04/10 05:12:35 6588687 9e6a1d2a [INFO Client 10088] Enumerated device for adapter: NVIDIA GeForce GTX 1660. Selected feature level: 45312. Max feature level: 45312
+2023/04/10 05:12:35 6588687 9e6a1363 [INFO Client 10088] Enumerated output for adapter NVIDIA GeForce GTX 1660 of \\.\DISPLAY1
+2023/04/10 05:12:35 6588687 9e6a0b0a [INFO Client 10088] Enumerated adapter: Microsoft Basic Render Driver
+2023/04/10 05:12:35 6588687 9e6a1d2a [INFO Client 10088] Enumerated device for adapter: Microsoft Basic Render Driver. Selected feature level: 45312. Max feature level: 45312
+2023/04/10 05:12:35 6588734 9d4eec8a [DEBUG Client 10088] [WINDOW] TrigggerDeviceLost
+2023/04/10 05:12:35 6588734 9d4eeba7 [DEBUG Client 10088] [WINDOW] TrigggerDeviceReset
+2023/04/10 05:12:35 6588765 fafff8cf [DEBUG Client 10088] CreateSwapChain: SetFullScreenState 0
+2023/04/10 05:12:35 6588765 9d4eec8a [DEBUG Client 10088] [WINDOW] TrigggerDeviceLost
+2023/04/10 05:12:35 6588765 9d4eeba7 [DEBUG Client 10088] [WINDOW] TrigggerDeviceReset
+2023/04/10 05:12:35 6588781 3275a75e [INFO Client 10088] [SHADER] Disable Async: 1 frames
+2023/04/10 05:12:35 6588781 b51d610e [INFO Client 10088] [RENDER] Disable Async: 1 frames
+2023/04/10 05:12:35 6588781 9d4eec8a [DEBUG Client 10088] [WINDOW] TrigggerDeviceLost
+2023/04/10 05:12:35 6588781 9d4eeba7 [DEBUG Client 10088] [WINDOW] TrigggerDeviceReset

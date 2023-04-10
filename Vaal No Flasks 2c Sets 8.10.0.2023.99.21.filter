@@ -12,7 +12,7 @@ Show # $type->2chaos-a
     ItemLevel >= 60
     ItemLevel <= 85
 	SetFontSize 40
-	CustomAlertSound "d2\malus.wav" 300
+	CustomAlertSound "Sounds\1maybevaluable.mp3" 300
 	#PlayAlertSound 4 200
 	PlayEffect Orange
 	MinimapIcon 1 Orange Circle	
@@ -29,7 +29,7 @@ Show # $type->2chaos-b
     ItemLevel >= 60
     ItemLevel <= 85
 	SetFontSize 40
-	CustomAlertSound "d2\malus.wav" 300
+	CustomAlertSound "Sounds\1maybevaluable.mp3" 300
 	#PlayAlertSound 4 200
 	PlayEffect Orange
 	MinimapIcon 1 Orange Circle
@@ -46,7 +46,7 @@ Show # $type->2chaos-c
     ItemLevel >= 60
     ItemLevel <= 85
 	SetFontSize 40
-	CustomAlertSound "d2\malus.wav" 300
+	CustomAlertSound "Sounds\1maybevaluable.mp3" 300
 	#PlayAlertSound 4 200
 	PlayEffect Orange
 	MinimapIcon 1 Orange Circle	
@@ -63,7 +63,7 @@ Show # $type->2chaos-d
     ItemLevel >= 60
     ItemLevel <= 85
 	SetFontSize 40
-	CustomAlertSound "d2\malus.wav" 300
+	CustomAlertSound "Sounds\1maybevaluable.mp3" 300
 	#PlayAlertSound 4 200
 	PlayEffect Orange
 	MinimapIcon 1 Orange Circle
@@ -81,7 +81,7 @@ Show # $type->2chaos-e
     ItemLevel <= 74
 	SetFontSize 40
 	#PlayAlertSound 4 200
-	CustomAlertSound "d2\malus.wav" 300
+	CustomAlertSound "Sounds\1maybevaluable.mp3" 300
 	PlayEffect Orange
 	MinimapIcon 1 Orange Circle
 	
