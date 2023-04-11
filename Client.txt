@@ -22080,3 +22080,698 @@ flags: 129
 2023/04/10 03:56:19 52994750 cffb071e [INFO Client 8136] &: GUILD UPDATE: В гостяк у CARDIFF 
 2023/04/10 03:56:19 52994984 cffb071e [INFO Client 8136] : You have entered Oriath Docks.
 2023/04/10 03:56:20 52996125 32759a9f [INFO Client 8136] [SHADER] Delay: ON
+2023/04/10 03:59:01 ***** LOG FILE OPENING *****
+2023/04/10 03:59:01 53156890 f9544283 [INFO Client 6768] [STARTUP] Job Queues
+2023/04/10 03:59:01 53156890 9e6a0b0a [INFO Client 6768] Enumerated adapter: AMD Radeon R7 200 Series
+2023/04/10 03:59:01 53156953 9e6a1d2a [INFO Client 6768] Enumerated device for adapter: AMD Radeon R7 200 Series. Selected feature level: 45312. Max feature level: 45312
+2023/04/10 03:59:01 53156953 9e6a1363 [INFO Client 6768] Enumerated output for adapter AMD Radeon R7 200 Series of \\.\DISPLAY1
+2023/04/10 03:59:01 53156953 9e6a0b0a [INFO Client 6768] Enumerated adapter: Microsoft Basic Render Driver
+2023/04/10 03:59:01 53156968 9e6a1d2a [INFO Client 6768] Enumerated device for adapter: Microsoft Basic Render Driver. Selected feature level: 45312. Max feature level: 45312
+2023/04/10 03:59:01 53156968 84a7d27d [INFO Client 6768] [ENGINE] Init
+2023/04/10 03:59:01 53156968 55713145 [INFO Client 6768] [JOB] HIGH: 2
+2023/04/10 03:59:01 53156968 55713145 [INFO Client 6768] [JOB] MEDIUM: 2
+2023/04/10 03:59:01 53156968 55713145 [INFO Client 6768] [JOB] LOW: 2
+2023/04/10 03:59:01 53156968 55713145 [INFO Client 6768] [JOB] IDLE: 1
+2023/04/10 03:59:01 53156968 7bb548f [INFO Client 6768] [BUNDLE2] Init
+2023/04/10 03:59:01 53156968 7bb36c4 [INFO Client 6768] [BUNDLE2] Index: Bundles2/_.index.bin
+2023/04/10 03:59:01 53157218 7bb61e6 [INFO Client 6768] [BUNDLE2] File cache size: 1024
+2023/04/10 03:59:01 53157218 b51d61ab [INFO Client 6768] [RENDER] Async: ON
+2023/04/10 03:59:01 53157218 b51d60c8 [INFO Client 6768] [RENDER] Warmup: ON
+2023/04/10 03:59:01 53157218 b51d60ce [INFO Client 6768] [RENDER] Skip: ON
+2023/04/10 03:59:01 53157218 b51d60eb [INFO Client 6768] [RENDER] Throttling: ON
+2023/04/10 03:59:01 53157218 32759a7a [INFO Client 6768] [SHADER] Address: http://www.pathofexile.com/tool/shader-db?a=store
+2023/04/10 03:59:01 53157218 32759a70 [INFO Client 6768] [SHADER] Async: ON
+2023/04/10 03:59:01 53157218 32759a9f [INFO Client 6768] [SHADER] Delay: OFF
+2023/04/10 03:59:01 53157218 32759aba [INFO Client 6768] [SHADER] Limit: ON
+2023/04/10 03:59:01 53157218 32759abc [INFO Client 6768] [SHADER] Warmup: ON
+2023/04/10 03:59:01 53157218 327599d7 [INFO Client 6768] [SHADER] Parallel: OFF
+2023/04/10 03:59:01 53157218 84a7e376 [INFO Client 6768] [ENGINE] Running Engine version 1.8.0
+2023/04/10 03:59:01 53157234 47bbd15a [INFO Client 6768] [SOUND] Buffer size = 64.0 MB
+2023/04/10 03:59:01 53157265 9b0d205 [INFO Client 6768] [VIDEO] Enable: ON
+2023/04/10 03:59:02 53157296 84a7d2d8 [INFO Client 6768] [ENGINE] Ready
+2023/04/10 03:59:02 53157343 951bc0b0 [INFO Client 6768] [STARTUP] Bundle Startup Start
+2023/04/10 03:59:02 53157343 951bc057 [INFO Client 6768] [STARTUP] Bundle Startup in 5.3e-05 seconds
+2023/04/10 03:59:02 53157343 951bc0b0 [INFO Client 6768] [STARTUP] Game Start
+2023/04/10 03:59:02 53157656 ca86fd3f [DEBUG Client 6768] Rebuilding UI::Core properties. Current input mode = '1'
+2023/04/10 03:59:02 53157953 951bc057 [INFO Client 6768] [STARTUP] Game in 0.596973 seconds
+2023/04/10 03:59:02 53157953 951bc0b0 [INFO Client 6768] [STARTUP] Window Start
+2023/04/10 03:59:02 53157953 9e6a0b0a [INFO Client 6768] Enumerated adapter: AMD Radeon R7 200 Series
+2023/04/10 03:59:02 53158000 9e6a1d2a [INFO Client 6768] Enumerated device for adapter: AMD Radeon R7 200 Series. Selected feature level: 45312. Max feature level: 45312
+2023/04/10 03:59:02 53158000 9e6a1363 [INFO Client 6768] Enumerated output for adapter AMD Radeon R7 200 Series of \\.\DISPLAY1
+2023/04/10 03:59:02 53158000 9e6a0b0a [INFO Client 6768] Enumerated adapter: Microsoft Basic Render Driver
+2023/04/10 03:59:02 53158000 9e6a1d2a [INFO Client 6768] Enumerated device for adapter: Microsoft Basic Render Driver. Selected feature level: 45312. Max feature level: 45312
+2023/04/10 03:59:02 53158031 951bc057 [INFO Client 6768] [STARTUP] Window in 0.08508 seconds
+2023/04/10 03:59:02 53158046 413b61ff [DEBUG Client 6768] [GamepadManager] Initialising
+2023/04/10 03:59:02 53158046 951bc0b0 [INFO Client 6768] [STARTUP] Device Start
+2023/04/10 03:59:02 53158046 b51d6589 [INFO Client 6768] [RENDER] StartDevice: DirectX11
+2023/04/10 03:59:02 53158250 71b2ea0 [DEBUG Client 6768] [SHADER] Load shader cache: ShaderCacheD3D11
+2023/04/10 03:59:03 53158343 fafff8cf [DEBUG Client 6768] CreateSwapChain: SetFullScreenState 1
+2023/04/10 03:59:03 53158453 29d4ce01 [INFO Client 6768] [D3D11] Runtime version = 11.1
+2023/04/10 03:59:03 53158453 29d4ce00 [INFO Client 6768] [D3D11] Feature Level = 11.1
+2023/04/10 03:59:03 53158453 29d4ce03 [INFO Client 6768] [D3D11] Driver Command Lists = NO
+2023/04/10 03:59:03 53158453 29d4ce02 [INFO Client 6768] [D3D11] Driver Concurrent Creates = YES
+2023/04/10 03:59:03 53158453 29d4ce05 [INFO Client 6768] [D3D11] Driver Constant Buffer Offsetting = YES
+2023/04/10 03:59:03 53158562 9d4eeb40 [DEBUG Client 6768] [WINDOW] TrigggerDeviceCreate
+2023/04/10 03:59:03 53158750 9d4eeba7 [DEBUG Client 6768] [WINDOW] TrigggerDeviceReset
+2023/04/10 03:59:03 53158781 951bc057 [INFO Client 6768] [STARTUP] Device in 0.729901 seconds
+2023/04/10 03:59:03 53158781 951bc0b0 [INFO Client 6768] [STARTUP] Tencent Start
+2023/04/10 03:59:03 53158781 951bc057 [INFO Client 6768] [STARTUP] Tencent in 3e-05 seconds
+2023/04/10 03:59:03 53158781 951bc0b0 [INFO Client 6768] [STARTUP] Loading Start
+2023/04/10 03:59:03 53158796 951bc057 [INFO Client 6768] [STARTUP] Loading in 0.015906 seconds
+2023/04/10 03:59:03 53158796 951bc0b0 [INFO Client 6768] [STARTUP] DebugGUI Start
+2023/04/10 03:59:03 53158796 951bc057 [INFO Client 6768] [STARTUP] DebugGUI in 2e-05 seconds
+2023/04/10 03:59:03 53158796 951bc0b0 [INFO Client 6768] [STARTUP] Bundle Tiny Start
+2023/04/10 03:59:03 53158796 951bc0b0 [INFO Client 6768] [STARTUP] Bundle Login Start
+2023/04/10 03:59:03 53158796 951bc057 [INFO Client 6768] [STARTUP] Bundle Login in 2.5e-05 seconds
+2023/04/10 03:59:03 53158796 951bc0b0 [INFO Client 6768] [STARTUP] Registration Start
+2023/04/10 03:59:03 53158796 951bc057 [INFO Client 6768] [STARTUP] Bundle Tiny in 6.1e-05 seconds
+2023/04/10 03:59:03 53158796 951bc0b0 [INFO Client 6768] [STARTUP] Audio Start
+2023/04/10 03:59:03 53158796 47bbee18 [INFO Client 6768] [SOUND] Channel count = 64 (asked for 64)
+2023/04/10 03:59:03 53158796 47bbee19 [INFO Client 6768] [SOUND] Source count = 512
+2023/04/10 03:59:03 53158953 47bbea58 [INFO Client 6768] Changing to device "Динамики (High Definition Audio Device)"
+2023/04/10 03:59:03 53158953 951bc057 [INFO Client 6768] [STARTUP] Audio in 0.155996 seconds
+2023/04/10 03:59:03 53159218 951bc057 [INFO Client 6768] [STARTUP] Registration in 0.42884 seconds
+2023/04/10 03:59:04 53159859 5094179d [WARN Client 6768] tool_settings.json was not found. Resetting to default settings.
+2023/04/10 03:59:08 53163578 890d9d5f [INFO Client 6768] Async connecting to mil01.login.pathofexile.com:20481
+2023/04/10 03:59:08 53163750 890d9cd8 [INFO Client 6768] Connected to mil01.login.pathofexile.com in 94ms.
+2023/04/10 03:59:11 53167000 88a904cb [DEBUG Client 6768] Got Instance Details from login server
+2023/04/10 03:59:11 53167046 32759a9f [INFO Client 6768] [SHADER] Delay: OFF
+2023/04/10 03:59:11 53167046 ca3a6a71 [INFO Client 6768] Connecting to instance server at 159.122.142.234:6112
+2023/04/10 03:59:11 53167187 ca3a4dbb [DEBUG Client 6768] Connect time to instance server was 125ms
+2023/04/10 03:59:12 53167406 1186a0e5 [DEBUG Client 6768] Generating level 69 area "2_10_town" with seed 1
+2023/04/10 03:59:16 53171656 f22b6987 [INFO Client 6768] Tile hash: 3862614232
+2023/04/10 03:59:16 53171656 f22b6986 [INFO Client 6768] Doodad hash: 2693664852
+2023/04/10 03:59:19 53174421 11870f49 [DEBUG Client 6768] Joined guild named Голосовой чат discord.com/invite/nXFKHzJ with 193 members 
+2023/04/10 03:59:22 53177687 cffb071e [INFO Client 6768] &: ОБЪЯВЛЕНИЕ ГИЛЬДИИ: В гостяк у CARDIFF 
+2023/04/10 03:59:22 53178281 cffb071e [INFO Client 6768] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Доки Ориата.
+2023/04/10 03:59:22 53178281 cffb071e [INFO Client 6768] #PAUUKK: мoжет ктo пoмoчь с бoссoм на т16 валл
+2023/04/10 03:59:22 53178281 cffb071e [INFO Client 6768] #RF_Jitel: Кекв, чел считает, что в мире есть только два варианта - терпеть или бежать. Найс менталитет)))
+2023/04/10 03:59:22 53178281 cffb071e [INFO Client 6768] #<•MLP•> Лига_Говнило: Как и тот чел со странным ником, который порвался на релокантов
+2023/04/10 03:59:23 53179031 cffb071e [INFO Client 6768] : Вы присоединились к Общему каналу чата 9 968.
+2023/04/10 03:59:24 53179406 32759a9f [INFO Client 6768] [SHADER] Delay: ON
+2023/04/10 04:00:18 53233359 374e128b [INFO Client 6768] [Item Filter] Downloading online list
+2023/04/10 04:00:19 53234687 374e12ec [INFO Client 6768] [Item Filter] Online list returned status: 200
+2023/04/10 04:00:19 53234687 374e12e6 [DEBUG Client 6768] [Item Filter] Online list request resolved to: 209.197.3.101
+2023/04/10 04:00:19 53234687 374df908 [INFO Client 6768] [Item Filter] List contained online filter YR4p4ZfR with hash: c5c67d179672921d753d5e1baf5b997f (local hash is: c5c67d179672921d753d5e1baf5b997f)
+2023/04/10 04:00:19 53234687 374df908 [INFO Client 6768] [Item Filter] List contained online filter G4AtJ5 with hash: 5b63404a3e18ce211432f5828843cab3 (local hash is: 5b63404a3e18ce211432f5828843cab3)
+2023/04/10 04:00:19 53234687 374df908 [INFO Client 6768] [Item Filter] List contained online filter GmjoTD with hash: c79f5d29577582aed8453efa5af72b07 (local hash is: c79f5d29577582aed8453efa5af72b07)
+2023/04/10 04:00:19 53234687 374df908 [INFO Client 6768] [Item Filter] List contained online filter 5XMehq with hash: f3891eb80779265e1a487d28b5d143c8 (local hash is: f3891eb80779265e1a487d28b5d143c8)
+2023/04/10 04:00:19 53234687 374df908 [INFO Client 6768] [Item Filter] List contained online filter GmXoTD with hash: 0812690ae7ee1a0fa06e8f8d75d26386 (local hash is: 0812690ae7ee1a0fa06e8f8d75d26386)
+2023/04/10 04:00:19 53234687 374df908 [INFO Client 6768] [Item Filter] List contained online filter wvPeTJ with hash: 914d271b7fb55faa2e2b56f2ac945dd6 (local hash is: 914d271b7fb55faa2e2b56f2ac945dd6)
+2023/04/10 04:00:19 53234687 374df908 [INFO Client 6768] [Item Filter] List contained online filter AvpQvuM with hash: 06a95b95d2a2b89e41d271327275690a (local hash is: 06a95b95d2a2b89e41d271327275690a)
+2023/04/10 04:00:19 53234687 374e0d22 [INFO Client 6768] [Item Filter] Preparing to download online filter G4AtJ5
+2023/04/10 04:00:19 53234687 374e0cc3 [INFO Client 6768] [Item Filter] Hash for online filter G4AtJ5 is: (empty)
+2023/04/10 04:00:20 53235312 374e0cc9 [INFO Client 6768] [Item Filter] Online item filter G4AtJ5 returned status: 200
+2023/04/10 04:00:20 53235312 374e0ce3 [DEBUG Client 6768] [Item Filter] Online item filter request resolved to: 209.197.3.101
+2023/04/10 04:00:20 53235312 374e0e8e [DEBUG Client 6768] [Item Filter] X-HW: 1681088419.dop228.ve1.t,1681088419.cds224.ve1.shn,1681088419.dop228.ve1.t,1681088419.cds260.ve1.c
+2023/04/10 04:00:20 53235328 374df808 [INFO Client 6768] [Item Filter] Successfully saved online filter G4AtJ5. Hash is now: 5b63404a3e18ce211432f5828843cab3
+2023/04/10 04:00:20 53235343 7884752a [INFO Client 6768] [Item Filter] Finished reloading online filter G4AtJ5. Result: true. Hash: 5b63404a3e18ce211432f5828843cab3. Type: Normal. Message: 
+2023/04/10 04:00:20 53235343 2a1490e5 [INFO Client 6768] PrecalcBaseTypeHashMap
+2023/04/10 04:00:20 53235421 2a1490e7 [INFO Client 6768] PrecalcModNameHashMap
+2023/04/10 04:00:21 53236937 2a1490e1 [INFO Client 6768] PrecalcItemClassMap
+2023/04/10 04:00:21 53236937 2a1490e3 [INFO Client 6768] PrecalcSoundEffects
+2023/04/10 04:00:21 53236937 2a1490ed [INFO Client 6768] PrecalcDropEffects
+2023/04/10 04:00:21 53236937 2a1490c6 [INFO Client 6768] PrecalcNonEnchantModHashes
+2023/04/10 04:00:21 53236937 2a1490c4 [INFO Client 6768] PrecalcRuleNameToTypeMap
+2023/04/10 04:00:21 53236937 2a1490c2 [INFO Client 6768] PrecalcCJESPNIndexMap
+2023/04/10 04:00:21 53236937 2a1490c0 [INFO Client 6768] PrecalcGemAlternateQualityMap
+2023/04/10 04:00:31 53246828 374e0d22 [INFO Client 6768] [Item Filter] Preparing to download online filter YR4p4ZfR
+2023/04/10 04:00:31 53246828 374e0cc3 [INFO Client 6768] [Item Filter] Hash for online filter YR4p4ZfR is: (empty)
+2023/04/10 04:00:33 53248312 374e0cc9 [INFO Client 6768] [Item Filter] Online item filter YR4p4ZfR returned status: 200
+2023/04/10 04:00:33 53248312 374e0ce3 [DEBUG Client 6768] [Item Filter] Online item filter request resolved to: 209.197.3.101
+2023/04/10 04:00:33 53248312 374e0e8e [DEBUG Client 6768] [Item Filter] X-HW: 1681088431.dop215.ve1.t,1681088432.cds244.ve1.shn,1681088432.dop215.ve1.t,1681088432.cds238.ve1.s,1681088432.dop210.da2.r,1681088432.cds224.da2.p,1681088432.cds238.ve1.p
+2023/04/10 04:00:33 53248328 374df808 [INFO Client 6768] [Item Filter] Successfully saved online filter YR4p4ZfR. Hash is now: c5c67d179672921d753d5e1baf5b997f
+2023/04/10 04:00:33 53248343 7884752a [INFO Client 6768] [Item Filter] Finished reloading online filter YR4p4ZfR. Result: true. Hash: c5c67d179672921d753d5e1baf5b997f. Type: Normal. Message: 
+2023/04/10 04:01:12 53287421 cffb071e [INFO Client 6768] : Сделка совершена.
+2023/04/10 04:01:26 53301328 88a904cb [DEBUG Client 6768] Got Instance Details from login server
+2023/04/10 04:01:26 53301328 32759a9f [INFO Client 6768] [SHADER] Delay: OFF
+2023/04/10 04:01:26 53301328 ca3a6a71 [INFO Client 6768] Connecting to instance server at 169.51.201.136:6112
+2023/04/10 04:01:26 53301468 ca3a4dbb [DEBUG Client 6768] Connect time to instance server was 140ms
+2023/04/10 04:01:26 53301609 1186a0e5 [DEBUG Client 6768] Generating level 64 area "2_10_2" with seed 2481868258
+2023/04/10 04:01:29 53304484 f22b6987 [INFO Client 6768] Tile hash: 1947979583
+2023/04/10 04:01:29 53304484 f22b6986 [INFO Client 6768] Doodad hash: 2829117595
+2023/04/10 04:01:30 53305890 11870f49 [DEBUG Client 6768] Joined guild named Голосовой чат discord.com/invite/nXFKHzJ with 193 members 
+2023/04/10 04:01:31 53307031 cffb071e [INFO Client 6768] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Разорённая площадь.
+2023/04/10 04:01:32 53307953 32759a9f [INFO Client 6768] [SHADER] Delay: ON
+2023/04/10 04:02:06 53341859 b51d4f61 [DEBUG Client 6768] [RENDER] SetRendererSettings
+2023/04/10 04:02:06 53341859 b51d6447 [DEBUG Client 6768] [RENDER] ResizeWindow
+2023/04/10 04:02:06 53341906 9d4eec8a [DEBUG Client 6768] [WINDOW] TrigggerDeviceLost
+2023/04/10 04:02:06 53341953 9d4eeba7 [DEBUG Client 6768] [WINDOW] TrigggerDeviceReset
+2023/04/10 04:02:07 53342937 b51d614c [DEBUG Client 6768] [RENDER] RestartSwapChain
+2023/04/10 04:02:07 53342937 9e6a0b0a [INFO Client 6768] Enumerated adapter: AMD Radeon R7 200 Series
+2023/04/10 04:02:07 53342984 9e6a1d2a [INFO Client 6768] Enumerated device for adapter: AMD Radeon R7 200 Series. Selected feature level: 45312. Max feature level: 45312
+2023/04/10 04:02:07 53342984 9e6a1363 [INFO Client 6768] Enumerated output for adapter AMD Radeon R7 200 Series of \\.\DISPLAY1
+2023/04/10 04:02:07 53342984 9e6a0b0a [INFO Client 6768] Enumerated adapter: Microsoft Basic Render Driver
+2023/04/10 04:02:07 53343031 9e6a1d2a [INFO Client 6768] Enumerated device for adapter: Microsoft Basic Render Driver. Selected feature level: 45312. Max feature level: 45312
+2023/04/10 04:02:07 53343062 9d4eec8a [DEBUG Client 6768] [WINDOW] TrigggerDeviceLost
+2023/04/10 04:02:07 53343171 9d4eeba7 [DEBUG Client 6768] [WINDOW] TrigggerDeviceReset
+2023/04/10 04:02:09 53344437 fafff8cf [DEBUG Client 6768] CreateSwapChain: SetFullScreenState 0
+2023/04/10 04:02:09 53344437 9d4eec8a [DEBUG Client 6768] [WINDOW] TrigggerDeviceLost
+2023/04/10 04:02:09 53344562 9d4eeba7 [DEBUG Client 6768] [WINDOW] TrigggerDeviceReset
+2023/04/10 04:02:10 53346250 3275a75e [INFO Client 6768] [SHADER] Disable Async: 1 frames
+2023/04/10 04:02:10 53346250 b51d610e [INFO Client 6768] [RENDER] Disable Async: 1 frames
+2023/04/10 04:02:10 53346265 9d4eec8a [DEBUG Client 6768] [WINDOW] TrigggerDeviceLost
+2023/04/10 04:02:11 53346359 9d4eeba7 [DEBUG Client 6768] [WINDOW] TrigggerDeviceReset
+2023/04/10 04:02:13 53348312 aecea334 [INFO Client 6768] Abnormal disconnect: Произошло неожиданное отключение от сервера.
+2023/04/10 04:05:08 53524093 b51d4f61 [DEBUG Client 6768] [RENDER] SetRendererSettings
+2023/04/10 04:05:08 53524093 b51d6447 [DEBUG Client 6768] [RENDER] ResizeWindow
+2023/04/10 04:05:08 53524093 b51d614c [DEBUG Client 6768] [RENDER] RestartSwapChain
+2023/04/10 04:05:08 53524109 9e6a0b0a [INFO Client 6768] Enumerated adapter: AMD Radeon R7 200 Series
+2023/04/10 04:05:08 53524140 9e6a1d2a [INFO Client 6768] Enumerated device for adapter: AMD Radeon R7 200 Series. Selected feature level: 45312. Max feature level: 45312
+2023/04/10 04:05:08 53524140 9e6a1363 [INFO Client 6768] Enumerated output for adapter AMD Radeon R7 200 Series of \\.\DISPLAY1
+2023/04/10 04:05:08 53524140 9e6a0b0a [INFO Client 6768] Enumerated adapter: Microsoft Basic Render Driver
+2023/04/10 04:05:08 53524140 9e6a1d2a [INFO Client 6768] Enumerated device for adapter: Microsoft Basic Render Driver. Selected feature level: 45312. Max feature level: 45312
+2023/04/10 04:05:08 53524156 fafff8cf [DEBUG Client 6768] CreateSwapChain: SetFullScreenState 1
+2023/04/10 04:05:08 53524281 9d4eec8a [DEBUG Client 6768] [WINDOW] TrigggerDeviceLost
+2023/04/10 04:05:09 53524296 9d4eeba7 [DEBUG Client 6768] [WINDOW] TrigggerDeviceReset
+2023/04/10 04:05:09 53524343 3275a75e [INFO Client 6768] [SHADER] Disable Async: 1 frames
+2023/04/10 04:05:09 53524343 b51d610e [INFO Client 6768] [RENDER] Disable Async: 1 frames
+2023/04/10 04:05:10 53525406 890d9d5f [INFO Client 6768] Async connecting to mil01.login.pathofexile.com:20481
+2023/04/10 04:05:10 53525515 890d9cd8 [INFO Client 6768] Connected to mil01.login.pathofexile.com in 47ms.
+2023/04/10 04:05:15 53530484 88a904cb [DEBUG Client 6768] Got Instance Details from login server
+2023/04/10 04:05:15 53530484 32759a9f [INFO Client 6768] [SHADER] Delay: OFF
+2023/04/10 04:05:15 53530484 ca3a6a71 [INFO Client 6768] Connecting to instance server at 159.122.142.234:6112
+2023/04/10 04:05:15 53530578 ca3a4dbb [DEBUG Client 6768] Connect time to instance server was 94ms
+2023/04/10 04:05:15 53530687 1186a0e5 [DEBUG Client 6768] Generating level 69 area "2_10_town" with seed 1
+2023/04/10 04:05:15 53530734 f22b6987 [INFO Client 6768] Tile hash: 3862614232
+2023/04/10 04:05:15 53530734 f22b6986 [INFO Client 6768] Doodad hash: 2693664852
+2023/04/10 04:05:18 53534015 11870f49 [DEBUG Client 6768] Joined guild named Голосовой чат discord.com/invite/nXFKHzJ with 193 members 
+2023/04/10 04:05:19 53534968 cffb071e [INFO Client 6768] &: ОБЪЯВЛЕНИЕ ГИЛЬДИИ: В гостяк у CARDIFF 
+2023/04/10 04:05:19 53535265 cffb071e [INFO Client 6768] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Доки Ориата.
+2023/04/10 04:05:19 53535265 cffb071e [INFO Client 6768] #ToxicRainEnjoer:  потому что он не с пола одевается лул
+2023/04/10 04:05:19 53535265 cffb071e [INFO Client 6768] #iiToxicii: чеб сосал то
+2023/04/10 04:05:20 53535750 cffb071e [INFO Client 6768] : Вы присоединились к Общему каналу чата 9 968.
+2023/04/10 04:05:21 53536718 32759a9f [INFO Client 6768] [SHADER] Delay: ON
+2023/04/10 04:05:21 53536750 374e0d22 [INFO Client 6768] [Item Filter] Preparing to download online filter YR4p4ZfR
+2023/04/10 04:05:21 53536750 374e0cc3 [INFO Client 6768] [Item Filter] Hash for online filter YR4p4ZfR is: c5c67d179672921d753d5e1baf5b997f
+2023/04/10 04:05:22 53538187 374e0cc9 [INFO Client 6768] [Item Filter] Online item filter YR4p4ZfR returned status: 200
+2023/04/10 04:05:22 53538187 374e0ce3 [DEBUG Client 6768] [Item Filter] Online item filter request resolved to: 209.197.3.101
+2023/04/10 04:05:22 53538187 374e0e8e [DEBUG Client 6768] [Item Filter] X-HW: 1681088721.dop219.ve1.t,1681088721.cds229.ve1.shn,1681088721.dop219.ve1.t,1681088721.cds238.ve1.s,1681088722.dop136.da2.r,1681088722.cds224.da2.p,1681088722.cds238.ve1.p
+2023/04/10 04:05:22 53538187 374df808 [INFO Client 6768] [Item Filter] Successfully saved online filter YR4p4ZfR. Hash is now: c5c67d179672921d753d5e1baf5b997f
+2023/04/10 04:05:22 53538218 7884752a [INFO Client 6768] [Item Filter] Finished reloading online filter YR4p4ZfR. Result: true. Hash: c5c67d179672921d753d5e1baf5b997f. Type: Normal. Message: 
+2023/04/10 04:05:46 53561515 b51d4f61 [DEBUG Client 6768] [RENDER] SetRendererSettings
+2023/04/10 04:05:46 53561515 b51d6447 [DEBUG Client 6768] [RENDER] ResizeWindow
+2023/04/10 04:05:46 53561531 9d4eec8a [DEBUG Client 6768] [WINDOW] TrigggerDeviceLost
+2023/04/10 04:05:46 53561546 9d4eeba7 [DEBUG Client 6768] [WINDOW] TrigggerDeviceReset
+2023/04/10 04:05:46 53562000 b51d614c [DEBUG Client 6768] [RENDER] RestartSwapChain
+2023/04/10 04:05:46 53562015 9e6a0b0a [INFO Client 6768] Enumerated adapter: AMD Radeon R7 200 Series
+2023/04/10 04:05:46 53562046 9e6a1d2a [INFO Client 6768] Enumerated device for adapter: AMD Radeon R7 200 Series. Selected feature level: 45312. Max feature level: 45312
+2023/04/10 04:05:46 53562046 9e6a1363 [INFO Client 6768] Enumerated output for adapter AMD Radeon R7 200 Series of \\.\DISPLAY1
+2023/04/10 04:05:46 53562046 9e6a0b0a [INFO Client 6768] Enumerated adapter: Microsoft Basic Render Driver
+2023/04/10 04:05:46 53562046 9e6a1d2a [INFO Client 6768] Enumerated device for adapter: Microsoft Basic Render Driver. Selected feature level: 45312. Max feature level: 45312
+2023/04/10 04:05:46 53562125 9d4eec8a [DEBUG Client 6768] [WINDOW] TrigggerDeviceLost
+2023/04/10 04:05:46 53562140 9d4eeba7 [DEBUG Client 6768] [WINDOW] TrigggerDeviceReset
+2023/04/10 04:05:47 53562578 fafff8cf [DEBUG Client 6768] CreateSwapChain: SetFullScreenState 0
+2023/04/10 04:05:47 53562578 9d4eec8a [DEBUG Client 6768] [WINDOW] TrigggerDeviceLost
+2023/04/10 04:05:47 53562609 9d4eeba7 [DEBUG Client 6768] [WINDOW] TrigggerDeviceReset
+2023/04/10 04:05:47 53562953 3275a75e [INFO Client 6768] [SHADER] Disable Async: 1 frames
+2023/04/10 04:05:47 53562953 b51d610e [INFO Client 6768] [RENDER] Disable Async: 1 frames
+2023/04/10 04:05:47 53562953 9d4eec8a [DEBUG Client 6768] [WINDOW] TrigggerDeviceLost
+2023/04/10 04:05:47 53562984 9d4eeba7 [DEBUG Client 6768] [WINDOW] TrigggerDeviceReset
+2023/04/10 04:07:16 53652171 b51d4f61 [DEBUG Client 6768] [RENDER] SetRendererSettings
+2023/04/10 04:07:16 53652171 b51d6447 [DEBUG Client 6768] [RENDER] ResizeWindow
+2023/04/10 04:07:16 53652171 b51d614c [DEBUG Client 6768] [RENDER] RestartSwapChain
+2023/04/10 04:07:16 53652171 9e6a0b0a [INFO Client 6768] Enumerated adapter: AMD Radeon R7 200 Series
+2023/04/10 04:07:16 53652203 9e6a1d2a [INFO Client 6768] Enumerated device for adapter: AMD Radeon R7 200 Series. Selected feature level: 45312. Max feature level: 45312
+2023/04/10 04:07:16 53652203 9e6a1363 [INFO Client 6768] Enumerated output for adapter AMD Radeon R7 200 Series of \\.\DISPLAY1
+2023/04/10 04:07:16 53652203 9e6a0b0a [INFO Client 6768] Enumerated adapter: Microsoft Basic Render Driver
+2023/04/10 04:07:16 53652218 9e6a1d2a [INFO Client 6768] Enumerated device for adapter: Microsoft Basic Render Driver. Selected feature level: 45312. Max feature level: 45312
+2023/04/10 04:07:16 53652218 fafff8cf [DEBUG Client 6768] CreateSwapChain: SetFullScreenState 1
+2023/04/10 04:07:17 53652375 9d4eec8a [DEBUG Client 6768] [WINDOW] TrigggerDeviceLost
+2023/04/10 04:07:17 53652406 9d4eeba7 [DEBUG Client 6768] [WINDOW] TrigggerDeviceReset
+2023/04/10 04:07:17 53652812 3275a75e [INFO Client 6768] [SHADER] Disable Async: 1 frames
+2023/04/10 04:07:17 53652812 b51d610e [INFO Client 6768] [RENDER] Disable Async: 1 frames
+2023/04/10 04:07:17 53653140 b51d4f61 [DEBUG Client 6768] [RENDER] SetRendererSettings
+2023/04/10 04:07:17 53653140 b51d6447 [DEBUG Client 6768] [RENDER] ResizeWindow
+2023/04/10 04:07:17 53653140 9d4eec8a [DEBUG Client 6768] [WINDOW] TrigggerDeviceLost
+2023/04/10 04:07:17 53653156 9d4eeba7 [DEBUG Client 6768] [WINDOW] TrigggerDeviceReset
+2023/04/10 04:07:18 53653609 b51d614c [DEBUG Client 6768] [RENDER] RestartSwapChain
+2023/04/10 04:07:18 53653609 9e6a0b0a [INFO Client 6768] Enumerated adapter: AMD Radeon R7 200 Series
+2023/04/10 04:07:18 53653640 9e6a1d2a [INFO Client 6768] Enumerated device for adapter: AMD Radeon R7 200 Series. Selected feature level: 45312. Max feature level: 45312
+2023/04/10 04:07:18 53653640 9e6a1363 [INFO Client 6768] Enumerated output for adapter AMD Radeon R7 200 Series of \\.\DISPLAY1
+2023/04/10 04:07:18 53653640 9e6a0b0a [INFO Client 6768] Enumerated adapter: Microsoft Basic Render Driver
+2023/04/10 04:07:18 53653656 9e6a1d2a [INFO Client 6768] Enumerated device for adapter: Microsoft Basic Render Driver. Selected feature level: 45312. Max feature level: 45312
+2023/04/10 04:07:18 53653656 fafff8cf [DEBUG Client 6768] CreateSwapChain: SetFullScreenState 0
+2023/04/10 04:07:18 53653656 9d4eec8a [DEBUG Client 6768] [WINDOW] TrigggerDeviceLost
+2023/04/10 04:07:18 53653687 9d4eeba7 [DEBUG Client 6768] [WINDOW] TrigggerDeviceReset
+2023/04/10 04:07:18 53654031 3275a75e [INFO Client 6768] [SHADER] Disable Async: 1 frames
+2023/04/10 04:07:18 53654031 b51d610e [INFO Client 6768] [RENDER] Disable Async: 1 frames
+2023/04/10 04:07:19 53654906 b51d4f61 [DEBUG Client 6768] [RENDER] SetRendererSettings
+2023/04/10 04:07:19 53654906 b51d6447 [DEBUG Client 6768] [RENDER] ResizeWindow
+2023/04/10 04:07:19 53654906 b51d614c [DEBUG Client 6768] [RENDER] RestartSwapChain
+2023/04/10 04:07:19 53654906 9e6a0b0a [INFO Client 6768] Enumerated adapter: AMD Radeon R7 200 Series
+2023/04/10 04:07:19 53654953 9e6a1d2a [INFO Client 6768] Enumerated device for adapter: AMD Radeon R7 200 Series. Selected feature level: 45312. Max feature level: 45312
+2023/04/10 04:07:19 53654953 9e6a1363 [INFO Client 6768] Enumerated output for adapter AMD Radeon R7 200 Series of \\.\DISPLAY1
+2023/04/10 04:07:19 53654953 9e6a0b0a [INFO Client 6768] Enumerated adapter: Microsoft Basic Render Driver
+2023/04/10 04:07:19 53654953 9e6a1d2a [INFO Client 6768] Enumerated device for adapter: Microsoft Basic Render Driver. Selected feature level: 45312. Max feature level: 45312
+2023/04/10 04:07:19 53654953 fafff8cf [DEBUG Client 6768] CreateSwapChain: SetFullScreenState 1
+2023/04/10 04:07:19 53655078 9d4eec8a [DEBUG Client 6768] [WINDOW] TrigggerDeviceLost
+2023/04/10 04:07:19 53655109 9d4eeba7 [DEBUG Client 6768] [WINDOW] TrigggerDeviceReset
+2023/04/10 04:07:20 53655562 3275a75e [INFO Client 6768] [SHADER] Disable Async: 1 frames
+2023/04/10 04:07:20 53655562 b51d610e [INFO Client 6768] [RENDER] Disable Async: 1 frames
+2023/04/10 04:07:29 53665046 b51d4f61 [DEBUG Client 6768] [RENDER] SetRendererSettings
+2023/04/10 04:07:29 53665062 b51d6447 [DEBUG Client 6768] [RENDER] ResizeWindow
+2023/04/10 04:07:29 53665078 9d4eec8a [DEBUG Client 6768] [WINDOW] TrigggerDeviceLost
+2023/04/10 04:07:29 53665171 9d4eeba7 [DEBUG Client 6768] [WINDOW] TrigggerDeviceReset
+2023/04/10 04:07:30 53665609 b51d614c [DEBUG Client 6768] [RENDER] RestartSwapChain
+2023/04/10 04:07:30 53665609 9e6a0b0a [INFO Client 6768] Enumerated adapter: AMD Radeon R7 200 Series
+2023/04/10 04:07:30 53665640 9e6a1d2a [INFO Client 6768] Enumerated device for adapter: AMD Radeon R7 200 Series. Selected feature level: 45312. Max feature level: 45312
+2023/04/10 04:07:30 53665640 9e6a1363 [INFO Client 6768] Enumerated output for adapter AMD Radeon R7 200 Series of \\.\DISPLAY1
+2023/04/10 04:07:30 53665640 9e6a0b0a [INFO Client 6768] Enumerated adapter: Microsoft Basic Render Driver
+2023/04/10 04:07:30 53665656 9e6a1d2a [INFO Client 6768] Enumerated device for adapter: Microsoft Basic Render Driver. Selected feature level: 45312. Max feature level: 45312
+2023/04/10 04:07:30 53665750 9d4eec8a [DEBUG Client 6768] [WINDOW] TrigggerDeviceLost
+2023/04/10 04:07:30 53665781 9d4eeba7 [DEBUG Client 6768] [WINDOW] TrigggerDeviceReset
+2023/04/10 04:07:30 53666203 fafff8cf [DEBUG Client 6768] CreateSwapChain: SetFullScreenState 0
+2023/04/10 04:07:30 53666203 9d4eec8a [DEBUG Client 6768] [WINDOW] TrigggerDeviceLost
+2023/04/10 04:07:30 53666234 9d4eeba7 [DEBUG Client 6768] [WINDOW] TrigggerDeviceReset
+2023/04/10 04:07:31 53666671 3275a75e [INFO Client 6768] [SHADER] Disable Async: 1 frames
+2023/04/10 04:07:31 53666671 b51d610e [INFO Client 6768] [RENDER] Disable Async: 1 frames
+2023/04/10 04:07:31 53666687 9d4eec8a [DEBUG Client 6768] [WINDOW] TrigggerDeviceLost
+2023/04/10 04:07:31 53666703 9d4eeba7 [DEBUG Client 6768] [WINDOW] TrigggerDeviceReset
+2023/04/10 04:08:45 53741125 b51d4f61 [DEBUG Client 6768] [RENDER] SetRendererSettings
+2023/04/10 04:08:45 53741125 b51d6447 [DEBUG Client 6768] [RENDER] ResizeWindow
+2023/04/10 04:08:45 53741125 b51d614c [DEBUG Client 6768] [RENDER] RestartSwapChain
+2023/04/10 04:08:45 53741125 9e6a0b0a [INFO Client 6768] Enumerated adapter: AMD Radeon R7 200 Series
+2023/04/10 04:08:45 53741156 9e6a1d2a [INFO Client 6768] Enumerated device for adapter: AMD Radeon R7 200 Series. Selected feature level: 45312. Max feature level: 45312
+2023/04/10 04:08:45 53741156 9e6a1363 [INFO Client 6768] Enumerated output for adapter AMD Radeon R7 200 Series of \\.\DISPLAY1
+2023/04/10 04:08:45 53741156 9e6a0b0a [INFO Client 6768] Enumerated adapter: Microsoft Basic Render Driver
+2023/04/10 04:08:45 53741171 9e6a1d2a [INFO Client 6768] Enumerated device for adapter: Microsoft Basic Render Driver. Selected feature level: 45312. Max feature level: 45312
+2023/04/10 04:08:45 53741171 fafff8cf [DEBUG Client 6768] CreateSwapChain: SetFullScreenState 1
+2023/04/10 04:08:46 53741296 9d4eec8a [DEBUG Client 6768] [WINDOW] TrigggerDeviceLost
+2023/04/10 04:08:46 53741328 9d4eeba7 [DEBUG Client 6768] [WINDOW] TrigggerDeviceReset
+2023/04/10 04:08:46 53741765 3275a75e [INFO Client 6768] [SHADER] Disable Async: 1 frames
+2023/04/10 04:08:46 53741765 b51d610e [INFO Client 6768] [RENDER] Disable Async: 1 frames
+2023/04/10 04:08:54 53749718 88a904cb [DEBUG Client 6768] Got Instance Details from login server
+2023/04/10 04:08:54 53749718 32759a9f [INFO Client 6768] [SHADER] Delay: OFF
+2023/04/10 04:08:54 53749718 ca3a6a71 [INFO Client 6768] Connecting to instance server at 169.51.201.153:6112
+2023/04/10 04:08:54 53749796 ca3a4dbb [DEBUG Client 6768] Connect time to instance server was 47ms
+2023/04/10 04:08:54 53749843 1186a0e5 [DEBUG Client 6768] Generating level 64 area "2_10_2" with seed 4055843602
+2023/04/10 04:08:54 53750250 f22b6987 [INFO Client 6768] Tile hash: 3565120344
+2023/04/10 04:08:54 53750250 f22b6986 [INFO Client 6768] Doodad hash: 708298947
+2023/04/10 04:08:55 53750843 11870f49 [DEBUG Client 6768] Joined guild named Голосовой чат discord.com/invite/nXFKHzJ with 193 members 
+2023/04/10 04:08:56 53751531 cffb071e [INFO Client 6768] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Разорённая площадь.
+2023/04/10 04:08:56 53752281 32759a9f [INFO Client 6768] [SHADER] Delay: ON
+2023/04/10 04:09:08 53763890 374e0d22 [INFO Client 6768] [Item Filter] Preparing to download online filter YR4p4ZfR
+2023/04/10 04:09:08 53763890 374e0cc3 [INFO Client 6768] [Item Filter] Hash for online filter YR4p4ZfR is: (empty)
+2023/04/10 04:09:08 53764062 374e0cc9 [INFO Client 6768] [Item Filter] Online item filter YR4p4ZfR returned status: 200
+2023/04/10 04:09:08 53764062 374e0ce3 [DEBUG Client 6768] [Item Filter] Online item filter request resolved to: 209.197.3.101
+2023/04/10 04:09:08 53764062 374e0e8e [DEBUG Client 6768] [Item Filter] X-HW: 1681088948.dop226.ve1.t,1681088948.cds239.ve1.shn,1681088948.dop226.ve1.t,1681088948.cds238.ve1.c
+2023/04/10 04:09:08 53764062 374df808 [INFO Client 6768] [Item Filter] Successfully saved online filter YR4p4ZfR. Hash is now: c5c67d179672921d753d5e1baf5b997f
+2023/04/10 04:09:08 53764093 7884752a [INFO Client 6768] [Item Filter] Finished reloading online filter YR4p4ZfR. Result: true. Hash: c5c67d179672921d753d5e1baf5b997f. Type: Normal. Message: 
+2023/04/10 04:09:16 53771781 374e128b [INFO Client 6768] [Item Filter] Downloading online list
+2023/04/10 04:09:17 53772468 374e12ec [INFO Client 6768] [Item Filter] Online list returned status: 200
+2023/04/10 04:09:17 53772468 374e12e6 [DEBUG Client 6768] [Item Filter] Online list request resolved to: 209.197.3.101
+2023/04/10 04:09:17 53772468 374df908 [INFO Client 6768] [Item Filter] List contained online filter YR4p4ZfR with hash: af384b94a80b951d5bc50c9498ea5d8b (local hash is: c5c67d179672921d753d5e1baf5b997f)
+2023/04/10 04:09:17 53772468 374df908 [INFO Client 6768] [Item Filter] List contained online filter G4AtJ5 with hash: 5b63404a3e18ce211432f5828843cab3 (local hash is: 5b63404a3e18ce211432f5828843cab3)
+2023/04/10 04:09:17 53772468 374df908 [INFO Client 6768] [Item Filter] List contained online filter GmjoTD with hash: c79f5d29577582aed8453efa5af72b07 (local hash is: c79f5d29577582aed8453efa5af72b07)
+2023/04/10 04:09:17 53772468 374df908 [INFO Client 6768] [Item Filter] List contained online filter 5XMehq with hash: f3891eb80779265e1a487d28b5d143c8 (local hash is: f3891eb80779265e1a487d28b5d143c8)
+2023/04/10 04:09:17 53772468 374df908 [INFO Client 6768] [Item Filter] List contained online filter GmXoTD with hash: 0812690ae7ee1a0fa06e8f8d75d26386 (local hash is: 0812690ae7ee1a0fa06e8f8d75d26386)
+2023/04/10 04:09:17 53772468 374df908 [INFO Client 6768] [Item Filter] List contained online filter wvPeTJ with hash: 914d271b7fb55faa2e2b56f2ac945dd6 (local hash is: 914d271b7fb55faa2e2b56f2ac945dd6)
+2023/04/10 04:09:17 53772468 374df908 [INFO Client 6768] [Item Filter] List contained online filter AvpQvuM with hash: 06a95b95d2a2b89e41d271327275690a (local hash is: 06a95b95d2a2b89e41d271327275690a)
+2023/04/10 04:09:17 53772484 374e0d22 [INFO Client 6768] [Item Filter] Preparing to download online filter YR4p4ZfR
+2023/04/10 04:09:17 53772484 374e0cc3 [INFO Client 6768] [Item Filter] Hash for online filter YR4p4ZfR is: c5c67d179672921d753d5e1baf5b997f
+2023/04/10 04:09:17 53772609 374e0cc9 [INFO Client 6768] [Item Filter] Online item filter YR4p4ZfR returned status: 200
+2023/04/10 04:09:17 53772609 374e0ce3 [DEBUG Client 6768] [Item Filter] Online item filter request resolved to: 209.197.3.101
+2023/04/10 04:09:17 53772609 374e0e8e [DEBUG Client 6768] [Item Filter] X-HW: 1681088957.dop207.ve1.t,1681088957.cds258.ve1.shn,1681088957.dop207.ve1.t,1681088957.cds238.ve1.c
+2023/04/10 04:09:17 53772609 374df808 [INFO Client 6768] [Item Filter] Successfully saved online filter YR4p4ZfR. Hash is now: c5c67d179672921d753d5e1baf5b997f
+2023/04/10 04:09:17 53772625 7884752a [INFO Client 6768] [Item Filter] Finished reloading online filter YR4p4ZfR. Result: true. Hash: c5c67d179672921d753d5e1baf5b997f. Type: Normal. Message: 
+2023/04/10 04:09:20 53775500 374e0d22 [INFO Client 6768] [Item Filter] Preparing to download online filter YR4p4ZfR
+2023/04/10 04:09:20 53775500 374e0cc3 [INFO Client 6768] [Item Filter] Hash for online filter YR4p4ZfR is: (empty)
+2023/04/10 04:09:20 53775656 374e0cc9 [INFO Client 6768] [Item Filter] Online item filter YR4p4ZfR returned status: 200
+2023/04/10 04:09:20 53775656 374e0ce3 [DEBUG Client 6768] [Item Filter] Online item filter request resolved to: 209.197.3.101
+2023/04/10 04:09:20 53775656 374e0e8e [DEBUG Client 6768] [Item Filter] X-HW: 1681088960.dop219.ve1.t,1681088960.cds240.ve1.shn,1681088960.dop219.ve1.t,1681088960.cds238.ve1.c
+2023/04/10 04:09:20 53775671 374df808 [INFO Client 6768] [Item Filter] Successfully saved online filter YR4p4ZfR. Hash is now: c5c67d179672921d753d5e1baf5b997f
+2023/04/10 04:09:20 53775671 7884752a [INFO Client 6768] [Item Filter] Finished reloading online filter YR4p4ZfR. Result: true. Hash: c5c67d179672921d753d5e1baf5b997f. Type: Normal. Message: 
+2023/04/11 23:07:38 ***** LOG FILE OPENING *****
+2023/04/11 23:07:38 2993531 f9544283 [INFO Client 9564] [STARTUP] Job Queues
+2023/04/11 23:07:38 2993546 9e6a0b0a [INFO Client 9564] Enumerated adapter: AMD Radeon R7 200 Series
+2023/04/11 23:07:38 2993625 9e6a1d2a [INFO Client 9564] Enumerated device for adapter: AMD Radeon R7 200 Series. Selected feature level: 45312. Max feature level: 45312
+2023/04/11 23:07:38 2993625 9e6a1363 [INFO Client 9564] Enumerated output for adapter AMD Radeon R7 200 Series of \\.\DISPLAY1
+2023/04/11 23:07:38 2993625 9e6a0b0a [INFO Client 9564] Enumerated adapter: Microsoft Basic Render Driver
+2023/04/11 23:07:38 2993625 9e6a1d2a [INFO Client 9564] Enumerated device for adapter: Microsoft Basic Render Driver. Selected feature level: 45312. Max feature level: 45312
+2023/04/11 23:07:38 2993625 84a7d27d [INFO Client 9564] [ENGINE] Init
+2023/04/11 23:07:38 2993625 55713145 [INFO Client 9564] [JOB] HIGH: 2
+2023/04/11 23:07:38 2993625 55713145 [INFO Client 9564] [JOB] MEDIUM: 2
+2023/04/11 23:07:38 2993625 55713145 [INFO Client 9564] [JOB] LOW: 2
+2023/04/11 23:07:38 2993625 55713145 [INFO Client 9564] [JOB] IDLE: 1
+2023/04/11 23:07:38 2993625 7bb548f [INFO Client 9564] [BUNDLE2] Init
+2023/04/11 23:07:38 2993625 7bb36c4 [INFO Client 9564] [BUNDLE2] Index: Bundles2/_.index.bin
+2023/04/11 23:07:39 2993921 7bb61e6 [INFO Client 9564] [BUNDLE2] File cache size: 1024
+2023/04/11 23:07:39 2993921 b51d61ab [INFO Client 9564] [RENDER] Async: ON
+2023/04/11 23:07:39 2993921 b51d60c8 [INFO Client 9564] [RENDER] Warmup: ON
+2023/04/11 23:07:39 2993921 b51d60ce [INFO Client 9564] [RENDER] Skip: ON
+2023/04/11 23:07:39 2993921 b51d60eb [INFO Client 9564] [RENDER] Throttling: ON
+2023/04/11 23:07:39 2993921 32759a7a [INFO Client 9564] [SHADER] Address: http://www.pathofexile.com/tool/shader-db?a=store
+2023/04/11 23:07:39 2993921 32759a70 [INFO Client 9564] [SHADER] Async: ON
+2023/04/11 23:07:39 2993921 32759a9f [INFO Client 9564] [SHADER] Delay: OFF
+2023/04/11 23:07:39 2993921 32759aba [INFO Client 9564] [SHADER] Limit: ON
+2023/04/11 23:07:39 2993921 32759abc [INFO Client 9564] [SHADER] Warmup: ON
+2023/04/11 23:07:39 2993921 327599d7 [INFO Client 9564] [SHADER] Parallel: OFF
+2023/04/11 23:07:39 2993921 84a7e376 [INFO Client 9564] [ENGINE] Running Engine version 1.8.0
+2023/04/11 23:07:39 2994000 47bbd15a [INFO Client 9564] [SOUND] Buffer size = 64.0 MB
+2023/04/11 23:07:39 2994093 9b0d205 [INFO Client 9564] [VIDEO] Enable: ON
+2023/04/11 23:07:39 2994187 84a7d2d8 [INFO Client 9564] [ENGINE] Ready
+2023/04/11 23:07:39 2994265 951bc0b0 [INFO Client 9564] [STARTUP] Bundle Startup Start
+2023/04/11 23:07:39 2994265 951bc057 [INFO Client 9564] [STARTUP] Bundle Startup in 8.1e-05 seconds
+2023/04/11 23:07:39 2994265 951bc0b0 [INFO Client 9564] [STARTUP] Game Start
+2023/04/11 23:07:39 2994625 ca86fd3f [DEBUG Client 9564] Rebuilding UI::Core properties. Current input mode = '1'
+2023/04/11 23:07:40 2995046 951bc057 [INFO Client 9564] [STARTUP] Game in 0.796341 seconds
+2023/04/11 23:07:40 2995046 951bc0b0 [INFO Client 9564] [STARTUP] Window Start
+2023/04/11 23:07:40 2995062 9e6a0b0a [INFO Client 9564] Enumerated adapter: AMD Radeon R7 200 Series
+2023/04/11 23:07:40 2995109 9e6a1d2a [INFO Client 9564] Enumerated device for adapter: AMD Radeon R7 200 Series. Selected feature level: 45312. Max feature level: 45312
+2023/04/11 23:07:40 2995125 9e6a1363 [INFO Client 9564] Enumerated output for adapter AMD Radeon R7 200 Series of \\.\DISPLAY1
+2023/04/11 23:07:40 2995125 9e6a0b0a [INFO Client 9564] Enumerated adapter: Microsoft Basic Render Driver
+2023/04/11 23:07:40 2995125 9e6a1d2a [INFO Client 9564] Enumerated device for adapter: Microsoft Basic Render Driver. Selected feature level: 45312. Max feature level: 45312
+2023/04/11 23:07:40 2995140 951bc057 [INFO Client 9564] [STARTUP] Window in 0.091345 seconds
+2023/04/11 23:07:40 2995156 413b61ff [DEBUG Client 9564] [GamepadManager] Initialising
+2023/04/11 23:07:40 2995156 951bc0b0 [INFO Client 9564] [STARTUP] Device Start
+2023/04/11 23:07:40 2995171 b51d6589 [INFO Client 9564] [RENDER] StartDevice: DirectX11
+2023/04/11 23:07:40 2995484 71b2ea0 [DEBUG Client 9564] [SHADER] Load shader cache: ShaderCacheD3D11
+2023/04/11 23:07:40 2995593 fafff8cf [DEBUG Client 9564] CreateSwapChain: SetFullScreenState 1
+2023/04/11 23:07:41 2995796 29d4ce01 [INFO Client 9564] [D3D11] Runtime version = 11.1
+2023/04/11 23:07:41 2995796 29d4ce00 [INFO Client 9564] [D3D11] Feature Level = 11.1
+2023/04/11 23:07:41 2995796 29d4ce03 [INFO Client 9564] [D3D11] Driver Command Lists = NO
+2023/04/11 23:07:41 2995796 29d4ce02 [INFO Client 9564] [D3D11] Driver Concurrent Creates = YES
+2023/04/11 23:07:41 2995796 29d4ce05 [INFO Client 9564] [D3D11] Driver Constant Buffer Offsetting = YES
+2023/04/11 23:07:41 2995906 9d4eeb40 [DEBUG Client 9564] [WINDOW] TrigggerDeviceCreate
+2023/04/11 23:07:41 2996187 9d4eeba7 [DEBUG Client 9564] [WINDOW] TrigggerDeviceReset
+2023/04/11 23:07:41 2996328 951bc057 [INFO Client 9564] [STARTUP] Device in 1.161 seconds
+2023/04/11 23:07:41 2996328 951bc0b0 [INFO Client 9564] [STARTUP] Tencent Start
+2023/04/11 23:07:41 2996328 951bc057 [INFO Client 9564] [STARTUP] Tencent in 3.1e-05 seconds
+2023/04/11 23:07:41 2996328 951bc0b0 [INFO Client 9564] [STARTUP] Loading Start
+2023/04/11 23:07:41 2996406 951bc057 [INFO Client 9564] [STARTUP] Loading in 0.083307 seconds
+2023/04/11 23:07:41 2996406 951bc0b0 [INFO Client 9564] [STARTUP] DebugGUI Start
+2023/04/11 23:07:41 2996406 951bc057 [INFO Client 9564] [STARTUP] DebugGUI in 2.9e-05 seconds
+2023/04/11 23:07:41 2996406 951bc0b0 [INFO Client 9564] [STARTUP] Bundle Tiny Start
+2023/04/11 23:07:41 2996406 951bc0b0 [INFO Client 9564] [STARTUP] Bundle Login Start
+2023/04/11 23:07:41 2996406 951bc057 [INFO Client 9564] [STARTUP] Bundle Login in 3.7e-05 seconds
+2023/04/11 23:07:41 2996406 951bc057 [INFO Client 9564] [STARTUP] Bundle Tiny in 0.000158 seconds
+2023/04/11 23:07:41 2996406 951bc0b0 [INFO Client 9564] [STARTUP] Registration Start
+2023/04/11 23:07:41 2996421 951bc0b0 [INFO Client 9564] [STARTUP] Audio Start
+2023/04/11 23:07:41 2996421 47bbee18 [INFO Client 9564] [SOUND] Channel count = 64 (asked for 64)
+2023/04/11 23:07:41 2996421 47bbee19 [INFO Client 9564] [SOUND] Source count = 512
+2023/04/11 23:07:42 2996906 47bbea58 [INFO Client 9564] Changing to device "Динамики (High Definition Audio Device)"
+2023/04/11 23:07:42 2996937 951bc057 [INFO Client 9564] [STARTUP] Audio in 0.529972 seconds
+2023/04/11 23:07:42 2997375 951bc057 [INFO Client 9564] [STARTUP] Registration in 0.96018 seconds
+2023/04/11 23:07:43 2997921 5094179d [WARN Client 9564] tool_settings.json was not found. Resetting to default settings.
+2023/04/11 23:07:47 3002468 890d9d5f [INFO Client 9564] Async connecting to mil01.login.pathofexile.com:20481
+2023/04/11 23:07:47 3002546 890d9cd8 [INFO Client 9564] Connected to mil01.login.pathofexile.com in 0ms.
+2023/04/11 23:08:13 3028609 88a904cb [DEBUG Client 9564] Got Instance Details from login server
+2023/04/11 23:08:13 3028640 32759a9f [INFO Client 9564] [SHADER] Delay: OFF
+2023/04/11 23:08:13 3028640 ca3a6a71 [INFO Client 9564] Connecting to instance server at 159.122.142.250:6112
+2023/04/11 23:08:14 3028687 ca3a4dbb [DEBUG Client 9564] Connect time to instance server was 47ms
+2023/04/11 23:08:14 3028750 1186a0e5 [DEBUG Client 9564] Generating level 1 area "1_1_1" with seed 2848762731
+2023/04/11 23:08:15 3029984 f22b6987 [INFO Client 9564] Tile hash: 2549762893
+2023/04/11 23:08:15 3029984 f22b6986 [INFO Client 9564] Doodad hash: 62796082
+2023/04/11 23:08:19 3033828 11870f49 [DEBUG Client 9564] Joined guild named Голосовой чат discord.com/invite/nXFKHzJ with 194 members 
+2023/04/11 23:08:20 3034687 cffb071e [INFO Client 9564] &: ОБЪЯВЛЕНИЕ ГИЛЬДИИ: В гостяк у CARDIFF 
+2023/04/11 23:08:20 3034875 cffb071e [INFO Client 9564] : <<set:NS>><<set:N>><<set:S>>Вы вошли в область Сумрачное взморье.
+2023/04/11 23:08:20 3034875 cffb071e [INFO Client 9564] #Hex_Cecks: 25 пинг
+2023/04/11 23:08:20 3034890 cffb071e [INFO Client 9564] #Абобандит: Камень Разлома Уул-Нетол 5 ходок 80с 1/6
+2023/04/11 23:08:20 3035265 cffb071e [INFO Client 9564] : Вы присоединились к Общему каналу чата 9 968.
+2023/04/11 23:08:21 3035875 32759a9f [INFO Client 9564] [SHADER] Delay: ON
+2023/04/11 23:08:21 3035906 374e0d22 [INFO Client 9564] [Item Filter] Preparing to download online filter YR4p4ZfR
+2023/04/11 23:08:21 3035906 374e0cc3 [INFO Client 9564] [Item Filter] Hash for online filter YR4p4ZfR is: c5c67d179672921d753d5e1baf5b997f
+2023/04/11 23:08:21 3036578 374e0cc9 [INFO Client 9564] [Item Filter] Online item filter YR4p4ZfR returned status: 200
+2023/04/11 23:08:21 3036578 374e0ce3 [DEBUG Client 9564] [Item Filter] Online item filter request resolved to: 209.197.3.101
+2023/04/11 23:08:21 3036578 374e0e8e [DEBUG Client 9564] [Item Filter] X-HW: 1681243703.dop226.ve1.t,1681243703.cds242.ve1.shn,1681243703.dop226.ve1.t,1681243703.cds238.ve1.s,1681243703.dop040.da2.r,1681243703.cds224.da2.p,1681243703.cds238.ve1.p
+2023/04/11 23:08:21 3036578 374df808 [INFO Client 9564] [Item Filter] Successfully saved online filter YR4p4ZfR. Hash is now: 
+2023/04/11 23:08:21 3036593 7884752a [INFO Client 9564] [Item Filter] Finished reloading online filter YR4p4ZfR. Result: true. Hash: . Type: . Message: 
+2023/04/11 23:08:21 3036593 2a1490e5 [INFO Client 9564] PrecalcBaseTypeHashMap
+2023/04/11 23:08:22 3036687 2a1490e7 [INFO Client 9564] PrecalcModNameHashMap
+2023/04/11 23:08:23 3038093 2a1490e1 [INFO Client 9564] PrecalcItemClassMap
+2023/04/11 23:08:23 3038093 2a1490e3 [INFO Client 9564] PrecalcSoundEffects
+2023/04/11 23:08:23 3038093 2a1490ed [INFO Client 9564] PrecalcDropEffects
+2023/04/11 23:08:23 3038093 2a1490c6 [INFO Client 9564] PrecalcNonEnchantModHashes
+2023/04/11 23:08:23 3038093 2a1490c4 [INFO Client 9564] PrecalcRuleNameToTypeMap
+2023/04/11 23:08:23 3038093 2a1490c2 [INFO Client 9564] PrecalcCJESPNIndexMap
+2023/04/11 23:08:23 3038093 2a1490c0 [INFO Client 9564] PrecalcGemAlternateQualityMap
+2023/04/11 23:09:16 3091437 cffb071e [INFO Client 9564] #BlazingIcyEmber: на шапке кста есть взрывы для ядо\врыв банок
+2023/04/11 23:09:50 3125125 cffb071e [INFO Client 9564] #BlazingIcyEmber: но половиная это моды на валюту
+2023/04/11 23:10:23 3158593 cffb071e [INFO Client 9564] #BlazingIcyEmber: ну чтож узнал новое. выбил шапку - не продавай, Куярь по горнилу
+2023/04/11 23:12:07 3261765 88a904cb [DEBUG Client 9564] Got Instance Details from login server
+2023/04/11 23:12:07 3261781 32759a9f [INFO Client 9564] [SHADER] Delay: OFF
+2023/04/11 23:12:07 3261781 ca3a6a71 [INFO Client 9564] Connecting to instance server at 159.122.142.237:6112
+2023/04/11 23:12:07 3261828 ca3a4dbb [DEBUG Client 9564] Connect time to instance server was 47ms
+2023/04/11 23:12:07 3261875 1186a0e5 [DEBUG Client 9564] Generating level 13 area "1_1_town" with seed 1
+2023/04/11 23:12:08 3263546 f22b6987 [INFO Client 9564] Tile hash: 3254420771
+2023/04/11 23:12:08 3263546 f22b6986 [INFO Client 9564] Doodad hash: 2393431363
+2023/04/11 23:12:09 3264000 11870f49 [DEBUG Client 9564] Joined guild named Голосовой чат discord.com/invite/nXFKHzJ with 194 members 
+2023/04/11 23:12:10 3264796 cffb071e [INFO Client 9564] : <<set:FS>><<set:F>><<set:S>>Вы вошли в область Застава Львиного глаза.
+2023/04/11 23:12:11 3265687 32759a9f [INFO Client 9564] [SHADER] Delay: ON
+2023/04/11 23:12:37 3291937 cffb071e [INFO Client 9564] #HolyMoleScion: Ребят может кто накрафить +2 to Level of Socketed Support Gems
+2023/04/11 23:13:10 3325500 cffb071e [INFO Client 9564] #mbx_vg: Вдовья доля, Грубый лук
+2023/04/11 23:13:36 3351203 cffb071e [INFO Client 9564] #<GREENL> Takafumi_Takaoka: Скорбный пронзатель, Клинок ваал никайф качать под конец.. 
+2023/04/11 23:14:07 3382125 cffb071e [INFO Client 9564] #ЛовушкаГорнила: а
+2023/04/11 23:14:10 3385078 cffb071e [INFO Client 9564] #mbx_vg: Рунная песнь, Имперский коготь понимаю
+2023/04/11 23:15:38 3473281 cffb071e [INFO Client 9564] : Сделка совершена.
+2023/04/11 23:17:54 3608890 88a904cb [DEBUG Client 9564] Got Instance Details from login server
+2023/04/11 23:17:54 3608890 32759a9f [INFO Client 9564] [SHADER] Delay: OFF
+2023/04/11 23:17:54 3608890 ca3a6a71 [INFO Client 9564] Connecting to instance server at 34.65.43.126:6112
+2023/04/11 23:17:54 3608937 ca3a4dbb [DEBUG Client 9564] Connect time to instance server was 31ms
+2023/04/11 23:17:54 3608984 1186a0e5 [DEBUG Client 9564] Generating level 2 area "1_1_2" with seed 1355923654
+2023/04/11 23:17:56 3611484 f22b6987 [INFO Client 9564] Tile hash: 3962927928
+2023/04/11 23:17:56 3611484 f22b6986 [INFO Client 9564] Doodad hash: 1792220353
+2023/04/11 23:17:57 3612250 11870f49 [DEBUG Client 9564] Joined guild named Голосовой чат discord.com/invite/nXFKHzJ with 194 members 
+2023/04/11 23:17:58 3613109 cffb071e [INFO Client 9564] : <<set:NS>><<set:N>><<set:S>>Вы вошли в область Побережье.
+2023/04/11 23:17:59 3613984 32759a9f [INFO Client 9564] [SHADER] Delay: ON
+2023/04/11 23:18:53 3668656 cffb071e [INFO Client 9564] : DeeSurgeIIIXXI (Ведьма) достигает 3 уровня
+2023/04/11 23:19:15 3689734 fb7abcab [INFO Client 9564] Successfully allocated passive skill id: spell_damage721, name: Урон чарами и мана
+2023/04/11 23:19:51 3726281 88a904cb [DEBUG Client 9564] Got Instance Details from login server
+2023/04/11 23:19:51 3726281 32759a9f [INFO Client 9564] [SHADER] Delay: OFF
+2023/04/11 23:19:51 3726281 ca3a6a71 [INFO Client 9564] Connecting to instance server at 34.65.186.37:6112
+2023/04/11 23:19:51 3726343 ca3a4dbb [DEBUG Client 9564] Connect time to instance server was 31ms
+2023/04/11 23:19:51 3726421 1186a0e5 [DEBUG Client 9564] Generating level 4 area "1_1_3" with seed 4177911824
+2023/04/11 23:19:52 3727046 f22b6987 [INFO Client 9564] Tile hash: 1903440033
+2023/04/11 23:19:52 3727046 f22b6986 [INFO Client 9564] Doodad hash: 2794375962
+2023/04/11 23:19:52 3727421 11870f49 [DEBUG Client 9564] Joined guild named Голосовой чат discord.com/invite/nXFKHzJ with 194 members 
+2023/04/11 23:19:53 3728062 cffb071e [INFO Client 9564] : <<set:FP>><<set:F>><<set:P>>Вы вошли в область Илистые низины.
+2023/04/11 23:19:53 3728609 32759a9f [INFO Client 9564] [SHADER] Delay: ON
+2023/04/11 23:20:48 3783546 cffb071e [INFO Client 9564] : DeeSurgeIIIXXI (Ведьма) достигает 4 уровня
+2023/04/11 23:20:56 3790953 fb7abcab [INFO Client 9564] Successfully allocated passive skill id: spell_damage740, name: Урон чарами
+2023/04/11 23:20:57 3792562 cffb071e [INFO Client 9564] &<RiPE> чЁнгизХанжа: Агоническая цепь, Амулет с цитрином норм?
+2023/04/11 23:21:21 3816500 118717eb [DEBUG Client 9564] Resyncing 574
+2023/04/11 23:21:27 3821812 118717eb [DEBUG Client 9564] Resyncing 583
+2023/04/11 23:24:00 3975640 88a904cb [DEBUG Client 9564] Got Instance Details from login server
+2023/04/11 23:24:00 3975640 32759a9f [INFO Client 9564] [SHADER] Delay: OFF
+2023/04/11 23:24:00 3975640 ca3a6a71 [INFO Client 9564] Connecting to instance server at 34.65.53.246:6112
+2023/04/11 23:24:01 3975687 ca3a4dbb [DEBUG Client 9564] Connect time to instance server was 31ms
+2023/04/11 23:24:01 3975734 1186a0e5 [DEBUG Client 9564] Generating level 5 area "1_1_4_1" with seed 2409487015
+2023/04/11 23:24:01 3976453 f22b6987 [INFO Client 9564] Tile hash: 1389666479
+2023/04/11 23:24:01 3976453 f22b6986 [INFO Client 9564] Doodad hash: 2215031765
+2023/04/11 23:24:02 3976687 11870f49 [DEBUG Client 9564] Joined guild named Голосовой чат discord.com/invite/nXFKHzJ with 194 members 
+2023/04/11 23:24:02 3977296 cffb071e [INFO Client 9564] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Сырой проход.
+2023/04/11 23:24:03 3977812 32759a9f [INFO Client 9564] [SHADER] Delay: ON
+2023/04/11 23:24:14 3988937 88a904cb [DEBUG Client 9564] Got Instance Details from login server
+2023/04/11 23:24:14 3988937 32759a9f [INFO Client 9564] [SHADER] Delay: OFF
+2023/04/11 23:24:14 3988937 ca3a6a71 [INFO Client 9564] Connecting to instance server at 34.65.43.126:6112
+2023/04/11 23:24:14 3989000 ca3a4dbb [DEBUG Client 9564] Connect time to instance server was 47ms
+2023/04/11 23:24:14 3989046 1186a0e5 [DEBUG Client 9564] Generating level 2 area "1_1_2" with seed 1355923654
+2023/04/11 23:24:15 3990140 f22b6987 [INFO Client 9564] Tile hash: 3962927928
+2023/04/11 23:24:15 3990140 f22b6986 [INFO Client 9564] Doodad hash: 1792220353
+2023/04/11 23:24:15 3990625 11870f49 [DEBUG Client 9564] Joined guild named Голосовой чат discord.com/invite/nXFKHzJ with 194 members 
+2023/04/11 23:24:16 3991218 cffb071e [INFO Client 9564] : <<set:NS>><<set:N>><<set:S>>Вы вошли в область Побережье.
+2023/04/11 23:24:17 3991812 32759a9f [INFO Client 9564] [SHADER] Delay: ON
+2023/04/11 23:24:55 4030109 88a904cb [DEBUG Client 9564] Got Instance Details from login server
+2023/04/11 23:24:55 4030109 32759a9f [INFO Client 9564] [SHADER] Delay: OFF
+2023/04/11 23:24:55 4030109 ca3a6a71 [INFO Client 9564] Connecting to instance server at 34.65.33.50:6112
+2023/04/11 23:24:55 4030156 ca3a4dbb [DEBUG Client 9564] Connect time to instance server was 31ms
+2023/04/11 23:24:55 4030203 1186a0e5 [DEBUG Client 9564] Generating level 3 area "1_1_2a" with seed 1918080492
+2023/04/11 23:24:55 4030546 f22b6987 [INFO Client 9564] Tile hash: 3410260534
+2023/04/11 23:24:55 4030546 f22b6986 [INFO Client 9564] Doodad hash: 1556970013
+2023/04/11 23:24:56 4031046 11870f49 [DEBUG Client 9564] Joined guild named Голосовой чат discord.com/invite/nXFKHzJ with 194 members 
+2023/04/11 23:24:56 4031562 cffb071e [INFO Client 9564] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Прибрежный остров.
+2023/04/11 23:24:57 4032031 32759a9f [INFO Client 9564] [SHADER] Delay: ON
+2023/04/11 23:25:28 4063390 b51d4f61 [DEBUG Client 9564] [RENDER] SetRendererSettings
+2023/04/11 23:25:28 4063390 b51d6447 [DEBUG Client 9564] [RENDER] ResizeWindow
+2023/04/11 23:25:28 4063406 9d4eec8a [DEBUG Client 9564] [WINDOW] TrigggerDeviceLost
+2023/04/11 23:25:28 4063625 9d4eeba7 [DEBUG Client 9564] [WINDOW] TrigggerDeviceReset
+2023/04/11 23:25:29 4064406 b51d614c [DEBUG Client 9564] [RENDER] RestartSwapChain
+2023/04/11 23:25:29 4064406 9e6a0b0a [INFO Client 9564] Enumerated adapter: AMD Radeon R7 200 Series
+2023/04/11 23:25:29 4064468 9e6a1d2a [INFO Client 9564] Enumerated device for adapter: AMD Radeon R7 200 Series. Selected feature level: 45312. Max feature level: 45312
+2023/04/11 23:25:29 4064468 9e6a1363 [INFO Client 9564] Enumerated output for adapter AMD Radeon R7 200 Series of \\.\DISPLAY1
+2023/04/11 23:25:29 4064468 9e6a0b0a [INFO Client 9564] Enumerated adapter: Microsoft Basic Render Driver
+2023/04/11 23:25:29 4064468 9e6a1d2a [INFO Client 9564] Enumerated device for adapter: Microsoft Basic Render Driver. Selected feature level: 45312. Max feature level: 45312
+2023/04/11 23:25:29 4064593 9d4eec8a [DEBUG Client 9564] [WINDOW] TrigggerDeviceLost
+2023/04/11 23:25:29 4064625 9d4eeba7 [DEBUG Client 9564] [WINDOW] TrigggerDeviceReset
+2023/04/11 23:25:30 4065234 fafff8cf [DEBUG Client 9564] CreateSwapChain: SetFullScreenState 0
+2023/04/11 23:25:30 4065250 9d4eec8a [DEBUG Client 9564] [WINDOW] TrigggerDeviceLost
+2023/04/11 23:25:30 4065296 9d4eeba7 [DEBUG Client 9564] [WINDOW] TrigggerDeviceReset
+2023/04/11 23:25:31 4065921 3275a75e [INFO Client 9564] [SHADER] Disable Async: 1 frames
+2023/04/11 23:25:31 4065921 b51d610e [INFO Client 9564] [RENDER] Disable Async: 1 frames
+2023/04/11 23:25:31 4065937 9d4eec8a [DEBUG Client 9564] [WINDOW] TrigggerDeviceLost
+2023/04/11 23:25:31 4065984 9d4eeba7 [DEBUG Client 9564] [WINDOW] TrigggerDeviceReset
+2023/04/11 23:25:34 4069578 b51d4f61 [DEBUG Client 9564] [RENDER] SetRendererSettings
+2023/04/11 23:25:34 4069578 b51d6447 [DEBUG Client 9564] [RENDER] ResizeWindow
+2023/04/11 23:25:34 4069593 b51d614c [DEBUG Client 9564] [RENDER] RestartSwapChain
+2023/04/11 23:25:34 4069593 9e6a0b0a [INFO Client 9564] Enumerated adapter: AMD Radeon R7 200 Series
+2023/04/11 23:25:34 4069625 9e6a1d2a [INFO Client 9564] Enumerated device for adapter: AMD Radeon R7 200 Series. Selected feature level: 45312. Max feature level: 45312
+2023/04/11 23:25:34 4069625 9e6a1363 [INFO Client 9564] Enumerated output for adapter AMD Radeon R7 200 Series of \\.\DISPLAY1
+2023/04/11 23:25:34 4069625 9e6a0b0a [INFO Client 9564] Enumerated adapter: Microsoft Basic Render Driver
+2023/04/11 23:25:34 4069625 9e6a1d2a [INFO Client 9564] Enumerated device for adapter: Microsoft Basic Render Driver. Selected feature level: 45312. Max feature level: 45312
+2023/04/11 23:25:34 4069640 fafff8cf [DEBUG Client 9564] CreateSwapChain: SetFullScreenState 1
+2023/04/11 23:25:35 4069781 9d4eec8a [DEBUG Client 9564] [WINDOW] TrigggerDeviceLost
+2023/04/11 23:25:35 4069812 9d4eeba7 [DEBUG Client 9564] [WINDOW] TrigggerDeviceReset
+2023/04/11 23:25:35 4070484 3275a75e [INFO Client 9564] [SHADER] Disable Async: 1 frames
+2023/04/11 23:25:35 4070484 b51d610e [INFO Client 9564] [RENDER] Disable Async: 1 frames
+2023/04/11 23:25:46 4080687 cffb071e [INFO Client 9564] : DeeSurgeIIIXXI (Ведьма) достигает 5 уровня
+2023/04/11 23:26:03 4098156 fb7abcab [INFO Client 9564] Successfully allocated passive skill id: cast_speed418, name: Скорость сотворения чар
+2023/04/11 23:27:00 4155171 890d9d5f [INFO Client 9564] Async connecting to mil01.login.pathofexile.com:20481
+2023/04/11 23:27:00 4155187 890d9cd8 [INFO Client 9564] Connected to mil01.login.pathofexile.com in 0ms.
+2023/04/11 23:27:04 4159062 88a904cb [DEBUG Client 9564] Got Instance Details from login server
+2023/04/11 23:27:04 4159062 32759a9f [INFO Client 9564] [SHADER] Delay: OFF
+2023/04/11 23:27:04 4159062 ca3a6a71 [INFO Client 9564] Connecting to instance server at 169.51.201.173:6112
+2023/04/11 23:27:04 4159125 ca3a4dbb [DEBUG Client 9564] Connect time to instance server was 47ms
+2023/04/11 23:27:04 4159187 1186a0e5 [DEBUG Client 9564] Generating level 13 area "1_1_town" with seed 1
+2023/04/11 23:27:06 4161109 f22b6987 [INFO Client 9564] Tile hash: 3254420771
+2023/04/11 23:27:06 4161109 f22b6986 [INFO Client 9564] Doodad hash: 2393431363
+2023/04/11 23:27:08 4163421 11870f49 [DEBUG Client 9564] Joined guild named Голосовой чат discord.com/invite/nXFKHzJ with 194 members 
+2023/04/11 23:27:09 4164578 cffb071e [INFO Client 9564] : <<set:FS>><<set:F>><<set:S>>Вы вошли в область Застава Львиного глаза.
+2023/04/11 23:27:10 4164906 cffb071e [INFO Client 9564] : Вы присоединились к Общему каналу чата 9 968.
+2023/04/11 23:27:10 4165546 32759a9f [INFO Client 9564] [SHADER] Delay: ON
+2023/04/11 23:27:10 4165578 374e0d22 [INFO Client 9564] [Item Filter] Preparing to download online filter YR4p4ZfR
+2023/04/11 23:27:10 4165578 374e0cc3 [INFO Client 9564] [Item Filter] Hash for online filter YR4p4ZfR is: (empty)
+2023/04/11 23:27:11 4165703 374e0cc9 [INFO Client 9564] [Item Filter] Online item filter YR4p4ZfR returned status: 200
+2023/04/11 23:27:11 4165703 374e0ce3 [DEBUG Client 9564] [Item Filter] Online item filter request resolved to: 209.197.3.101
+2023/04/11 23:27:11 4165703 374e0e8e [DEBUG Client 9564] [Item Filter] X-HW: 1681244832.dop224.ve1.t,1681244832.cds209.ve1.shn,1681244832.dop224.ve1.t,1681244832.cds238.ve1.c
+2023/04/11 23:27:11 4165703 374df808 [INFO Client 9564] [Item Filter] Successfully saved online filter YR4p4ZfR. Hash is now: 
+2023/04/11 23:27:11 4165718 7884752a [INFO Client 9564] [Item Filter] Finished reloading online filter YR4p4ZfR. Result: true. Hash: . Type: . Message: 
+2023/04/11 23:29:21 4296406 cffb071e [INFO Client 9564] : Сделка совершена.
+2023/04/11 23:31:41 4436312 88a904cb [DEBUG Client 9564] Got Instance Details from login server
+2023/04/11 23:31:41 4436312 32759a9f [INFO Client 9564] [SHADER] Delay: OFF
+2023/04/11 23:31:41 4436312 ca3a6a71 [INFO Client 9564] Connecting to instance server at 34.65.53.246:6112
+2023/04/11 23:31:41 4436406 ca3a4dbb [DEBUG Client 9564] Connect time to instance server was 31ms
+2023/04/11 23:31:41 4436453 1186a0e5 [DEBUG Client 9564] Generating level 5 area "1_1_4_1" with seed 2409487015
+2023/04/11 23:31:42 4437656 f22b6987 [INFO Client 9564] Tile hash: 1389666479
+2023/04/11 23:31:42 4437656 f22b6986 [INFO Client 9564] Doodad hash: 2215031765
+2023/04/11 23:31:43 4437890 11870f49 [DEBUG Client 9564] Joined guild named Голосовой чат discord.com/invite/nXFKHzJ with 194 members 
+2023/04/11 23:31:44 4438859 cffb071e [INFO Client 9564] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Сырой проход.
+2023/04/11 23:31:44 4439296 32759a9f [INFO Client 9564] [SHADER] Delay: ON
+2023/04/11 23:32:08 4462828 cffb071e [INFO Client 9564] : DeeSurgeIIIXXI был повержен.
+2023/04/11 23:33:53 4567937 cffb071e [INFO Client 9564] : DeeSurgeIIIXXI (Ведьма) достигает 6 уровня
+2023/04/11 23:35:04 4639375 cffb071e [INFO Client 9564] : DeeSurgeIIIXXI был повержен.
+2023/04/11 23:35:10 4645203 fb7abcab [INFO Client 9564] Successfully allocated passive skill id: cast_speed419, name: Скорость сотворения чар
+2023/04/11 23:37:20 4775250 88a904cb [DEBUG Client 9564] Got Instance Details from login server
+2023/04/11 23:37:20 4775250 32759a9f [INFO Client 9564] [SHADER] Delay: OFF
+2023/04/11 23:37:20 4775250 ca3a6a71 [INFO Client 9564] Connecting to instance server at 34.65.245.232:6112
+2023/04/11 23:37:20 4775281 ca3a4dbb [DEBUG Client 9564] Connect time to instance server was 31ms
+2023/04/11 23:37:20 4775328 1186a0e5 [DEBUG Client 9564] Generating level 6 area "1_1_4_0" with seed 130539225
+2023/04/11 23:37:21 4775781 f22b6987 [INFO Client 9564] Tile hash: 2017972368
+2023/04/11 23:37:21 4775781 f22b6986 [INFO Client 9564] Doodad hash: 1013896591
+2023/04/11 23:37:21 4776203 11870f49 [DEBUG Client 9564] Joined guild named Голосовой чат discord.com/invite/nXFKHzJ with 194 members 
+2023/04/11 23:37:22 4776750 cffb071e [INFO Client 9564] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Залитый провал.
+2023/04/11 23:37:22 4777156 32759a9f [INFO Client 9564] [SHADER] Delay: ON
+2023/04/11 23:38:51 4866671 cffb071e [INFO Client 9564] &<RiPE> чЁнгизХанжа: Агоническая цепь, Амулет с цитрином Так норма или фуфло? за сколько продать можно 
+2023/04/11 23:39:10 4884812 cffb071e [INFO Client 9564] &<RiPE> ЛутАрешековНаМФ: продастся
+2023/04/11 23:39:16 4890687 cffb071e [INFO Client 9564] &<RiPE> ЛутАрешековНаМФ: на первой неделе точно
+2023/04/11 23:39:19 4894468 cffb071e [INFO Client 9564] &<RiPE> Julia_chen: диван +
+2023/04/11 23:39:48 4923484 cffb071e [INFO Client 9564] &<RiPE> чЁнгизХанжа: Громадная спираль, Кольцо с аметистом
+2023/04/11 23:39:51 4926265 cffb071e [INFO Client 9564] &<RiPE> чЁнгизХанжа: такое ещё есть
+2023/04/11 23:41:21 5016171 cffb071e [INFO Client 9564] : DeeSurgeIIIXXI (Ведьма) достигает 7 уровня
+2023/04/11 23:41:36 5030812 aecea334 [INFO Client 9564] Abnormal disconnect: Отключен от сервера.
+2023/04/11 23:41:39 5033687 890d9d5f [INFO Client 9564] Async connecting to mil01.login.pathofexile.com:20481
+2023/04/11 23:41:39 5033703 890d9cd8 [INFO Client 9564] Connected to mil01.login.pathofexile.com in 0ms.
+2023/04/11 23:41:43 5038125 88a904cb [DEBUG Client 9564] Got Instance Details from login server
+2023/04/11 23:41:43 5038125 32759a9f [INFO Client 9564] [SHADER] Delay: OFF
+2023/04/11 23:41:43 5038125 ca3a6a71 [INFO Client 9564] Connecting to instance server at 169.51.201.169:6112
+2023/04/11 23:42:04 5059156 ca3a4dbb [DEBUG Client 9564] Connect time to instance server was 0ms
+2023/04/11 23:42:04 5059156 aeceac1c [INFO Client 9564] Abnormal disconnect: Не удалось подключиться к области.
+2023/04/11 23:42:11 5065937 b51d4f61 [DEBUG Client 9564] [RENDER] SetRendererSettings
+2023/04/11 23:42:11 5065937 b51d6447 [DEBUG Client 9564] [RENDER] ResizeWindow
+2023/04/11 23:42:11 5065968 9d4eec8a [DEBUG Client 9564] [WINDOW] TrigggerDeviceLost
+2023/04/11 23:42:11 5066015 9d4eeba7 [DEBUG Client 9564] [WINDOW] TrigggerDeviceReset
+2023/04/11 23:42:11 5066171 b51d614c [DEBUG Client 9564] [RENDER] RestartSwapChain
+2023/04/11 23:42:11 5066171 9e6a0b0a [INFO Client 9564] Enumerated adapter: AMD Radeon R7 200 Series
+2023/04/11 23:42:11 5066218 9e6a1d2a [INFO Client 9564] Enumerated device for adapter: AMD Radeon R7 200 Series. Selected feature level: 45312. Max feature level: 45312
+2023/04/11 23:42:11 5066218 9e6a1363 [INFO Client 9564] Enumerated output for adapter AMD Radeon R7 200 Series of \\.\DISPLAY1
+2023/04/11 23:42:11 5066218 9e6a0b0a [INFO Client 9564] Enumerated adapter: Microsoft Basic Render Driver
+2023/04/11 23:42:11 5066218 9e6a1d2a [INFO Client 9564] Enumerated device for adapter: Microsoft Basic Render Driver. Selected feature level: 45312. Max feature level: 45312
+2023/04/11 23:42:11 5066281 9d4eec8a [DEBUG Client 9564] [WINDOW] TrigggerDeviceLost
+2023/04/11 23:42:11 5066281 9d4eeba7 [DEBUG Client 9564] [WINDOW] TrigggerDeviceReset
+2023/04/11 23:42:11 5066375 fafff8cf [DEBUG Client 9564] CreateSwapChain: SetFullScreenState 0
+2023/04/11 23:42:11 5066375 9d4eec8a [DEBUG Client 9564] [WINDOW] TrigggerDeviceLost
+2023/04/11 23:42:11 5066375 9d4eeba7 [DEBUG Client 9564] [WINDOW] TrigggerDeviceReset
+2023/04/11 23:42:11 5066406 3275a75e [INFO Client 9564] [SHADER] Disable Async: 1 frames
+2023/04/11 23:42:11 5066406 b51d610e [INFO Client 9564] [RENDER] Disable Async: 1 frames
+2023/04/11 23:42:11 5066406 9d4eec8a [DEBUG Client 9564] [WINDOW] TrigggerDeviceLost
+2023/04/11 23:42:11 5066406 9d4eeba7 [DEBUG Client 9564] [WINDOW] TrigggerDeviceReset
+2023/04/11 23:43:15 5130234 b51d4f61 [DEBUG Client 9564] [RENDER] SetRendererSettings
+2023/04/11 23:43:15 5130234 b51d6447 [DEBUG Client 9564] [RENDER] ResizeWindow
+2023/04/11 23:43:15 5130234 b51d614c [DEBUG Client 9564] [RENDER] RestartSwapChain
+2023/04/11 23:43:15 5130250 9e6a0b0a [INFO Client 9564] Enumerated adapter: AMD Radeon R7 200 Series
+2023/04/11 23:43:15 5130281 9e6a1d2a [INFO Client 9564] Enumerated device for adapter: AMD Radeon R7 200 Series. Selected feature level: 45312. Max feature level: 45312
+2023/04/11 23:43:15 5130281 9e6a1363 [INFO Client 9564] Enumerated output for adapter AMD Radeon R7 200 Series of \\.\DISPLAY1
+2023/04/11 23:43:15 5130281 9e6a0b0a [INFO Client 9564] Enumerated adapter: Microsoft Basic Render Driver
+2023/04/11 23:43:15 5130281 9e6a1d2a [INFO Client 9564] Enumerated device for adapter: Microsoft Basic Render Driver. Selected feature level: 45312. Max feature level: 45312
+2023/04/11 23:43:15 5130296 fafff8cf [DEBUG Client 9564] CreateSwapChain: SetFullScreenState 1
+2023/04/11 23:43:15 5130453 9d4eec8a [DEBUG Client 9564] [WINDOW] TrigggerDeviceLost
+2023/04/11 23:43:15 5130484 9d4eeba7 [DEBUG Client 9564] [WINDOW] TrigggerDeviceReset
+2023/04/11 23:43:15 5130531 3275a75e [INFO Client 9564] [SHADER] Disable Async: 1 frames
+2023/04/11 23:43:15 5130531 b51d610e [INFO Client 9564] [RENDER] Disable Async: 1 frames
+2023/04/11 23:43:29 5144671 890d9d5f [INFO Client 9564] Async connecting to lon01.login.pathofexile.com:20481
+2023/04/11 23:43:30 5144718 890d9cd8 [INFO Client 9564] Connected to lon01.login.pathofexile.com in 16ms.
+2023/04/11 23:43:33 5148187 88a904cb [DEBUG Client 9564] Got Instance Details from login server
+2023/04/11 23:43:33 5148187 32759a9f [INFO Client 9564] [SHADER] Delay: OFF
+2023/04/11 23:43:33 5148187 ca3a6a71 [INFO Client 9564] Connecting to instance server at 158.176.145.171:6112
+2023/04/11 23:43:33 5148250 ca3a4dbb [DEBUG Client 9564] Connect time to instance server was 47ms
+2023/04/11 23:43:33 5148343 1186a0e5 [DEBUG Client 9564] Generating level 13 area "1_1_town" with seed 1
+2023/04/11 23:43:37 5152031 f22b6987 [INFO Client 9564] Tile hash: 3254420771
+2023/04/11 23:43:37 5152031 f22b6986 [INFO Client 9564] Doodad hash: 2393431363
+2023/04/11 23:43:38 5153171 11870f49 [DEBUG Client 9564] Joined guild named Голосовой чат discord.com/invite/nXFKHzJ with 194 members 
+2023/04/11 23:43:39 5154390 cffb071e [INFO Client 9564] &: ОБЪЯВЛЕНИЕ ГИЛЬДИИ: В гостяк у CARDIFF 
+2023/04/11 23:43:39 5154562 cffb071e [INFO Client 9564] : <<set:FS>><<set:F>><<set:S>>Вы вошли в область Застава Львиного глаза.
+2023/04/11 23:43:40 5154953 cffb071e [INFO Client 9564] : Вы присоединились к Общему каналу чата 9 968.
+2023/04/11 23:43:41 5155890 32759a9f [INFO Client 9564] [SHADER] Delay: ON
+2023/04/11 23:44:15 5190375 cffb071e [INFO Client 9564] : Сделка совершена.
+2023/04/11 23:44:50 5225625 88a904cb [DEBUG Client 9564] Got Instance Details from login server
+2023/04/11 23:44:50 5225625 32759a9f [INFO Client 9564] [SHADER] Delay: OFF
+2023/04/11 23:44:50 5225625 ca3a6a71 [INFO Client 9564] Connecting to instance server at 91.109.240.31:6112
+2023/04/11 23:44:51 5225687 ca3a4dbb [DEBUG Client 9564] Connect time to instance server was 46ms
+2023/04/11 23:44:51 5225750 1186a0e5 [DEBUG Client 9564] Generating level 5 area "1_1_4_1" with seed 3408021952
+2023/04/11 23:44:52 5227109 f22b6987 [INFO Client 9564] Tile hash: 2387722886
+2023/04/11 23:44:52 5227109 f22b6986 [INFO Client 9564] Doodad hash: 2635672499
+2023/04/11 23:44:52 5227421 11870f49 [DEBUG Client 9564] Joined guild named Голосовой чат discord.com/invite/nXFKHzJ with 194 members 
+2023/04/11 23:44:53 5228312 cffb071e [INFO Client 9564] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Сырой проход.
+2023/04/11 23:44:54 5228812 32759a9f [INFO Client 9564] [SHADER] Delay: ON
+2023/04/11 23:46:08 5303156 88a904cb [DEBUG Client 9564] Got Instance Details from login server
+2023/04/11 23:46:08 5303156 32759a9f [INFO Client 9564] [SHADER] Delay: OFF
+2023/04/11 23:46:08 5303156 ca3a6a71 [INFO Client 9564] Connecting to instance server at 158.176.145.154:6112
+2023/04/11 23:46:08 5303203 ca3a4dbb [DEBUG Client 9564] Connect time to instance server was 31ms
+2023/04/11 23:46:08 5303265 1186a0e5 [DEBUG Client 9564] Generating level 6 area "1_1_4_0" with seed 3515766621
+2023/04/11 23:46:08 5303625 f22b6987 [INFO Client 9564] Tile hash: 3752823972
+2023/04/11 23:46:08 5303625 f22b6986 [INFO Client 9564] Doodad hash: 1172823317
+2023/04/11 23:46:09 5303968 11870f49 [DEBUG Client 9564] Joined guild named Голосовой чат discord.com/invite/nXFKHzJ with 194 members 
+2023/04/11 23:46:09 5304578 cffb071e [INFO Client 9564] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Залитый провал.
+2023/04/11 23:46:10 5305031 32759a9f [INFO Client 9564] [SHADER] Delay: ON
+2023/04/11 23:47:19 5374609 cffb071e [INFO Client 9564] : DeeSurgeIIIXXI (Ведьма) достигает 7 уровня
+2023/04/11 23:48:20 5435578 118717eb [DEBUG Client 9564] Resyncing 1223
+2023/04/11 23:48:20 5435578 118717eb [DEBUG Client 9564] Resyncing 1225
+2023/04/11 23:48:21 5436484 118717eb [DEBUG Client 9564] Resyncing 1223
+2023/04/11 23:48:21 5436484 118717eb [DEBUG Client 9564] Resyncing 1225
+2023/04/11 23:48:23 5437968 cffb071e [INFO Client 9564] : DeeSurgeIIIXXI был повержен.
+2023/04/11 23:49:26 5501562 cffb071e [INFO Client 9564] : DeeSurgeIIIXXI был повержен.
+2023/04/11 23:49:36 5511546 fb7abcab [INFO Client 9564] Successfully allocated passive skill id: cast_speed420, name: Скорость сотворения чар
+2023/04/11 23:49:53 5528484 cffb071e [INFO Client 9564] : DeeSurgeIIIXXI был повержен.
+2023/04/11 23:50:59 5594078 cffb071e [INFO Client 9564] : DeeSurgeIIIXXI был повержен.
+2023/04/11 23:51:18 5613375 cffb071e [INFO Client 9564] : DeeSurgeIIIXXI был повержен.
+2023/04/11 23:52:18 5672828 cffb071e [INFO Client 9564] : DeeSurgeIIIXXI был повержен.
+2023/04/11 23:53:52 5767578 cffb071e [INFO Client 9564] : DeeSurgeIIIXXI был повержен.
+2023/04/11 23:56:25 5920125 cffb071e [INFO Client 9564] #Я_смешарик: я взял эту ебаную карту кузни и инста вылетел и откатился
+2023/04/11 23:56:36 5930687 cffb071e [INFO Client 9564] #Я_смешарик: Лига Говнило
+2023/04/11 23:56:40 5935625 890d9d5f [INFO Client 9564] Async connecting to lon01.login.pathofexile.com:20481
+2023/04/11 23:56:40 5935656 890d9cd8 [INFO Client 9564] Connected to lon01.login.pathofexile.com in 0ms.
+2023/04/11 23:56:44 5939046 88a904cb [DEBUG Client 9564] Got Instance Details from login server
+2023/04/11 23:56:44 5939046 32759a9f [INFO Client 9564] [SHADER] Delay: OFF
+2023/04/11 23:56:44 5939046 ca3a6a71 [INFO Client 9564] Connecting to instance server at 158.176.145.132:6112
+2023/04/11 23:56:44 5939093 ca3a4dbb [DEBUG Client 9564] Connect time to instance server was 47ms
+2023/04/11 23:56:44 5939156 1186a0e5 [DEBUG Client 9564] Generating level 13 area "1_1_town" with seed 1
+2023/04/11 23:56:46 5941281 f22b6987 [INFO Client 9564] Tile hash: 3254420771
+2023/04/11 23:56:46 5941281 f22b6986 [INFO Client 9564] Doodad hash: 2393431363
+2023/04/11 23:56:48 5943281 11870f49 [DEBUG Client 9564] Joined guild named Голосовой чат discord.com/invite/nXFKHzJ with 194 members 
+2023/04/11 23:56:49 5944265 cffb071e [INFO Client 9564] : <<set:FS>><<set:F>><<set:S>>Вы вошли в область Застава Львиного глаза.
+2023/04/11 23:56:49 5944265 cffb071e [INFO Client 9564] #<|<Œ~|> nvczion: странно
+2023/04/11 23:56:49 5944531 cffb071e [INFO Client 9564] : Вы присоединились к Общему каналу чата 9 968.
+2023/04/11 23:56:50 5945093 32759a9f [INFO Client 9564] [SHADER] Delay: ON
+2023/04/11 23:58:23 6038015 cffb071e [INFO Client 9564] : Сделка совершена.
+2023/04/11 23:59:25 6100562 890d9d5f [INFO Client 9564] Async connecting to lon01.login.pathofexile.com:20481
+2023/04/11 23:59:25 6100593 890d9cd8 [INFO Client 9564] Connected to lon01.login.pathofexile.com in 0ms.
