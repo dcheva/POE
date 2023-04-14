@@ -2204,3 +2204,731 @@ flags: 257
 2023/04/14 12:48:36 14870468 9d4eeba7 [DEBUG Client 440] [WINDOW] TrigggerDeviceReset
 2023/04/14 12:48:36 14870468 3275a75e [INFO Client 440] [SHADER] Disable Async: 1 frames
 2023/04/14 12:48:36 14870468 b51d610e [INFO Client 440] [RENDER] Disable Async: 1 frames
+2023/04/14 12:50:52 15005937 890d9d5f [INFO Client 440] Async connecting to mil01.login.pathofexile.com:20481
+2023/04/14 12:50:52 15005953 890d9cd8 [INFO Client 440] Connected to mil01.login.pathofexile.com in 0ms.
+2023/04/14 12:51:06 15020265 47bbea58 [INFO Client 440] Changing to device "Динамики (High Definition Audio Device)"
+2023/04/14 12:51:09 15023187 890d9d5f [INFO Client 440] Async connecting to mil01.login.pathofexile.com:20481
+2023/04/14 12:51:09 15023203 890d9cd8 [INFO Client 440] Connected to mil01.login.pathofexile.com in 0ms.
+2023/04/14 12:51:14 15028390 88a904cb [DEBUG Client 440] Got Instance Details from login server
+2023/04/14 12:51:14 15028421 32759a9f [INFO Client 440] [SHADER] Delay: OFF
+2023/04/14 12:51:14 15028421 ca3a6a71 [INFO Client 440] Connecting to instance server at 159.122.142.252:6112
+2023/04/14 12:51:14 15028484 ca3a4dbb [DEBUG Client 440] Connect time to instance server was 47ms
+2023/04/14 12:51:14 15028546 1186a0e5 [DEBUG Client 440] Generating level 45 area "1_5_town" with seed 1
+2023/04/14 12:51:16 15029796 f22b6987 [INFO Client 440] Tile hash: 4281737639
+2023/04/14 12:51:16 15029796 f22b6986 [INFO Client 440] Doodad hash: 2360762812
+2023/04/14 12:51:18 15032296 11870f49 [DEBUG Client 440] Joined guild named Голосовой чат discord.com/invite/nXFKHzJ with 193 members 
+2023/04/14 12:51:19 15033453 cffb071e [INFO Client 440] &: ОБЪЯВЛЕНИЕ ГИЛЬДИИ: В гостяк у CARDIFF 
+2023/04/14 12:51:20 15033765 cffb071e [INFO Client 440] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Башня надзирателя.
+2023/04/14 12:51:20 15034171 cffb071e [INFO Client 440] : Вы присоединились к Общему каналу чата 9 968.
+2023/04/14 12:51:21 15035562 32759a9f [INFO Client 440] [SHADER] Delay: ON
+2023/04/14 12:51:21 15035609 374e0d22 [INFO Client 440] [Item Filter] Preparing to download online filter 7Mr0AZHP
+2023/04/14 12:51:21 15035609 374e0cc3 [INFO Client 440] [Item Filter] Hash for online filter 7Mr0AZHP is: 55b166a332ae6c51a1c0cef67a526c5a
+2023/04/14 12:51:22 15035750 374e0cc9 [INFO Client 440] [Item Filter] Online item filter 7Mr0AZHP returned status: 200
+2023/04/14 12:51:22 15035750 374e0ce3 [DEBUG Client 440] [Item Filter] Online item filter request resolved to: 209.197.3.101
+2023/04/14 12:51:22 15035750 374e0e8e [DEBUG Client 440] [Item Filter] X-HW: 1681465881.dop209.ve1.t,1681465881.cds255.ve1.shn,1681465881.dop209.ve1.t,1681465881.cds241.ve1.c
+2023/04/14 12:51:22 15035765 374df808 [INFO Client 440] [Item Filter] Successfully saved online filter 7Mr0AZHP. Hash is now: 55b166a332ae6c51a1c0cef67a526c5a
+2023/04/14 12:51:22 15035828 7884752a [INFO Client 440] [Item Filter] Finished reloading online filter 7Mr0AZHP. Result: true. Hash: 55b166a332ae6c51a1c0cef67a526c5a. Type: Normal. Message: 
+2023/04/14 12:51:22 15035828 2a1490e5 [INFO Client 440] PrecalcBaseTypeHashMap
+2023/04/14 12:51:22 15035906 2a1490e7 [INFO Client 440] PrecalcModNameHashMap
+2023/04/14 12:51:23 15037093 2a1490e1 [INFO Client 440] PrecalcItemClassMap
+2023/04/14 12:51:23 15037093 2a1490e3 [INFO Client 440] PrecalcSoundEffects
+2023/04/14 12:51:23 15037093 2a1490ed [INFO Client 440] PrecalcDropEffects
+2023/04/14 12:51:23 15037093 2a1490c6 [INFO Client 440] PrecalcNonEnchantModHashes
+2023/04/14 12:51:23 15037093 2a1490c4 [INFO Client 440] PrecalcRuleNameToTypeMap
+2023/04/14 12:51:23 15037093 2a1490c2 [INFO Client 440] PrecalcCJESPNIndexMap
+2023/04/14 12:51:23 15037093 2a1490c0 [INFO Client 440] PrecalcGemAlternateQualityMap
+2023/04/14 12:52:21 15095234 cffb071e [INFO Client 440] : В вашей секции сундука с привязкой "Уникальные предметы" недостаточно места для этого предмета.
+2023/04/14 12:53:32 15166593 cffb071e [INFO Client 440] #BlazingIcyEmber: Всем приветы
+2023/04/14 12:53:38 15172703 cffb071e [INFO Client 440] #<GREENL> Takafumi_Takaoka: привет
+2023/04/14 12:53:42 15176359 cffb071e [INFO Client 440] #Я_смешарик: привет
+2023/04/14 12:53:49 15182968 cffb071e [INFO Client 440] #ST_Eyedaed: день добрый
+2023/04/14 12:54:19 15213093 cffb071e [INFO Client 440] : Сделка совершена.
+2023/04/14 12:55:08 15262203 88a904cb [DEBUG Client 440] Got Instance Details from login server
+2023/04/14 12:55:08 15262218 32759a9f [INFO Client 440] [SHADER] Delay: OFF
+2023/04/14 12:55:08 15262218 ca3a6a71 [INFO Client 440] Connecting to instance server at 169.51.201.190:6112
+2023/04/14 12:55:08 15262265 ca3a4dbb [DEBUG Client 440] Connect time to instance server was 32ms
+2023/04/14 12:55:08 15262312 1186a0e5 [DEBUG Client 440] Generating level 44 area "1_5_3b" with seed 3436074103
+2023/04/14 12:55:08 15262640 b5a581a7 [INFO Client 440] Spawning discoverable Hideout HideoutCourts
+2023/04/14 12:55:10 15264281 f22b6987 [INFO Client 440] Tile hash: 1003599715
+2023/04/14 12:55:10 15264281 f22b6986 [INFO Client 440] Doodad hash: 3012447086
+2023/04/14 12:55:11 15265500 11870f49 [DEBUG Client 440] Joined guild named Голосовой чат discord.com/invite/nXFKHzJ with 193 members 
+2023/04/14 12:55:12 15266171 cffb071e [INFO Client 440] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Разрушенная площадь.
+2023/04/14 12:55:13 15266984 32759a9f [INFO Client 440] [SHADER] Delay: ON
+2023/04/14 12:55:24 15277765 3796f5e1 [WARN Client 440] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/14 12:55:42 15296406 3796f5e1 [WARN Client 440] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/14 12:55:57 15310937 3796f5e1 [WARN Client 440] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/14 12:56:04 15317921 3796f5e1 [WARN Client 440] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/14 12:56:14 15327984 3796f5e1 [WARN Client 440] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/14 12:56:14 15328593 3796f5e1 [WARN Client 440] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/14 12:56:25 15339609 3796f5e1 [WARN Client 440] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/14 12:56:38 15352218 3796f5e1 [WARN Client 440] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/14 12:56:38 15352671 3796f5e1 [WARN Client 440] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/14 12:56:45 15359203 3796f5e1 [WARN Client 440] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/14 12:56:45 15359312 cffb071e [INFO Client 440] Утула: Спаситель, думаешь, наша месть свершилась? О нет, всё только начинается!
+2023/04/14 12:56:46 15359796 118717eb [DEBUG Client 440] Resyncing 1996
+2023/04/14 12:56:47 15361125 3796f5e1 [WARN Client 440] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/14 12:56:47 15361609 3796f5e1 [WARN Client 440] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/14 12:56:48 15362125 3796f5e1 [WARN Client 440] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/14 12:56:52 15366000 3796f5e1 [WARN Client 440] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/14 12:57:28 15402203 88a904cb [DEBUG Client 440] Got Instance Details from login server
+2023/04/14 12:57:28 15402203 32759a9f [INFO Client 440] [SHADER] Delay: OFF
+2023/04/14 12:57:28 15402203 ca3a6a71 [INFO Client 440] Connecting to instance server at 169.51.201.151:6112
+2023/04/14 12:57:28 15402265 ca3a4dbb [DEBUG Client 440] Connect time to instance server was 47ms
+2023/04/14 12:57:28 15402312 1186a0e5 [DEBUG Client 440] Generating level 44 area "1_5_7" with seed 2133207967
+2023/04/14 12:57:29 15402859 f22b6987 [INFO Client 440] Tile hash: 3117118992
+2023/04/14 12:57:29 15402859 f22b6986 [INFO Client 440] Doodad hash: 2524577616
+2023/04/14 12:57:29 15403250 11870f49 [DEBUG Client 440] Joined guild named Голосовой чат discord.com/invite/nXFKHzJ with 193 members 
+2023/04/14 12:57:30 15403937 cffb071e [INFO Client 440] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Реликварий.
+2023/04/14 12:57:30 15404468 32759a9f [INFO Client 440] [SHADER] Delay: ON
+2023/04/14 12:57:40 15414187 3796f5e1 [WARN Client 440] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/14 12:57:41 15414781 3796f5e1 [WARN Client 440] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/14 12:57:42 15416218 3796f5e1 [WARN Client 440] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/14 12:57:43 15417500 3796f5e1 [WARN Client 440] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/14 12:57:46 15420546 cffb071e [INFO Client 440] &<RiPE> ЛутАрешековНаМФ: Радужный самоцвет Кольцо с опалом Обветшалый Камень Пустоты
+2023/04/14 12:57:47 15421406 3796f5e1 [WARN Client 440] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/14 12:57:52 15426390 3796f5e1 [WARN Client 440] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/14 12:57:57 15431406 3796f5e1 [WARN Client 440] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/14 12:58:06 15440484 3796f5e1 [WARN Client 440] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/14 12:58:10 15444250 3796f5e1 [WARN Client 440] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/14 12:58:10 15444281 cffb071e [INFO Client 440] &<RiPE> Dermaken: что то тебе фортит
+2023/04/14 12:58:13 15447484 3796f5e1 [WARN Client 440] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/14 12:58:17 15451046 3796f5e1 [WARN Client 440] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/14 12:58:20 15454453 3796f5e1 [WARN Client 440] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/14 12:58:22 15456109 3796f5e1 [WARN Client 440] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/14 12:58:22 15456562 3796f5e1 [WARN Client 440] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/14 12:58:23 15457093 3796f5e1 [WARN Client 440] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/14 12:58:26 15460453 3796f5e1 [WARN Client 440] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/14 12:58:28 15461859 3796f5e1 [WARN Client 440] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/14 12:58:29 15463437 cffb071e [INFO Client 440] &<RiPE> ЛутАрешековНаМФ: jnrhsnm&)
+2023/04/14 12:58:31 15465531 3796f5e1 [WARN Client 440] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/14 12:58:32 15465859 cffb071e [INFO Client 440] &<RiPE> ЛутАрешековНаМФ: открыть?)
+2023/04/14 12:58:32 15466265 3796f5e1 [WARN Client 440] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/14 12:58:38 15472562 cffb071e [INFO Client 440] &<RiPE> Dermaken: нет
+2023/04/14 12:58:46 15480015 cffb071e [INFO Client 440] &<RiPE> Dermaken: всегда хуйня внутри
+2023/04/14 12:58:51 15485203 3796f5e1 [WARN Client 440] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/14 12:58:52 15485796 3796f5e1 [WARN Client 440] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/14 12:58:52 15486328 3796f5e1 [WARN Client 440] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/14 12:58:55 15489265 cffb071e [INFO Client 440] &<RiPE> ЛутАрешековНаМФ: не смотрел
+2023/04/14 12:58:59 15492859 cffb071e [INFO Client 440] &<RiPE> ЛутАрешековНаМФ: Глаз хранителя, Радужный самоцвет
+2023/04/14 12:59:10 15504281 3796f5e1 [WARN Client 440] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/14 12:59:11 15505406 cffb071e [INFO Client 440] &<RiPE> ЛутАрешековНаМФ: жижа?
+2023/04/14 12:59:14 15507906 cffb071e [INFO Client 440] &<RiPE> Dermaken: ну нормально,ладно
+2023/04/14 12:59:14 15507968 3796f5e1 [WARN Client 440] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/14 12:59:15 15509406 3796f5e1 [WARN Client 440] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/14 12:59:16 15509921 3796f5e1 [WARN Client 440] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/14 12:59:16 15510593 3796f5e1 [WARN Client 440] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/14 12:59:21 15514906 cffb071e [INFO Client 440] &<RiPE> Dermaken: 6-10 где то так
+2023/04/14 12:59:41 15535171 3796f5e1 [WARN Client 440] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/14 12:59:42 15536203 3796f5e1 [WARN Client 440] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/14 12:59:51 15545640 3796f5e1 [WARN Client 440] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/14 12:59:52 15545921 cffb071e [INFO Client 440] &<RiPE> ЛутАрешековНаМФ: ну гуд
+2023/04/14 12:59:53 15547593 cffb071e [INFO Client 440] &<RiPE> Dermaken: может 5,но за 5 точно сольешь
+2023/04/14 12:59:54 15548203 3796f5e1 [WARN Client 440] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/14 12:59:55 15548734 3796f5e1 [WARN Client 440] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/14 12:59:55 15549625 3796f5e1 [WARN Client 440] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/14 12:59:56 15550578 3796f5e1 [WARN Client 440] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/14 12:59:59 15553093 3796f5e1 [WARN Client 440] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/14 13:00:07 15560937 3796f5e1 [WARN Client 440] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/14 13:00:09 15563328 3796f5e1 [WARN Client 440] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/14 13:00:10 15563781 3796f5e1 [WARN Client 440] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/14 13:00:10 15564281 3796f5e1 [WARN Client 440] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/14 13:00:13 15567375 3796f5e1 [WARN Client 440] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/14 13:00:26 15580546 cffb071e [INFO Client 440] : DeeGyreIIIXXI был повержен.
+2023/04/14 13:00:36 15589890 3796f5e1 [WARN Client 440] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/14 13:00:37 15591562 3796f5e1 [WARN Client 440] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/14 13:00:38 15592093 3796f5e1 [WARN Client 440] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/14 13:00:38 15592593 3796f5e1 [WARN Client 440] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/14 13:00:39 15593109 3796f5e1 [WARN Client 440] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/14 13:00:42 15596515 3796f5e1 [WARN Client 440] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/14 13:00:43 15597421 3796f5e1 [WARN Client 440] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/14 13:00:44 15597875 3796f5e1 [WARN Client 440] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/14 13:00:44 15598328 3796f5e1 [WARN Client 440] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/14 13:00:46 15599750 3796f5e1 [WARN Client 440] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/14 13:00:47 15601359 3796f5e1 [WARN Client 440] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/14 13:00:48 15602031 3796f5e1 [WARN Client 440] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/14 13:00:49 15603281 3796f5e1 [WARN Client 440] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/14 13:00:57 15611468 3796f5e1 [WARN Client 440] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/14 13:00:58 15611968 3796f5e1 [WARN Client 440] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/14 13:00:59 15612812 3796f5e1 [WARN Client 440] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/14 13:00:59 15613343 3796f5e1 [WARN Client 440] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/14 13:01:01 15615687 3796f5e1 [WARN Client 440] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/14 13:01:02 15616218 3796f5e1 [WARN Client 440] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/14 13:01:02 15616718 3796f5e1 [WARN Client 440] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/14 13:01:04 15618406 3796f5e1 [WARN Client 440] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/14 13:01:05 15618953 3796f5e1 [WARN Client 440] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/14 13:01:06 15620375 3796f5e1 [WARN Client 440] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/14 13:01:07 15620890 3796f5e1 [WARN Client 440] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/14 13:01:11 15624937 3796f5e1 [WARN Client 440] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/14 13:01:11 15625500 3796f5e1 [WARN Client 440] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/14 13:01:12 15625968 3796f5e1 [WARN Client 440] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/14 13:01:12 15626453 3796f5e1 [WARN Client 440] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/14 13:01:13 15626921 3796f5e1 [WARN Client 440] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/14 13:01:13 15627406 3796f5e1 [WARN Client 440] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/14 13:01:14 15627906 3796f5e1 [WARN Client 440] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/14 13:01:14 15628359 3796f5e1 [WARN Client 440] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/14 13:01:15 15628937 3796f5e1 [WARN Client 440] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/14 13:01:16 15629875 3796f5e1 [WARN Client 440] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/14 13:01:24 15638359 3796f5e1 [WARN Client 440] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/14 13:01:25 15638875 3796f5e1 [WARN Client 440] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/14 13:01:25 15639390 3796f5e1 [WARN Client 440] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/14 13:01:30 15644265 3796f5e1 [WARN Client 440] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/14 13:01:31 15644765 3796f5e1 [WARN Client 440] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/14 13:01:31 15645265 3796f5e1 [WARN Client 440] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/14 13:01:35 15649546 3796f5e1 [WARN Client 440] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/14 13:01:44 15658000 3796f5e1 [WARN Client 440] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/14 13:01:44 15658468 3796f5e1 [WARN Client 440] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/14 13:01:57 15671531 3796f5e1 [WARN Client 440] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/14 13:02:04 15678171 3796f5e1 [WARN Client 440] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/14 13:02:13 15687609 3796f5e1 [WARN Client 440] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/14 13:02:14 15688187 3796f5e1 [WARN Client 440] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/14 13:02:16 15690031 3796f5e1 [WARN Client 440] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/14 13:02:16 15690546 3796f5e1 [WARN Client 440] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/14 13:02:19 15692859 3796f5e1 [WARN Client 440] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/14 13:02:25 15699625 3796f5e1 [WARN Client 440] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/14 13:02:26 15700656 3796f5e1 [WARN Client 440] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/14 13:02:27 15701234 3796f5e1 [WARN Client 440] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/14 13:02:27 15701703 3796f5e1 [WARN Client 440] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/14 13:02:28 15702296 3796f5e1 [WARN Client 440] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/14 13:02:29 15702765 3796f5e1 [WARN Client 440] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/14 13:02:29 15703234 3796f5e1 [WARN Client 440] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/14 13:02:30 15703968 3796f5e1 [WARN Client 440] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/14 13:02:30 15704437 3796f5e1 [WARN Client 440] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/14 13:02:38 15712390 3796f5e1 [WARN Client 440] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/14 13:02:45 15719687 3796f5e1 [WARN Client 440] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/14 13:02:50 15724109 cffb071e [INFO Client 440] : DeeGyreIIIXXI (Снайпер) достигает 49 уровня
+2023/04/14 13:02:59 15732875 3796f5e1 [WARN Client 440] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/14 13:03:07 15740890 3796f5e1 [WARN Client 440] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/14 13:03:17 15750937 3796f5e1 [WARN Client 440] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/14 13:03:18 15752390 3796f5e1 [WARN Client 440] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/14 13:03:20 15753734 3796f5e1 [WARN Client 440] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/14 13:03:23 15757609 3796f5e1 [WARN Client 440] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/14 13:03:24 15758656 3796f5e1 [WARN Client 440] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/14 13:03:26 15759937 3796f5e1 [WARN Client 440] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/14 13:03:26 15760515 3796f5e1 [WARN Client 440] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/14 13:03:29 15763203 3796f5e1 [WARN Client 440] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/14 13:04:02 15796015 890d9d5f [INFO Client 440] Async connecting to mil01.login.pathofexile.com:20481
+2023/04/14 13:04:02 15796031 890d9cd8 [INFO Client 440] Connected to mil01.login.pathofexile.com in 16ms.
+2023/04/14 13:04:08 15802156 88a904cb [DEBUG Client 440] Got Instance Details from login server
+2023/04/14 13:04:08 15802156 32759a9f [INFO Client 440] [SHADER] Delay: OFF
+2023/04/14 13:04:08 15802156 ca3a6a71 [INFO Client 440] Connecting to instance server at 159.122.142.252:6112
+2023/04/14 13:04:08 15802203 ca3a4dbb [DEBUG Client 440] Connect time to instance server was 31ms
+2023/04/14 13:04:08 15802265 1186a0e5 [DEBUG Client 440] Generating level 45 area "1_5_town" with seed 1
+2023/04/14 13:04:09 15803296 f22b6987 [INFO Client 440] Tile hash: 4281737639
+2023/04/14 13:04:09 15803296 f22b6986 [INFO Client 440] Doodad hash: 2360762812
+2023/04/14 13:04:11 15805265 11870f49 [DEBUG Client 440] Joined guild named Голосовой чат discord.com/invite/nXFKHzJ with 193 members 
+2023/04/14 13:04:12 15806265 cffb071e [INFO Client 440] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Башня надзирателя.
+2023/04/14 13:04:12 15806546 cffb071e [INFO Client 440] : Вы присоединились к Общему каналу чата 9 968.
+2023/04/14 13:04:13 15806968 32759a9f [INFO Client 440] [SHADER] Delay: ON
+2023/04/14 13:04:13 15806984 374e0d22 [INFO Client 440] [Item Filter] Preparing to download online filter 7Mr0AZHP
+2023/04/14 13:04:13 15806984 374e0cc3 [INFO Client 440] [Item Filter] Hash for online filter 7Mr0AZHP is: 55b166a332ae6c51a1c0cef67a526c5a
+2023/04/14 13:04:13 15807140 374e0cc9 [INFO Client 440] [Item Filter] Online item filter 7Mr0AZHP returned status: 200
+2023/04/14 13:04:13 15807140 374e0ce3 [DEBUG Client 440] [Item Filter] Online item filter request resolved to: 209.197.3.101
+2023/04/14 13:04:13 15807140 374e0e8e [DEBUG Client 440] [Item Filter] X-HW: 1681466652.dop216.ve1.t,1681466652.cds209.ve1.shn,1681466652.dop216.ve1.t,1681466652.cds241.ve1.c
+2023/04/14 13:04:13 15807140 374df808 [INFO Client 440] [Item Filter] Successfully saved online filter 7Mr0AZHP. Hash is now: 55b166a332ae6c51a1c0cef67a526c5a
+2023/04/14 13:04:13 15807156 7884752a [INFO Client 440] [Item Filter] Finished reloading online filter 7Mr0AZHP. Result: true. Hash: 55b166a332ae6c51a1c0cef67a526c5a. Type: Normal. Message: 
+2023/04/14 13:04:31 15824750 cffb071e [INFO Client 440] &<RiPE> Optik_bum: +
+2023/04/14 13:04:35 15829171 cffb071e [INFO Client 440] : Вы получили очко пассивных умений.
+2023/04/14 13:04:35 15829171 cffb071e [INFO Client 440] : Вы получили очков сброса пассивных умений: 2.
+2023/04/14 13:05:20 15874250 cffb071e [INFO Client 440] : Сделка совершена.
+2023/04/14 13:05:26 15879828 fb7abcab [INFO Client 440] Successfully allocated passive skill id: sword_damage_accuracy_notable2500_, name: Укоренение
+2023/04/14 13:05:30 15883937 fb7abcab [INFO Client 440] Successfully allocated passive skill id: super_dexterity2436, name: Ловкость
+2023/04/14 13:06:05 15918906 47bbea58 [INFO Client 440] Changing to device "Line 1 (Virtual Audio Cable)"
+2023/04/14 13:07:41 16015031 88a904cb [DEBUG Client 440] Got Instance Details from login server
+2023/04/14 13:07:41 16015046 32759a9f [INFO Client 440] [SHADER] Delay: OFF
+2023/04/14 13:07:41 16015046 ca3a6a71 [INFO Client 440] Connecting to instance server at 159.122.142.250:6112
+2023/04/14 13:07:41 16015109 ca3a4dbb [DEBUG Client 440] Connect time to instance server was 32ms
+2023/04/14 13:07:41 16015156 1186a0e5 [DEBUG Client 440] Generating level 44 area "1_5_3b" with seed 719962310
+2023/04/14 13:07:41 16015187 b5a581a7 [INFO Client 440] Spawning discoverable Hideout HideoutCourts
+2023/04/14 13:07:42 16016375 f22b6987 [INFO Client 440] Tile hash: 1640695392
+2023/04/14 13:07:42 16016375 f22b6986 [INFO Client 440] Doodad hash: 1669859216
+2023/04/14 13:07:43 16017031 11870f49 [DEBUG Client 440] Joined guild named Голосовой чат discord.com/invite/nXFKHzJ with 193 members 
+2023/04/14 13:07:43 16017656 cffb071e [INFO Client 440] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Разрушенная площадь.
+2023/04/14 13:07:44 16018343 32759a9f [INFO Client 440] [SHADER] Delay: ON
+2023/04/14 13:08:14 16047812 3796f5e1 [WARN Client 440] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/14 13:08:16 16049859 3796f5e1 [WARN Client 440] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/14 13:08:17 16051265 3796f5e1 [WARN Client 440] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/14 13:08:31 16065093 3796f5e1 [WARN Client 440] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/14 13:08:33 16067171 3796f5e1 [WARN Client 440] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/14 13:08:45 16079421 3796f5e1 [WARN Client 440] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/14 13:08:46 16080375 3796f5e1 [WARN Client 440] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/14 13:09:15 16109093 88a904cb [DEBUG Client 440] Got Instance Details from login server
+2023/04/14 13:09:15 16109093 32759a9f [INFO Client 440] [SHADER] Delay: OFF
+2023/04/14 13:09:15 16109093 ca3a6a71 [INFO Client 440] Connecting to instance server at 169.51.201.140:6112
+2023/04/14 13:09:15 16109140 ca3a4dbb [DEBUG Client 440] Connect time to instance server was 32ms
+2023/04/14 13:09:15 16109187 1186a0e5 [DEBUG Client 440] Generating level 45 area "1_5_8" with seed 296058261
+2023/04/14 13:09:16 16110359 f22b6987 [INFO Client 440] Tile hash: 1118135171
+2023/04/14 13:09:16 16110359 f22b6986 [INFO Client 440] Doodad hash: 2446787846
+2023/04/14 13:09:17 16111328 11870f49 [DEBUG Client 440] Joined guild named Голосовой чат discord.com/invite/nXFKHzJ with 193 members 
+2023/04/14 13:09:18 16111953 cffb071e [INFO Client 440] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Крыша собора.
+2023/04/14 13:09:19 16112718 32759a9f [INFO Client 440] [SHADER] Delay: ON
+2023/04/14 13:09:29 16122734 3796f5e1 [WARN Client 440] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/14 13:09:29 16123218 3796f5e1 [WARN Client 440] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/14 13:09:30 16123765 3796f5e1 [WARN Client 440] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/14 13:09:30 16124281 3796f5e1 [WARN Client 440] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/14 13:09:31 16124796 3796f5e1 [WARN Client 440] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/14 13:09:31 16125437 3796f5e1 [WARN Client 440] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/14 13:09:32 16125984 3796f5e1 [WARN Client 440] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/14 13:09:50 16144046 cffb071e [INFO Client 440] Странный голос: Пожары и сумасшествие. Как же я рад, что не упустил веселье.
+2023/04/14 13:09:56 16150250 3796f5e1 [WARN Client 440] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/14 13:09:57 16150859 3796f5e1 [WARN Client 440] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/14 13:10:01 16155531 3796f5e1 [WARN Client 440] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/14 13:10:02 16155968 3796f5e1 [WARN Client 440] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/14 13:10:02 16156500 3796f5e1 [WARN Client 440] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/14 13:10:03 16157031 3796f5e1 [WARN Client 440] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/14 13:10:03 16157515 3796f5e1 [WARN Client 440] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/14 13:10:05 16159140 3796f5e1 [WARN Client 440] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/14 13:10:05 16159562 3796f5e1 [WARN Client 440] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/14 13:10:34 16188234 3796f5e1 [WARN Client 440] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/14 13:10:37 16190843 3796f5e1 [WARN Client 440] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/14 13:10:39 16193656 3796f5e1 [WARN Client 440] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/14 13:10:40 16194234 3796f5e1 [WARN Client 440] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/14 13:10:41 16195234 3796f5e1 [WARN Client 440] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/14 13:10:42 16196296 3796f5e1 [WARN Client 440] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/14 13:10:43 16197234 3796f5e1 [WARN Client 440] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/14 13:10:44 16197734 3796f5e1 [WARN Client 440] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/14 13:10:45 16199328 3796f5e1 [WARN Client 440] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/14 13:10:47 16201531 3796f5e1 [WARN Client 440] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/14 13:10:48 16202046 3796f5e1 [WARN Client 440] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/14 13:10:50 16203718 3796f5e1 [WARN Client 440] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/14 13:10:56 16209859 3796f5e1 [WARN Client 440] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/14 13:11:09 16223187 3796f5e1 [WARN Client 440] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/14 13:11:09 16223703 3796f5e1 [WARN Client 440] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/14 13:11:10 16224343 3796f5e1 [WARN Client 440] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/14 13:11:11 16224875 3796f5e1 [WARN Client 440] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/14 13:11:11 16225593 3796f5e1 [WARN Client 440] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/14 13:11:12 16226625 3796f5e1 [WARN Client 440] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/14 13:11:16 16230546 3796f5e1 [WARN Client 440] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/14 13:12:12 16286281 3796f5e1 [WARN Client 440] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/14 13:12:13 16286812 3796f5e1 [WARN Client 440] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/14 13:12:14 16287796 3796f5e1 [WARN Client 440] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/14 13:12:14 16288296 3796f5e1 [WARN Client 440] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/14 13:12:15 16288765 3796f5e1 [WARN Client 440] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/14 13:12:15 16289250 3796f5e1 [WARN Client 440] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/14 13:12:20 16293968 3796f5e1 [WARN Client 440] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/14 13:12:20 16294500 3796f5e1 [WARN Client 440] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/14 13:12:40 16314296 3796f5e1 [WARN Client 440] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/14 13:12:41 16314968 3796f5e1 [WARN Client 440] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/14 13:12:42 16315953 3796f5e1 [WARN Client 440] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/14 13:12:43 16316734 3796f5e1 [WARN Client 440] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/14 13:12:43 16317531 3796f5e1 [WARN Client 440] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/14 13:12:44 16318062 3796f5e1 [WARN Client 440] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/14 13:12:44 16318515 3796f5e1 [WARN Client 440] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/14 13:12:45 16319015 3796f5e1 [WARN Client 440] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/14 13:12:45 16319515 3796f5e1 [WARN Client 440] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/14 13:12:46 16320468 3796f5e1 [WARN Client 440] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/14 13:12:51 16325140 3796f5e1 [WARN Client 440] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/14 13:12:52 16325781 3796f5e1 [WARN Client 440] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/14 13:12:54 16327968 3796f5e1 [WARN Client 440] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/14 13:12:58 16331843 3796f5e1 [WARN Client 440] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/14 13:12:59 16332812 3796f5e1 [WARN Client 440] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/14 13:13:04 16338203 3796f5e1 [WARN Client 440] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/14 13:13:20 16354093 cffb071e [INFO Client 440] : DeeGyreIIIXXI (Снайпер) достигает 50 уровня
+2023/04/14 13:13:29 16363453 fb7abcab [INFO Client 440] Successfully allocated passive skill id: super_dexterity2435, name: Ловкость
+2023/04/14 13:15:01 16455281 3796f5e1 [WARN Client 440] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/14 13:15:02 16456500 3796f5e1 [WARN Client 440] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/14 13:15:18 16472109 118717eb [DEBUG Client 440] Resyncing 4790
+2023/04/14 13:15:23 16476984 88a904cb [DEBUG Client 440] Got Instance Details from login server
+2023/04/14 13:15:23 16476984 32759a9f [INFO Client 440] [SHADER] Delay: OFF
+2023/04/14 13:15:23 16476984 ca3a6a71 [INFO Client 440] Connecting to instance server at 159.122.142.252:6112
+2023/04/14 13:15:23 16477046 ca3a4dbb [DEBUG Client 440] Connect time to instance server was 47ms
+2023/04/14 13:15:23 16477109 1186a0e5 [DEBUG Client 440] Generating level 45 area "1_5_town" with seed 1
+2023/04/14 13:15:24 16477890 f22b6987 [INFO Client 440] Tile hash: 4281737639
+2023/04/14 13:15:24 16477890 f22b6986 [INFO Client 440] Doodad hash: 2360762812
+2023/04/14 13:15:24 16478062 11870f49 [DEBUG Client 440] Joined guild named Голосовой чат discord.com/invite/nXFKHzJ with 193 members 
+2023/04/14 13:15:25 16478937 cffb071e [INFO Client 440] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Башня надзирателя.
+2023/04/14 13:15:25 16479546 32759a9f [INFO Client 440] [SHADER] Delay: ON
+2023/04/14 13:15:44 16498718 cffb071e [INFO Client 440] : Сделка совершена.
+2023/04/14 13:16:08 16521843 cffb071e [INFO Client 440] : Сделка совершена.
+2023/04/14 13:16:13 16527109 88a904cb [DEBUG Client 440] Got Instance Details from login server
+2023/04/14 13:16:13 16527125 32759a9f [INFO Client 440] [SHADER] Delay: OFF
+2023/04/14 13:16:13 16527125 ca3a6a71 [INFO Client 440] Connecting to instance server at 169.51.201.140:6112
+2023/04/14 13:16:13 16527171 ca3a4dbb [DEBUG Client 440] Connect time to instance server was 31ms
+2023/04/14 13:16:13 16527218 1186a0e5 [DEBUG Client 440] Generating level 45 area "1_5_8" with seed 296058261
+2023/04/14 13:16:13 16527343 f22b6987 [INFO Client 440] Tile hash: 1118135171
+2023/04/14 13:16:13 16527343 f22b6986 [INFO Client 440] Doodad hash: 2446787846
+2023/04/14 13:16:14 16528234 11870f49 [DEBUG Client 440] Joined guild named Голосовой чат discord.com/invite/nXFKHzJ with 193 members 
+2023/04/14 13:16:15 16528781 cffb071e [INFO Client 440] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Крыша собора.
+2023/04/14 13:16:15 16529468 32759a9f [INFO Client 440] [SHADER] Delay: ON
+2023/04/14 13:17:08 16581765 cffb071e [INFO Client 440] : DeeGyreIIIXXI был повержен.
+2023/04/14 13:17:41 16615046 cffb071e [INFO Client 440] : Под жестоким влиянием Китавы вы навсегда ослабли. Все ваши сопротивления уменьшены на 30%.
+2023/04/14 13:17:41 16615671 cffb071e [INFO Client 440] Грех: Огонь надежды может едва тлеть, но погасить его нельзя!
+2023/04/14 13:17:42 16615921 bce2d691 [INFO Client 440] Steam stats stored
+2023/04/14 13:19:16 16710578 cffb071e [INFO Client 440] #Mr_Steel_Enjoyer: ty
+2023/04/14 13:23:19 16953187 88a904cb [DEBUG Client 440] Got Instance Details from login server
+2023/04/14 13:23:19 16953203 32759a9f [INFO Client 440] [SHADER] Delay: OFF
+2023/04/14 13:23:19 16953203 ca3a6a71 [INFO Client 440] Connecting to instance server at 159.122.142.232:6112
+2023/04/14 13:23:19 16953234 ca3a4dbb [DEBUG Client 440] Connect time to instance server was 31ms
+2023/04/14 13:23:19 16953296 1186a0e5 [DEBUG Client 440] Generating level 50 area "2_6_town" with seed 1
+2023/04/14 13:23:19 16953656 f22b6987 [INFO Client 440] Tile hash: 1591518971
+2023/04/14 13:23:19 16953656 f22b6986 [INFO Client 440] Doodad hash: 3893897391
+2023/04/14 13:23:20 16954140 11870f49 [DEBUG Client 440] Joined guild named Голосовой чат discord.com/invite/nXFKHzJ with 193 members 
+2023/04/14 13:23:21 16954765 cffb071e [INFO Client 440] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Застава Львиного глаза.
+2023/04/14 13:23:21 16955328 32759a9f [INFO Client 440] [SHADER] Delay: ON
+2023/04/14 13:23:51 16984906 88a904cb [DEBUG Client 440] Got Instance Details from login server
+2023/04/14 13:23:51 16984906 32759a9f [INFO Client 440] [SHADER] Delay: OFF
+2023/04/14 13:23:51 16984906 ca3a6a71 [INFO Client 440] Connecting to instance server at 169.51.201.176:6112
+2023/04/14 13:23:51 16984953 ca3a4dbb [DEBUG Client 440] Connect time to instance server was 31ms
+2023/04/14 13:23:51 16985000 1186a0e5 [DEBUG Client 440] Generating level 45 area "2_6_1" with seed 887487107
+2023/04/14 13:23:51 16985296 f22b6987 [INFO Client 440] Tile hash: 4086413496
+2023/04/14 13:23:51 16985296 f22b6986 [INFO Client 440] Doodad hash: 1532227456
+2023/04/14 13:23:52 16986046 11870f49 [DEBUG Client 440] Joined guild named Голосовой чат discord.com/invite/nXFKHzJ with 193 members 
+2023/04/14 13:23:52 16986640 cffb071e [INFO Client 440] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Сумрачное взморье.
+2023/04/14 13:23:53 16987265 32759a9f [INFO Client 440] [SHADER] Delay: ON
+2023/04/14 13:24:55 17049625 3796f5e1 [WARN Client 440] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/14 13:26:35 17149250 88a904cb [DEBUG Client 440] Got Instance Details from login server
+2023/04/14 13:26:35 17149250 32759a9f [INFO Client 440] [SHADER] Delay: OFF
+2023/04/14 13:26:35 17149250 ca3a6a71 [INFO Client 440] Connecting to instance server at 159.122.142.252:6112
+2023/04/14 13:26:35 17149312 ca3a4dbb [DEBUG Client 440] Connect time to instance server was 31ms
+2023/04/14 13:26:35 17149421 1186a0e5 [DEBUG Client 440] Generating level 50 area "2_6_town" with seed 1
+2023/04/14 13:26:36 17150390 f22b6987 [INFO Client 440] Tile hash: 1591518971
+2023/04/14 13:26:36 17150390 f22b6986 [INFO Client 440] Doodad hash: 3893897391
+2023/04/14 13:26:36 17150562 11870f49 [DEBUG Client 440] Joined guild named Голосовой чат discord.com/invite/nXFKHzJ with 193 members 
+2023/04/14 13:26:37 17151546 cffb071e [INFO Client 440] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Застава Львиного глаза.
+2023/04/14 13:26:38 17152171 32759a9f [INFO Client 440] [SHADER] Delay: ON
+2023/04/14 13:27:04 17178265 cffb071e [INFO Client 440] : Сделка совершена.
+2023/04/14 13:27:41 17215234 88a904cb [DEBUG Client 440] Got Instance Details from login server
+2023/04/14 13:27:41 17215234 32759a9f [INFO Client 440] [SHADER] Delay: OFF
+2023/04/14 13:27:41 17215234 ca3a6a71 [INFO Client 440] Connecting to instance server at 159.122.142.247:6112
+2023/04/14 13:27:41 17215281 ca3a4dbb [DEBUG Client 440] Connect time to instance server was 47ms
+2023/04/14 13:27:41 17215343 1186a0e5 [DEBUG Client 440] Generating level 45 area "2_6_1" with seed 2897644557
+2023/04/14 13:27:41 17215421 f22b6987 [INFO Client 440] Tile hash: 1646543306
+2023/04/14 13:27:41 17215421 f22b6986 [INFO Client 440] Doodad hash: 3995032048
+2023/04/14 13:27:42 17216296 11870f49 [DEBUG Client 440] Joined guild named Голосовой чат discord.com/invite/nXFKHzJ with 193 members 
+2023/04/14 13:27:43 17216859 cffb071e [INFO Client 440] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Сумрачное взморье.
+2023/04/14 13:27:43 17217343 32759a9f [INFO Client 440] [SHADER] Delay: ON
+2023/04/14 13:28:47 17281687 cffb071e [INFO Client 440] : Осталось монстров: 5.
+2023/04/14 13:28:48 17281828 cffb071e [INFO Client 440] : Осталось монстров: 3.
+2023/04/14 13:28:48 17281968 cffb071e [INFO Client 440] : Осталось монстров: 2.
+2023/04/14 13:28:51 17285000 cffb071e [INFO Client 440] : Остался 1 монстр
+2023/04/14 13:29:28 17322296 88a904cb [DEBUG Client 440] Got Instance Details from login server
+2023/04/14 13:29:28 17322296 32759a9f [INFO Client 440] [SHADER] Delay: OFF
+2023/04/14 13:29:28 17322296 ca3a6a71 [INFO Client 440] Connecting to instance server at 159.122.142.232:6112
+2023/04/14 13:29:28 17322343 ca3a4dbb [DEBUG Client 440] Connect time to instance server was 47ms
+2023/04/14 13:29:28 17322390 1186a0e5 [DEBUG Client 440] Generating level 50 area "2_6_town" with seed 1
+2023/04/14 13:29:28 17322406 f22b6987 [INFO Client 440] Tile hash: 1591518971
+2023/04/14 13:29:28 17322406 f22b6986 [INFO Client 440] Doodad hash: 3893897391
+2023/04/14 13:29:29 17323203 11870f49 [DEBUG Client 440] Joined guild named Голосовой чат discord.com/invite/nXFKHzJ with 193 members 
+2023/04/14 13:29:30 17323890 cffb071e [INFO Client 440] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Застава Львиного глаза.
+2023/04/14 13:29:30 17324375 32759a9f [INFO Client 440] [SHADER] Delay: ON
+2023/04/14 13:29:34 17328156 88a904cb [DEBUG Client 440] Got Instance Details from login server
+2023/04/14 13:29:34 17328156 32759a9f [INFO Client 440] [SHADER] Delay: OFF
+2023/04/14 13:29:34 17328156 ca3a6a71 [INFO Client 440] Connecting to instance server at 169.51.201.173:6112
+2023/04/14 13:29:34 17328218 ca3a4dbb [DEBUG Client 440] Connect time to instance server was 31ms
+2023/04/14 13:29:34 17328281 1186a0e5 [DEBUG Client 440] Generating level 45 area "2_6_1" with seed 4236304886
+2023/04/14 13:29:34 17328406 f22b6987 [INFO Client 440] Tile hash: 1249750235
+2023/04/14 13:29:34 17328406 f22b6986 [INFO Client 440] Doodad hash: 2665509007
+2023/04/14 13:29:35 17329343 11870f49 [DEBUG Client 440] Joined guild named Голосовой чат discord.com/invite/nXFKHzJ with 193 members 
+2023/04/14 13:29:36 17329890 cffb071e [INFO Client 440] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Сумрачное взморье.
+2023/04/14 13:29:36 17330296 32759a9f [INFO Client 440] [SHADER] Delay: ON
+2023/04/14 13:29:52 17346218 3796f5e1 [WARN Client 440] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/14 13:29:58 17352015 cffb071e [INFO Client 440] Нико, Мастер глубин: Тоже хорошая находка.
+2023/04/14 13:30:43 17396859 cffb071e [INFO Client 440] Нико, Мастер глубин: Ничего, сойдёт.
+2023/04/14 13:31:08 17422218 cffb071e [INFO Client 440] : Осталось монстров: 5.
+2023/04/14 13:31:13 17427656 cffb071e [INFO Client 440] Нико, Мастер глубин: Ух. Ну и запашок.
+2023/04/14 13:31:25 17439281 cffb071e [INFO Client 440] : Осталось монстров: 4.
+2023/04/14 13:31:25 17439468 cffb071e [INFO Client 440] : Осталось монстров: 2.
+2023/04/14 13:31:26 17439968 cffb071e [INFO Client 440] : Остался 1 монстр
+2023/04/14 13:31:27 17440890 3796f5e1 [WARN Client 440] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/14 13:31:30 17444296 cffb071e [INFO Client 440] : Осталось монстров: 0.
+2023/04/14 13:31:33 17447234 890d9d5f [INFO Client 440] Async connecting to mil01.login.pathofexile.com:20481
+2023/04/14 13:31:33 17447250 890d9cd8 [INFO Client 440] Connected to mil01.login.pathofexile.com in 0ms.
+2023/04/14 13:31:37 17450968 88a904cb [DEBUG Client 440] Got Instance Details from login server
+2023/04/14 13:31:37 17450968 32759a9f [INFO Client 440] [SHADER] Delay: OFF
+2023/04/14 13:31:37 17450968 ca3a6a71 [INFO Client 440] Connecting to instance server at 159.122.142.252:6112
+2023/04/14 13:31:37 17451015 ca3a4dbb [DEBUG Client 440] Connect time to instance server was 47ms
+2023/04/14 13:31:37 17451078 1186a0e5 [DEBUG Client 440] Generating level 50 area "2_6_town" with seed 1
+2023/04/14 13:31:38 17452000 f22b6987 [INFO Client 440] Tile hash: 1591518971
+2023/04/14 13:31:38 17452000 f22b6986 [INFO Client 440] Doodad hash: 3893897391
+2023/04/14 13:31:40 17453781 11870f49 [DEBUG Client 440] Joined guild named Голосовой чат discord.com/invite/nXFKHzJ with 193 members 
+2023/04/14 13:31:41 17454765 cffb071e [INFO Client 440] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Застава Львиного глаза.
+2023/04/14 13:31:41 17455140 cffb071e [INFO Client 440] : Вы присоединились к Общему каналу чата 9 968.
+2023/04/14 13:31:41 17455546 32759a9f [INFO Client 440] [SHADER] Delay: ON
+2023/04/14 13:31:41 17455562 374e0d22 [INFO Client 440] [Item Filter] Preparing to download online filter 7Mr0AZHP
+2023/04/14 13:31:41 17455562 374e0cc3 [INFO Client 440] [Item Filter] Hash for online filter 7Mr0AZHP is: 55b166a332ae6c51a1c0cef67a526c5a
+2023/04/14 13:31:41 17455703 374e0cc9 [INFO Client 440] [Item Filter] Online item filter 7Mr0AZHP returned status: 200
+2023/04/14 13:31:41 17455703 374e0ce3 [DEBUG Client 440] [Item Filter] Online item filter request resolved to: 209.197.3.101
+2023/04/14 13:31:41 17455703 374e0e8e [DEBUG Client 440] [Item Filter] X-HW: 1681468301.dop205.ve1.t,1681468301.cds225.ve1.shn,1681468301.dop205.ve1.t,1681468301.cds241.ve1.c
+2023/04/14 13:31:41 17455718 374df808 [INFO Client 440] [Item Filter] Successfully saved online filter 7Mr0AZHP. Hash is now: 55b166a332ae6c51a1c0cef67a526c5a
+2023/04/14 13:31:42 17455734 7884752a [INFO Client 440] [Item Filter] Finished reloading online filter 7Mr0AZHP. Result: true. Hash: 55b166a332ae6c51a1c0cef67a526c5a. Type: Normal. Message: 
+2023/04/14 13:31:58 17472453 cffb071e [INFO Client 440] : Вы получили очков сброса пассивных умений: 2.
+2023/04/14 13:32:03 17477296 cffb071e [INFO Client 440] : Не удалось применить предмет: Цель осквернена.
+2023/04/14 13:32:03 17477703 cffb071e [INFO Client 440] : Не удалось применить предмет: Цель осквернена.
+2023/04/14 13:32:05 17479109 cffb071e [INFO Client 440] : Не удалось применить предмет: Цель уже опознана.
+2023/04/14 13:32:06 17479968 cffb071e [INFO Client 440] : Не удалось применить предмет: Цель осквернена.
+2023/04/14 13:32:06 17480437 cffb071e [INFO Client 440] : Не удалось применить предмет: Цель осквернена.
+2023/04/14 13:32:22 17496406 cffb071e [INFO Client 440] : Сделка совершена.
+2023/04/14 13:34:56 17650000 88a904cb [DEBUG Client 440] Got Instance Details from login server
+2023/04/14 13:34:56 17650015 32759a9f [INFO Client 440] [SHADER] Delay: OFF
+2023/04/14 13:34:56 17650015 ca3a6a71 [INFO Client 440] Connecting to instance server at 169.51.201.139:6112
+2023/04/14 13:34:56 17650078 ca3a4dbb [DEBUG Client 440] Connect time to instance server was 31ms
+2023/04/14 13:34:56 17650125 1186a0e5 [DEBUG Client 440] Generating level 20 area "HideoutCoral" with seed 1
+2023/04/14 13:34:56 17650359 f22b6987 [INFO Client 440] Tile hash: 805187908
+2023/04/14 13:34:56 17650359 f22b6986 [INFO Client 440] Doodad hash: 0
+2023/04/14 13:34:57 17651125 11870f49 [DEBUG Client 440] Joined guild named Голосовой чат discord.com/invite/nXFKHzJ with 193 members 
+2023/04/14 13:34:58 17652000 cffb071e [INFO Client 440] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Коралловое убежище.
+2023/04/14 13:34:58 17652671 32759a9f [INFO Client 440] [SHADER] Delay: ON
+2023/04/14 13:35:38 17692296 cffb071e [INFO Client 440] : Сделка совершена.
+2023/04/14 13:36:58 17771890 cffb071e [INFO Client 440] : Сделка совершена.
+2023/04/14 13:37:59 17833703 88a904cb [DEBUG Client 440] Got Instance Details from login server
+2023/04/14 13:37:59 17833703 32759a9f [INFO Client 440] [SHADER] Delay: OFF
+2023/04/14 13:37:59 17833703 ca3a6a71 [INFO Client 440] Connecting to instance server at 159.122.142.252:6112
+2023/04/14 13:38:00 17833765 ca3a4dbb [DEBUG Client 440] Connect time to instance server was 47ms
+2023/04/14 13:38:00 17833843 1186a0e5 [DEBUG Client 440] Generating level 50 area "2_6_town" with seed 1
+2023/04/14 13:38:00 17833843 f22b6987 [INFO Client 440] Tile hash: 1591518971
+2023/04/14 13:38:00 17833843 f22b6986 [INFO Client 440] Doodad hash: 3893897391
+2023/04/14 13:38:00 17834421 11870f49 [DEBUG Client 440] Joined guild named Голосовой чат discord.com/invite/nXFKHzJ with 193 members 
+2023/04/14 13:38:01 17835250 cffb071e [INFO Client 440] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Застава Львиного глаза.
+2023/04/14 13:38:02 17835843 32759a9f [INFO Client 440] [SHADER] Delay: ON
+2023/04/14 13:38:27 17860859 cffb071e [INFO Client 440] Hazmat_Skilsaw: Племенной гравёр, Пневматический кинжал
+2023/04/14 13:41:47 18061031 88a904cb [DEBUG Client 440] Got Instance Details from login server
+2023/04/14 13:41:47 18061046 32759a9f [INFO Client 440] [SHADER] Delay: OFF
+2023/04/14 13:41:47 18061046 ca3a6a71 [INFO Client 440] Connecting to instance server at 169.51.201.146:6112
+2023/04/14 13:41:47 18061093 ca3a4dbb [DEBUG Client 440] Connect time to instance server was 32ms
+2023/04/14 13:41:47 18061140 1186a0e5 [DEBUG Client 440] Generating level 45 area "2_6_2" with seed 201491135
+2023/04/14 13:41:48 18062296 f22b6987 [INFO Client 440] Tile hash: 2264636767
+2023/04/14 13:41:48 18062296 f22b6986 [INFO Client 440] Doodad hash: 1803295720
+2023/04/14 13:41:49 18062750 11870f49 [DEBUG Client 440] Joined guild named Голосовой чат discord.com/invite/nXFKHzJ with 193 members 
+2023/04/14 13:41:49 18063359 cffb071e [INFO Client 440] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Побережье.
+2023/04/14 13:41:50 18063921 32759a9f [INFO Client 440] [SHADER] Delay: ON
+2023/04/14 13:41:59 18073203 cffb071e [INFO Client 440] Странный голос: Смерть продолжает топтать пески. Но кто теперь здесь живёт?
+2023/04/14 13:42:09 18083265 3796f5e1 [WARN Client 440] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/14 13:42:17 18091140 3796f5e1 [WARN Client 440] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/14 13:42:18 18092359 3796f5e1 [WARN Client 440] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/14 13:42:19 18093031 3796f5e1 [WARN Client 440] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/14 13:42:20 18094171 3796f5e1 [WARN Client 440] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/14 13:42:21 18095328 3796f5e1 [WARN Client 440] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/14 13:42:22 18096265 3796f5e1 [WARN Client 440] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/14 13:42:23 18096796 3796f5e1 [WARN Client 440] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/14 13:42:32 18106046 3796f5e1 [WARN Client 440] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/14 13:42:33 18106750 3796f5e1 [WARN Client 440] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/14 13:42:34 18108078 3796f5e1 [WARN Client 440] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/14 13:42:34 18108640 3796f5e1 [WARN Client 440] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/14 13:42:36 18110421 3796f5e1 [WARN Client 440] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/14 13:42:44 18118390 3796f5e1 [WARN Client 440] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/14 13:42:45 18119406 3796f5e1 [WARN Client 440] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/14 13:42:56 18129921 3796f5e1 [WARN Client 440] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/14 13:42:56 18130359 3796f5e1 [WARN Client 440] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/14 13:42:57 18131406 3796f5e1 [WARN Client 440] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/14 13:43:14 18148562 3796f5e1 [WARN Client 440] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/14 13:43:16 18149953 3796f5e1 [WARN Client 440] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/14 13:43:16 18150468 3796f5e1 [WARN Client 440] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/14 13:43:29 18163187 3796f5e1 [WARN Client 440] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/14 13:43:31 18165468 3796f5e1 [WARN Client 440] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/14 13:43:54 18188234 3796f5e1 [WARN Client 440] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/14 13:43:57 18190875 3796f5e1 [WARN Client 440] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/14 13:43:58 18192562 3796f5e1 [WARN Client 440] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/14 13:44:03 18197515 3796f5e1 [WARN Client 440] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/14 13:44:05 18199328 3796f5e1 [WARN Client 440] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/14 13:44:06 18199953 3796f5e1 [WARN Client 440] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/14 13:44:36 18229937 88a904cb [DEBUG Client 440] Got Instance Details from login server
+2023/04/14 13:44:36 18229937 32759a9f [INFO Client 440] [SHADER] Delay: OFF
+2023/04/14 13:44:36 18229937 ca3a6a71 [INFO Client 440] Connecting to instance server at 169.51.201.190:6112
+2023/04/14 13:44:36 18230000 ca3a4dbb [DEBUG Client 440] Connect time to instance server was 47ms
+2023/04/14 13:44:36 18230062 1186a0e5 [DEBUG Client 440] Generating level 45 area "2_6_3" with seed 4224241983
+2023/04/14 13:44:36 18230281 f22b6987 [INFO Client 440] Tile hash: 1386254563
+2023/04/14 13:44:36 18230281 f22b6986 [INFO Client 440] Doodad hash: 1417612019
+2023/04/14 13:44:37 18231078 11870f49 [DEBUG Client 440] Joined guild named Голосовой чат discord.com/invite/nXFKHzJ with 193 members 
+2023/04/14 13:44:38 18231750 cffb071e [INFO Client 440] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Прибрежный остров.
+2023/04/14 13:44:38 18232328 32759a9f [INFO Client 440] [SHADER] Delay: ON
+2023/04/14 13:44:48 18242187 cffb071e [INFO Client 440] Странный голос: Против воли рассекаешь волны? Видно, без этого нельзя.
+2023/04/14 13:44:50 18243921 118717eb [DEBUG Client 440] Resyncing 273
+2023/04/14 13:44:50 18243921 118717eb [DEBUG Client 440] Resyncing 272
+2023/04/14 13:44:58 18251765 3796f5e1 [WARN Client 440] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/14 13:45:05 18259078 3796f5e1 [WARN Client 440] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/14 13:45:06 18260671 3796f5e1 [WARN Client 440] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/14 13:45:10 18264296 3796f5e1 [WARN Client 440] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/14 13:45:11 18265375 3796f5e1 [WARN Client 440] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/14 13:45:12 18265921 3796f5e1 [WARN Client 440] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/14 13:45:16 18270296 3796f5e1 [WARN Client 440] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/14 13:45:17 18271484 3796f5e1 [WARN Client 440] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/14 13:45:18 18272046 3796f5e1 [WARN Client 440] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/14 13:45:22 18275906 3796f5e1 [WARN Client 440] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/14 13:45:26 18280171 3796f5e1 [WARN Client 440] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/14 13:45:27 18280890 3796f5e1 [WARN Client 440] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/14 13:45:27 18281453 3796f5e1 [WARN Client 440] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/14 13:45:28 18282515 3796f5e1 [WARN Client 440] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/14 13:45:30 18284000 cffb071e [INFO Client 440] : DeeGyreIIIXXI (Снайпер) достигает 51 уровня
+2023/04/14 13:45:35 18289593 3796f5e1 [WARN Client 440] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/14 13:45:36 18290109 3796f5e1 [WARN Client 440] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/14 13:45:48 18302171 3796f5e1 [WARN Client 440] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/14 13:45:48 18302687 3796f5e1 [WARN Client 440] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/14 13:45:51 18305359 3796f5e1 [WARN Client 440] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/14 13:45:53 18307109 3796f5e1 [WARN Client 440] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/14 13:46:03 18317515 3796f5e1 [WARN Client 440] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/14 13:46:04 18318015 3796f5e1 [WARN Client 440] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/14 13:46:17 18331453 3796f5e1 [WARN Client 440] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/14 13:46:20 18334484 3796f5e1 [WARN Client 440] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/14 13:46:21 18335046 3796f5e1 [WARN Client 440] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/14 13:46:21 18335500 3796f5e1 [WARN Client 440] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/14 13:46:26 18340562 3796f5e1 [WARN Client 440] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/14 13:46:27 18341640 3796f5e1 [WARN Client 440] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/14 13:46:29 18343359 3796f5e1 [WARN Client 440] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/14 13:46:31 18345406 890d9d5f [INFO Client 440] Async connecting to mil01.login.pathofexile.com:20481
+2023/04/14 13:46:31 18345421 890d9cd8 [INFO Client 440] Connected to mil01.login.pathofexile.com in 0ms.
+2023/04/14 13:46:35 18349296 88a904cb [DEBUG Client 440] Got Instance Details from login server
+2023/04/14 13:46:35 18349296 32759a9f [INFO Client 440] [SHADER] Delay: OFF
+2023/04/14 13:46:35 18349296 ca3a6a71 [INFO Client 440] Connecting to instance server at 159.122.142.252:6112
+2023/04/14 13:46:35 18349343 ca3a4dbb [DEBUG Client 440] Connect time to instance server was 47ms
+2023/04/14 13:46:35 18349406 1186a0e5 [DEBUG Client 440] Generating level 50 area "2_6_town" with seed 1
+2023/04/14 13:46:37 18351453 f22b6987 [INFO Client 440] Tile hash: 1591518971
+2023/04/14 13:46:37 18351453 f22b6986 [INFO Client 440] Doodad hash: 3893897391
+2023/04/14 13:46:38 18352343 11870f49 [DEBUG Client 440] Joined guild named Голосовой чат discord.com/invite/nXFKHzJ with 193 members 
+2023/04/14 13:46:39 18353484 cffb071e [INFO Client 440] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Застава Львиного глаза.
+2023/04/14 13:46:39 18353484 cffb071e [INFO Client 440] #Fred_Skorostrel: так там барыга на барыге
+2023/04/14 13:46:40 18353812 cffb071e [INFO Client 440] : Вы присоединились к Общему каналу чата 9 968.
+2023/04/14 13:46:40 18354328 32759a9f [INFO Client 440] [SHADER] Delay: ON
+2023/04/14 13:46:40 18354343 374e0d22 [INFO Client 440] [Item Filter] Preparing to download online filter 7Mr0AZHP
+2023/04/14 13:46:40 18354343 374e0cc3 [INFO Client 440] [Item Filter] Hash for online filter 7Mr0AZHP is: 55b166a332ae6c51a1c0cef67a526c5a
+2023/04/14 13:46:40 18354640 374e0cc9 [INFO Client 440] [Item Filter] Online item filter 7Mr0AZHP returned status: 200
+2023/04/14 13:46:40 18354640 374e0ce3 [DEBUG Client 440] [Item Filter] Online item filter request resolved to: 209.197.3.101
+2023/04/14 13:46:40 18354640 374e0e8e [DEBUG Client 440] [Item Filter] X-HW: 1681469199.dop217.ve1.t,1681469200.cds211.ve1.shn,1681469200.dop217.ve1.t,1681469200.cds241.ve1.c
+2023/04/14 13:46:40 18354656 374df808 [INFO Client 440] [Item Filter] Successfully saved online filter 7Mr0AZHP. Hash is now: 55b166a332ae6c51a1c0cef67a526c5a
+2023/04/14 13:46:40 18354656 7884752a [INFO Client 440] [Item Filter] Finished reloading online filter 7Mr0AZHP. Result: true. Hash: 55b166a332ae6c51a1c0cef67a526c5a. Type: Normal. Message: 
+2023/04/14 13:49:15 18509593 cffb071e [INFO Client 440] : Не удалось применить предмет: Цель уже опознана.
+2023/04/14 13:49:16 18510046 cffb071e [INFO Client 440] : Не удалось применить предмет: Цель уже опознана.
+2023/04/14 13:49:16 18510671 cffb071e [INFO Client 440] : Не удалось применить предмет: Цель уже опознана.
+2023/04/14 13:49:17 18511078 cffb071e [INFO Client 440] : Не удалось применить предмет: Цель уже опознана.
+2023/04/14 13:49:26 18520250 cffb071e [INFO Client 440] : Сделка совершена.
+2023/04/14 13:49:31 18525406 fb7abcab [INFO Client 440] Successfully allocated passive skill id: super_dexterity_notable2437, name: Предельная стремительность
+2023/04/14 13:51:18 18631828 fb7abdec [INFO Client 440] Successfully unallocated passive skill id: mastery_trap240, name: Мастерство похищения
+2023/04/14 13:51:18 18632250 fb7abdec [INFO Client 440] Successfully unallocated passive skill id: channelling_notable2282, name: Тяга к крови
+2023/04/14 13:51:19 18632781 fb7abdec [INFO Client 440] Successfully unallocated passive skill id: shield_damage2559, name: Похищение здоровья
+2023/04/14 13:51:19 18633296 fb7abdec [INFO Client 440] Successfully unallocated passive skill id: shield_damage2560, name: Похищение здоровья
+2023/04/14 13:51:38 18652078 fb7ab844 [INFO Client 440] Successfully allocated mastery effect id: 34242, mastery: mastery_life133, name: Мастерство здоровья
+2023/04/14 13:52:10 18683859 fb7ab844 [INFO Client 440] Successfully allocated mastery effect id: 52604, mastery: mastery_attributes256, name: Мастерство характеристик
+2023/04/14 13:52:23 18697515 fb7ab844 [INFO Client 440] Successfully allocated mastery effect id: 13757, mastery: mastery_sword228, name: Мастерство подавления чар
+2023/04/14 13:52:28 18702640 fb7abcab [INFO Client 440] Successfully allocated passive skill id: dexterity864, name: Ловкость
+2023/04/14 13:52:55 18729687 88a904cb [DEBUG Client 440] Got Instance Details from login server
+2023/04/14 13:52:55 18729687 32759a9f [INFO Client 440] [SHADER] Delay: OFF
+2023/04/14 13:52:55 18729687 ca3a6a71 [INFO Client 440] Connecting to instance server at 159.122.142.250:6112
+2023/04/14 13:52:56 18729734 ca3a4dbb [DEBUG Client 440] Connect time to instance server was 31ms
+2023/04/14 13:52:56 18729781 1186a0e5 [DEBUG Client 440] Generating level 45 area "2_6_2" with seed 2538575056
+2023/04/14 13:52:56 18730250 f22b6987 [INFO Client 440] Tile hash: 3627169755
+2023/04/14 13:52:56 18730250 f22b6986 [INFO Client 440] Doodad hash: 2535115701
+2023/04/14 13:52:57 18730796 11870f49 [DEBUG Client 440] Joined guild named Голосовой чат discord.com/invite/nXFKHzJ with 193 members 
+2023/04/14 13:52:57 18731375 cffb071e [INFO Client 440] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Побережье.
+2023/04/14 13:52:58 18732031 32759a9f [INFO Client 440] [SHADER] Delay: ON
+2023/04/14 13:53:03 18737515 3796f5e1 [WARN Client 440] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/14 13:53:11 18745046 3796f5e1 [WARN Client 440] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/14 13:53:12 18746593 3796f5e1 [WARN Client 440] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/14 13:53:17 18751109 3796f5e1 [WARN Client 440] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/14 13:53:20 18753843 3796f5e1 [WARN Client 440] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/14 13:53:20 18754609 3796f5e1 [WARN Client 440] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/14 13:53:26 18760312 cffb071e [INFO Client 440] : DeeGyreIIIXXI был повержен.
+2023/04/14 13:53:36 18769781 3796f5e1 [WARN Client 440] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/14 13:53:37 18770890 3796f5e1 [WARN Client 440] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/14 13:53:38 18772562 3796f5e1 [WARN Client 440] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/14 13:53:39 18773281 3796f5e1 [WARN Client 440] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/14 13:53:40 18774156 3796f5e1 [WARN Client 440] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/14 13:53:43 18777125 3796f5e1 [WARN Client 440] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/14 13:53:46 18779750 3796f5e1 [WARN Client 440] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/14 13:53:46 18780687 3796f5e1 [WARN Client 440] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/14 13:53:58 18792062 3796f5e1 [WARN Client 440] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/14 13:53:59 18793375 3796f5e1 [WARN Client 440] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/14 13:54:00 18794187 3796f5e1 [WARN Client 440] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/14 13:54:04 18798437 3796f5e1 [WARN Client 440] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/14 13:54:05 18799453 3796f5e1 [WARN Client 440] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/14 13:54:06 18800484 3796f5e1 [WARN Client 440] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/14 13:54:07 18801515 3796f5e1 [WARN Client 440] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/14 13:54:08 18802109 3796f5e1 [WARN Client 440] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/14 13:54:08 18802640 3796f5e1 [WARN Client 440] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/14 13:54:10 18803765 3796f5e1 [WARN Client 440] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/14 13:54:12 18806312 3796f5e1 [WARN Client 440] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/14 13:54:15 18809078 3796f5e1 [WARN Client 440] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/14 13:54:42 18836671 3796f5e1 [WARN Client 440] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/14 13:54:43 18837609 3796f5e1 [WARN Client 440] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/14 13:54:44 18838140 3796f5e1 [WARN Client 440] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/14 13:54:45 18838859 3796f5e1 [WARN Client 440] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/14 13:54:46 18839859 3796f5e1 [WARN Client 440] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/14 13:54:46 18840406 3796f5e1 [WARN Client 440] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/14 13:54:48 18842531 3796f5e1 [WARN Client 440] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/14 13:54:55 18848765 3796f5e1 [WARN Client 440] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/14 13:54:56 18849984 3796f5e1 [WARN Client 440] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/14 13:55:19 18872796 3796f5e1 [WARN Client 440] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/14 13:56:02 18916593 3796f5e1 [WARN Client 440] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/14 13:56:27 18941296 88a904cb [DEBUG Client 440] Got Instance Details from login server
+2023/04/14 13:56:27 18941296 32759a9f [INFO Client 440] [SHADER] Delay: OFF
+2023/04/14 13:56:27 18941296 ca3a6a71 [INFO Client 440] Connecting to instance server at 159.122.142.248:6112
+2023/04/14 13:56:27 18941359 ca3a4dbb [DEBUG Client 440] Connect time to instance server was 32ms
+2023/04/14 13:56:27 18941406 1186a0e5 [DEBUG Client 440] Generating level 46 area "2_6_4" with seed 2928360570
+2023/04/14 13:56:28 18941750 f22b6987 [INFO Client 440] Tile hash: 3776350236
+2023/04/14 13:56:28 18941750 f22b6986 [INFO Client 440] Doodad hash: 910160837
+2023/04/14 13:56:28 18942421 11870f49 [DEBUG Client 440] Joined guild named Голосовой чат discord.com/invite/nXFKHzJ with 193 members 
+2023/04/14 13:56:29 18943109 cffb071e [INFO Client 440] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Илистые низины.
+2023/04/14 13:56:29 18943671 32759a9f [INFO Client 440] [SHADER] Delay: ON
+2023/04/14 13:56:43 18956953 3796f5e1 [WARN Client 440] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/14 13:56:43 18957515 3796f5e1 [WARN Client 440] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/14 13:56:45 18959078 3796f5e1 [WARN Client 440] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/14 13:56:48 18962140 3796f5e1 [WARN Client 440] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/14 13:56:48 18962671 3796f5e1 [WARN Client 440] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/14 13:56:49 18963640 3796f5e1 [WARN Client 440] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/14 13:56:55 18969500 3796f5e1 [WARN Client 440] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/14 13:56:56 18970000 3796f5e1 [WARN Client 440] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/14 13:56:56 18970453 3796f5e1 [WARN Client 440] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/14 13:57:12 18985734 3796f5e1 [WARN Client 440] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/14 13:57:20 18994625 3796f5e1 [WARN Client 440] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/14 13:57:21 18995265 3796f5e1 [WARN Client 440] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/14 13:57:25 18999500 3796f5e1 [WARN Client 440] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/14 13:57:26 19000062 3796f5e1 [WARN Client 440] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/14 13:57:29 19003328 3796f5e1 [WARN Client 440] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/14 13:57:30 19004484 3796f5e1 [WARN Client 440] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/14 13:57:33 19007125 3796f5e1 [WARN Client 440] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/14 13:57:33 19007687 3796f5e1 [WARN Client 440] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/14 13:57:38 19011906 3796f5e1 [WARN Client 440] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/14 13:57:39 19013390 3796f5e1 [WARN Client 440] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/14 13:57:52 19026562 3796f5e1 [WARN Client 440] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/14 13:57:57 19031203 3796f5e1 [WARN Client 440] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/14 13:58:09 19042906 3796f5e1 [WARN Client 440] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/14 13:58:09 19043453 3796f5e1 [WARN Client 440] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/14 13:58:13 19047296 3796f5e1 [WARN Client 440] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/14 13:58:14 19048375 3796f5e1 [WARN Client 440] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/14 13:58:18 19052046 3796f5e1 [WARN Client 440] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/14 13:58:22 19056562 3796f5e1 [WARN Client 440] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/14 13:58:29 19063187 3796f5e1 [WARN Client 440] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/14 13:58:33 19067375 3796f5e1 [WARN Client 440] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/14 13:58:47 19080843 cffb071e [INFO Client 440] : Пусть сильнее грянет буря
+2023/04/14 13:58:55 19089562 3796f5e1 [WARN Client 440] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/14 13:58:56 19090484 3796f5e1 [WARN Client 440] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/14 13:58:57 19091015 3796f5e1 [WARN Client 440] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/14 13:59:03 19097484 3796f5e1 [WARN Client 440] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/14 13:59:11 19105078 3796f5e1 [WARN Client 440] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/14 13:59:12 19105734 3796f5e1 [WARN Client 440] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/14 13:59:18 19112234 3796f5e1 [WARN Client 440] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/14 13:59:19 19113015 3796f5e1 [WARN Client 440] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/14 13:59:20 19113718 3796f5e1 [WARN Client 440] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/14 13:59:36 19130000 cffb071e [INFO Client 440] Несса: Это он сотворил... Морской Царь. Захотел сделать меня... о боже... своей...Умоляю... Не знаю, как я это делаю и смогу ли сделать ещё. Помоги мне... нам... пока он... не начал…
+2023/04/14 13:59:55 19149687 88a904cb [DEBUG Client 440] Got Instance Details from login server
+2023/04/14 13:59:55 19149687 32759a9f [INFO Client 440] [SHADER] Delay: OFF
+2023/04/14 13:59:55 19149687 ca3a6a71 [INFO Client 440] Connecting to instance server at 159.122.142.239:6112
+2023/04/14 13:59:56 19149734 ca3a4dbb [DEBUG Client 440] Connect time to instance server was 31ms
+2023/04/14 13:59:56 19149781 1186a0e5 [DEBUG Client 440] Generating level 46 area "2_6_5" with seed 4212462026
+2023/04/14 13:59:56 19150156 f22b6987 [INFO Client 440] Tile hash: 3861502599
+2023/04/14 13:59:56 19150156 f22b6986 [INFO Client 440] Doodad hash: 704068920
+2023/04/14 13:59:56 19150609 11870f49 [DEBUG Client 440] Joined guild named Голосовой чат discord.com/invite/nXFKHzJ with 193 members 
+2023/04/14 13:59:57 19151171 cffb071e [INFO Client 440] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Крепость каруи.
+2023/04/14 13:59:57 19151609 32759a9f [INFO Client 440] [SHADER] Delay: ON
+2023/04/14 14:00:27 19181390 3796f5e1 [WARN Client 440] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/14 14:00:28 19182406 3796f5e1 [WARN Client 440] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/14 14:00:33 19187421 3796f5e1 [WARN Client 440] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/14 14:00:34 19187921 3796f5e1 [WARN Client 440] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/14 14:00:34 19188468 3796f5e1 [WARN Client 440] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/14 14:00:43 19197000 cffb071e [INFO Client 440] Тукохама: Позволь научить тебя законам войны.
+2023/04/14 14:01:00 19214609 3796f5e1 [WARN Client 440] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/14 14:01:01 19215156 3796f5e1 [WARN Client 440] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/14 14:01:02 19215734 3796f5e1 [WARN Client 440] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/14 14:01:27 19241390 3796f5e1 [WARN Client 440] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/14 14:01:32 19246500 3796f5e1 [WARN Client 440] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/14 14:01:33 19246984 3796f5e1 [WARN Client 440] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/14 14:01:48 19262093 3796f5e1 [WARN Client 440] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/14 14:02:01 19275015 cffb071e [INFO Client 440] Грех: Тукохама!
+2023/04/14 14:02:08 19282015 cffb071e [INFO Client 440] Грех: Земле больше не нужна твоя кровь.
+2023/04/14 14:02:58 19332437 88a904cb [DEBUG Client 440] Got Instance Details from login server
+2023/04/14 14:02:58 19332437 32759a9f [INFO Client 440] [SHADER] Delay: OFF
+2023/04/14 14:02:58 19332437 ca3a6a71 [INFO Client 440] Connecting to instance server at 169.51.201.179:6112
+2023/04/14 14:02:58 19332500 ca3a4dbb [DEBUG Client 440] Connect time to instance server was 31ms
+2023/04/14 14:02:58 19332546 1186a0e5 [DEBUG Client 440] Generating level 46 area "2_6_6" with seed 4013378835
+2023/04/14 14:02:59 19332937 f22b6987 [INFO Client 440] Tile hash: 3620780267
+2023/04/14 14:02:59 19332937 f22b6986 [INFO Client 440] Doodad hash: 3854152787
+2023/04/14 14:02:59 19333500 11870f49 [DEBUG Client 440] Joined guild named Голосовой чат discord.com/invite/nXFKHzJ with 193 members 
+2023/04/14 14:03:00 19334093 cffb071e [INFO Client 440] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Хребет.
+2023/04/14 14:03:01 19334734 32759a9f [INFO Client 440] [SHADER] Delay: ON
