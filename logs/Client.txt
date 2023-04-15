@@ -2932,3 +2932,680 @@ flags: 257
 2023/04/14 14:02:59 19333500 11870f49 [DEBUG Client 440] Joined guild named Голосовой чат discord.com/invite/nXFKHzJ with 193 members 
 2023/04/14 14:03:00 19334093 cffb071e [INFO Client 440] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Хребет.
 2023/04/14 14:03:01 19334734 32759a9f [INFO Client 440] [SHADER] Delay: ON
+2023/04/15 06:41:15 ***** LOG FILE OPENING *****
+2023/04/15 06:41:15 79229203 f9544283 [INFO Client 7712] [STARTUP] Job Queues
+2023/04/15 06:41:15 79229218 9e6a0b0a [INFO Client 7712] Enumerated adapter: NVIDIA GeForce GTX 1660
+2023/04/15 06:41:15 79229375 9e6a1d2a [INFO Client 7712] Enumerated device for adapter: NVIDIA GeForce GTX 1660. Selected feature level: 45312. Max feature level: 45312
+2023/04/15 06:41:15 79229375 9e6a1363 [INFO Client 7712] Enumerated output for adapter NVIDIA GeForce GTX 1660 of \\.\DISPLAY1
+2023/04/15 06:41:15 79229375 9e6a0b0a [INFO Client 7712] Enumerated adapter: Microsoft Basic Render Driver
+2023/04/15 06:41:15 79229375 9e6a1d2a [INFO Client 7712] Enumerated device for adapter: Microsoft Basic Render Driver. Selected feature level: 45312. Max feature level: 45312
+2023/04/15 06:41:15 79229390 84a7d27d [INFO Client 7712] [ENGINE] Init
+2023/04/15 06:41:15 79229390 55713145 [INFO Client 7712] [JOB] HIGH: 3
+2023/04/15 06:41:15 79229390 55713145 [INFO Client 7712] [JOB] MEDIUM: 3
+2023/04/15 06:41:15 79229390 55713145 [INFO Client 7712] [JOB] LOW: 3
+2023/04/15 06:41:15 79229390 55713145 [INFO Client 7712] [JOB] IDLE: 1
+2023/04/15 06:41:15 79229390 7bb548f [INFO Client 7712] [BUNDLE2] Init
+2023/04/15 06:41:15 79229390 7bb36c4 [INFO Client 7712] [BUNDLE2] Index: Bundles2/_.index.bin
+2023/04/15 06:41:15 79229593 7bb61e6 [INFO Client 7712] [BUNDLE2] File cache size: 1024
+2023/04/15 06:41:15 79229593 b51d61ab [INFO Client 7712] [RENDER] Async: ON
+2023/04/15 06:41:15 79229593 b51d60c8 [INFO Client 7712] [RENDER] Warmup: ON
+2023/04/15 06:41:15 79229593 b51d60ce [INFO Client 7712] [RENDER] Skip: ON
+2023/04/15 06:41:15 79229593 b51d60eb [INFO Client 7712] [RENDER] Throttling: ON
+2023/04/15 06:41:15 79229593 32759a7a [INFO Client 7712] [SHADER] Address: http://www.pathofexile.com/tool/shader-db?a=store
+2023/04/15 06:41:15 79229593 32759a70 [INFO Client 7712] [SHADER] Async: ON
+2023/04/15 06:41:15 79229593 32759a9f [INFO Client 7712] [SHADER] Delay: OFF
+2023/04/15 06:41:15 79229593 32759aba [INFO Client 7712] [SHADER] Limit: ON
+2023/04/15 06:41:15 79229593 32759abc [INFO Client 7712] [SHADER] Warmup: ON
+2023/04/15 06:41:15 79229593 327599d7 [INFO Client 7712] [SHADER] Parallel: OFF
+2023/04/15 06:41:15 79229593 84a7e376 [INFO Client 7712] [ENGINE] Running Engine version 1.8.0
+2023/04/15 06:41:15 79229656 47bbd15a [INFO Client 7712] [SOUND] Buffer size = 64.0 MB
+2023/04/15 06:41:16 79229718 9b0d205 [INFO Client 7712] [VIDEO] Enable: ON
+2023/04/15 06:41:16 79229796 84a7d2d8 [INFO Client 7712] [ENGINE] Ready
+2023/04/15 06:41:16 79230062 951bc0b0 [INFO Client 7712] [STARTUP] Bundle Startup Start
+2023/04/15 06:41:16 79230062 951bc057 [INFO Client 7712] [STARTUP] Bundle Startup in 3.7e-05 seconds
+2023/04/15 06:41:16 79230062 951bc0b0 [INFO Client 7712] [STARTUP] Game Start
+2023/04/15 06:41:16 79230375 ca86fd3f [DEBUG Client 7712] Rebuilding UI::Core properties. Current input mode = '1'
+2023/04/15 06:41:16 79230656 951bc057 [INFO Client 7712] [STARTUP] Game in 0.592705 seconds
+2023/04/15 06:41:16 79230656 951bc0b0 [INFO Client 7712] [STARTUP] Window Start
+2023/04/15 06:41:16 79230656 9e6a0b0a [INFO Client 7712] Enumerated adapter: NVIDIA GeForce GTX 1660
+2023/04/15 06:41:17 79230781 9e6a1d2a [INFO Client 7712] Enumerated device for adapter: NVIDIA GeForce GTX 1660. Selected feature level: 45312. Max feature level: 45312
+2023/04/15 06:41:17 79230781 9e6a1363 [INFO Client 7712] Enumerated output for adapter NVIDIA GeForce GTX 1660 of \\.\DISPLAY1
+2023/04/15 06:41:17 79230781 9e6a0b0a [INFO Client 7712] Enumerated adapter: Microsoft Basic Render Driver
+2023/04/15 06:41:17 79230781 9e6a1d2a [INFO Client 7712] Enumerated device for adapter: Microsoft Basic Render Driver. Selected feature level: 45312. Max feature level: 45312
+2023/04/15 06:41:17 79230796 951bc057 [INFO Client 7712] [STARTUP] Window in 0.134237 seconds
+2023/04/15 06:41:17 79230796 413b61ff [DEBUG Client 7712] [GamepadManager] Initialising
+2023/04/15 06:41:17 79230796 951bc0b0 [INFO Client 7712] [STARTUP] Device Start
+2023/04/15 06:41:17 79230796 b51d6589 [INFO Client 7712] [RENDER] StartDevice: DirectX11
+2023/04/15 06:41:17 79230937 71b2ea0 [DEBUG Client 7712] [SHADER] Load shader cache: ShaderCacheD3D11
+2023/04/15 06:41:17 79231062 fafff8cf [DEBUG Client 7712] CreateSwapChain: SetFullScreenState 0
+2023/04/15 06:41:17 79231062 29d4ce01 [INFO Client 7712] [D3D11] Runtime version = 11.1
+2023/04/15 06:41:17 79231062 29d4ce00 [INFO Client 7712] [D3D11] Feature Level = 11.1
+2023/04/15 06:41:17 79231062 29d4ce03 [INFO Client 7712] [D3D11] Driver Command Lists = YES
+2023/04/15 06:41:17 79231062 29d4ce02 [INFO Client 7712] [D3D11] Driver Concurrent Creates = YES
+2023/04/15 06:41:17 79231062 29d4ce05 [INFO Client 7712] [D3D11] Driver Constant Buffer Offsetting = YES
+2023/04/15 06:41:17 79231187 9d4eeb40 [DEBUG Client 7712] [WINDOW] TrigggerDeviceCreate
+2023/04/15 06:41:17 79231250 9d4eeba7 [DEBUG Client 7712] [WINDOW] TrigggerDeviceReset
+2023/04/15 06:41:17 79231265 9d4eec8a [DEBUG Client 7712] [WINDOW] TrigggerDeviceLost
+2023/04/15 06:41:17 79231265 9d4eeba7 [DEBUG Client 7712] [WINDOW] TrigggerDeviceReset
+2023/04/15 06:41:17 79231265 951bc057 [INFO Client 7712] [STARTUP] Device in 0.472001 seconds
+2023/04/15 06:41:17 79231265 951bc0b0 [INFO Client 7712] [STARTUP] Tencent Start
+2023/04/15 06:41:17 79231265 951bc057 [INFO Client 7712] [STARTUP] Tencent in 1.3e-05 seconds
+2023/04/15 06:41:17 79231265 951bc0b0 [INFO Client 7712] [STARTUP] Loading Start
+2023/04/15 06:41:17 79231296 951bc057 [INFO Client 7712] [STARTUP] Loading in 0.023117 seconds
+2023/04/15 06:41:17 79231296 951bc0b0 [INFO Client 7712] [STARTUP] DebugGUI Start
+2023/04/15 06:41:17 79231296 951bc057 [INFO Client 7712] [STARTUP] DebugGUI in 1.7e-05 seconds
+2023/04/15 06:41:17 79231296 951bc0b0 [INFO Client 7712] [STARTUP] Bundle Tiny Start
+2023/04/15 06:41:17 79231296 951bc0b0 [INFO Client 7712] [STARTUP] Bundle Login Start
+2023/04/15 06:41:17 79231296 951bc057 [INFO Client 7712] [STARTUP] Bundle Login in 2.4e-05 seconds
+2023/04/15 06:41:17 79231296 951bc057 [INFO Client 7712] [STARTUP] Bundle Tiny in 5.5e-05 seconds
+2023/04/15 06:41:17 79231296 951bc0b0 [INFO Client 7712] [STARTUP] Registration Start
+2023/04/15 06:41:17 79231296 951bc0b0 [INFO Client 7712] [STARTUP] Audio Start
+2023/04/15 06:41:17 79231296 47bbee18 [INFO Client 7712] [SOUND] Channel count = 64 (asked for 64)
+2023/04/15 06:41:17 79231296 47bbee19 [INFO Client 7712] [SOUND] Source count = 512
+2023/04/15 06:41:17 79231390 47bbea58 [INFO Client 7712] Changing to device "Line 1 (Virtual Audio Cable)"
+2023/04/15 06:41:17 79231390 951bc057 [INFO Client 7712] [STARTUP] Audio in 0.103384 seconds
+2023/04/15 06:41:17 79231609 951bc057 [INFO Client 7712] [STARTUP] Registration in 0.321063 seconds
+2023/04/15 06:41:18 79232218 5094179d [WARN Client 7712] tool_settings.json was not found. Resetting to default settings.
+2023/04/15 06:41:18 79232578 b51d4f61 [DEBUG Client 7712] [RENDER] SetRendererSettings
+2023/04/15 06:41:18 79232578 b51d6447 [DEBUG Client 7712] [RENDER] ResizeWindow
+2023/04/15 06:41:18 79232578 9d4eec8a [DEBUG Client 7712] [WINDOW] TrigggerDeviceLost
+2023/04/15 06:41:18 79232578 9d4eeba7 [DEBUG Client 7712] [WINDOW] TrigggerDeviceReset
+2023/04/15 06:41:18 79232578 b51d614c [DEBUG Client 7712] [RENDER] RestartSwapChain
+2023/04/15 06:41:18 79232578 9e6a0b0a [INFO Client 7712] Enumerated adapter: NVIDIA GeForce GTX 1660
+2023/04/15 06:41:18 79232640 9e6a1d2a [INFO Client 7712] Enumerated device for adapter: NVIDIA GeForce GTX 1660. Selected feature level: 45312. Max feature level: 45312
+2023/04/15 06:41:18 79232640 9e6a1363 [INFO Client 7712] Enumerated output for adapter NVIDIA GeForce GTX 1660 of \\.\DISPLAY1
+2023/04/15 06:41:18 79232640 9e6a0b0a [INFO Client 7712] Enumerated adapter: Microsoft Basic Render Driver
+2023/04/15 06:41:18 79232640 9e6a1d2a [INFO Client 7712] Enumerated device for adapter: Microsoft Basic Render Driver. Selected feature level: 45312. Max feature level: 45312
+2023/04/15 06:41:18 79232640 fafff8cf [DEBUG Client 7712] CreateSwapChain: SetFullScreenState 0
+2023/04/15 06:41:18 79232640 9d4eec8a [DEBUG Client 7712] [WINDOW] TrigggerDeviceLost
+2023/04/15 06:41:18 79232640 9d4eeba7 [DEBUG Client 7712] [WINDOW] TrigggerDeviceReset
+2023/04/15 06:41:18 79232656 3275a75e [INFO Client 7712] [SHADER] Disable Async: 1 frames
+2023/04/15 06:41:18 79232656 b51d610e [INFO Client 7712] [RENDER] Disable Async: 1 frames
+2023/04/15 06:44:52 79446484 890d9d5f [INFO Client 7712] Async connecting to mil01.login.pathofexile.com:20481
+2023/04/15 06:44:52 79446515 890d9cd8 [INFO Client 7712] Connected to mil01.login.pathofexile.com in 0ms.
+2023/04/15 06:45:57 79510812 88a904cb [DEBUG Client 7712] Got Instance Details from login server
+2023/04/15 06:45:57 79510828 32759a9f [INFO Client 7712] [SHADER] Delay: OFF
+2023/04/15 06:45:57 79510828 ca3a6a71 [INFO Client 7712] Connecting to instance server at 169.51.201.167:6112
+2023/04/15 06:45:57 79510875 ca3a4dbb [DEBUG Client 7712] Connect time to instance server was 47ms
+2023/04/15 06:45:57 79510953 1186a0e5 [DEBUG Client 7712] Generating level 50 area "2_6_town" with seed 1
+2023/04/15 06:45:58 79512281 f22b6987 [INFO Client 7712] Tile hash: 1591518971
+2023/04/15 06:45:58 79512281 f22b6986 [INFO Client 7712] Doodad hash: 3893897391
+2023/04/15 06:46:00 79514140 11870f49 [DEBUG Client 7712] Joined guild named Голосовой чат discord.com/invite/nXFKHzJ with 194 members 
+2023/04/15 06:46:01 79515218 cffb071e [INFO Client 7712] &: ОБЪЯВЛЕНИЕ ГИЛЬДИИ: В гостяк у CARDIFF 
+2023/04/15 06:46:01 79515531 cffb071e [INFO Client 7712] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Застава Львиного глаза.
+2023/04/15 06:46:02 79515953 cffb071e [INFO Client 7712] : Вы присоединились к Общему каналу чата 9 968.
+2023/04/15 06:46:03 79517390 32759a9f [INFO Client 7712] [SHADER] Delay: ON
+2023/04/15 06:46:03 79517468 374e0d22 [INFO Client 7712] [Item Filter] Preparing to download online filter 7Mr0AZHP
+2023/04/15 06:46:03 79517468 374e0cc3 [INFO Client 7712] [Item Filter] Hash for online filter 7Mr0AZHP is: 55b166a332ae6c51a1c0cef67a526c5a
+2023/04/15 06:46:03 79517609 374e0cc9 [INFO Client 7712] [Item Filter] Online item filter 7Mr0AZHP returned status: 200
+2023/04/15 06:46:03 79517609 374e0ce3 [DEBUG Client 7712] [Item Filter] Online item filter request resolved to: 209.197.3.101
+2023/04/15 06:46:03 79517609 374e0e8e [DEBUG Client 7712] [Item Filter] X-HW: 1681530359.dop207.ve1.t,1681530359.cds233.ve1.shn,1681530359.dop207.ve1.t,1681530359.cds241.ve1.c
+2023/04/15 06:46:03 79517625 374df808 [INFO Client 7712] [Item Filter] Successfully saved online filter 7Mr0AZHP. Hash is now: 55b166a332ae6c51a1c0cef67a526c5a
+2023/04/15 06:46:03 79517703 7884752a [INFO Client 7712] [Item Filter] Finished reloading online filter 7Mr0AZHP. Result: true. Hash: 55b166a332ae6c51a1c0cef67a526c5a. Type: Normal. Message: 
+2023/04/15 06:46:03 79517703 2a1490e5 [INFO Client 7712] PrecalcBaseTypeHashMap
+2023/04/15 06:46:04 79517765 2a1490e7 [INFO Client 7712] PrecalcModNameHashMap
+2023/04/15 06:46:05 79518843 2a1490e1 [INFO Client 7712] PrecalcItemClassMap
+2023/04/15 06:46:05 79518843 2a1490e3 [INFO Client 7712] PrecalcSoundEffects
+2023/04/15 06:46:05 79518859 2a1490ed [INFO Client 7712] PrecalcDropEffects
+2023/04/15 06:46:05 79518859 2a1490c6 [INFO Client 7712] PrecalcNonEnchantModHashes
+2023/04/15 06:46:05 79518859 2a1490c4 [INFO Client 7712] PrecalcRuleNameToTypeMap
+2023/04/15 06:46:05 79518859 2a1490c2 [INFO Client 7712] PrecalcCJESPNIndexMap
+2023/04/15 06:46:05 79518859 2a1490c0 [INFO Client 7712] PrecalcGemAlternateQualityMap
+2023/04/15 06:54:12 80005843 88a904cb [DEBUG Client 7712] Got Instance Details from login server
+2023/04/15 06:54:12 80005875 32759a9f [INFO Client 7712] [SHADER] Delay: OFF
+2023/04/15 06:54:12 80005875 ca3a6a71 [INFO Client 7712] Connecting to instance server at 169.51.201.140:6112
+2023/04/15 06:54:12 80005937 ca3a4dbb [DEBUG Client 7712] Connect time to instance server was 31ms
+2023/04/15 06:54:12 80005984 1186a0e5 [DEBUG Client 7712] Generating level 20 area "HideoutCoral" with seed 1
+2023/04/15 06:54:12 80006250 f22b6987 [INFO Client 7712] Tile hash: 805187908
+2023/04/15 06:54:12 80006250 f22b6986 [INFO Client 7712] Doodad hash: 0
+2023/04/15 06:54:13 80006828 11870f49 [DEBUG Client 7712] Joined guild named Голосовой чат discord.com/invite/nXFKHzJ with 194 members 
+2023/04/15 06:54:13 80007609 cffb071e [INFO Client 7712] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Коралловое убежище.
+2023/04/15 06:54:14 80008140 32759a9f [INFO Client 7712] [SHADER] Delay: ON
+2023/04/15 06:56:03 80117359 88a904cb [DEBUG Client 7712] Got Instance Details from login server
+2023/04/15 06:56:03 80117375 32759a9f [INFO Client 7712] [SHADER] Delay: OFF
+2023/04/15 06:56:03 80117375 ca3a6a71 [INFO Client 7712] Connecting to instance server at 169.51.201.169:6112
+2023/04/15 06:56:03 80117437 ca3a4dbb [DEBUG Client 7712] Connect time to instance server was 46ms
+2023/04/15 06:56:03 80117500 1186a0e5 [DEBUG Client 7712] Generating level 45 area "1_5_town" with seed 1
+2023/04/15 06:56:04 80117750 f22b6987 [INFO Client 7712] Tile hash: 4281737639
+2023/04/15 06:56:04 80117750 f22b6986 [INFO Client 7712] Doodad hash: 2360762812
+2023/04/15 06:56:04 80118093 11870f49 [DEBUG Client 7712] Joined guild named Голосовой чат discord.com/invite/nXFKHzJ with 194 members 
+2023/04/15 06:56:05 80118734 cffb071e [INFO Client 7712] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Башня надзирателя.
+2023/04/15 06:56:05 80119140 32759a9f [INFO Client 7712] [SHADER] Delay: ON
+2023/04/15 06:59:02 80296046 cffb071e [INFO Client 7712] : Сделка совершена.
+2023/04/15 07:00:39 80392781 cffb071e [INFO Client 7712] : Не удалось применить предмет: Предмет не сможет вместить дополнительные свойства.
+2023/04/15 07:01:39 80452937 cffb071e [INFO Client 7712] : Не удалось применить предмет: Предмет не сможет вместить дополнительные свойства.
+2023/04/15 07:01:50 80464125 cffb071e [INFO Client 7712] : Не удалось применить предмет: Предмет не сможет вместить дополнительные свойства.
+2023/04/15 07:01:55 80468843 cffb071e [INFO Client 7712] : Не удалось применить предмет: Предмет не сможет вместить дополнительные свойства.
+2023/04/15 07:02:13 80487265 cffb071e [INFO Client 7712] : Не удалось применить предмет: Предмет не сможет вместить дополнительные свойства.
+2023/04/15 07:02:36 80510625 cffb071e [INFO Client 7712] : Не удалось применить предмет: Предмет не сможет вместить дополнительные свойства.
+2023/04/15 07:03:01 80535375 cffb071e [INFO Client 7712] : Не удалось применить предмет: Предмет уже достиг наивысшего качества.
+2023/04/15 07:03:01 80535609 cffb071e [INFO Client 7712] : Не удалось применить предмет: Предмет уже достиг наивысшего качества.
+2023/04/15 07:03:02 80535828 cffb071e [INFO Client 7712] : Не удалось применить предмет: Предмет уже достиг наивысшего качества.
+2023/04/15 07:03:02 80536062 cffb071e [INFO Client 7712] : Не удалось применить предмет: Предмет уже достиг наивысшего качества.
+2023/04/15 07:03:18 80552171 88a904cb [DEBUG Client 7712] Got Instance Details from login server
+2023/04/15 07:03:18 80552171 32759a9f [INFO Client 7712] [SHADER] Delay: OFF
+2023/04/15 07:03:18 80552171 ca3a6a71 [INFO Client 7712] Connecting to instance server at 169.51.201.171:6112
+2023/04/15 07:03:18 80552218 ca3a4dbb [DEBUG Client 7712] Connect time to instance server was 32ms
+2023/04/15 07:03:18 80552265 1186a0e5 [DEBUG Client 7712] Generating level 20 area "HideoutCoral" with seed 1
+2023/04/15 07:03:18 80552296 f22b6987 [INFO Client 7712] Tile hash: 805187908
+2023/04/15 07:03:18 80552296 f22b6986 [INFO Client 7712] Doodad hash: 0
+2023/04/15 07:03:19 80553140 11870f49 [DEBUG Client 7712] Joined guild named Голосовой чат discord.com/invite/nXFKHzJ with 194 members 
+2023/04/15 07:03:19 80553703 cffb071e [INFO Client 7712] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Коралловое убежище.
+2023/04/15 07:03:20 80554187 32759a9f [INFO Client 7712] [SHADER] Delay: ON
+2023/04/15 07:07:24 80797812 cffb071e [INFO Client 7712] : Указанный предмет уничтожен
+2023/04/15 07:08:46 80879765 88a904cb [DEBUG Client 7712] Got Instance Details from login server
+2023/04/15 07:08:46 80879781 32759a9f [INFO Client 7712] [SHADER] Delay: OFF
+2023/04/15 07:08:46 80879781 ca3a6a71 [INFO Client 7712] Connecting to instance server at 169.51.201.158:6112
+2023/04/15 07:08:46 80879828 ca3a4dbb [DEBUG Client 7712] Connect time to instance server was 31ms
+2023/04/15 07:08:46 80879875 1186a0e5 [DEBUG Client 7712] Generating level 46 area "2_6_6" with seed 685062089
+2023/04/15 07:08:46 80880578 f22b6987 [INFO Client 7712] Tile hash: 4019881824
+2023/04/15 07:08:46 80880578 f22b6986 [INFO Client 7712] Doodad hash: 1156046822
+2023/04/15 07:08:47 80881187 11870f49 [DEBUG Client 7712] Joined guild named Голосовой чат discord.com/invite/nXFKHzJ with 194 members 
+2023/04/15 07:08:48 80881859 cffb071e [INFO Client 7712] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Хребет.
+2023/04/15 07:08:48 80882437 32759a9f [INFO Client 7712] [SHADER] Delay: ON
+2023/04/15 07:09:42 80936281 cffb071e [INFO Client 7712] : DeeGyreIIIXXI (Снайпер) достигает 52 уровня
+2023/04/15 07:10:33 80987187 fb7abcab [INFO Client 7712] Successfully allocated passive skill id: bow_critical_strike_chance675, name: Шанс критического удара снарядами от атаки
+2023/04/15 07:10:37 80990968 fb7abdec [INFO Client 7712] Successfully unallocated passive skill id: dexterity864, name: Ловкость
+2023/04/15 07:10:39 80992812 fb7abcab [INFO Client 7712] Successfully allocated passive skill id: bow_critical_strike_chance674, name: Шанс критического удара снарядами от атаки
+2023/04/15 07:15:54 81308640 3796f5e1 [WARN Client 7712] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/15 07:17:32 81406421 88a904cb [DEBUG Client 7712] Got Instance Details from login server
+2023/04/15 07:17:32 81406421 32759a9f [INFO Client 7712] [SHADER] Delay: OFF
+2023/04/15 07:17:32 81406421 ca3a6a71 [INFO Client 7712] Connecting to instance server at 169.51.201.151:6112
+2023/04/15 07:17:32 81406484 ca3a4dbb [DEBUG Client 7712] Connect time to instance server was 32ms
+2023/04/15 07:17:32 81406546 1186a0e5 [DEBUG Client 7712] Generating level 47 area "2_6_7_1" with seed 1386403033
+2023/04/15 07:17:33 81406906 f22b6987 [INFO Client 7712] Tile hash: 3693421354
+2023/04/15 07:17:33 81406906 f22b6986 [INFO Client 7712] Doodad hash: 718800411
+2023/04/15 07:17:33 81407515 11870f49 [DEBUG Client 7712] Joined guild named Голосовой чат discord.com/invite/nXFKHzJ with 194 members 
+2023/04/15 07:17:34 81408093 cffb071e [INFO Client 7712] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Тюремное подземелье.
+2023/04/15 07:17:34 81408515 32759a9f [INFO Client 7712] [SHADER] Delay: ON
+2023/04/15 07:24:12 81805796 3796f5e1 [WARN Client 7712] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/15 07:24:38 81832625 3796f5e1 [WARN Client 7712] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/15 07:24:42 81836218 3796f5e1 [WARN Client 7712] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/15 07:25:02 81856234 cffb071e [INFO Client 7712] Изаро: Вера - самый прочный металл.
+2023/04/15 07:25:35 81889500 3796f5e1 [WARN Client 7712] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/15 07:26:41 81954828 3796f5e1 [WARN Client 7712] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/15 07:26:43 81957140 3796f5e1 [WARN Client 7712] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/15 07:26:43 81957406 118717eb [DEBUG Client 7712] Resyncing 4682
+2023/04/15 07:26:43 81957406 118717eb [DEBUG Client 7712] Resyncing 4675
+2023/04/15 07:26:43 81957406 118717eb [DEBUG Client 7712] Resyncing 4763
+2023/04/15 07:26:43 81957406 118717eb [DEBUG Client 7712] Resyncing 4686
+2023/04/15 07:26:43 81957406 118717eb [DEBUG Client 7712] Resyncing 4681
+2023/04/15 07:26:43 81957406 118717eb [DEBUG Client 7712] Resyncing 4663
+2023/04/15 07:26:43 81957406 118717eb [DEBUG Client 7712] Resyncing 4684
+2023/04/15 07:26:43 81957406 118717eb [DEBUG Client 7712] Resyncing 4685
+2023/04/15 07:26:43 81957406 118717eb [DEBUG Client 7712] Resyncing 4687
+2023/04/15 07:26:43 81957406 118717eb [DEBUG Client 7712] Resyncing 4688
+2023/04/15 07:26:43 81957406 118717eb [DEBUG Client 7712] Resyncing 4676
+2023/04/15 07:26:43 81957406 118717eb [DEBUG Client 7712] Resyncing 4679
+2023/04/15 07:26:46 81960343 3796f5e1 [WARN Client 7712] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/15 07:26:49 81963671 3796f5e1 [WARN Client 7712] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/15 07:26:58 81972515 118717eb [DEBUG Client 7712] Resyncing 4679
+2023/04/15 07:26:58 81972515 118717eb [DEBUG Client 7712] Resyncing 4672
+2023/04/15 07:26:58 81972515 118717eb [DEBUG Client 7712] Resyncing 4933
+2023/04/15 07:26:58 81972515 118717eb [DEBUG Client 7712] Resyncing 4918
+2023/04/15 07:26:58 81972515 118717eb [DEBUG Client 7712] Resyncing 4920
+2023/04/15 07:26:58 81972515 118717eb [DEBUG Client 7712] Resyncing 4922
+2023/04/15 07:26:58 81972515 118717eb [DEBUG Client 7712] Resyncing 4924
+2023/04/15 07:26:58 81972515 118717eb [DEBUG Client 7712] Resyncing 4926
+2023/04/15 07:26:58 81972515 118717eb [DEBUG Client 7712] Resyncing 4931
+2023/04/15 07:27:06 81980703 3796f5e1 [WARN Client 7712] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/15 07:27:10 81984531 cffb071e [INFO Client 7712] : DeeGyreIIIXXI был повержен.
+2023/04/15 07:27:16 81990140 3796f5e1 [WARN Client 7712] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/15 07:27:17 81990968 118717eb [DEBUG Client 7712] Resyncing 5161
+2023/04/15 07:27:17 81990968 118717eb [DEBUG Client 7712] Resyncing 5162
+2023/04/15 07:27:17 81990968 118717eb [DEBUG Client 7712] Resyncing 5163
+2023/04/15 07:27:17 81990968 118717eb [DEBUG Client 7712] Resyncing 4679
+2023/04/15 07:27:17 81990968 118717eb [DEBUG Client 7712] Resyncing 5171
+2023/04/15 07:27:17 81990968 118717eb [DEBUG Client 7712] Resyncing 5158
+2023/04/15 07:27:17 81990968 118717eb [DEBUG Client 7712] Resyncing 5159
+2023/04/15 07:27:17 81990968 118717eb [DEBUG Client 7712] Resyncing 5160
+2023/04/15 07:27:17 81990968 118717eb [DEBUG Client 7712] Resyncing 5156
+2023/04/15 07:27:17 81990968 118717eb [DEBUG Client 7712] Resyncing 5157
+2023/04/15 07:27:20 81994593 3796f5e1 [WARN Client 7712] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/15 07:27:26 82000718 379702c8 [WARN Client 7712] Client couldn't execute an instant action from the server.
+action type id = 9220
+2023/04/15 07:27:26 82000718 3796fa8f [WARN Client 7712] Instant/Triggered actionwas serialized to the client, but the client failed to execute the action.
+skill_instance_id: 34820
+action_id: 36909
+object_id: 643
+target_id: 4679
+flags: 257
+2023/04/15 07:27:27 82000718 3796f5e1 [WARN Client 7712] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/15 07:27:32 82005859 118717eb [DEBUG Client 7712] Resyncing 4679
+2023/04/15 07:27:43 82017015 3796f5e1 [WARN Client 7712] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/15 07:27:46 82020609 3796f5e1 [WARN Client 7712] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/15 07:27:46 82020671 379702c8 [WARN Client 7712] Client couldn't execute an instant action from the server.
+action type id = 9220
+2023/04/15 07:27:46 82020671 3796fa8f [WARN Client 7712] Instant/Triggered actionwas serialized to the client, but the client failed to execute the action.
+skill_instance_id: 34820
+action_id: 37150
+object_id: 643
+target_id: 0
+flags: 257
+2023/04/15 07:27:50 82024203 cffb071e [INFO Client 7712] : DeeGyreIIIXXI был повержен.
+2023/04/15 07:28:04 82038281 3796f5e1 [WARN Client 7712] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/15 07:28:10 82044687 cffb071e [INFO Client 7712] : DeeGyreIIIXXI был повержен.
+2023/04/15 07:28:52 82086421 379702c8 [WARN Client 7712] Client couldn't execute an instant action from the server.
+action type id = 9220
+2023/04/15 07:28:52 82086421 3796fa8f [WARN Client 7712] Instant/Triggered actionwas serialized to the client, but the client failed to execute the action.
+skill_instance_id: 34820
+action_id: 37556
+object_id: 643
+target_id: 4679
+flags: 257
+2023/04/15 07:28:56 82089859 118717eb [DEBUG Client 7712] Resyncing 4679
+2023/04/15 07:29:28 82122687 cffb071e [INFO Client 7712] : DeeGyreIIIXXI был повержен.
+2023/04/15 07:29:40 82134062 379702c8 [WARN Client 7712] Client couldn't execute an instant action from the server.
+action type id = 9220
+2023/04/15 07:29:40 82134062 3796fa8f [WARN Client 7712] Instant/Triggered actionwas serialized to the client, but the client failed to execute the action.
+skill_instance_id: 34820
+action_id: 37827
+object_id: 643
+target_id: 4679
+flags: 257
+2023/04/15 07:30:16 82169937 379702c8 [WARN Client 7712] Client couldn't execute an instant action from the server.
+action type id = 9220
+2023/04/15 07:30:16 82169937 3796fa8f [WARN Client 7712] Instant/Triggered actionwas serialized to the client, but the client failed to execute the action.
+skill_instance_id: 34820
+action_id: 37973
+object_id: 643
+target_id: 4679
+flags: 257
+2023/04/15 07:30:22 82176156 cffb071e [INFO Client 7712] : DeeGyreIIIXXI был повержен.
+2023/04/15 07:30:34 82188015 cffb071e [INFO Client 7712] : DeeGyreIIIXXI был повержен.
+2023/04/15 07:32:53 82326796 3796f5e1 [WARN Client 7712] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/15 07:33:37 82370796 88a904cb [DEBUG Client 7712] Got Instance Details from login server
+2023/04/15 07:33:37 82370796 32759a9f [INFO Client 7712] [SHADER] Delay: OFF
+2023/04/15 07:33:37 82370796 ca3a6a71 [INFO Client 7712] Connecting to instance server at 169.51.201.158:6112
+2023/04/15 07:33:37 82370843 ca3a4dbb [DEBUG Client 7712] Connect time to instance server was 32ms
+2023/04/15 07:33:37 82370890 1186a0e5 [DEBUG Client 7712] Generating level 47 area "2_6_7_2" with seed 2746375597
+2023/04/15 07:33:37 82371265 f22b6987 [INFO Client 7712] Tile hash: 1351856595
+2023/04/15 07:33:37 82371265 f22b6986 [INFO Client 7712] Doodad hash: 340471049
+2023/04/15 07:33:38 82371859 11870f49 [DEBUG Client 7712] Joined guild named Голосовой чат discord.com/invite/nXFKHzJ with 194 members 
+2023/04/15 07:33:38 82372421 cffb071e [INFO Client 7712] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Башня Шавронн.
+2023/04/15 07:33:39 82372828 32759a9f [INFO Client 7712] [SHADER] Delay: ON
+2023/04/15 07:33:43 82377453 3796f5e1 [WARN Client 7712] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/15 07:33:51 82384812 3796f5e1 [WARN Client 7712] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/15 07:33:54 82388468 3796f5e1 [WARN Client 7712] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/15 07:33:57 82390734 3796f5e1 [WARN Client 7712] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/15 07:34:06 82400562 3796f5e1 [WARN Client 7712] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/15 07:34:41 82435609 3796f5e1 [WARN Client 7712] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/15 07:35:37 82491281 3796f5e1 [WARN Client 7712] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/15 07:36:16 82530156 3796f5e1 [WARN Client 7712] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/15 07:36:19 82533593 3796f5e1 [WARN Client 7712] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/15 07:36:21 82535578 3796f5e1 [WARN Client 7712] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/15 07:36:50 82564109 3796f5e1 [WARN Client 7712] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/15 07:36:59 82573359 3796f5e1 [WARN Client 7712] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/15 07:37:08 82581890 cffb071e [INFO Client 7712] : DeeGyreIIIXXI (Снайпер) достигает 53 уровня
+2023/04/15 07:37:09 82583656 3796f5e1 [WARN Client 7712] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/15 07:37:11 82584890 3796f5e1 [WARN Client 7712] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/15 07:37:45 82618890 cffb071e [INFO Client 7712] : DeeGyreIIIXXI был повержен.
+2023/04/15 07:37:56 82630171 fb7abcab [INFO Client 7712] Successfully allocated passive skill id: heartpierce676, name: Смертоносность
+2023/04/15 07:39:25 82719062 379702c8 [WARN Client 7712] Client couldn't execute an instant action from the server.
+action type id = 9220
+2023/04/15 07:39:25 82719062 3796fa8f [WARN Client 7712] Instant/Triggered actionwas serialized to the client, but the client failed to execute the action.
+skill_instance_id: 34820
+action_id: 36761
+object_id: 1099
+target_id: 949
+flags: 257
+2023/04/15 07:39:29 82723421 3796f5e1 [WARN Client 7712] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/15 07:39:30 82724000 3796f5e1 [WARN Client 7712] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/15 07:39:59 82753625 3796f5e1 [WARN Client 7712] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/15 07:40:00 82754375 3796f5e1 [WARN Client 7712] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/15 07:40:22 82776687 3796f5e1 [WARN Client 7712] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/15 07:40:23 82777406 3796f5e1 [WARN Client 7712] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/15 07:40:28 82782515 3796f5e1 [WARN Client 7712] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/15 07:40:29 82783046 3796f5e1 [WARN Client 7712] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/15 07:40:29 82783687 3796f5e1 [WARN Client 7712] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/15 07:40:33 82787437 3796f5e1 [WARN Client 7712] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/15 07:40:41 82795093 3796f5e1 [WARN Client 7712] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/15 07:40:43 82797296 3796f5e1 [WARN Client 7712] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/15 07:40:45 82799125 3796f5e1 [WARN Client 7712] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/15 07:40:46 82800406 3796f5e1 [WARN Client 7712] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/15 07:40:47 82801562 3796f5e1 [WARN Client 7712] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/15 07:40:48 82802187 3796f5e1 [WARN Client 7712] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/15 07:40:49 82803156 3796f5e1 [WARN Client 7712] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/15 07:40:50 82804500 3796f5e1 [WARN Client 7712] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/15 07:40:53 82807406 3796f5e1 [WARN Client 7712] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/15 07:40:55 82809187 3796f5e1 [WARN Client 7712] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/15 07:41:05 82818890 3796f5e1 [WARN Client 7712] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/15 07:41:07 82821468 3796f5e1 [WARN Client 7712] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/15 07:41:53 82867500 88a904cb [DEBUG Client 7712] Got Instance Details from login server
+2023/04/15 07:41:53 82867500 32759a9f [INFO Client 7712] [SHADER] Delay: OFF
+2023/04/15 07:41:53 82867500 ca3a6a71 [INFO Client 7712] Connecting to instance server at 159.122.142.232:6112
+2023/04/15 07:41:53 82867562 ca3a4dbb [DEBUG Client 7712] Connect time to instance server was 46ms
+2023/04/15 07:41:53 82867609 1186a0e5 [DEBUG Client 7712] Generating level 47 area "2_6_8" with seed 826465676
+2023/04/15 07:41:54 82868156 f22b6987 [INFO Client 7712] Tile hash: 2054658178
+2023/04/15 07:41:54 82868156 f22b6986 [INFO Client 7712] Doodad hash: 4191151845
+2023/04/15 07:41:54 82868531 11870f49 [DEBUG Client 7712] Joined guild named Голосовой чат discord.com/invite/nXFKHzJ with 194 members 
+2023/04/15 07:41:55 82869125 cffb071e [INFO Client 7712] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Врата заключённых.
+2023/04/15 07:41:56 82869750 32759a9f [INFO Client 7712] [SHADER] Delay: ON
+2023/04/15 07:42:02 82876296 88a904cb [DEBUG Client 7712] Got Instance Details from login server
+2023/04/15 07:42:02 82876296 32759a9f [INFO Client 7712] [SHADER] Delay: OFF
+2023/04/15 07:42:02 82876296 ca3a6a71 [INFO Client 7712] Connecting to instance server at 169.51.201.167:6112
+2023/04/15 07:42:02 82876359 ca3a4dbb [DEBUG Client 7712] Connect time to instance server was 32ms
+2023/04/15 07:42:02 82876406 1186a0e5 [DEBUG Client 7712] Generating level 50 area "2_6_town" with seed 1
+2023/04/15 07:42:03 82877375 f22b6987 [INFO Client 7712] Tile hash: 1591518971
+2023/04/15 07:42:03 82877375 f22b6986 [INFO Client 7712] Doodad hash: 3893897391
+2023/04/15 07:42:03 82877546 11870f49 [DEBUG Client 7712] Joined guild named Голосовой чат discord.com/invite/nXFKHzJ with 194 members 
+2023/04/15 07:42:04 82878390 cffb071e [INFO Client 7712] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Застава Львиного глаза.
+2023/04/15 07:42:05 82879203 32759a9f [INFO Client 7712] [SHADER] Delay: ON
+2023/04/15 07:43:57 82991546 cffb071e [INFO Client 7712] : Сделка совершена.
+2023/04/15 07:44:18 83012234 cffb071e [INFO Client 7712] : Вы получили очко пассивных умений.
+2023/04/15 07:45:42 83095796 fb7abcab [INFO Client 7712] Successfully allocated passive skill id: aura_area_of_effect1203, name: Область действия аур
+2023/04/15 07:47:05 83179656 fb7abdec [INFO Client 7712] Successfully unallocated passive skill id: aura_area_of_effect1203, name: Область действия аур
+2023/04/15 07:47:09 83183625 fb7abcab [INFO Client 7712] Successfully allocated passive skill id: dexterity864, name: Ловкость
+2023/04/15 07:53:29 83563359 88a904cb [DEBUG Client 7712] Got Instance Details from login server
+2023/04/15 07:53:29 83563359 32759a9f [INFO Client 7712] [SHADER] Delay: OFF
+2023/04/15 07:53:29 83563359 ca3a6a71 [INFO Client 7712] Connecting to instance server at 169.51.201.132:6112
+2023/04/15 07:53:29 83563421 ca3a4dbb [DEBUG Client 7712] Connect time to instance server was 47ms
+2023/04/15 07:53:29 83563484 1186a0e5 [DEBUG Client 7712] Generating level 47 area "2_6_8" with seed 3568749280
+2023/04/15 07:53:29 83563656 f22b6987 [INFO Client 7712] Tile hash: 3529947620
+2023/04/15 07:53:29 83563656 f22b6986 [INFO Client 7712] Doodad hash: 878364703
+2023/04/15 07:53:30 83564437 11870f49 [DEBUG Client 7712] Joined guild named Голосовой чат discord.com/invite/nXFKHzJ with 194 members 
+2023/04/15 07:53:31 83565062 cffb071e [INFO Client 7712] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Врата заключённых.
+2023/04/15 07:53:31 83565671 32759a9f [INFO Client 7712] [SHADER] Delay: ON
+2023/04/15 07:54:06 83600500 3796f5e1 [WARN Client 7712] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/15 07:55:16 83670109 88a904cb [DEBUG Client 7712] Got Instance Details from login server
+2023/04/15 07:55:16 83670125 32759a9f [INFO Client 7712] [SHADER] Delay: OFF
+2023/04/15 07:55:16 83670125 ca3a6a71 [INFO Client 7712] Connecting to instance server at 159.122.142.252:6112
+2023/04/15 07:55:16 83670187 ca3a4dbb [DEBUG Client 7712] Connect time to instance server was 46ms
+2023/04/15 07:55:16 83670250 1186a0e5 [DEBUG Client 7712] Generating level 48 area "2_6_9" with seed 3804872123
+2023/04/15 07:55:17 83670750 f22b6987 [INFO Client 7712] Tile hash: 2214516686
+2023/04/15 07:55:17 83670750 f22b6986 [INFO Client 7712] Doodad hash: 1873107803
+2023/04/15 07:55:17 83671265 11870f49 [DEBUG Client 7712] Joined guild named Голосовой чат discord.com/invite/nXFKHzJ with 194 members 
+2023/04/15 07:55:18 83671890 cffb071e [INFO Client 7712] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Западный лес.
+2023/04/15 07:55:18 83672468 32759a9f [INFO Client 7712] [SHADER] Delay: ON
+2023/04/15 07:56:16 83730125 379702c8 [WARN Client 7712] Client couldn't execute an instant action from the server.
+action type id = 9220
+2023/04/15 07:56:16 83730125 3796fa8f [WARN Client 7712] Instant/Triggered actionwas serialized to the client, but the client failed to execute the action.
+skill_instance_id: 32772
+action_id: 35283
+object_id: 1931
+target_id: 1462
+flags: 257
+2023/04/15 07:58:54 83888234 88a904cb [DEBUG Client 7712] Got Instance Details from login server
+2023/04/15 07:58:54 83888234 32759a9f [INFO Client 7712] [SHADER] Delay: OFF
+2023/04/15 07:58:54 83888234 ca3a6a71 [INFO Client 7712] Connecting to instance server at 159.122.142.228:6112
+2023/04/15 07:58:54 83888296 ca3a4dbb [DEBUG Client 7712] Connect time to instance server was 31ms
+2023/04/15 07:58:54 83888343 1186a0e5 [DEBUG Client 7712] Generating level 48 area "2_6_10" with seed 452110833
+2023/04/15 07:58:55 83888875 f22b6987 [INFO Client 7712] Tile hash: 2771771371
+2023/04/15 07:58:55 83888875 f22b6986 [INFO Client 7712] Doodad hash: 2133280149
+2023/04/15 07:58:55 83889515 11870f49 [DEBUG Client 7712] Joined guild named Голосовой чат discord.com/invite/nXFKHzJ with 194 members 
+2023/04/15 07:58:56 83890109 cffb071e [INFO Client 7712] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Пойма реки.
+2023/04/15 07:58:57 83890718 32759a9f [INFO Client 7712] [SHADER] Delay: ON
+2023/04/15 08:01:21 84035093 cffb071e [INFO Client 7712] Эйнар, Мастер зверей: Готова, изгнанница? Настала пора охоты!
+2023/04/15 08:01:28 84042031 cffb071e [INFO Client 7712] Эйнар, Мастер зверей: Животное, тебя схватили. Ты или выживешь или станешь едой.
+2023/04/15 08:01:54 84068234 cffb071e [INFO Client 7712] Эйнар, Мастер зверей: Не переживай, животинка! Мы же друзья!
+2023/04/15 08:02:05 84079656 3796f5e1 [WARN Client 7712] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/15 08:02:26 84100265 cffb071e [INFO Client 7712] : DeeGyreIIIXXI (Снайпер) достигает 54 уровня
+2023/04/15 08:02:56 84130062 118717eb [DEBUG Client 7712] Resyncing 7070
+2023/04/15 08:02:56 84130062 118717eb [DEBUG Client 7712] Resyncing 2946
+2023/04/15 08:02:56 84130062 118717eb [DEBUG Client 7712] Resyncing 2462
+2023/04/15 08:02:56 84130062 118717eb [DEBUG Client 7712] Resyncing 4879
+2023/04/15 08:02:56 84130062 118717eb [DEBUG Client 7712] Resyncing 2458
+2023/04/15 08:02:56 84130062 118717eb [DEBUG Client 7712] Resyncing 2998
+2023/04/15 08:02:56 84130062 118717eb [DEBUG Client 7712] Resyncing 3000
+2023/04/15 08:02:56 84130062 118717eb [DEBUG Client 7712] Resyncing 6742
+2023/04/15 08:02:56 84130062 118717eb [DEBUG Client 7712] Resyncing 3002
+2023/04/15 08:02:56 84130062 118717eb [DEBUG Client 7712] Resyncing 7020
+2023/04/15 08:02:58 84132578 118717eb [DEBUG Client 7712] Resyncing 2947
+2023/04/15 08:02:58 84132578 118717eb [DEBUG Client 7712] Resyncing 2944
+2023/04/15 08:02:58 84132578 118717eb [DEBUG Client 7712] Resyncing 7114
+2023/04/15 08:02:58 84132578 118717eb [DEBUG Client 7712] Resyncing 7001
+2023/04/15 08:02:58 84132578 118717eb [DEBUG Client 7712] Resyncing 2464
+2023/04/15 08:02:58 84132578 118717eb [DEBUG Client 7712] Resyncing 3086
+2023/04/15 08:02:58 84132578 118717eb [DEBUG Client 7712] Resyncing 7040
+2023/04/15 08:02:58 84132578 118717eb [DEBUG Client 7712] Resyncing 2945
+2023/04/15 08:02:58 84132578 118717eb [DEBUG Client 7712] Resyncing 3091
+2023/04/15 08:02:58 84132578 118717eb [DEBUG Client 7712] Resyncing 7160
+2023/04/15 08:02:58 84132578 118717eb [DEBUG Client 7712] Resyncing 2946
+2023/04/15 08:04:27 84221093 cffb071e [INFO Client 7712] Эйнар, Мастер зверей: Выживший! Ты достойно встретишь конец дней. Это годная добыча.
+2023/04/15 08:04:35 84229656 fb7abcab [INFO Client 7712] Successfully allocated passive skill id: dexterity1986, name: Ловкость
+2023/04/15 08:06:23 84337593 88a904cb [DEBUG Client 7712] Got Instance Details from login server
+2023/04/15 08:06:23 84337593 32759a9f [INFO Client 7712] [SHADER] Delay: OFF
+2023/04/15 08:06:23 84337593 ca3a6a71 [INFO Client 7712] Connecting to instance server at 169.51.201.132:6112
+2023/04/15 08:06:23 84337656 ca3a4dbb [DEBUG Client 7712] Connect time to instance server was 32ms
+2023/04/15 08:06:23 84337703 1186a0e5 [DEBUG Client 7712] Generating level 48 area "2_6_11" with seed 3965205103
+2023/04/15 08:06:24 84338312 f22b6987 [INFO Client 7712] Tile hash: 4010463489
+2023/04/15 08:06:24 84338312 f22b6986 [INFO Client 7712] Doodad hash: 2646943815
+2023/04/15 08:06:24 84338703 11870f49 [DEBUG Client 7712] Joined guild named Голосовой чат discord.com/invite/nXFKHzJ with 194 members 
+2023/04/15 08:06:25 84339312 cffb071e [INFO Client 7712] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Топь.
+2023/04/15 08:06:26 84339921 32759a9f [INFO Client 7712] [SHADER] Delay: ON
+2023/04/15 08:06:33 84347500 379702c8 [WARN Client 7712] Client couldn't execute an instant action from the server.
+action type id = 9220
+2023/04/15 08:06:33 84347500 3796fa8f [WARN Client 7712] Instant/Triggered actionwas serialized to the client, but the client failed to execute the action.
+skill_instance_id: 32772
+action_id: 34348
+object_id: 1494
+target_id: 892
+flags: 257
+2023/04/15 08:06:37 84350859 118717eb [DEBUG Client 7712] Resyncing 1104
+2023/04/15 08:07:27 84400921 118717eb [DEBUG Client 7712] Resyncing 1260
+2023/04/15 08:07:39 84413640 cffb071e [INFO Client 7712] : Сокрой свой путь войны туманом
+2023/04/15 08:09:28 84522015 379702c8 [WARN Client 7712] Client couldn't execute an instant action from the server.
+action type id = 9220
+2023/04/15 08:09:28 84522015 3796fa8f [WARN Client 7712] Instant/Triggered actionwas serialized to the client, but the client failed to execute the action.
+skill_instance_id: 32772
+action_id: 35672
+object_id: 1494
+target_id: 801
+flags: 257
+2023/04/15 08:09:41 84535078 cffb071e [INFO Client 7712] Грех: Рюслата!
+2023/04/15 08:09:48 84542078 cffb071e [INFO Client 7712] Грех: Оставь эту землю её истинным детям.
+2023/04/15 08:11:03 84616828 88a904cb [DEBUG Client 7712] Got Instance Details from login server
+2023/04/15 08:11:03 84616828 32759a9f [INFO Client 7712] [SHADER] Delay: OFF
+2023/04/15 08:11:03 84616828 ca3a6a71 [INFO Client 7712] Connecting to instance server at 159.122.142.228:6112
+2023/04/15 08:11:03 84616875 ca3a4dbb [DEBUG Client 7712] Connect time to instance server was 47ms
+2023/04/15 08:11:03 84616937 1186a0e5 [DEBUG Client 7712] Generating level 48 area "2_6_10" with seed 452110833
+2023/04/15 08:11:03 84617125 f22b6987 [INFO Client 7712] Tile hash: 2771771371
+2023/04/15 08:11:03 84617125 f22b6986 [INFO Client 7712] Doodad hash: 2133280149
+2023/04/15 08:11:04 84617750 11870f49 [DEBUG Client 7712] Joined guild named Голосовой чат discord.com/invite/nXFKHzJ with 194 members 
+2023/04/15 08:11:04 84618359 cffb071e [INFO Client 7712] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Пойма реки.
+2023/04/15 08:11:05 84619015 32759a9f [INFO Client 7712] [SHADER] Delay: ON
+2023/04/15 08:11:56 84670640 cffb071e [INFO Client 7712] Эйнар, Мастер зверей: В округе кончились стоящие звери. Эйнар сходит и покормит тех, что мы изловили.
+2023/04/15 08:12:14 84688453 88a904cb [DEBUG Client 7712] Got Instance Details from login server
+2023/04/15 08:12:14 84688453 32759a9f [INFO Client 7712] [SHADER] Delay: OFF
+2023/04/15 08:12:14 84688453 ca3a6a71 [INFO Client 7712] Connecting to instance server at 159.122.142.252:6112
+2023/04/15 08:12:14 84688500 ca3a4dbb [DEBUG Client 7712] Connect time to instance server was 31ms
+2023/04/15 08:12:14 84688562 1186a0e5 [DEBUG Client 7712] Generating level 49 area "2_6_12" with seed 1541598777
+2023/04/15 08:12:15 84688921 f22b6987 [INFO Client 7712] Tile hash: 2430879370
+2023/04/15 08:12:15 84688921 f22b6986 [INFO Client 7712] Doodad hash: 1999853071
+2023/04/15 08:12:15 84689640 11870f49 [DEBUG Client 7712] Joined guild named Голосовой чат discord.com/invite/nXFKHzJ with 194 members 
+2023/04/15 08:12:16 84690218 cffb071e [INFO Client 7712] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Южный лес.
+2023/04/15 08:12:17 84690843 32759a9f [INFO Client 7712] [SHADER] Delay: ON
+2023/04/15 08:12:39 84712734 cffb071e [INFO Client 7712] : DeeGyreIIIXXI (Снайпер) достигает 55 уровня
+2023/04/15 08:12:40 84714140 3796f5e1 [WARN Client 7712] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/15 08:12:46 84720046 cffb071e [INFO Client 7712] Странный голос: Соль в воздухе... Скисшая река. Царь вернулся.
+2023/04/15 08:13:15 84749687 118717eb [DEBUG Client 7712] Resyncing 1737
+2023/04/15 08:13:15 84749687 118717eb [DEBUG Client 7712] Resyncing 3283
+2023/04/15 08:13:15 84749687 118717eb [DEBUG Client 7712] Resyncing 2214
+2023/04/15 08:13:15 84749687 118717eb [DEBUG Client 7712] Resyncing 3235
+2023/04/15 08:13:15 84749687 118717eb [DEBUG Client 7712] Resyncing 3179
+2023/04/15 08:13:15 84749687 118717eb [DEBUG Client 7712] Resyncing 2733
+2023/04/15 08:13:15 84749687 118717eb [DEBUG Client 7712] Resyncing 3070
+2023/04/15 08:13:15 84749687 118717eb [DEBUG Client 7712] Resyncing 3199
+2023/04/15 08:14:37 84831703 3796f5e1 [WARN Client 7712] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/15 08:15:03 84857656 3796f5e1 [WARN Client 7712] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/15 08:15:06 84860203 fb7abcab [INFO Client 7712] Successfully allocated passive skill id: jewel_slot1960, name: Обычное гнездо для самоцвета
+2023/04/15 08:15:07 84860828 cffb071e [INFO Client 7712] : DeeGyreIIIXXI был повержен.
+2023/04/15 08:15:14 84868718 890d9d5f [INFO Client 7712] Async connecting to mil01.login.pathofexile.com:20481
+2023/04/15 08:15:15 84868734 890d9cd8 [INFO Client 7712] Connected to mil01.login.pathofexile.com in 0ms.
+2023/04/15 08:15:19 84873515 88a904cb [DEBUG Client 7712] Got Instance Details from login server
+2023/04/15 08:15:19 84873515 32759a9f [INFO Client 7712] [SHADER] Delay: OFF
+2023/04/15 08:15:19 84873515 ca3a6a71 [INFO Client 7712] Connecting to instance server at 169.51.201.167:6112
+2023/04/15 08:15:19 84873578 ca3a4dbb [DEBUG Client 7712] Connect time to instance server was 47ms
+2023/04/15 08:15:19 84873625 1186a0e5 [DEBUG Client 7712] Generating level 50 area "2_6_town" with seed 1
+2023/04/15 08:15:21 84874875 f22b6987 [INFO Client 7712] Tile hash: 1591518971
+2023/04/15 08:15:21 84874875 f22b6986 [INFO Client 7712] Doodad hash: 3893897391
+2023/04/15 08:15:22 84876281 11870f49 [DEBUG Client 7712] Joined guild named Голосовой чат discord.com/invite/nXFKHzJ with 194 members 
+2023/04/15 08:15:23 84877109 cffb071e [INFO Client 7712] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Застава Львиного глаза.
+2023/04/15 08:15:23 84877375 cffb071e [INFO Client 7712] : Вы присоединились к Общему каналу чата 9 968.
+2023/04/15 08:15:24 84877906 32759a9f [INFO Client 7712] [SHADER] Delay: ON
+2023/04/15 08:15:24 84877921 374e0d22 [INFO Client 7712] [Item Filter] Preparing to download online filter 7Mr0AZHP
+2023/04/15 08:15:24 84877921 374e0cc3 [INFO Client 7712] [Item Filter] Hash for online filter 7Mr0AZHP is: 55b166a332ae6c51a1c0cef67a526c5a
+2023/04/15 08:15:24 84878046 374e0cc9 [INFO Client 7712] [Item Filter] Online item filter 7Mr0AZHP returned status: 200
+2023/04/15 08:15:24 84878046 374e0ce3 [DEBUG Client 7712] [Item Filter] Online item filter request resolved to: 209.197.3.101
+2023/04/15 08:15:24 84878046 374e0e8e [DEBUG Client 7712] [Item Filter] X-HW: 1681535719.dop210.ve1.t,1681535719.cds233.ve1.shn,1681535719.dop210.ve1.t,1681535719.cds241.ve1.c
+2023/04/15 08:15:24 84878046 374df808 [INFO Client 7712] [Item Filter] Successfully saved online filter 7Mr0AZHP. Hash is now: 55b166a332ae6c51a1c0cef67a526c5a
+2023/04/15 08:15:24 84878062 7884752a [INFO Client 7712] [Item Filter] Finished reloading online filter 7Mr0AZHP. Result: true. Hash: 55b166a332ae6c51a1c0cef67a526c5a. Type: Normal. Message: 
+2023/04/15 08:15:55 84909593 cffb071e [INFO Client 7712] : Сделка отклонена.
+2023/04/15 08:15:58 84912718 cffb071e [INFO Client 7712] : В вашей секции сундука с привязкой "Уникальные предметы" недостаточно места для этого предмета.
+2023/04/15 08:15:59 84913093 cffb071e [INFO Client 7712] : В вашей секции сундука с привязкой "Уникальные предметы" недостаточно места для этого предмета.
+2023/04/15 08:16:06 84920359 cffb071e [INFO Client 7712] : В вашей секции сундука с привязкой "Уникальные предметы" недостаточно места для этого предмета.
+2023/04/15 08:16:08 84921890 cffb071e [INFO Client 7712] : В вашей секции сундука с привязкой "Уникальные предметы" недостаточно места для этого предмета.
+2023/04/15 08:16:12 84926140 cffb071e [INFO Client 7712] : В вашей секции сундука с привязкой "Уникальные предметы" недостаточно места для этого предмета.
+2023/04/15 08:16:30 84944125 cffb071e [INFO Client 7712] : В вашей секции сундука с привязкой "Уникальные предметы" недостаточно места для этого предмета.
+2023/04/15 08:18:10 85044078 cffb071e [INFO Client 7712] : Сделка совершена.
+2023/04/15 08:23:45 85379546 cffb071e [INFO Client 7712] : Указанный предмет уничтожен
+2023/04/15 08:23:58 85392125 cffb071e [INFO Client 7712] : Вы получили очко пассивных умений.
+2023/04/15 08:24:14 85408218 fb7abcab [INFO Client 7712] Successfully allocated passive skill id: shield_damage2560, name: Похищение здоровья
+2023/04/15 08:24:51 85445031 88a904cb [DEBUG Client 7712] Got Instance Details from login server
+2023/04/15 08:24:51 85445031 32759a9f [INFO Client 7712] [SHADER] Delay: OFF
+2023/04/15 08:24:51 85445031 ca3a6a71 [INFO Client 7712] Connecting to instance server at 169.51.201.136:6112
+2023/04/15 08:24:51 85445093 ca3a4dbb [DEBUG Client 7712] Connect time to instance server was 47ms
+2023/04/15 08:24:51 85445140 1186a0e5 [DEBUG Client 7712] Generating level 48 area "2_6_10" with seed 2509489462
+2023/04/15 08:24:51 85445640 f22b6987 [INFO Client 7712] Tile hash: 539175146
+2023/04/15 08:24:51 85445640 f22b6986 [INFO Client 7712] Doodad hash: 380135560
+2023/04/15 08:24:52 85446187 11870f49 [DEBUG Client 7712] Joined guild named Голосовой чат discord.com/invite/nXFKHzJ with 194 members 
+2023/04/15 08:24:53 85446781 cffb071e [INFO Client 7712] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Пойма реки.
+2023/04/15 08:24:53 85447296 32759a9f [INFO Client 7712] [SHADER] Delay: ON
+2023/04/15 08:28:01 85635625 cffb071e [INFO Client 7712] #<SÚ]äð> Karat_Sergio:  решил вкачать в этой лиге экспедицию но в ней нифига не смыслю
+2023/04/15 08:28:18 85652625 cffb071e [INFO Client 7712] #<SÚ]äð> Karat_Sergio:  там на дереве атласа есть ноды рядом с пожирателем
+2023/04/15 08:28:38 85671953 cffb071e [INFO Client 7712] #<SÚ]äð> Karat_Sergio: кого лучше вкачть что б шанс больше был
+2023/04/15 08:28:44 85677734 cffb071e [INFO Client 7712] #<SÚ]äð> Karat_Sergio: гвенен или рог
+2023/04/15 08:28:54 85688328 cffb071e [INFO Client 7712] #<SÚ]äð> Karat_Sergio:  или туджин
+2023/04/15 08:29:03 85697375 cffb071e [INFO Client 7712] #<SÚ]äð> Karat_Sergio: или все спят
+2023/04/15 08:29:04 85698250 88a904cb [DEBUG Client 7712] Got Instance Details from login server
+2023/04/15 08:29:04 85698250 32759a9f [INFO Client 7712] [SHADER] Delay: OFF
+2023/04/15 08:29:04 85698265 ca3a6a71 [INFO Client 7712] Connecting to instance server at 169.51.201.173:6112
+2023/04/15 08:29:04 85698328 ca3a4dbb [DEBUG Client 7712] Connect time to instance server was 31ms
+2023/04/15 08:29:04 85698375 1186a0e5 [DEBUG Client 7712] Generating level 49 area "2_6_12" with seed 2751200677
+2023/04/15 08:29:05 85698750 f22b6987 [INFO Client 7712] Tile hash: 2677610685
+2023/04/15 08:29:05 85698750 f22b6986 [INFO Client 7712] Doodad hash: 4177307015
+2023/04/15 08:29:05 85699375 11870f49 [DEBUG Client 7712] Joined guild named Голосовой чат discord.com/invite/nXFKHzJ with 194 members 
+2023/04/15 08:29:06 85700015 cffb071e [INFO Client 7712] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Южный лес.
+2023/04/15 08:29:06 85700500 32759a9f [INFO Client 7712] [SHADER] Delay: ON
+2023/04/15 08:29:06 85700515 cffb071e [INFO Client 7712] #<SÚ]äð> Karat_Sergio: +)
+2023/04/15 08:29:34 85727921 cffb071e [INFO Client 7712] Гвеннен: Эй ты, местная! Поди-ка сюда!
+2023/04/15 08:30:23 85777437 cffb071e [INFO Client 7712] Гвеннен: Старайся отойти насколько позволит запальный шнур.
+2023/04/15 08:30:35 85788937 cffb071e [INFO Client 7712] Гвеннен: Старайся отойти насколько позволит запальный шнур.
+2023/04/15 08:30:39 85792718 cffb071e [INFO Client 7712] Гвеннен: Дальше! Ещё иди. Подальше от меня.
+2023/04/15 08:30:49 85802828 cffb071e [INFO Client 7712] Гвеннен: Всё готово. Будем поджигать?
+2023/04/15 08:30:50 85804437 cffb071e [INFO Client 7712] Гвеннен: А, вот ещё что... так можно откопать монстров!
+2023/04/15 08:30:56 85810359 cffb071e [INFO Client 7712] Гвеннен: Ты справишься!
+2023/04/15 08:31:04 85818578 cffb071e [INFO Client 7712] Гвеннен: Разберись с ними, местная!
+2023/04/15 08:31:08 85822156 3796f5e1 [WARN Client 7712] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/15 08:31:09 85822859 cffb071e [INFO Client 7712] Гвеннен: У тебя получилось?... у тебя получилось! Большинства местных в этом деле надолго не хватает.
+2023/04/15 08:31:15 85829531 118717eb [DEBUG Client 7712] Resyncing 1233
+2023/04/15 08:31:15 85829531 118717eb [DEBUG Client 7712] Resyncing 2388
+2023/04/15 08:31:15 85829531 118717eb [DEBUG Client 7712] Resyncing 3678
+2023/04/15 08:31:15 85829531 118717eb [DEBUG Client 7712] Resyncing 3677
+2023/04/15 08:31:15 85829531 118717eb [DEBUG Client 7712] Resyncing 3676
+2023/04/15 08:31:15 85829531 118717eb [DEBUG Client 7712] Resyncing 3414
+2023/04/15 08:32:31 85905593 cffb071e [INFO Client 7712] : DeeGyreIIIXXI был повержен.
+2023/04/15 08:33:15 85949015 cffb071e [INFO Client 7712] : DeeGyreIIIXXI (Снайпер) достигает 56 уровня
+2023/04/15 08:33:26 85960640 cffb071e [INFO Client 7712] : DeeGyreIIIXXI был повержен.
+2023/04/15 08:33:33 85967375 fb7abcab [INFO Client 7712] Successfully allocated passive skill id: shield_damage2559, name: Похищение здоровья
+2023/04/15 08:33:53 85987171 379702c8 [WARN Client 7712] Client couldn't execute an instant action from the server.
+action type id = 9220
+2023/04/15 08:33:53 85987171 3796fa8f [WARN Client 7712] Instant/Triggered actionwas serialized to the client, but the client failed to execute the action.
+skill_instance_id: 32772
+action_id: 37534
+object_id: 2582
+target_id: 2329
+flags: 257
+2023/04/15 08:34:33 86026890 379702c8 [WARN Client 7712] Client couldn't execute an instant action from the server.
+action type id = 9220
+2023/04/15 08:34:33 86026890 3796fa8f [WARN Client 7712] Instant/Triggered actionwas serialized to the client, but the client failed to execute the action.
+skill_instance_id: 32772
+action_id: 37994
+object_id: 2582
+target_id: 2126
+flags: 257
+2023/04/15 08:34:37 86030828 379702c8 [WARN Client 7712] Client couldn't execute an instant action from the server.
+action type id = 9220
+2023/04/15 08:34:37 86030828 3796fa8f [WARN Client 7712] Instant/Triggered actionwas serialized to the client, but the client failed to execute the action.
+skill_instance_id: 32772
+action_id: 38041
+object_id: 2582
+target_id: 2126
+flags: 257
+2023/04/15 08:34:53 86046906 3796f5e1 [WARN Client 7712] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/15 08:36:20 86134359 118717eb [DEBUG Client 7712] Resyncing 2282
+2023/04/15 08:36:52 86165812 379702c8 [WARN Client 7712] Client couldn't execute an instant action from the server.
+action type id = 9220
+2023/04/15 08:36:52 86165812 3796fa8f [WARN Client 7712] Instant/Triggered actionwas serialized to the client, but the client failed to execute the action.
+skill_instance_id: 32772
+action_id: 39455
+object_id: 2582
+target_id: 7788
+flags: 257
+2023/04/15 08:37:33 86207546 379702c8 [WARN Client 7712] Client couldn't execute an instant action from the server.
+action type id = 9220
+2023/04/15 08:37:33 86207546 3796fa8f [WARN Client 7712] Instant/Triggered actionwas serialized to the client, but the client failed to execute the action.
+skill_instance_id: 32772
+action_id: 39731
+object_id: 2582
+target_id: 2105
+flags: 257
+2023/04/15 08:38:21 86255468 88a904cb [DEBUG Client 7712] Got Instance Details from login server
+2023/04/15 08:38:21 86255468 32759a9f [INFO Client 7712] [SHADER] Delay: OFF
+2023/04/15 08:38:21 86255468 ca3a6a71 [INFO Client 7712] Connecting to instance server at 159.122.142.250:6112
+2023/04/15 08:38:21 86255531 ca3a4dbb [DEBUG Client 7712] Connect time to instance server was 47ms
+2023/04/15 08:38:21 86255578 1186a0e5 [DEBUG Client 7712] Generating level 49 area "2_6_13" with seed 3590931335
+2023/04/15 08:38:21 86255593 b5a581a7 [INFO Client 7712] Spawning discoverable Hideout HideoutCoral
+2023/04/15 08:38:22 86256234 f22b6987 [INFO Client 7712] Tile hash: 1103917491
+2023/04/15 08:38:22 86256234 f22b6986 [INFO Client 7712] Doodad hash: 674434132
+2023/04/15 08:38:23 86256765 11870f49 [DEBUG Client 7712] Joined guild named Голосовой чат discord.com/invite/nXFKHzJ with 194 members 
+2023/04/15 08:38:23 86257328 cffb071e [INFO Client 7712] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Пещера злобы.
+2023/04/15 08:38:24 86257968 32759a9f [INFO Client 7712] [SHADER] Delay: ON
+2023/04/15 08:38:28 86261937 cffb071e [INFO Client 7712] Несса: Морской Царь... Его время почти пришло. Скоро надежды... и меня не станет. Прошу... возьми это. Когда-то он развевался на мачте «Чёрного гребня» — корабля Вейлама Рота. Возьми этот флаг и брось его в пламя маяка. Это твоя единственная возможность добраться до меня и всё изменить. Больше Царю не под силу хранить подобное в тайне. Просто... такова суть вещей. Умоляю, найди нас прежде, чем...
+2023/04/15 08:39:03 86296906 118717eb [DEBUG Client 7712] Resyncing 679
+2023/04/15 08:40:26 86379843 88a904cb [DEBUG Client 7712] Got Instance Details from login server
+2023/04/15 08:40:26 86379843 32759a9f [INFO Client 7712] [SHADER] Delay: OFF
+2023/04/15 08:40:26 86379843 ca3a6a71 [INFO Client 7712] Connecting to instance server at 159.122.142.239:6112
+2023/04/15 08:40:26 86379890 ca3a4dbb [DEBUG Client 7712] Connect time to instance server was 32ms
+2023/04/15 08:40:26 86379937 1186a0e5 [DEBUG Client 7712] Generating level 49 area "2_6_14" with seed 846130139
+2023/04/15 08:40:26 86380578 f22b6987 [INFO Client 7712] Tile hash: 2787742039
+2023/04/15 08:40:26 86380578 f22b6986 [INFO Client 7712] Doodad hash: 4163791973
+2023/04/15 08:40:27 86381312 11870f49 [DEBUG Client 7712] Joined guild named Голосовой чат discord.com/invite/nXFKHzJ with 194 members 
+2023/04/15 08:40:28 86381906 cffb071e [INFO Client 7712] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Маяк.
+2023/04/15 08:40:28 86382531 32759a9f [INFO Client 7712] [SHADER] Delay: ON
+2023/04/15 08:41:44 86458406 b51d4f61 [DEBUG Client 7712] [RENDER] SetRendererSettings
+2023/04/15 08:41:44 86458406 b51d6447 [DEBUG Client 7712] [RENDER] ResizeWindow
+2023/04/15 08:41:44 86458406 9d4eec8a [DEBUG Client 7712] [WINDOW] TrigggerDeviceLost
+2023/04/15 08:41:44 86458421 9d4eeba7 [DEBUG Client 7712] [WINDOW] TrigggerDeviceReset
+2023/04/15 08:41:45 86459312 b51d614c [DEBUG Client 7712] [RENDER] RestartSwapChain
+2023/04/15 08:41:45 86459312 9e6a0b0a [INFO Client 7712] Enumerated adapter: NVIDIA GeForce GTX 1660
+2023/04/15 08:41:45 86459359 9e6a1d2a [INFO Client 7712] Enumerated device for adapter: NVIDIA GeForce GTX 1660. Selected feature level: 45312. Max feature level: 45312
+2023/04/15 08:41:45 86459359 9e6a1363 [INFO Client 7712] Enumerated output for adapter NVIDIA GeForce GTX 1660 of \\.\DISPLAY1
+2023/04/15 08:41:45 86459359 9e6a0b0a [INFO Client 7712] Enumerated adapter: Microsoft Basic Render Driver
+2023/04/15 08:41:45 86459359 9e6a1d2a [INFO Client 7712] Enumerated device for adapter: Microsoft Basic Render Driver. Selected feature level: 45312. Max feature level: 45312
+2023/04/15 08:41:45 86459359 fafff8cf [DEBUG Client 7712] CreateSwapChain: SetFullScreenState 1
+2023/04/15 08:41:45 86459421 9d4eec8a [DEBUG Client 7712] [WINDOW] TrigggerDeviceLost
+2023/04/15 08:41:45 86459484 9d4eeba7 [DEBUG Client 7712] [WINDOW] TrigggerDeviceReset
+2023/04/15 08:41:46 86460671 3275a75e [INFO Client 7712] [SHADER] Disable Async: 1 frames
+2023/04/15 08:41:46 86460671 b51d610e [INFO Client 7712] [RENDER] Disable Async: 1 frames
+2023/04/15 08:41:47 86460765 118717eb [DEBUG Client 7712] Resyncing 1291
+2023/04/15 08:41:49 86463546 cffb071e [INFO Client 7712] : DeeGyreIIIXXI был повержен.
+2023/04/15 08:41:50 86464296 b51d4f61 [DEBUG Client 7712] [RENDER] SetRendererSettings
+2023/04/15 08:41:50 86464296 b51d6447 [DEBUG Client 7712] [RENDER] ResizeWindow
+2023/04/15 08:41:50 86464312 9d4eec8a [DEBUG Client 7712] [WINDOW] TrigggerDeviceLost
+2023/04/15 08:41:50 86464328 9d4eeba7 [DEBUG Client 7712] [WINDOW] TrigggerDeviceReset
+2023/04/15 08:41:51 86465390 9d4eec8a [DEBUG Client 7712] [WINDOW] TrigggerDeviceLost
+2023/04/15 08:41:51 86465453 9d4eeba7 [DEBUG Client 7712] [WINDOW] TrigggerDeviceReset
+2023/04/15 08:41:53 86467640 b51d614c [DEBUG Client 7712] [RENDER] RestartSwapChain
+2023/04/15 08:41:53 86467640 9e6a0b0a [INFO Client 7712] Enumerated adapter: NVIDIA GeForce GTX 1660
+2023/04/15 08:41:53 86467687 9e6a1d2a [INFO Client 7712] Enumerated device for adapter: NVIDIA GeForce GTX 1660. Selected feature level: 45312. Max feature level: 45312
+2023/04/15 08:41:53 86467687 9e6a1363 [INFO Client 7712] Enumerated output for adapter NVIDIA GeForce GTX 1660 of \\.\DISPLAY1
+2023/04/15 08:41:53 86467687 9e6a0b0a [INFO Client 7712] Enumerated adapter: Microsoft Basic Render Driver
+2023/04/15 08:41:53 86467687 9e6a1d2a [INFO Client 7712] Enumerated device for adapter: Microsoft Basic Render Driver. Selected feature level: 45312. Max feature level: 45312
+2023/04/15 08:41:53 86467687 fafff8cf [DEBUG Client 7712] CreateSwapChain: SetFullScreenState 0
+2023/04/15 08:41:53 86467687 9d4eec8a [DEBUG Client 7712] [WINDOW] TrigggerDeviceLost
+2023/04/15 08:41:54 86467750 9d4eeba7 [DEBUG Client 7712] [WINDOW] TrigggerDeviceReset
+2023/04/15 08:41:55 86469468 3275a75e [INFO Client 7712] [SHADER] Disable Async: 1 frames
+2023/04/15 08:41:55 86469468 b51d610e [INFO Client 7712] [RENDER] Disable Async: 1 frames
+2023/04/15 08:41:55 86469468 9d4eec8a [DEBUG Client 7712] [WINDOW] TrigggerDeviceLost
+2023/04/15 08:41:55 86469515 9d4eeba7 [DEBUG Client 7712] [WINDOW] TrigggerDeviceReset
