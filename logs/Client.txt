@@ -4465,3 +4465,358 @@ flags: 257
 2023/04/16 17:37:38 62511937 11870f49 [DEBUG Client 7812] Joined guild named Голосовой чат discord.com/invite/nXFKHzJ with 196 members 
 2023/04/16 17:37:38 62512625 cffb071e [INFO Client 7812] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Пепельные поля.
 2023/04/16 17:37:39 62513593 32759a9f [INFO Client 7812] [SHADER] Delay: ON
+2023/04/17 16:43:35 ***** LOG FILE OPENING *****
+2023/04/17 16:43:35 82977546 f9544283 [INFO Client 8736] [STARTUP] Job Queues
+2023/04/17 16:43:35 82977562 9e6a0b0a [INFO Client 8736] Enumerated adapter: NVIDIA GeForce GTX 1660
+2023/04/17 16:43:35 82977703 9e6a1d2a [INFO Client 8736] Enumerated device for adapter: NVIDIA GeForce GTX 1660. Selected feature level: 45312. Max feature level: 45312
+2023/04/17 16:43:35 82977703 9e6a1363 [INFO Client 8736] Enumerated output for adapter NVIDIA GeForce GTX 1660 of \\.\DISPLAY1
+2023/04/17 16:43:35 82977703 9e6a0b0a [INFO Client 8736] Enumerated adapter: Microsoft Basic Render Driver
+2023/04/17 16:43:35 82977703 9e6a1d2a [INFO Client 8736] Enumerated device for adapter: Microsoft Basic Render Driver. Selected feature level: 45312. Max feature level: 45312
+2023/04/17 16:43:35 82977718 84a7d27d [INFO Client 8736] [ENGINE] Init
+2023/04/17 16:43:35 82977718 55713145 [INFO Client 8736] [JOB] HIGH: 3
+2023/04/17 16:43:35 82977718 55713145 [INFO Client 8736] [JOB] MEDIUM: 3
+2023/04/17 16:43:35 82977718 55713145 [INFO Client 8736] [JOB] LOW: 3
+2023/04/17 16:43:35 82977718 55713145 [INFO Client 8736] [JOB] IDLE: 1
+2023/04/17 16:43:35 82977718 7bb548f [INFO Client 8736] [BUNDLE2] Init
+2023/04/17 16:43:35 82977718 7bb36c4 [INFO Client 8736] [BUNDLE2] Index: Bundles2/_.index.bin
+2023/04/17 16:43:36 82977921 7bb61e6 [INFO Client 8736] [BUNDLE2] File cache size: 1024
+2023/04/17 16:43:36 82977921 b51d61ab [INFO Client 8736] [RENDER] Async: ON
+2023/04/17 16:43:36 82977921 b51d60c8 [INFO Client 8736] [RENDER] Warmup: ON
+2023/04/17 16:43:36 82977921 b51d60ce [INFO Client 8736] [RENDER] Skip: ON
+2023/04/17 16:43:36 82977921 b51d60eb [INFO Client 8736] [RENDER] Throttling: ON
+2023/04/17 16:43:36 82977921 32759a7a [INFO Client 8736] [SHADER] Address: http://www.pathofexile.com/tool/shader-db?a=store
+2023/04/17 16:43:36 82977921 32759a70 [INFO Client 8736] [SHADER] Async: ON
+2023/04/17 16:43:36 82977921 32759a9f [INFO Client 8736] [SHADER] Delay: OFF
+2023/04/17 16:43:36 82977921 32759aba [INFO Client 8736] [SHADER] Limit: ON
+2023/04/17 16:43:36 82977921 32759abc [INFO Client 8736] [SHADER] Warmup: ON
+2023/04/17 16:43:36 82977921 327599d7 [INFO Client 8736] [SHADER] Parallel: OFF
+2023/04/17 16:43:36 82977921 84a7e376 [INFO Client 8736] [ENGINE] Running Engine version 1.8.0
+2023/04/17 16:43:36 82977984 47bbd15a [INFO Client 8736] [SOUND] Buffer size = 64.0 MB
+2023/04/17 16:43:36 82978046 9b0d205 [INFO Client 8736] [VIDEO] Enable: ON
+2023/04/17 16:43:36 82978093 84a7d2d8 [INFO Client 8736] [ENGINE] Ready
+2023/04/17 16:43:36 82978343 951bc0b0 [INFO Client 8736] [STARTUP] Bundle Startup Start
+2023/04/17 16:43:36 82978343 951bc057 [INFO Client 8736] [STARTUP] Bundle Startup in 4.2e-05 seconds
+2023/04/17 16:43:36 82978343 951bc0b0 [INFO Client 8736] [STARTUP] Game Start
+2023/04/17 16:43:37 82978843 ca86fd3f [DEBUG Client 8736] Rebuilding UI::Core properties. Current input mode = '1'
+2023/04/17 16:43:37 82979250 951bc057 [INFO Client 8736] [STARTUP] Game in 0.906298 seconds
+2023/04/17 16:43:37 82979250 951bc0b0 [INFO Client 8736] [STARTUP] Window Start
+2023/04/17 16:43:37 82979250 9e6a0b0a [INFO Client 8736] Enumerated adapter: NVIDIA GeForce GTX 1660
+2023/04/17 16:43:37 82979375 9e6a1d2a [INFO Client 8736] Enumerated device for adapter: NVIDIA GeForce GTX 1660. Selected feature level: 45312. Max feature level: 45312
+2023/04/17 16:43:37 82979375 9e6a1363 [INFO Client 8736] Enumerated output for adapter NVIDIA GeForce GTX 1660 of \\.\DISPLAY1
+2023/04/17 16:43:37 82979375 9e6a0b0a [INFO Client 8736] Enumerated adapter: Microsoft Basic Render Driver
+2023/04/17 16:43:37 82979390 9e6a1d2a [INFO Client 8736] Enumerated device for adapter: Microsoft Basic Render Driver. Selected feature level: 45312. Max feature level: 45312
+2023/04/17 16:43:37 82979390 951bc057 [INFO Client 8736] [STARTUP] Window in 0.144528 seconds
+2023/04/17 16:43:37 82979406 413b61ff [DEBUG Client 8736] [GamepadManager] Initialising
+2023/04/17 16:43:37 82979406 951bc0b0 [INFO Client 8736] [STARTUP] Device Start
+2023/04/17 16:43:37 82979406 b51d6589 [INFO Client 8736] [RENDER] StartDevice: DirectX11
+2023/04/17 16:43:37 82979531 71b2ea0 [DEBUG Client 8736] [SHADER] Load shader cache: ShaderCacheD3D11
+2023/04/17 16:43:37 82979671 fafff8cf [DEBUG Client 8736] CreateSwapChain: SetFullScreenState 1
+2023/04/17 16:43:37 82979718 29d4ce01 [INFO Client 8736] [D3D11] Runtime version = 11.1
+2023/04/17 16:43:37 82979718 29d4ce00 [INFO Client 8736] [D3D11] Feature Level = 11.1
+2023/04/17 16:43:37 82979718 29d4ce03 [INFO Client 8736] [D3D11] Driver Command Lists = YES
+2023/04/17 16:43:37 82979718 29d4ce02 [INFO Client 8736] [D3D11] Driver Concurrent Creates = YES
+2023/04/17 16:43:37 82979718 29d4ce05 [INFO Client 8736] [D3D11] Driver Constant Buffer Offsetting = YES
+2023/04/17 16:43:38 82979937 9d4eeb40 [DEBUG Client 8736] [WINDOW] TrigggerDeviceCreate
+2023/04/17 16:43:38 82980031 9d4eeba7 [DEBUG Client 8736] [WINDOW] TrigggerDeviceReset
+2023/04/17 16:43:38 82980062 951bc057 [INFO Client 8736] [STARTUP] Device in 0.654279 seconds
+2023/04/17 16:43:38 82980062 951bc0b0 [INFO Client 8736] [STARTUP] Tencent Start
+2023/04/17 16:43:38 82980062 951bc057 [INFO Client 8736] [STARTUP] Tencent in 2.5e-05 seconds
+2023/04/17 16:43:38 82980062 951bc0b0 [INFO Client 8736] [STARTUP] Loading Start
+2023/04/17 16:43:38 82980125 951bc057 [INFO Client 8736] [STARTUP] Loading in 0.06071 seconds
+2023/04/17 16:43:38 82980125 951bc0b0 [INFO Client 8736] [STARTUP] DebugGUI Start
+2023/04/17 16:43:38 82980125 951bc057 [INFO Client 8736] [STARTUP] DebugGUI in 1.6e-05 seconds
+2023/04/17 16:43:38 82980125 951bc0b0 [INFO Client 8736] [STARTUP] Bundle Tiny Start
+2023/04/17 16:43:38 82980125 951bc0b0 [INFO Client 8736] [STARTUP] Bundle Login Start
+2023/04/17 16:43:38 82980125 951bc057 [INFO Client 8736] [STARTUP] Bundle Login in 3.4e-05 seconds
+2023/04/17 16:43:38 82980125 951bc057 [INFO Client 8736] [STARTUP] Bundle Tiny in 6.3e-05 seconds
+2023/04/17 16:43:38 82980125 951bc0b0 [INFO Client 8736] [STARTUP] Registration Start
+2023/04/17 16:43:38 82980125 951bc0b0 [INFO Client 8736] [STARTUP] Audio Start
+2023/04/17 16:43:38 82980125 47bbee18 [INFO Client 8736] [SOUND] Channel count = 64 (asked for 64)
+2023/04/17 16:43:38 82980125 47bbee19 [INFO Client 8736] [SOUND] Source count = 512
+2023/04/17 16:43:38 82980437 47bbea58 [INFO Client 8736] Changing to device "Line 1 (Virtual Audio Cable)"
+2023/04/17 16:43:38 82980437 951bc057 [INFO Client 8736] [STARTUP] Audio in 0.317159 seconds
+2023/04/17 16:43:38 82980656 951bc057 [INFO Client 8736] [STARTUP] Registration in 0.531005 seconds
+2023/04/17 16:43:39 82981046 5094179d [WARN Client 8736] tool_settings.json was not found. Resetting to default settings.
+2023/04/17 16:43:58 82999875 890d9d5f [INFO Client 8736] Async connecting to mil01.login.pathofexile.com:20481
+2023/04/17 16:43:58 82999890 890d9cd8 [INFO Client 8736] Connected to mil01.login.pathofexile.com in 0ms.
+2023/04/17 16:44:00 83002781 88a904cb [DEBUG Client 8736] Got Instance Details from login server
+2023/04/17 16:44:00 83002812 32759a9f [INFO Client 8736] [SHADER] Delay: OFF
+2023/04/17 16:44:00 83002812 ca3a6a71 [INFO Client 8736] Connecting to instance server at 169.51.201.151:6112
+2023/04/17 16:44:01 83002859 ca3a4dbb [DEBUG Client 8736] Connect time to instance server was 47ms
+2023/04/17 16:44:01 83002937 1186a0e5 [DEBUG Client 8736] Generating level 55 area "2_7_town" with seed 1
+2023/04/17 16:44:03 83005093 f22b6987 [INFO Client 8736] Tile hash: 1620931099
+2023/04/17 16:44:03 83005093 f22b6986 [INFO Client 8736] Doodad hash: 3728751405
+2023/04/17 16:44:04 83006562 11870f49 [DEBUG Client 8736] Joined guild named Голосовой чат discord.com/invite/nXFKHzJ with 197 members 
+2023/04/17 16:44:06 83007890 cffb071e [INFO Client 8736] &: ОБЪЯВЛЕНИЕ ГИЛЬДИИ: В гостяк у CARDIFF 
+2023/04/17 16:44:06 83008234 cffb071e [INFO Client 8736] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Лагерь на мосту.
+2023/04/17 16:44:06 83008656 cffb071e [INFO Client 8736] : Вы присоединились к Общему каналу чата 9 968.
+2023/04/17 16:44:09 83010890 32759a9f [INFO Client 8736] [SHADER] Delay: ON
+2023/04/17 16:44:09 83011156 374e0d22 [INFO Client 8736] [Item Filter] Preparing to download online filter 7Mr0AZHP
+2023/04/17 16:44:09 83011156 374e0cc3 [INFO Client 8736] [Item Filter] Hash for online filter 7Mr0AZHP is: 55b166a332ae6c51a1c0cef67a526c5a
+2023/04/17 16:44:09 83011296 374e0cc9 [INFO Client 8736] [Item Filter] Online item filter 7Mr0AZHP returned status: 200
+2023/04/17 16:44:09 83011296 374e0ce3 [DEBUG Client 8736] [Item Filter] Online item filter request resolved to: 209.197.3.101
+2023/04/17 16:44:09 83011296 374e0e8e [DEBUG Client 8736] [Item Filter] X-HW: 1681739046.dop229.ve1.t,1681739046.cds211.ve1.shn,1681739046.dop229.ve1.t,1681739047.cds241.ve1.c
+2023/04/17 16:44:09 83011296 374df808 [INFO Client 8736] [Item Filter] Successfully saved online filter 7Mr0AZHP. Hash is now: 55b166a332ae6c51a1c0cef67a526c5a
+2023/04/17 16:44:09 83011343 7884752a [INFO Client 8736] [Item Filter] Finished reloading online filter 7Mr0AZHP. Result: true. Hash: 55b166a332ae6c51a1c0cef67a526c5a. Type: Normal. Message: 
+2023/04/17 16:44:10 83011906 2a1490e5 [INFO Client 8736] PrecalcBaseTypeHashMap
+2023/04/17 16:44:10 83011968 2a1490e7 [INFO Client 8736] PrecalcModNameHashMap
+2023/04/17 16:44:11 83013031 2a1490e1 [INFO Client 8736] PrecalcItemClassMap
+2023/04/17 16:44:11 83013031 2a1490e3 [INFO Client 8736] PrecalcSoundEffects
+2023/04/17 16:44:11 83013046 2a1490ed [INFO Client 8736] PrecalcDropEffects
+2023/04/17 16:44:11 83013046 2a1490c6 [INFO Client 8736] PrecalcNonEnchantModHashes
+2023/04/17 16:44:11 83013046 2a1490c4 [INFO Client 8736] PrecalcRuleNameToTypeMap
+2023/04/17 16:44:11 83013046 2a1490c2 [INFO Client 8736] PrecalcCJESPNIndexMap
+2023/04/17 16:44:11 83013046 2a1490c0 [INFO Client 8736] PrecalcGemAlternateQualityMap
+2023/04/17 16:44:26 83028390 b51d4f61 [DEBUG Client 8736] [RENDER] SetRendererSettings
+2023/04/17 16:44:26 83028390 b51d6447 [DEBUG Client 8736] [RENDER] ResizeWindow
+2023/04/17 16:44:26 83028390 9d4eec8a [DEBUG Client 8736] [WINDOW] TrigggerDeviceLost
+2023/04/17 16:44:26 83028406 9d4eeba7 [DEBUG Client 8736] [WINDOW] TrigggerDeviceReset
+2023/04/17 16:44:26 83028796 b51d614c [DEBUG Client 8736] [RENDER] RestartSwapChain
+2023/04/17 16:44:26 83028812 9e6a0b0a [INFO Client 8736] Enumerated adapter: NVIDIA GeForce GTX 1660
+2023/04/17 16:44:27 83028843 9e6a1d2a [INFO Client 8736] Enumerated device for adapter: NVIDIA GeForce GTX 1660. Selected feature level: 45312. Max feature level: 45312
+2023/04/17 16:44:27 83028843 9e6a1363 [INFO Client 8736] Enumerated output for adapter NVIDIA GeForce GTX 1660 of \\.\DISPLAY1
+2023/04/17 16:44:27 83028843 9e6a0b0a [INFO Client 8736] Enumerated adapter: Microsoft Basic Render Driver
+2023/04/17 16:44:27 83028843 9e6a1d2a [INFO Client 8736] Enumerated device for adapter: Microsoft Basic Render Driver. Selected feature level: 45312. Max feature level: 45312
+2023/04/17 16:44:27 83028906 9d4eec8a [DEBUG Client 8736] [WINDOW] TrigggerDeviceLost
+2023/04/17 16:44:27 83028921 9d4eeba7 [DEBUG Client 8736] [WINDOW] TrigggerDeviceReset
+2023/04/17 16:44:31 83033640 fafff8cf [DEBUG Client 8736] CreateSwapChain: SetFullScreenState 0
+2023/04/17 16:44:31 83033640 9d4eec8a [DEBUG Client 8736] [WINDOW] TrigggerDeviceLost
+2023/04/17 16:44:31 83033656 9d4eeba7 [DEBUG Client 8736] [WINDOW] TrigggerDeviceReset
+2023/04/17 16:44:32 83034062 3275a75e [INFO Client 8736] [SHADER] Disable Async: 1 frames
+2023/04/17 16:44:32 83034062 b51d610e [INFO Client 8736] [RENDER] Disable Async: 1 frames
+2023/04/17 16:44:32 83034062 9d4eec8a [DEBUG Client 8736] [WINDOW] TrigggerDeviceLost
+2023/04/17 16:44:32 83034093 9d4eeba7 [DEBUG Client 8736] [WINDOW] TrigggerDeviceReset
+2023/04/17 16:44:36 83038156 b51d4f61 [DEBUG Client 8736] [RENDER] SetRendererSettings
+2023/04/17 16:44:36 83038156 b51d6447 [DEBUG Client 8736] [RENDER] ResizeWindow
+2023/04/17 16:44:36 83038156 9d4eec8a [DEBUG Client 8736] [WINDOW] TrigggerDeviceLost
+2023/04/17 16:44:36 83038156 9d4eeba7 [DEBUG Client 8736] [WINDOW] TrigggerDeviceReset
+2023/04/17 16:44:36 83038515 b51d614c [DEBUG Client 8736] [RENDER] RestartSwapChain
+2023/04/17 16:44:36 83038515 9e6a0b0a [INFO Client 8736] Enumerated adapter: NVIDIA GeForce GTX 1660
+2023/04/17 16:44:36 83038562 9e6a1d2a [INFO Client 8736] Enumerated device for adapter: NVIDIA GeForce GTX 1660. Selected feature level: 45312. Max feature level: 45312
+2023/04/17 16:44:36 83038578 9e6a1363 [INFO Client 8736] Enumerated output for adapter NVIDIA GeForce GTX 1660 of \\.\DISPLAY1
+2023/04/17 16:44:36 83038578 9e6a0b0a [INFO Client 8736] Enumerated adapter: Microsoft Basic Render Driver
+2023/04/17 16:44:36 83038578 9e6a1d2a [INFO Client 8736] Enumerated device for adapter: Microsoft Basic Render Driver. Selected feature level: 45312. Max feature level: 45312
+2023/04/17 16:44:36 83038578 fafff8cf [DEBUG Client 8736] CreateSwapChain: SetFullScreenState 1
+2023/04/17 16:44:36 83038625 9d4eec8a [DEBUG Client 8736] [WINDOW] TrigggerDeviceLost
+2023/04/17 16:44:36 83038640 9d4eeba7 [DEBUG Client 8736] [WINDOW] TrigggerDeviceReset
+2023/04/17 16:44:37 83039140 3275a75e [INFO Client 8736] [SHADER] Disable Async: 1 frames
+2023/04/17 16:44:37 83039140 b51d610e [INFO Client 8736] [RENDER] Disable Async: 1 frames
+2023/04/17 16:45:53 83114875 88a904cb [DEBUG Client 8736] Got Instance Details from login server
+2023/04/17 16:45:53 83114890 32759a9f [INFO Client 8736] [SHADER] Delay: OFF
+2023/04/17 16:45:53 83114890 ca3a6a71 [INFO Client 8736] Connecting to instance server at 159.122.142.234:6112
+2023/04/17 16:45:53 83114953 ca3a4dbb [DEBUG Client 8736] Connect time to instance server was 31ms
+2023/04/17 16:45:53 83115015 1186a0e5 [DEBUG Client 8736] Generating level 53 area "2_7_7" with seed 3838459524
+2023/04/17 16:45:55 83116906 f22b6987 [INFO Client 8736] Tile hash: 2022918782
+2023/04/17 16:45:55 83116906 f22b6986 [INFO Client 8736] Doodad hash: 1435115354
+2023/04/17 16:45:55 83117375 11870f49 [DEBUG Client 8736] Joined guild named Голосовой чат discord.com/invite/nXFKHzJ with 197 members 
+2023/04/17 16:45:56 83118328 cffb071e [INFO Client 8736] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Пепельные поля.
+2023/04/17 16:45:57 83119062 32759a9f [INFO Client 8736] [SHADER] Delay: ON
+2023/04/17 16:46:31 83152953 b51d4f61 [DEBUG Client 8736] [RENDER] SetRendererSettings
+2023/04/17 16:46:31 83152953 b51d6447 [DEBUG Client 8736] [RENDER] ResizeWindow
+2023/04/17 16:46:31 83152953 9d4eec8a [DEBUG Client 8736] [WINDOW] TrigggerDeviceLost
+2023/04/17 16:46:31 83152968 9d4eeba7 [DEBUG Client 8736] [WINDOW] TrigggerDeviceReset
+2023/04/17 16:46:31 83153406 b51d614c [DEBUG Client 8736] [RENDER] RestartSwapChain
+2023/04/17 16:46:31 83153406 9e6a0b0a [INFO Client 8736] Enumerated adapter: NVIDIA GeForce GTX 1660
+2023/04/17 16:46:31 83153453 9e6a1d2a [INFO Client 8736] Enumerated device for adapter: NVIDIA GeForce GTX 1660. Selected feature level: 45312. Max feature level: 45312
+2023/04/17 16:46:31 83153453 9e6a1363 [INFO Client 8736] Enumerated output for adapter NVIDIA GeForce GTX 1660 of \\.\DISPLAY1
+2023/04/17 16:46:31 83153453 9e6a0b0a [INFO Client 8736] Enumerated adapter: Microsoft Basic Render Driver
+2023/04/17 16:46:31 83153453 9e6a1d2a [INFO Client 8736] Enumerated device for adapter: Microsoft Basic Render Driver. Selected feature level: 45312. Max feature level: 45312
+2023/04/17 16:46:31 83153500 9d4eec8a [DEBUG Client 8736] [WINDOW] TrigggerDeviceLost
+2023/04/17 16:46:31 83153531 9d4eeba7 [DEBUG Client 8736] [WINDOW] TrigggerDeviceReset
+2023/04/17 16:46:32 83153953 fafff8cf [DEBUG Client 8736] CreateSwapChain: SetFullScreenState 0
+2023/04/17 16:46:32 83153953 9d4eec8a [DEBUG Client 8736] [WINDOW] TrigggerDeviceLost
+2023/04/17 16:46:32 83153984 9d4eeba7 [DEBUG Client 8736] [WINDOW] TrigggerDeviceReset
+2023/04/17 16:46:32 83154484 3275a75e [INFO Client 8736] [SHADER] Disable Async: 1 frames
+2023/04/17 16:46:32 83154484 b51d610e [INFO Client 8736] [RENDER] Disable Async: 1 frames
+2023/04/17 16:46:32 83154484 9d4eec8a [DEBUG Client 8736] [WINDOW] TrigggerDeviceLost
+2023/04/17 16:46:32 83154500 9d4eeba7 [DEBUG Client 8736] [WINDOW] TrigggerDeviceReset
+2023/04/17 16:46:43 83165640 b51d4f61 [DEBUG Client 8736] [RENDER] SetRendererSettings
+2023/04/17 16:46:43 83165640 b51d6447 [DEBUG Client 8736] [RENDER] ResizeWindow
+2023/04/17 16:46:43 83165640 9d4eec8a [DEBUG Client 8736] [WINDOW] TrigggerDeviceLost
+2023/04/17 16:46:43 83165640 9d4eeba7 [DEBUG Client 8736] [WINDOW] TrigggerDeviceReset
+2023/04/17 16:46:44 83166062 b51d614c [DEBUG Client 8736] [RENDER] RestartSwapChain
+2023/04/17 16:46:44 83166062 9e6a0b0a [INFO Client 8736] Enumerated adapter: NVIDIA GeForce GTX 1660
+2023/04/17 16:46:44 83166109 9e6a1d2a [INFO Client 8736] Enumerated device for adapter: NVIDIA GeForce GTX 1660. Selected feature level: 45312. Max feature level: 45312
+2023/04/17 16:46:44 83166109 9e6a1363 [INFO Client 8736] Enumerated output for adapter NVIDIA GeForce GTX 1660 of \\.\DISPLAY1
+2023/04/17 16:46:44 83166109 9e6a0b0a [INFO Client 8736] Enumerated adapter: Microsoft Basic Render Driver
+2023/04/17 16:46:44 83166125 9e6a1d2a [INFO Client 8736] Enumerated device for adapter: Microsoft Basic Render Driver. Selected feature level: 45312. Max feature level: 45312
+2023/04/17 16:46:44 83166125 fafff8cf [DEBUG Client 8736] CreateSwapChain: SetFullScreenState 1
+2023/04/17 16:46:44 83166171 9d4eec8a [DEBUG Client 8736] [WINDOW] TrigggerDeviceLost
+2023/04/17 16:46:44 83166203 9d4eeba7 [DEBUG Client 8736] [WINDOW] TrigggerDeviceReset
+2023/04/17 16:46:45 83166843 3275a75e [INFO Client 8736] [SHADER] Disable Async: 1 frames
+2023/04/17 16:46:45 83166843 b51d610e [INFO Client 8736] [RENDER] Disable Async: 1 frames
+2023/04/17 16:47:00 83182578 cffb071e [INFO Client 8736] : DeeGyreIIIXXI был повержен.
+2023/04/17 16:47:18 83200109 118717eb [DEBUG Client 8736] Resyncing 1821
+2023/04/17 16:47:19 83201390 cffb071e [INFO Client 8736] #Gelonizzio_Sobiraet_Pus: Проклятый клад Обы, Карта подземного моря + кому надо, только нужно бежать довольно быстро
+2023/04/17 16:47:20 83201828 3796f5e1 [WARN Client 8736] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/17 16:47:44 83225906 118717eb [DEBUG Client 8736] Resyncing 1589
+2023/04/17 16:47:44 83225906 118717eb [DEBUG Client 8736] Resyncing 1778
+2023/04/17 16:47:44 83225906 118717eb [DEBUG Client 8736] Resyncing 2394
+2023/04/17 16:47:44 83225906 118717eb [DEBUG Client 8736] Resyncing 2573
+2023/04/17 16:47:44 83225906 118717eb [DEBUG Client 8736] Resyncing 2575
+2023/04/17 16:47:44 83225906 118717eb [DEBUG Client 8736] Resyncing 1859
+2023/04/17 16:47:44 83225906 118717eb [DEBUG Client 8736] Resyncing 1782
+2023/04/17 16:47:44 83225906 118717eb [DEBUG Client 8736] Resyncing 1588
+2023/04/17 16:47:51 83232968 cffb071e [INFO Client 8736] #<GREENL> Takafumi_Takaoka: бегал не быстро, нормально закрывается она)
+2023/04/17 16:47:59 83241687 118717eb [DEBUG Client 8736] Resyncing 1821
+2023/04/17 16:47:59 83241687 118717eb [DEBUG Client 8736] Resyncing 1799
+2023/04/17 16:47:59 83241687 118717eb [DEBUG Client 8736] Resyncing 1589
+2023/04/17 16:48:03 83245468 cffb071e [INFO Client 8736] #Эпилентик: Там времени вагон
+2023/04/17 16:48:05 83247031 cffb071e [INFO Client 8736] #ST_Eyedaed: там 5 минут что ли на неё
+2023/04/17 16:48:10 83251937 cffb071e [INFO Client 8736] #Эпилентик: Около 5 минут что ли
+2023/04/17 16:48:14 83256031 cffb071e [INFO Client 8736] #Эпилентик: Во во
+2023/04/17 16:48:16 83258015 cffb071e [INFO Client 8736] : DeeGyreIIIXXI был повержен.
+2023/04/17 16:48:51 83293156 cffb071e [INFO Client 8736] #nJCruCru: мне надо)
+2023/04/17 16:49:15 83317203 cffb071e [INFO Client 8736] Рог, делец: Приветствую!
+2023/04/17 16:50:18 83380796 379702c8 [WARN Client 8736] Client couldn't execute an instant action from the server.
+action type id = 9220
+2023/04/17 16:50:18 83380796 3796fa8f [WARN Client 8736] Instant/Triggered actionwas serialized to the client, but the client failed to execute the action.
+skill_instance_id: 32772
+action_id: 36358
+object_id: 1192
+target_id: 3256
+flags: 257
+2023/04/17 16:50:23 83385734 118717eb [DEBUG Client 8736] Resyncing 3290
+2023/04/17 16:50:52 83414453 3796f5e1 [WARN Client 8736] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/17 16:52:10 83492765 cffb071e [INFO Client 8736] : Не удалось применить предмет: Цель осквернена.
+2023/04/17 16:52:32 83514171 cffb071e [INFO Client 8736] : DeeGyreIIIXXI (Снайпер) достигает 61 уровня
+2023/04/17 16:53:41 83583078 fb7abcab [INFO Client 8736] Successfully allocated passive skill id: accuracy582, name: Меткость и скорость атаки
+2023/04/17 16:54:03 83604921 379702c8 [WARN Client 8736] Client couldn't execute an instant action from the server.
+action type id = 9220
+2023/04/17 16:54:03 83604921 3796fa8f [WARN Client 8736] Instant/Triggered actionwas serialized to the client, but the client failed to execute the action.
+skill_instance_id: 32772
+action_id: 37993
+object_id: 1192
+target_id: 6452
+flags: 257
+2023/04/17 16:54:19 83621203 379702c8 [WARN Client 8736] Client couldn't execute an instant action from the server.
+action type id = 9220
+2023/04/17 16:54:19 83621203 3796fa8f [WARN Client 8736] Instant/Triggered actionwas serialized to the client, but the client failed to execute the action.
+skill_instance_id: 32772
+action_id: 38193
+object_id: 1192
+target_id: 6560
+flags: 257
+2023/04/17 16:54:20 83622656 379702c8 [WARN Client 8736] Client couldn't execute an instant action from the server.
+action type id = 9220
+2023/04/17 16:54:20 83622656 3796fa8f [WARN Client 8736] Instant/Triggered actionwas serialized to the client, but the client failed to execute the action.
+skill_instance_id: 32772
+action_id: 38214
+object_id: 1192
+target_id: 6560
+flags: 257
+2023/04/17 16:54:29 83631078 379702c8 [WARN Client 8736] Client couldn't execute an instant action from the server.
+action type id = 9220
+2023/04/17 16:54:29 83631078 3796fa8f [WARN Client 8736] Instant/Triggered actionwas serialized to the client, but the client failed to execute the action.
+skill_instance_id: 32772
+action_id: 38330
+object_id: 1192
+target_id: 6560
+flags: 257
+2023/04/17 16:55:14 83676515 cffb071e [INFO Client 8736] Грех: Ралакеш!
+2023/04/17 16:55:21 83683515 cffb071e [INFO Client 8736] Грех: Отринь лицо тирана навсегда. Пусть его царство сгинет без следа.
+2023/04/17 16:55:36 83698765 b51d4f61 [DEBUG Client 8736] [RENDER] SetRendererSettings
+2023/04/17 16:55:36 83698765 b51d6447 [DEBUG Client 8736] [RENDER] ResizeWindow
+2023/04/17 16:55:36 83698765 9d4eec8a [DEBUG Client 8736] [WINDOW] TrigggerDeviceLost
+2023/04/17 16:55:36 83698781 9d4eeba7 [DEBUG Client 8736] [WINDOW] TrigggerDeviceReset
+2023/04/17 16:55:37 83699250 b51d614c [DEBUG Client 8736] [RENDER] RestartSwapChain
+2023/04/17 16:55:37 83699250 9e6a0b0a [INFO Client 8736] Enumerated adapter: NVIDIA GeForce GTX 1660
+2023/04/17 16:55:37 83699296 9e6a1d2a [INFO Client 8736] Enumerated device for adapter: NVIDIA GeForce GTX 1660. Selected feature level: 45312. Max feature level: 45312
+2023/04/17 16:55:37 83699296 9e6a1363 [INFO Client 8736] Enumerated output for adapter NVIDIA GeForce GTX 1660 of \\.\DISPLAY1
+2023/04/17 16:55:37 83699296 9e6a0b0a [INFO Client 8736] Enumerated adapter: Microsoft Basic Render Driver
+2023/04/17 16:55:37 83699296 9e6a1d2a [INFO Client 8736] Enumerated device for adapter: Microsoft Basic Render Driver. Selected feature level: 45312. Max feature level: 45312
+2023/04/17 16:55:37 83699343 9d4eec8a [DEBUG Client 8736] [WINDOW] TrigggerDeviceLost
+2023/04/17 16:55:37 83699375 9d4eeba7 [DEBUG Client 8736] [WINDOW] TrigggerDeviceReset
+2023/04/17 16:55:38 83700109 fafff8cf [DEBUG Client 8736] CreateSwapChain: SetFullScreenState 0
+2023/04/17 16:55:38 83700109 9d4eec8a [DEBUG Client 8736] [WINDOW] TrigggerDeviceLost
+2023/04/17 16:55:38 83700125 9d4eeba7 [DEBUG Client 8736] [WINDOW] TrigggerDeviceReset
+2023/04/17 16:55:39 83700968 3275a75e [INFO Client 8736] [SHADER] Disable Async: 1 frames
+2023/04/17 16:55:39 83700968 b51d610e [INFO Client 8736] [RENDER] Disable Async: 1 frames
+2023/04/17 16:55:39 83700984 9d4eec8a [DEBUG Client 8736] [WINDOW] TrigggerDeviceLost
+2023/04/17 16:55:39 83701000 9d4eeba7 [DEBUG Client 8736] [WINDOW] TrigggerDeviceReset
+2023/04/17 16:55:40 83702031 88a904cb [DEBUG Client 8736] Got Instance Details from login server
+2023/04/17 16:55:40 83702031 32759a9f [INFO Client 8736] [SHADER] Delay: OFF
+2023/04/17 16:55:40 83702031 ca3a6a71 [INFO Client 8736] Connecting to instance server at 159.122.142.250:6112
+2023/04/17 16:55:40 83702171 ca3a4dbb [DEBUG Client 8736] Connect time to instance server was 47ms
+2023/04/17 16:55:40 83702218 1186a0e5 [DEBUG Client 8736] Generating level 53 area "2_7_8" with seed 1186562351
+2023/04/17 16:55:40 83702500 f22b6987 [INFO Client 8736] Tile hash: 3726158081
+2023/04/17 16:55:40 83702500 f22b6986 [INFO Client 8736] Doodad hash: 2224190044
+2023/04/17 16:55:41 83703343 11870f49 [DEBUG Client 8736] Joined guild named Голосовой чат discord.com/invite/nXFKHzJ with 197 members 
+2023/04/17 16:55:42 83704078 cffb071e [INFO Client 8736] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Северный лес.
+2023/04/17 16:55:42 83704703 32759a9f [INFO Client 8736] [SHADER] Delay: ON
+2023/04/17 16:56:19 83741328 b51d4f61 [DEBUG Client 8736] [RENDER] SetRendererSettings
+2023/04/17 16:56:19 83741328 b51d6447 [DEBUG Client 8736] [RENDER] ResizeWindow
+2023/04/17 16:56:19 83741328 9d4eec8a [DEBUG Client 8736] [WINDOW] TrigggerDeviceLost
+2023/04/17 16:56:19 83741343 9d4eeba7 [DEBUG Client 8736] [WINDOW] TrigggerDeviceReset
+2023/04/17 16:56:19 83741640 b51d614c [DEBUG Client 8736] [RENDER] RestartSwapChain
+2023/04/17 16:56:19 83741640 9e6a0b0a [INFO Client 8736] Enumerated adapter: NVIDIA GeForce GTX 1660
+2023/04/17 16:56:19 83741703 9e6a1d2a [INFO Client 8736] Enumerated device for adapter: NVIDIA GeForce GTX 1660. Selected feature level: 45312. Max feature level: 45312
+2023/04/17 16:56:19 83741703 9e6a1363 [INFO Client 8736] Enumerated output for adapter NVIDIA GeForce GTX 1660 of \\.\DISPLAY1
+2023/04/17 16:56:19 83741703 9e6a0b0a [INFO Client 8736] Enumerated adapter: Microsoft Basic Render Driver
+2023/04/17 16:56:19 83741703 9e6a1d2a [INFO Client 8736] Enumerated device for adapter: Microsoft Basic Render Driver. Selected feature level: 45312. Max feature level: 45312
+2023/04/17 16:56:19 83741718 fafff8cf [DEBUG Client 8736] CreateSwapChain: SetFullScreenState 1
+2023/04/17 16:56:19 83741750 9d4eec8a [DEBUG Client 8736] [WINDOW] TrigggerDeviceLost
+2023/04/17 16:56:19 83741781 9d4eeba7 [DEBUG Client 8736] [WINDOW] TrigggerDeviceReset
+2023/04/17 16:56:20 83742437 3275a75e [INFO Client 8736] [SHADER] Disable Async: 1 frames
+2023/04/17 16:56:20 83742437 b51d610e [INFO Client 8736] [RENDER] Disable Async: 1 frames
+2023/04/17 16:57:18 83799843 88a904cb [DEBUG Client 8736] Got Instance Details from login server
+2023/04/17 16:57:18 83799843 32759a9f [INFO Client 8736] [SHADER] Delay: OFF
+2023/04/17 16:57:18 83799843 ca3a6a71 [INFO Client 8736] Connecting to instance server at 169.51.201.139:6112
+2023/04/17 16:57:18 83799921 ca3a4dbb [DEBUG Client 8736] Connect time to instance server was 47ms
+2023/04/17 16:57:18 83799968 1186a0e5 [DEBUG Client 8736] Generating level 54 area "2_7_10" with seed 1642058738
+2023/04/17 16:57:18 83800750 f22b6987 [INFO Client 8736] Tile hash: 3068792024
+2023/04/17 16:57:18 83800750 f22b6986 [INFO Client 8736] Doodad hash: 29961457
+2023/04/17 16:57:20 83802140 11870f49 [DEBUG Client 8736] Joined guild named Голосовой чат discord.com/invite/nXFKHzJ with 197 members 
+2023/04/17 16:57:20 83802796 cffb071e [INFO Client 8736] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Перешеек.
+2023/04/17 16:57:21 83803406 32759a9f [INFO Client 8736] [SHADER] Delay: ON
+2023/04/17 16:57:27 83809234 379702c8 [WARN Client 8736] Client couldn't execute an instant action from the server.
+action type id = 9220
+2023/04/17 16:57:27 83809234 3796fa8f [WARN Client 8736] Instant/Triggered actionwas serialized to the client, but the client failed to execute the action.
+skill_instance_id: 32772
+action_id: 34478
+object_id: 1624
+target_id: 659
+flags: 257
+2023/04/17 16:57:48 83830109 cffb071e [INFO Client 8736] Альва, Мастер исследований: Как раз вовремя.
+2023/04/17 16:58:01 83842890 379702c8 [WARN Client 8736] Client couldn't execute an instant action from the server.
+action type id = 9220
+2023/04/17 16:58:01 83842890 3796fa8f [WARN Client 8736] Instant/Triggered actionwas serialized to the client, but the client failed to execute the action.
+skill_instance_id: 32772
+action_id: 34838
+object_id: 1624
+target_id: 857
+flags: 257
+2023/04/17 16:58:08 83850515 379702c8 [WARN Client 8736] Client couldn't execute an instant action from the server.
+action type id = 9220
+2023/04/17 16:58:08 83850515 3796fa8f [WARN Client 8736] Instant/Triggered actionwas serialized to the client, but the client failed to execute the action.
+skill_instance_id: 32772
+action_id: 34915
+object_id: 1624
+target_id: 0
+flags: 257
+2023/04/17 16:58:17 83859234 379702c8 [WARN Client 8736] Client couldn't execute an instant action from the server.
+action type id = 9220
+2023/04/17 16:58:17 83859234 3796fa8f [WARN Client 8736] Instant/Triggered actionwas serialized to the client, but the client failed to execute the action.
+skill_instance_id: 32772
+action_id: 35040
+object_id: 1624
+target_id: 926
+flags: 257
+2023/04/17 16:58:18 83860718 379702c8 [WARN Client 8736] Client couldn't execute an instant action from the server.
+action type id = 9220
+2023/04/17 16:58:18 83860718 3796fa8f [WARN Client 8736] Instant/Triggered actionwas serialized to the client, but the client failed to execute the action.
+skill_instance_id: 32772
+action_id: 35059
+object_id: 1624
+target_id: 929
+flags: 257
+2023/04/17 16:58:31 83873562 cffb071e [INFO Client 8736] &<RiPE> КотлетыВдуховке: +
+2023/04/17 16:59:14 83916093 379702c8 [WARN Client 8736] Client couldn't execute an instant action from the server.
+action type id = 9220
+2023/04/17 16:59:14 83916093 3796fa8f [WARN Client 8736] Instant/Triggered actionwas serialized to the client, but the client failed to execute the action.
+skill_instance_id: 32772
+action_id: 35553
+object_id: 1624
+target_id: 620
+flags: 257
+2023/04/17 16:59:31 83933546 cffb071e [INFO Client 8736] : DeeGyreIIIXXI был повержен.
