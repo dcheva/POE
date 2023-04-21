@@ -7637,3 +7637,551 @@ flags: 257
 2023/04/21 00:50:59 24623812 1524855a [WARN Client 7852] MeleeAttackActionClientImpl::ContactAttack on_hit_bone Invalid for Metadata/MiscellaneousObjects/TrapBlade
 2023/04/21 00:50:59 24623812 1524855a [WARN Client 7852] MeleeAttackActionClientImpl::ContactAttack on_hit_bone Invalid for Metadata/MiscellaneousObjects/TrapBlade
 2023/04/21 00:51:14 24639609 cffb071e [INFO Client 7852] : DeeGyreIIIXXI был повержен.
+2023/04/21 04:09:50 ***** LOG FILE OPENING *****
+2023/04/21 04:09:50 36555468 f9544283 [INFO Client 6668] [STARTUP] Job Queues
+2023/04/21 04:09:50 36555468 9e6a0b0a [INFO Client 6668] Enumerated adapter: NVIDIA GeForce GTX 1660
+2023/04/21 04:09:50 36555640 9e6a1d2a [INFO Client 6668] Enumerated device for adapter: NVIDIA GeForce GTX 1660. Selected feature level: 45312. Max feature level: 45312
+2023/04/21 04:09:50 36555640 9e6a1363 [INFO Client 6668] Enumerated output for adapter NVIDIA GeForce GTX 1660 of \\.\DISPLAY1
+2023/04/21 04:09:50 36555640 9e6a0b0a [INFO Client 6668] Enumerated adapter: Microsoft Basic Render Driver
+2023/04/21 04:09:50 36555640 9e6a1d2a [INFO Client 6668] Enumerated device for adapter: Microsoft Basic Render Driver. Selected feature level: 45312. Max feature level: 45312
+2023/04/21 04:09:50 36555640 84a7d27d [INFO Client 6668] [ENGINE] Init
+2023/04/21 04:09:50 36555640 55713145 [INFO Client 6668] [JOB] HIGH: 3
+2023/04/21 04:09:50 36555640 55713145 [INFO Client 6668] [JOB] MEDIUM: 3
+2023/04/21 04:09:50 36555640 55713145 [INFO Client 6668] [JOB] LOW: 3
+2023/04/21 04:09:50 36555640 55713145 [INFO Client 6668] [JOB] IDLE: 1
+2023/04/21 04:09:50 36555640 7bb548f [INFO Client 6668] [BUNDLE2] Init
+2023/04/21 04:09:50 36555640 7bb36c4 [INFO Client 6668] [BUNDLE2] Index: Bundles2/_.index.bin
+2023/04/21 04:09:51 36555859 7bb61e6 [INFO Client 6668] [BUNDLE2] File cache size: 1024
+2023/04/21 04:09:51 36555859 b51d61ab [INFO Client 6668] [RENDER] Async: ON
+2023/04/21 04:09:51 36555859 b51d60c8 [INFO Client 6668] [RENDER] Warmup: ON
+2023/04/21 04:09:51 36555859 b51d60ce [INFO Client 6668] [RENDER] Skip: ON
+2023/04/21 04:09:51 36555859 b51d60eb [INFO Client 6668] [RENDER] Throttling: ON
+2023/04/21 04:09:51 36555859 32759a7a [INFO Client 6668] [SHADER] Address: http://www.pathofexile.com/tool/shader-db?a=store
+2023/04/21 04:09:51 36555859 32759a70 [INFO Client 6668] [SHADER] Async: ON
+2023/04/21 04:09:51 36555859 32759a9f [INFO Client 6668] [SHADER] Delay: OFF
+2023/04/21 04:09:51 36555859 32759aba [INFO Client 6668] [SHADER] Limit: ON
+2023/04/21 04:09:51 36555859 32759abc [INFO Client 6668] [SHADER] Warmup: ON
+2023/04/21 04:09:51 36555859 327599d7 [INFO Client 6668] [SHADER] Parallel: OFF
+2023/04/21 04:09:51 36555859 84a7e376 [INFO Client 6668] [ENGINE] Running Engine version 1.8.0
+2023/04/21 04:09:51 36555859 47bbd15a [INFO Client 6668] [SOUND] Buffer size = 64.0 MB
+2023/04/21 04:09:51 36555890 9b0d205 [INFO Client 6668] [VIDEO] Enable: ON
+2023/04/21 04:09:51 36555921 84a7d2d8 [INFO Client 6668] [ENGINE] Ready
+2023/04/21 04:09:51 36556171 951bc0b0 [INFO Client 6668] [STARTUP] Bundle Startup Start
+2023/04/21 04:09:51 36556171 951bc057 [INFO Client 6668] [STARTUP] Bundle Startup in 4.4e-05 seconds
+2023/04/21 04:09:51 36556171 951bc0b0 [INFO Client 6668] [STARTUP] Game Start
+2023/04/21 04:09:51 36556453 ca86fd3f [DEBUG Client 6668] Rebuilding UI::Core properties. Current input mode = '1'
+2023/04/21 04:09:51 36556703 951bc057 [INFO Client 6668] [STARTUP] Game in 0.533018 seconds
+2023/04/21 04:09:51 36556703 951bc0b0 [INFO Client 6668] [STARTUP] Window Start
+2023/04/21 04:09:51 36556703 9e6a0b0a [INFO Client 6668] Enumerated adapter: NVIDIA GeForce GTX 1660
+2023/04/21 04:09:52 36556828 9e6a1d2a [INFO Client 6668] Enumerated device for adapter: NVIDIA GeForce GTX 1660. Selected feature level: 45312. Max feature level: 45312
+2023/04/21 04:09:52 36556828 9e6a1363 [INFO Client 6668] Enumerated output for adapter NVIDIA GeForce GTX 1660 of \\.\DISPLAY1
+2023/04/21 04:09:52 36556828 9e6a0b0a [INFO Client 6668] Enumerated adapter: Microsoft Basic Render Driver
+2023/04/21 04:09:52 36556843 9e6a1d2a [INFO Client 6668] Enumerated device for adapter: Microsoft Basic Render Driver. Selected feature level: 45312. Max feature level: 45312
+2023/04/21 04:09:52 36556843 951bc057 [INFO Client 6668] [STARTUP] Window in 0.147027 seconds
+2023/04/21 04:09:52 36556859 413b61ff [DEBUG Client 6668] [GamepadManager] Initialising
+2023/04/21 04:09:52 36556859 951bc0b0 [INFO Client 6668] [STARTUP] Device Start
+2023/04/21 04:09:52 36556859 b51d6589 [INFO Client 6668] [RENDER] StartDevice: DirectX11
+2023/04/21 04:09:52 36556984 71b2ea0 [DEBUG Client 6668] [SHADER] Load shader cache: ShaderCacheD3D11
+2023/04/21 04:09:52 36557140 fafff8cf [DEBUG Client 6668] CreateSwapChain: SetFullScreenState 1
+2023/04/21 04:09:52 36557140 29d4ce01 [INFO Client 6668] [D3D11] Runtime version = 11.1
+2023/04/21 04:09:52 36557140 29d4ce00 [INFO Client 6668] [D3D11] Feature Level = 11.1
+2023/04/21 04:09:52 36557140 29d4ce03 [INFO Client 6668] [D3D11] Driver Command Lists = YES
+2023/04/21 04:09:52 36557140 29d4ce02 [INFO Client 6668] [D3D11] Driver Concurrent Creates = YES
+2023/04/21 04:09:52 36557140 29d4ce05 [INFO Client 6668] [D3D11] Driver Constant Buffer Offsetting = YES
+2023/04/21 04:09:52 36557265 9d4eeb40 [DEBUG Client 6668] [WINDOW] TrigggerDeviceCreate
+2023/04/21 04:09:52 36557328 9d4eeba7 [DEBUG Client 6668] [WINDOW] TrigggerDeviceReset
+2023/04/21 04:09:52 36557343 951bc057 [INFO Client 6668] [STARTUP] Device in 0.495745 seconds
+2023/04/21 04:09:52 36557343 951bc0b0 [INFO Client 6668] [STARTUP] Tencent Start
+2023/04/21 04:09:52 36557343 951bc057 [INFO Client 6668] [STARTUP] Tencent in 1.4e-05 seconds
+2023/04/21 04:09:52 36557343 951bc0b0 [INFO Client 6668] [STARTUP] Loading Start
+2023/04/21 04:09:52 36557375 951bc057 [INFO Client 6668] [STARTUP] Loading in 0.015929 seconds
+2023/04/21 04:09:52 36557375 951bc0b0 [INFO Client 6668] [STARTUP] DebugGUI Start
+2023/04/21 04:09:52 36557375 951bc057 [INFO Client 6668] [STARTUP] DebugGUI in 1.3e-05 seconds
+2023/04/21 04:09:52 36557375 951bc0b0 [INFO Client 6668] [STARTUP] Bundle Tiny Start
+2023/04/21 04:09:52 36557375 951bc0b0 [INFO Client 6668] [STARTUP] Bundle Login Start
+2023/04/21 04:09:52 36557375 951bc057 [INFO Client 6668] [STARTUP] Bundle Login in 2.3e-05 seconds
+2023/04/21 04:09:52 36557375 951bc0b0 [INFO Client 6668] [STARTUP] Registration Start
+2023/04/21 04:09:52 36557375 951bc0b0 [INFO Client 6668] [STARTUP] Audio Start
+2023/04/21 04:09:52 36557375 951bc057 [INFO Client 6668] [STARTUP] Bundle Tiny in 5.3e-05 seconds
+2023/04/21 04:09:52 36557375 47bbee18 [INFO Client 6668] [SOUND] Channel count = 64 (asked for 64)
+2023/04/21 04:09:52 36557375 47bbee19 [INFO Client 6668] [SOUND] Source count = 512
+2023/04/21 04:09:52 36557390 b51d4f61 [DEBUG Client 6668] [RENDER] SetRendererSettings
+2023/04/21 04:09:52 36557390 b51d6447 [DEBUG Client 6668] [RENDER] ResizeWindow
+2023/04/21 04:09:52 36557390 b51d614c [DEBUG Client 6668] [RENDER] RestartSwapChain
+2023/04/21 04:09:52 36557390 9e6a0b0a [INFO Client 6668] Enumerated adapter: NVIDIA GeForce GTX 1660
+2023/04/21 04:09:52 36557453 9e6a1d2a [INFO Client 6668] Enumerated device for adapter: NVIDIA GeForce GTX 1660. Selected feature level: 45312. Max feature level: 45312
+2023/04/21 04:09:52 36557453 9e6a1363 [INFO Client 6668] Enumerated output for adapter NVIDIA GeForce GTX 1660 of \\.\DISPLAY1
+2023/04/21 04:09:52 36557453 9e6a0b0a [INFO Client 6668] Enumerated adapter: Microsoft Basic Render Driver
+2023/04/21 04:09:52 36557453 9e6a1d2a [INFO Client 6668] Enumerated device for adapter: Microsoft Basic Render Driver. Selected feature level: 45312. Max feature level: 45312
+2023/04/21 04:09:52 36557453 fafff8cf [DEBUG Client 6668] CreateSwapChain: SetFullScreenState 0
+2023/04/21 04:09:52 36557453 9d4eec8a [DEBUG Client 6668] [WINDOW] TrigggerDeviceLost
+2023/04/21 04:09:52 36557453 9d4eeba7 [DEBUG Client 6668] [WINDOW] TrigggerDeviceReset
+2023/04/21 04:09:52 36557468 3275a75e [INFO Client 6668] [SHADER] Disable Async: 1 frames
+2023/04/21 04:09:52 36557468 b51d610e [INFO Client 6668] [RENDER] Disable Async: 1 frames
+2023/04/21 04:09:52 36557500 47bbea58 [INFO Client 6668] Changing to device "Line 1 (Virtual Audio Cable)"
+2023/04/21 04:09:52 36557531 951bc057 [INFO Client 6668] [STARTUP] Audio in 0.160812 seconds
+2023/04/21 04:09:52 36557703 951bc057 [INFO Client 6668] [STARTUP] Registration in 0.339697 seconds
+2023/04/21 04:09:53 36558375 5094179d [WARN Client 6668] tool_settings.json was not found. Resetting to default settings.
+2023/04/21 04:10:50 36614953 b51d4f61 [DEBUG Client 6668] [RENDER] SetRendererSettings
+2023/04/21 04:10:50 36614953 b51d6447 [DEBUG Client 6668] [RENDER] ResizeWindow
+2023/04/21 04:10:50 36614953 b51d614c [DEBUG Client 6668] [RENDER] RestartSwapChain
+2023/04/21 04:10:50 36614953 9e6a0b0a [INFO Client 6668] Enumerated adapter: NVIDIA GeForce GTX 1660
+2023/04/21 04:10:50 36615000 9e6a1d2a [INFO Client 6668] Enumerated device for adapter: NVIDIA GeForce GTX 1660. Selected feature level: 45312. Max feature level: 45312
+2023/04/21 04:10:50 36615000 9e6a1363 [INFO Client 6668] Enumerated output for adapter NVIDIA GeForce GTX 1660 of \\.\DISPLAY1
+2023/04/21 04:10:50 36615000 9e6a0b0a [INFO Client 6668] Enumerated adapter: Microsoft Basic Render Driver
+2023/04/21 04:10:50 36615015 9e6a1d2a [INFO Client 6668] Enumerated device for adapter: Microsoft Basic Render Driver. Selected feature level: 45312. Max feature level: 45312
+2023/04/21 04:10:50 36615015 fafff8cf [DEBUG Client 6668] CreateSwapChain: SetFullScreenState 1
+2023/04/21 04:10:50 36615062 9d4eec8a [DEBUG Client 6668] [WINDOW] TrigggerDeviceLost
+2023/04/21 04:10:50 36615062 9d4eeba7 [DEBUG Client 6668] [WINDOW] TrigggerDeviceReset
+2023/04/21 04:10:50 36615093 3275a75e [INFO Client 6668] [SHADER] Disable Async: 1 frames
+2023/04/21 04:10:50 36615093 b51d610e [INFO Client 6668] [RENDER] Disable Async: 1 frames
+2023/04/21 04:10:52 36616734 b51d4f61 [DEBUG Client 6668] [RENDER] SetRendererSettings
+2023/04/21 04:10:52 36616734 b51d6447 [DEBUG Client 6668] [RENDER] ResizeWindow
+2023/04/21 04:10:52 36616734 9d4eec8a [DEBUG Client 6668] [WINDOW] TrigggerDeviceLost
+2023/04/21 04:10:52 36616734 9d4eeba7 [DEBUG Client 6668] [WINDOW] TrigggerDeviceReset
+2023/04/21 04:10:52 36616765 b51d614c [DEBUG Client 6668] [RENDER] RestartSwapChain
+2023/04/21 04:10:52 36616765 9e6a0b0a [INFO Client 6668] Enumerated adapter: NVIDIA GeForce GTX 1660
+2023/04/21 04:10:52 36616890 9e6a1d2a [INFO Client 6668] Enumerated device for adapter: NVIDIA GeForce GTX 1660. Selected feature level: 45312. Max feature level: 45312
+2023/04/21 04:10:52 36616890 9e6a1363 [INFO Client 6668] Enumerated output for adapter NVIDIA GeForce GTX 1660 of \\.\DISPLAY1
+2023/04/21 04:10:52 36616890 9e6a0b0a [INFO Client 6668] Enumerated adapter: Microsoft Basic Render Driver
+2023/04/21 04:10:52 36616890 9e6a1d2a [INFO Client 6668] Enumerated device for adapter: Microsoft Basic Render Driver. Selected feature level: 45312. Max feature level: 45312
+2023/04/21 04:10:52 36616890 fafff8cf [DEBUG Client 6668] CreateSwapChain: SetFullScreenState 0
+2023/04/21 04:10:52 36616890 9d4eec8a [DEBUG Client 6668] [WINDOW] TrigggerDeviceLost
+2023/04/21 04:10:52 36616890 9d4eeba7 [DEBUG Client 6668] [WINDOW] TrigggerDeviceReset
+2023/04/21 04:10:52 36616921 3275a75e [INFO Client 6668] [SHADER] Disable Async: 1 frames
+2023/04/21 04:10:52 36616921 b51d610e [INFO Client 6668] [RENDER] Disable Async: 1 frames
+2023/04/21 04:10:55 36620093 b51d4f61 [DEBUG Client 6668] [RENDER] SetRendererSettings
+2023/04/21 04:10:55 36620093 b51d6447 [DEBUG Client 6668] [RENDER] ResizeWindow
+2023/04/21 04:10:55 36620093 b51d614c [DEBUG Client 6668] [RENDER] RestartSwapChain
+2023/04/21 04:10:55 36620093 9e6a0b0a [INFO Client 6668] Enumerated adapter: NVIDIA GeForce GTX 1660
+2023/04/21 04:10:55 36620156 9e6a1d2a [INFO Client 6668] Enumerated device for adapter: NVIDIA GeForce GTX 1660. Selected feature level: 45312. Max feature level: 45312
+2023/04/21 04:10:55 36620156 9e6a1363 [INFO Client 6668] Enumerated output for adapter NVIDIA GeForce GTX 1660 of \\.\DISPLAY1
+2023/04/21 04:10:55 36620156 9e6a0b0a [INFO Client 6668] Enumerated adapter: Microsoft Basic Render Driver
+2023/04/21 04:10:55 36620156 9e6a1d2a [INFO Client 6668] Enumerated device for adapter: Microsoft Basic Render Driver. Selected feature level: 45312. Max feature level: 45312
+2023/04/21 04:10:55 36620156 fafff8cf [DEBUG Client 6668] CreateSwapChain: SetFullScreenState 1
+2023/04/21 04:10:55 36620203 9d4eec8a [DEBUG Client 6668] [WINDOW] TrigggerDeviceLost
+2023/04/21 04:10:55 36620203 9d4eeba7 [DEBUG Client 6668] [WINDOW] TrigggerDeviceReset
+2023/04/21 04:10:55 36620234 3275a75e [INFO Client 6668] [SHADER] Disable Async: 1 frames
+2023/04/21 04:10:55 36620234 b51d610e [INFO Client 6668] [RENDER] Disable Async: 1 frames
+2023/04/21 04:10:55 36620531 b51d4f61 [DEBUG Client 6668] [RENDER] SetRendererSettings
+2023/04/21 04:10:55 36620531 b51d6447 [DEBUG Client 6668] [RENDER] ResizeWindow
+2023/04/21 04:10:55 36620531 9d4eec8a [DEBUG Client 6668] [WINDOW] TrigggerDeviceLost
+2023/04/21 04:10:55 36620531 9d4eeba7 [DEBUG Client 6668] [WINDOW] TrigggerDeviceReset
+2023/04/21 04:10:55 36620562 b51d614c [DEBUG Client 6668] [RENDER] RestartSwapChain
+2023/04/21 04:10:55 36620562 9e6a0b0a [INFO Client 6668] Enumerated adapter: NVIDIA GeForce GTX 1660
+2023/04/21 04:10:55 36620640 9e6a1d2a [INFO Client 6668] Enumerated device for adapter: NVIDIA GeForce GTX 1660. Selected feature level: 45312. Max feature level: 45312
+2023/04/21 04:10:55 36620640 9e6a1363 [INFO Client 6668] Enumerated output for adapter NVIDIA GeForce GTX 1660 of \\.\DISPLAY1
+2023/04/21 04:10:55 36620640 9e6a0b0a [INFO Client 6668] Enumerated adapter: Microsoft Basic Render Driver
+2023/04/21 04:10:55 36620640 9e6a1d2a [INFO Client 6668] Enumerated device for adapter: Microsoft Basic Render Driver. Selected feature level: 45312. Max feature level: 45312
+2023/04/21 04:10:55 36620656 9d4eec8a [DEBUG Client 6668] [WINDOW] TrigggerDeviceLost
+2023/04/21 04:10:55 36620671 9d4eeba7 [DEBUG Client 6668] [WINDOW] TrigggerDeviceReset
+2023/04/21 04:10:55 36620703 fafff8cf [DEBUG Client 6668] CreateSwapChain: SetFullScreenState 0
+2023/04/21 04:10:55 36620703 9d4eec8a [DEBUG Client 6668] [WINDOW] TrigggerDeviceLost
+2023/04/21 04:10:55 36620703 9d4eeba7 [DEBUG Client 6668] [WINDOW] TrigggerDeviceReset
+2023/04/21 04:10:56 36620718 3275a75e [INFO Client 6668] [SHADER] Disable Async: 1 frames
+2023/04/21 04:10:56 36620718 b51d610e [INFO Client 6668] [RENDER] Disable Async: 1 frames
+2023/04/21 04:10:56 36620718 9d4eec8a [DEBUG Client 6668] [WINDOW] TrigggerDeviceLost
+2023/04/21 04:10:56 36620734 9d4eeba7 [DEBUG Client 6668] [WINDOW] TrigggerDeviceReset
+2023/04/21 04:13:08 36752906 b51d4f61 [DEBUG Client 6668] [RENDER] SetRendererSettings
+2023/04/21 04:13:08 36752906 b51d6447 [DEBUG Client 6668] [RENDER] ResizeWindow
+2023/04/21 04:13:08 36752906 b51d614c [DEBUG Client 6668] [RENDER] RestartSwapChain
+2023/04/21 04:13:08 36752906 9e6a0b0a [INFO Client 6668] Enumerated adapter: NVIDIA GeForce GTX 1660
+2023/04/21 04:13:08 36752968 9e6a1d2a [INFO Client 6668] Enumerated device for adapter: NVIDIA GeForce GTX 1660. Selected feature level: 45312. Max feature level: 45312
+2023/04/21 04:13:08 36752968 9e6a1363 [INFO Client 6668] Enumerated output for adapter NVIDIA GeForce GTX 1660 of \\.\DISPLAY1
+2023/04/21 04:13:08 36752968 9e6a0b0a [INFO Client 6668] Enumerated adapter: Microsoft Basic Render Driver
+2023/04/21 04:13:08 36752968 9e6a1d2a [INFO Client 6668] Enumerated device for adapter: Microsoft Basic Render Driver. Selected feature level: 45312. Max feature level: 45312
+2023/04/21 04:13:08 36752968 fafff8cf [DEBUG Client 6668] CreateSwapChain: SetFullScreenState 1
+2023/04/21 04:13:08 36753015 9d4eec8a [DEBUG Client 6668] [WINDOW] TrigggerDeviceLost
+2023/04/21 04:13:08 36753015 9d4eeba7 [DEBUG Client 6668] [WINDOW] TrigggerDeviceReset
+2023/04/21 04:13:08 36753046 3275a75e [INFO Client 6668] [SHADER] Disable Async: 1 frames
+2023/04/21 04:13:08 36753046 b51d610e [INFO Client 6668] [RENDER] Disable Async: 1 frames
+2023/04/21 04:13:09 36754718 890d9d5f [INFO Client 6668] Async connecting to mil01.login.pathofexile.com:20481
+2023/04/21 04:13:10 36754734 890d9cd8 [INFO Client 6668] Connected to mil01.login.pathofexile.com in 0ms.
+2023/04/21 04:13:14 36758937 88a904cb [DEBUG Client 6668] Got Instance Details from login server
+2023/04/21 04:13:14 36758968 32759a9f [INFO Client 6668] [SHADER] Delay: OFF
+2023/04/21 04:13:14 36758968 ca3a6a71 [INFO Client 6668] Connecting to instance server at 169.51.201.178:6112
+2023/04/21 04:13:14 36759015 ca3a4dbb [DEBUG Client 6668] Connect time to instance server was 47ms
+2023/04/21 04:13:14 36759093 1186a0e5 [DEBUG Client 6668] Generating level 69 area "2_10_town" with seed 1
+2023/04/21 04:13:15 36760234 f22b6987 [INFO Client 6668] Tile hash: 3862614232
+2023/04/21 04:13:15 36760234 f22b6986 [INFO Client 6668] Doodad hash: 2693664852
+2023/04/21 04:13:17 36762437 11870f49 [DEBUG Client 6668] Joined guild named Голосовой чат discord.com/invite/nXFKHzJ with 199 members 
+2023/04/21 04:13:18 36763375 cffb071e [INFO Client 6668] &: ОБЪЯВЛЕНИЕ ГИЛЬДИИ: В гостяк у CARDIFF 
+2023/04/21 04:13:18 36763687 cffb071e [INFO Client 6668] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Доки Ориата.
+2023/04/21 04:13:19 36764078 cffb071e [INFO Client 6668] : Вы присоединились к Общему каналу чата 9,968.
+2023/04/21 04:13:20 36764781 32759a9f [INFO Client 6668] [SHADER] Delay: ON
+2023/04/21 04:13:20 36764828 374e0d22 [INFO Client 6668] [Item Filter] Preparing to download online filter 7Mr0AZHP
+2023/04/21 04:13:20 36764828 374e0cc3 [INFO Client 6668] [Item Filter] Hash for online filter 7Mr0AZHP is: 55b166a332ae6c51a1c0cef67a526c5a
+2023/04/21 04:13:20 36764953 374e0cc9 [INFO Client 6668] [Item Filter] Online item filter 7Mr0AZHP returned status: 200
+2023/04/21 04:13:20 36764953 374e0ce3 [DEBUG Client 6668] [Item Filter] Online item filter request resolved to: 209.197.3.101
+2023/04/21 04:13:20 36764953 374e0e8e [DEBUG Client 6668] [Item Filter] X-HW: 1682039597.dop219.ve1.t,1682039598.cds260.ve1.shn,1682039598.dop219.ve1.t,1682039598.cds241.ve1.c
+2023/04/21 04:13:20 36764953 374df808 [INFO Client 6668] [Item Filter] Successfully saved online filter 7Mr0AZHP. Hash is now: 55b166a332ae6c51a1c0cef67a526c5a
+2023/04/21 04:13:20 36765015 7884752a [INFO Client 6668] [Item Filter] Finished reloading online filter 7Mr0AZHP. Result: true. Hash: 55b166a332ae6c51a1c0cef67a526c5a. Type: Normal. Message: 
+2023/04/21 04:13:20 36765015 2a1490e5 [INFO Client 6668] PrecalcBaseTypeHashMap
+2023/04/21 04:13:20 36765093 2a1490e7 [INFO Client 6668] PrecalcModNameHashMap
+2023/04/21 04:13:21 36766531 2a1490e1 [INFO Client 6668] PrecalcItemClassMap
+2023/04/21 04:13:21 36766531 2a1490e3 [INFO Client 6668] PrecalcSoundEffects
+2023/04/21 04:13:21 36766531 2a1490ed [INFO Client 6668] PrecalcDropEffects
+2023/04/21 04:13:21 36766531 2a1490c6 [INFO Client 6668] PrecalcNonEnchantModHashes
+2023/04/21 04:13:21 36766531 2a1490c4 [INFO Client 6668] PrecalcRuleNameToTypeMap
+2023/04/21 04:13:21 36766531 2a1490c2 [INFO Client 6668] PrecalcCJESPNIndexMap
+2023/04/21 04:13:21 36766531 2a1490c0 [INFO Client 6668] PrecalcGemAlternateQualityMap
+2023/04/21 04:13:26 36771375 b51d4f61 [DEBUG Client 6668] [RENDER] SetRendererSettings
+2023/04/21 04:13:26 36771375 b51d6447 [DEBUG Client 6668] [RENDER] ResizeWindow
+2023/04/21 04:13:26 36771375 9d4eec8a [DEBUG Client 6668] [WINDOW] TrigggerDeviceLost
+2023/04/21 04:13:26 36771390 9d4eeba7 [DEBUG Client 6668] [WINDOW] TrigggerDeviceReset
+2023/04/21 04:13:27 36771750 b51d614c [DEBUG Client 6668] [RENDER] RestartSwapChain
+2023/04/21 04:13:27 36771750 9e6a0b0a [INFO Client 6668] Enumerated adapter: NVIDIA GeForce GTX 1660
+2023/04/21 04:13:27 36771796 9e6a1d2a [INFO Client 6668] Enumerated device for adapter: NVIDIA GeForce GTX 1660. Selected feature level: 45312. Max feature level: 45312
+2023/04/21 04:13:27 36771796 9e6a1363 [INFO Client 6668] Enumerated output for adapter NVIDIA GeForce GTX 1660 of \\.\DISPLAY1
+2023/04/21 04:13:27 36771796 9e6a0b0a [INFO Client 6668] Enumerated adapter: Microsoft Basic Render Driver
+2023/04/21 04:13:27 36771796 9e6a1d2a [INFO Client 6668] Enumerated device for adapter: Microsoft Basic Render Driver. Selected feature level: 45312. Max feature level: 45312
+2023/04/21 04:13:27 36771843 9d4eec8a [DEBUG Client 6668] [WINDOW] TrigggerDeviceLost
+2023/04/21 04:13:27 36771859 9d4eeba7 [DEBUG Client 6668] [WINDOW] TrigggerDeviceReset
+2023/04/21 04:13:41 36786171 fafff8cf [DEBUG Client 6668] CreateSwapChain: SetFullScreenState 0
+2023/04/21 04:13:41 36786171 9d4eec8a [DEBUG Client 6668] [WINDOW] TrigggerDeviceLost
+2023/04/21 04:13:41 36786187 9d4eeba7 [DEBUG Client 6668] [WINDOW] TrigggerDeviceReset
+2023/04/21 04:13:41 36786453 3275a75e [INFO Client 6668] [SHADER] Disable Async: 1 frames
+2023/04/21 04:13:41 36786453 b51d610e [INFO Client 6668] [RENDER] Disable Async: 1 frames
+2023/04/21 04:13:41 36786468 9d4eec8a [DEBUG Client 6668] [WINDOW] TrigggerDeviceLost
+2023/04/21 04:13:41 36786484 9d4eeba7 [DEBUG Client 6668] [WINDOW] TrigggerDeviceReset
+2023/04/21 04:13:42 36786812 b51d4f61 [DEBUG Client 6668] [RENDER] SetRendererSettings
+2023/04/21 04:13:42 36786812 b51d6447 [DEBUG Client 6668] [RENDER] ResizeWindow
+2023/04/21 04:13:42 36786812 b51d614c [DEBUG Client 6668] [RENDER] RestartSwapChain
+2023/04/21 04:13:42 36786812 9e6a0b0a [INFO Client 6668] Enumerated adapter: NVIDIA GeForce GTX 1660
+2023/04/21 04:13:42 36786875 9e6a1d2a [INFO Client 6668] Enumerated device for adapter: NVIDIA GeForce GTX 1660. Selected feature level: 45312. Max feature level: 45312
+2023/04/21 04:13:42 36786875 9e6a1363 [INFO Client 6668] Enumerated output for adapter NVIDIA GeForce GTX 1660 of \\.\DISPLAY1
+2023/04/21 04:13:42 36786875 9e6a0b0a [INFO Client 6668] Enumerated adapter: Microsoft Basic Render Driver
+2023/04/21 04:13:42 36786875 9e6a1d2a [INFO Client 6668] Enumerated device for adapter: Microsoft Basic Render Driver. Selected feature level: 45312. Max feature level: 45312
+2023/04/21 04:13:42 36786875 fafff8cf [DEBUG Client 6668] CreateSwapChain: SetFullScreenState 1
+2023/04/21 04:13:42 36786921 9d4eec8a [DEBUG Client 6668] [WINDOW] TrigggerDeviceLost
+2023/04/21 04:13:42 36786953 9d4eeba7 [DEBUG Client 6668] [WINDOW] TrigggerDeviceReset
+2023/04/21 04:13:42 36787250 3275a75e [INFO Client 6668] [SHADER] Disable Async: 1 frames
+2023/04/21 04:13:42 36787250 b51d610e [INFO Client 6668] [RENDER] Disable Async: 1 frames
+2023/04/21 04:13:48 36793703 47bbea58 [INFO Client 6668] Changing to device "Динамики (High Definition Audio Device)"
+2023/04/21 04:14:43 36848578 88a904cb [DEBUG Client 6668] Got Instance Details from login server
+2023/04/21 04:14:43 36848593 32759a9f [INFO Client 6668] [SHADER] Delay: OFF
+2023/04/21 04:14:43 36848593 ca3a6a71 [INFO Client 6668] Connecting to instance server at 169.51.201.169:6112
+2023/04/21 04:14:43 36848640 ca3a4dbb [DEBUG Client 6668] Connect time to instance server was 32ms
+2023/04/21 04:14:43 36848687 1186a0e5 [DEBUG Client 6668] Generating level 64 area "2_10_2" with seed 2972016773
+2023/04/21 04:14:45 36850703 f22b6987 [INFO Client 6668] Tile hash: 4239557598
+2023/04/21 04:14:45 36850703 f22b6986 [INFO Client 6668] Doodad hash: 3508735178
+2023/04/21 04:14:47 36851781 11870f49 [DEBUG Client 6668] Joined guild named Голосовой чат discord.com/invite/nXFKHzJ with 199 members 
+2023/04/21 04:14:47 36852375 cffb071e [INFO Client 6668] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Разорённая площадь.
+2023/04/21 04:14:48 36853171 32759a9f [INFO Client 6668] [SHADER] Delay: ON
+2023/04/21 04:14:49 36853734 b51d4f61 [DEBUG Client 6668] [RENDER] SetRendererSettings
+2023/04/21 04:14:49 36853734 b51d6447 [DEBUG Client 6668] [RENDER] ResizeWindow
+2023/04/21 04:14:49 36853750 9d4eec8a [DEBUG Client 6668] [WINDOW] TrigggerDeviceLost
+2023/04/21 04:14:49 36853796 9d4eeba7 [DEBUG Client 6668] [WINDOW] TrigggerDeviceReset
+2023/04/21 04:14:50 36854765 b51d614c [DEBUG Client 6668] [RENDER] RestartSwapChain
+2023/04/21 04:14:50 36854765 9e6a0b0a [INFO Client 6668] Enumerated adapter: NVIDIA GeForce GTX 1660
+2023/04/21 04:14:50 36854828 9e6a1d2a [INFO Client 6668] Enumerated device for adapter: NVIDIA GeForce GTX 1660. Selected feature level: 45312. Max feature level: 45312
+2023/04/21 04:14:50 36854828 9e6a1363 [INFO Client 6668] Enumerated output for adapter NVIDIA GeForce GTX 1660 of \\.\DISPLAY1
+2023/04/21 04:14:50 36854828 9e6a0b0a [INFO Client 6668] Enumerated adapter: Microsoft Basic Render Driver
+2023/04/21 04:14:50 36854828 9e6a1d2a [INFO Client 6668] Enumerated device for adapter: Microsoft Basic Render Driver. Selected feature level: 45312. Max feature level: 45312
+2023/04/21 04:14:50 36854859 9d4eec8a [DEBUG Client 6668] [WINDOW] TrigggerDeviceLost
+2023/04/21 04:14:50 36854953 9d4eeba7 [DEBUG Client 6668] [WINDOW] TrigggerDeviceReset
+2023/04/21 04:14:51 36856687 fafff8cf [DEBUG Client 6668] CreateSwapChain: SetFullScreenState 0
+2023/04/21 04:14:51 36856687 9d4eec8a [DEBUG Client 6668] [WINDOW] TrigggerDeviceLost
+2023/04/21 04:14:52 36856781 9d4eeba7 [DEBUG Client 6668] [WINDOW] TrigggerDeviceReset
+2023/04/21 04:14:54 36858750 3275a75e [INFO Client 6668] [SHADER] Disable Async: 1 frames
+2023/04/21 04:14:54 36858750 b51d610e [INFO Client 6668] [RENDER] Disable Async: 1 frames
+2023/04/21 04:14:54 36858750 9d4eec8a [DEBUG Client 6668] [WINDOW] TrigggerDeviceLost
+2023/04/21 04:14:54 36858843 9d4eeba7 [DEBUG Client 6668] [WINDOW] TrigggerDeviceReset
+2023/04/21 04:15:26 36890921 b51d4f61 [DEBUG Client 6668] [RENDER] SetRendererSettings
+2023/04/21 04:15:26 36890921 b51d6447 [DEBUG Client 6668] [RENDER] ResizeWindow
+2023/04/21 04:15:26 36890921 b51d614c [DEBUG Client 6668] [RENDER] RestartSwapChain
+2023/04/21 04:15:26 36890921 9e6a0b0a [INFO Client 6668] Enumerated adapter: NVIDIA GeForce GTX 1660
+2023/04/21 04:15:26 36890984 9e6a1d2a [INFO Client 6668] Enumerated device for adapter: NVIDIA GeForce GTX 1660. Selected feature level: 45312. Max feature level: 45312
+2023/04/21 04:15:26 36890984 9e6a1363 [INFO Client 6668] Enumerated output for adapter NVIDIA GeForce GTX 1660 of \\.\DISPLAY1
+2023/04/21 04:15:26 36890984 9e6a0b0a [INFO Client 6668] Enumerated adapter: Microsoft Basic Render Driver
+2023/04/21 04:15:26 36890984 9e6a1d2a [INFO Client 6668] Enumerated device for adapter: Microsoft Basic Render Driver. Selected feature level: 45312. Max feature level: 45312
+2023/04/21 04:15:26 36890984 fafff8cf [DEBUG Client 6668] CreateSwapChain: SetFullScreenState 1
+2023/04/21 04:15:26 36891046 9d4eec8a [DEBUG Client 6668] [WINDOW] TrigggerDeviceLost
+2023/04/21 04:15:26 36891078 9d4eeba7 [DEBUG Client 6668] [WINDOW] TrigggerDeviceReset
+2023/04/21 04:15:27 36891953 3275a75e [INFO Client 6668] [SHADER] Disable Async: 1 frames
+2023/04/21 04:15:27 36891953 b51d610e [INFO Client 6668] [RENDER] Disable Async: 1 frames
+2023/04/21 04:15:58 36923218 b51d4f61 [DEBUG Client 6668] [RENDER] SetRendererSettings
+2023/04/21 04:15:58 36923218 b51d6447 [DEBUG Client 6668] [RENDER] ResizeWindow
+2023/04/21 04:15:58 36923234 9d4eec8a [DEBUG Client 6668] [WINDOW] TrigggerDeviceLost
+2023/04/21 04:15:58 36923281 9d4eeba7 [DEBUG Client 6668] [WINDOW] TrigggerDeviceReset
+2023/04/21 04:15:59 36923906 9d4eec8a [DEBUG Client 6668] [WINDOW] TrigggerDeviceLost
+2023/04/21 04:15:59 36924000 9d4eeba7 [DEBUG Client 6668] [WINDOW] TrigggerDeviceReset
+2023/04/21 04:16:01 36926609 b51d614c [DEBUG Client 6668] [RENDER] RestartSwapChain
+2023/04/21 04:16:01 36926609 9e6a0b0a [INFO Client 6668] Enumerated adapter: NVIDIA GeForce GTX 1660
+2023/04/21 04:16:01 36926656 9e6a1d2a [INFO Client 6668] Enumerated device for adapter: NVIDIA GeForce GTX 1660. Selected feature level: 45312. Max feature level: 45312
+2023/04/21 04:16:01 36926656 9e6a1363 [INFO Client 6668] Enumerated output for adapter NVIDIA GeForce GTX 1660 of \\.\DISPLAY1
+2023/04/21 04:16:01 36926656 9e6a0b0a [INFO Client 6668] Enumerated adapter: Microsoft Basic Render Driver
+2023/04/21 04:16:01 36926656 9e6a1d2a [INFO Client 6668] Enumerated device for adapter: Microsoft Basic Render Driver. Selected feature level: 45312. Max feature level: 45312
+2023/04/21 04:16:01 36926656 fafff8cf [DEBUG Client 6668] CreateSwapChain: SetFullScreenState 0
+2023/04/21 04:16:01 36926656 9d4eec8a [DEBUG Client 6668] [WINDOW] TrigggerDeviceLost
+2023/04/21 04:16:02 36926750 9d4eeba7 [DEBUG Client 6668] [WINDOW] TrigggerDeviceReset
+2023/04/21 04:16:04 36928734 3275a75e [INFO Client 6668] [SHADER] Disable Async: 1 frames
+2023/04/21 04:16:04 36928734 b51d610e [INFO Client 6668] [RENDER] Disable Async: 1 frames
+2023/04/21 04:16:04 36928734 9d4eec8a [DEBUG Client 6668] [WINDOW] TrigggerDeviceLost
+2023/04/21 04:16:04 36928828 9d4eeba7 [DEBUG Client 6668] [WINDOW] TrigggerDeviceReset
+2023/04/21 04:16:06 36931515 aecea334 [INFO Client 6668] Abnormal disconnect: Произошло неожиданное отключение от сервера.
+2023/04/21 04:16:07 36932234 b51d4f61 [DEBUG Client 6668] [RENDER] SetRendererSettings
+2023/04/21 04:16:07 36932234 b51d6447 [DEBUG Client 6668] [RENDER] ResizeWindow
+2023/04/21 04:16:07 36932234 b51d614c [DEBUG Client 6668] [RENDER] RestartSwapChain
+2023/04/21 04:16:07 36932234 9e6a0b0a [INFO Client 6668] Enumerated adapter: NVIDIA GeForce GTX 1660
+2023/04/21 04:16:07 36932296 9e6a1d2a [INFO Client 6668] Enumerated device for adapter: NVIDIA GeForce GTX 1660. Selected feature level: 45312. Max feature level: 45312
+2023/04/21 04:16:07 36932296 9e6a1363 [INFO Client 6668] Enumerated output for adapter NVIDIA GeForce GTX 1660 of \\.\DISPLAY1
+2023/04/21 04:16:07 36932296 9e6a0b0a [INFO Client 6668] Enumerated adapter: Microsoft Basic Render Driver
+2023/04/21 04:16:07 36932296 9e6a1d2a [INFO Client 6668] Enumerated device for adapter: Microsoft Basic Render Driver. Selected feature level: 45312. Max feature level: 45312
+2023/04/21 04:16:07 36932312 fafff8cf [DEBUG Client 6668] CreateSwapChain: SetFullScreenState 1
+2023/04/21 04:16:07 36932359 9d4eec8a [DEBUG Client 6668] [WINDOW] TrigggerDeviceLost
+2023/04/21 04:16:07 36932375 9d4eeba7 [DEBUG Client 6668] [WINDOW] TrigggerDeviceReset
+2023/04/21 04:16:07 36932390 3275a75e [INFO Client 6668] [SHADER] Disable Async: 1 frames
+2023/04/21 04:16:07 36932390 b51d610e [INFO Client 6668] [RENDER] Disable Async: 1 frames
+2023/04/21 04:16:09 36933843 890d9d5f [INFO Client 6668] Async connecting to mil01.login.pathofexile.com:20481
+2023/04/21 04:16:09 36933859 890d9cd8 [INFO Client 6668] Connected to mil01.login.pathofexile.com in 0ms.
+2023/04/21 04:16:12 36937328 88a904cb [DEBUG Client 6668] Got Instance Details from login server
+2023/04/21 04:16:12 36937343 32759a9f [INFO Client 6668] [SHADER] Delay: OFF
+2023/04/21 04:16:12 36937343 ca3a6a71 [INFO Client 6668] Connecting to instance server at 169.51.201.178:6112
+2023/04/21 04:16:12 36937390 ca3a4dbb [DEBUG Client 6668] Connect time to instance server was 32ms
+2023/04/21 04:16:12 36937437 1186a0e5 [DEBUG Client 6668] Generating level 69 area "2_10_town" with seed 1
+2023/04/21 04:16:12 36937468 f22b6987 [INFO Client 6668] Tile hash: 3862614232
+2023/04/21 04:16:12 36937468 f22b6986 [INFO Client 6668] Doodad hash: 2693664852
+2023/04/21 04:16:15 36939953 11870f49 [DEBUG Client 6668] Joined guild named Голосовой чат discord.com/invite/nXFKHzJ with 199 members 
+2023/04/21 04:16:15 36940546 cffb071e [INFO Client 6668] &: ОБЪЯВЛЕНИЕ ГИЛЬДИИ: В гостяк у CARDIFF 
+2023/04/21 04:16:16 36940796 cffb071e [INFO Client 6668] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Доки Ориата.
+2023/04/21 04:16:16 36940796 cffb071e [INFO Client 6668] #DreykanDevouring: парни кто через вот эту хуйню играет, подскажите когда ебать начнет? Поглощающий тотем
+2023/04/21 04:16:16 36941187 cffb071e [INFO Client 6668] : Вы присоединились к Общему каналу чата 9,968.
+2023/04/21 04:16:16 36941281 32759a9f [INFO Client 6668] [SHADER] Delay: ON
+2023/04/21 04:16:16 36941296 374e0d22 [INFO Client 6668] [Item Filter] Preparing to download online filter 7Mr0AZHP
+2023/04/21 04:16:16 36941296 374e0cc3 [INFO Client 6668] [Item Filter] Hash for online filter 7Mr0AZHP is: 55b166a332ae6c51a1c0cef67a526c5a
+2023/04/21 04:16:16 36941484 374e0cc9 [INFO Client 6668] [Item Filter] Online item filter 7Mr0AZHP returned status: 200
+2023/04/21 04:16:16 36941484 374e0ce3 [DEBUG Client 6668] [Item Filter] Online item filter request resolved to: 209.197.3.101
+2023/04/21 04:16:16 36941484 374e0e8e [DEBUG Client 6668] [Item Filter] X-HW: 1682039774.dop228.ve1.t,1682039774.cds252.ve1.shn,1682039774.dop228.ve1.t,1682039774.cds241.ve1.c
+2023/04/21 04:16:16 36941484 374df808 [INFO Client 6668] [Item Filter] Successfully saved online filter 7Mr0AZHP. Hash is now: 55b166a332ae6c51a1c0cef67a526c5a
+2023/04/21 04:16:16 36941500 7884752a [INFO Client 6668] [Item Filter] Finished reloading online filter 7Mr0AZHP. Result: true. Hash: 55b166a332ae6c51a1c0cef67a526c5a. Type: Normal. Message: 
+2023/04/21 04:16:25 36949812 b51d4f61 [DEBUG Client 6668] [RENDER] SetRendererSettings
+2023/04/21 04:16:25 36949812 b51d6447 [DEBUG Client 6668] [RENDER] ResizeWindow
+2023/04/21 04:16:25 36949812 9d4eec8a [DEBUG Client 6668] [WINDOW] TrigggerDeviceLost
+2023/04/21 04:16:25 36949812 9d4eeba7 [DEBUG Client 6668] [WINDOW] TrigggerDeviceReset
+2023/04/21 04:16:25 36950140 b51d614c [DEBUG Client 6668] [RENDER] RestartSwapChain
+2023/04/21 04:16:25 36950140 9e6a0b0a [INFO Client 6668] Enumerated adapter: NVIDIA GeForce GTX 1660
+2023/04/21 04:16:25 36950187 9e6a1d2a [INFO Client 6668] Enumerated device for adapter: NVIDIA GeForce GTX 1660. Selected feature level: 45312. Max feature level: 45312
+2023/04/21 04:16:25 36950187 9e6a1363 [INFO Client 6668] Enumerated output for adapter NVIDIA GeForce GTX 1660 of \\.\DISPLAY1
+2023/04/21 04:16:25 36950187 9e6a0b0a [INFO Client 6668] Enumerated adapter: Microsoft Basic Render Driver
+2023/04/21 04:16:25 36950187 9e6a1d2a [INFO Client 6668] Enumerated device for adapter: Microsoft Basic Render Driver. Selected feature level: 45312. Max feature level: 45312
+2023/04/21 04:16:25 36950234 9d4eec8a [DEBUG Client 6668] [WINDOW] TrigggerDeviceLost
+2023/04/21 04:16:25 36950250 9d4eeba7 [DEBUG Client 6668] [WINDOW] TrigggerDeviceReset
+2023/04/21 04:16:25 36950546 fafff8cf [DEBUG Client 6668] CreateSwapChain: SetFullScreenState 0
+2023/04/21 04:16:25 36950546 9d4eec8a [DEBUG Client 6668] [WINDOW] TrigggerDeviceLost
+2023/04/21 04:16:25 36950562 9d4eeba7 [DEBUG Client 6668] [WINDOW] TrigggerDeviceReset
+2023/04/21 04:16:26 36950828 3275a75e [INFO Client 6668] [SHADER] Disable Async: 1 frames
+2023/04/21 04:16:26 36950828 b51d610e [INFO Client 6668] [RENDER] Disable Async: 1 frames
+2023/04/21 04:16:26 36950843 9d4eec8a [DEBUG Client 6668] [WINDOW] TrigggerDeviceLost
+2023/04/21 04:16:26 36950843 9d4eeba7 [DEBUG Client 6668] [WINDOW] TrigggerDeviceReset
+2023/04/21 04:16:33 36957796 b51d4f61 [DEBUG Client 6668] [RENDER] SetRendererSettings
+2023/04/21 04:16:33 36957796 b51d6447 [DEBUG Client 6668] [RENDER] ResizeWindow
+2023/04/21 04:16:33 36957796 b51d614c [DEBUG Client 6668] [RENDER] RestartSwapChain
+2023/04/21 04:16:33 36957796 9e6a0b0a [INFO Client 6668] Enumerated adapter: NVIDIA GeForce GTX 1660
+2023/04/21 04:16:33 36957859 9e6a1d2a [INFO Client 6668] Enumerated device for adapter: NVIDIA GeForce GTX 1660. Selected feature level: 45312. Max feature level: 45312
+2023/04/21 04:16:33 36957859 9e6a1363 [INFO Client 6668] Enumerated output for adapter NVIDIA GeForce GTX 1660 of \\.\DISPLAY1
+2023/04/21 04:16:33 36957859 9e6a0b0a [INFO Client 6668] Enumerated adapter: Microsoft Basic Render Driver
+2023/04/21 04:16:33 36957859 9e6a1d2a [INFO Client 6668] Enumerated device for adapter: Microsoft Basic Render Driver. Selected feature level: 45312. Max feature level: 45312
+2023/04/21 04:16:33 36957859 fafff8cf [DEBUG Client 6668] CreateSwapChain: SetFullScreenState 1
+2023/04/21 04:16:33 36957921 9d4eec8a [DEBUG Client 6668] [WINDOW] TrigggerDeviceLost
+2023/04/21 04:16:33 36957921 9d4eeba7 [DEBUG Client 6668] [WINDOW] TrigggerDeviceReset
+2023/04/21 04:16:33 36958265 3275a75e [INFO Client 6668] [SHADER] Disable Async: 1 frames
+2023/04/21 04:16:33 36958265 b51d610e [INFO Client 6668] [RENDER] Disable Async: 1 frames
+2023/04/21 04:16:42 36967390 88a904cb [DEBUG Client 6668] Got Instance Details from login server
+2023/04/21 04:16:42 36967390 32759a9f [INFO Client 6668] [SHADER] Delay: OFF
+2023/04/21 04:16:42 36967390 ca3a6a71 [INFO Client 6668] Connecting to instance server at 169.51.201.169:6112
+2023/04/21 04:16:42 36967437 ca3a4dbb [DEBUG Client 6668] Connect time to instance server was 31ms
+2023/04/21 04:16:42 36967484 1186a0e5 [DEBUG Client 6668] Generating level 64 area "2_10_2" with seed 2972016773
+2023/04/21 04:16:43 36967781 f22b6987 [INFO Client 6668] Tile hash: 4239557598
+2023/04/21 04:16:43 36967781 f22b6986 [INFO Client 6668] Doodad hash: 3508735178
+2023/04/21 04:16:43 36968484 11870f49 [DEBUG Client 6668] Joined guild named Голосовой чат discord.com/invite/nXFKHzJ with 199 members 
+2023/04/21 04:16:44 36969078 cffb071e [INFO Client 6668] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Разорённая площадь.
+2023/04/21 04:16:44 36969687 32759a9f [INFO Client 6668] [SHADER] Delay: ON
+2023/04/21 04:16:48 36973515 88a904cb [DEBUG Client 6668] Got Instance Details from login server
+2023/04/21 04:16:48 36973531 32759a9f [INFO Client 6668] [SHADER] Delay: OFF
+2023/04/21 04:16:48 36973531 ca3a6a71 [INFO Client 6668] Connecting to instance server at 169.51.201.152:6112
+2023/04/21 04:16:48 36973593 ca3a4dbb [DEBUG Client 6668] Connect time to instance server was 31ms
+2023/04/21 04:16:49 36973843 1186a0e5 [DEBUG Client 6668] Generating level 67 area "2_10_9" with seed 2454705814
+2023/04/21 04:16:49 36974234 b5a581a7 [INFO Client 6668] Spawning discoverable Hideout HideoutOssuary
+2023/04/21 04:16:50 36975281 f22b6987 [INFO Client 6668] Tile hash: 3133238049
+2023/04/21 04:16:50 36975281 f22b6986 [INFO Client 6668] Doodad hash: 3203135976
+2023/04/21 04:16:51 36975765 11870f49 [DEBUG Client 6668] Joined guild named Голосовой чат discord.com/invite/nXFKHzJ with 199 members 
+2023/04/21 04:16:51 36976437 cffb071e [INFO Client 6668] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Костница.
+2023/04/21 04:16:52 36976968 32759a9f [INFO Client 6668] [SHADER] Delay: ON
+2023/04/21 04:17:41 37026671 118717eb [DEBUG Client 6668] Resyncing 3063
+2023/04/21 04:19:08 37112937 b51d4f61 [DEBUG Client 6668] [RENDER] SetRendererSettings
+2023/04/21 04:19:08 37112937 b51d6447 [DEBUG Client 6668] [RENDER] ResizeWindow
+2023/04/21 04:19:08 37112937 9d4eec8a [DEBUG Client 6668] [WINDOW] TrigggerDeviceLost
+2023/04/21 04:19:08 37112968 9d4eeba7 [DEBUG Client 6668] [WINDOW] TrigggerDeviceReset
+2023/04/21 04:19:08 37113500 b51d614c [DEBUG Client 6668] [RENDER] RestartSwapChain
+2023/04/21 04:19:08 37113500 9e6a0b0a [INFO Client 6668] Enumerated adapter: NVIDIA GeForce GTX 1660
+2023/04/21 04:19:08 37113546 9e6a1d2a [INFO Client 6668] Enumerated device for adapter: NVIDIA GeForce GTX 1660. Selected feature level: 45312. Max feature level: 45312
+2023/04/21 04:19:08 37113546 9e6a1363 [INFO Client 6668] Enumerated output for adapter NVIDIA GeForce GTX 1660 of \\.\DISPLAY1
+2023/04/21 04:19:08 37113546 9e6a0b0a [INFO Client 6668] Enumerated adapter: Microsoft Basic Render Driver
+2023/04/21 04:19:08 37113546 9e6a1d2a [INFO Client 6668] Enumerated device for adapter: Microsoft Basic Render Driver. Selected feature level: 45312. Max feature level: 45312
+2023/04/21 04:19:08 37113609 9d4eec8a [DEBUG Client 6668] [WINDOW] TrigggerDeviceLost
+2023/04/21 04:19:08 37113656 9d4eeba7 [DEBUG Client 6668] [WINDOW] TrigggerDeviceReset
+2023/04/21 04:19:09 37114265 fafff8cf [DEBUG Client 6668] CreateSwapChain: SetFullScreenState 0
+2023/04/21 04:19:09 37114265 9d4eec8a [DEBUG Client 6668] [WINDOW] TrigggerDeviceLost
+2023/04/21 04:19:09 37114312 9d4eeba7 [DEBUG Client 6668] [WINDOW] TrigggerDeviceReset
+2023/04/21 04:19:10 37114968 3275a75e [INFO Client 6668] [SHADER] Disable Async: 1 frames
+2023/04/21 04:19:10 37114968 b51d610e [INFO Client 6668] [RENDER] Disable Async: 1 frames
+2023/04/21 04:19:10 37114968 9d4eec8a [DEBUG Client 6668] [WINDOW] TrigggerDeviceLost
+2023/04/21 04:19:10 37115046 9d4eeba7 [DEBUG Client 6668] [WINDOW] TrigggerDeviceReset
+2023/04/21 04:19:27 37132125 b51d4f61 [DEBUG Client 6668] [RENDER] SetRendererSettings
+2023/04/21 04:19:27 37132125 b51d6447 [DEBUG Client 6668] [RENDER] ResizeWindow
+2023/04/21 04:19:27 37132140 b51d614c [DEBUG Client 6668] [RENDER] RestartSwapChain
+2023/04/21 04:19:27 37132140 9e6a0b0a [INFO Client 6668] Enumerated adapter: NVIDIA GeForce GTX 1660
+2023/04/21 04:19:27 37132203 9e6a1d2a [INFO Client 6668] Enumerated device for adapter: NVIDIA GeForce GTX 1660. Selected feature level: 45312. Max feature level: 45312
+2023/04/21 04:19:27 37132203 9e6a1363 [INFO Client 6668] Enumerated output for adapter NVIDIA GeForce GTX 1660 of \\.\DISPLAY1
+2023/04/21 04:19:27 37132203 9e6a0b0a [INFO Client 6668] Enumerated adapter: Microsoft Basic Render Driver
+2023/04/21 04:19:27 37132218 9e6a1d2a [INFO Client 6668] Enumerated device for adapter: Microsoft Basic Render Driver. Selected feature level: 45312. Max feature level: 45312
+2023/04/21 04:19:27 37132218 fafff8cf [DEBUG Client 6668] CreateSwapChain: SetFullScreenState 1
+2023/04/21 04:19:27 37132281 9d4eec8a [DEBUG Client 6668] [WINDOW] TrigggerDeviceLost
+2023/04/21 04:19:27 37132296 9d4eeba7 [DEBUG Client 6668] [WINDOW] TrigggerDeviceReset
+2023/04/21 04:19:28 37132796 3275a75e [INFO Client 6668] [SHADER] Disable Async: 1 frames
+2023/04/21 04:19:28 37132796 b51d610e [INFO Client 6668] [RENDER] Disable Async: 1 frames
+2023/04/21 04:20:33 37198187 cffb071e [INFO Client 6668] Янус Перандус: Стань свидетелем зарождения нового мирового порядка!
+2023/04/21 04:20:34 37199250 3796f5e1 [WARN Client 6668] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/21 04:20:43 37208031 3796f5e1 [WARN Client 6668] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/21 04:20:54 37219250 cffb071e [INFO Client 6668] Хиллок, Кузнец: Я сделаю тебе больно для веселья!
+2023/04/21 04:21:34 37259500 cffb071e [INFO Client 6668] Джун, Скрытый мастер: Оставайся в грязи, червь.
+2023/04/21 04:21:46 37271234 cffb071e [INFO Client 6668] Янус Перандус: Кошмар.
+2023/04/21 04:21:51 37276562 cffb071e [INFO Client 6668] Джун, Скрытый мастер: Чтоб тебе сгнить в этой клетке, ублюдок.
+2023/04/21 04:23:09 37354593 3796f5e1 [WARN Client 6668] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/21 04:23:38 37382890 379702c8 [WARN Client 6668] Client couldn't execute an instant action from the server.
+action type id = 9220
+2023/04/21 04:23:38 37382890 3796fa8f [WARN Client 6668] Instant/Triggered actionwas serialized to the client, but the client failed to execute the action.
+skill_instance_id: 32772
+action_id: 39594
+object_id: 3652
+target_id: 2964
+flags: 257
+2023/04/21 04:23:50 37394734 3796f5e1 [WARN Client 6668] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/21 04:24:02 37407406 890d9d5f [INFO Client 6668] Async connecting to mil01.login.pathofexile.com:20481
+2023/04/21 04:24:02 37407421 890d9cd8 [INFO Client 6668] Connected to mil01.login.pathofexile.com in 0ms.
+2023/04/21 04:24:06 37411640 88a904cb [DEBUG Client 6668] Got Instance Details from login server
+2023/04/21 04:24:06 37411640 32759a9f [INFO Client 6668] [SHADER] Delay: OFF
+2023/04/21 04:24:06 37411640 ca3a6a71 [INFO Client 6668] Connecting to instance server at 169.51.201.178:6112
+2023/04/21 04:24:06 37411703 ca3a4dbb [DEBUG Client 6668] Connect time to instance server was 47ms
+2023/04/21 04:24:07 37411750 1186a0e5 [DEBUG Client 6668] Generating level 69 area "2_10_town" with seed 1
+2023/04/21 04:24:08 37412937 f22b6987 [INFO Client 6668] Tile hash: 3862614232
+2023/04/21 04:24:08 37412937 f22b6986 [INFO Client 6668] Doodad hash: 2693664852
+2023/04/21 04:24:08 37413578 b51d4f61 [DEBUG Client 6668] [RENDER] SetRendererSettings
+2023/04/21 04:24:08 37413578 b51d6447 [DEBUG Client 6668] [RENDER] ResizeWindow
+2023/04/21 04:24:08 37413593 9d4eec8a [DEBUG Client 6668] [WINDOW] TrigggerDeviceLost
+2023/04/21 04:24:09 37413937 9d4eeba7 [DEBUG Client 6668] [WINDOW] TrigggerDeviceReset
+2023/04/21 04:24:09 37414000 b51d614c [DEBUG Client 6668] [RENDER] RestartSwapChain
+2023/04/21 04:24:09 37414000 9e6a0b0a [INFO Client 6668] Enumerated adapter: NVIDIA GeForce GTX 1660
+2023/04/21 04:24:09 37414062 9e6a1d2a [INFO Client 6668] Enumerated device for adapter: NVIDIA GeForce GTX 1660. Selected feature level: 45312. Max feature level: 45312
+2023/04/21 04:24:09 37414062 9e6a1363 [INFO Client 6668] Enumerated output for adapter NVIDIA GeForce GTX 1660 of \\.\DISPLAY1
+2023/04/21 04:24:09 37414062 9e6a0b0a [INFO Client 6668] Enumerated adapter: Microsoft Basic Render Driver
+2023/04/21 04:24:09 37414062 9e6a1d2a [INFO Client 6668] Enumerated device for adapter: Microsoft Basic Render Driver. Selected feature level: 45312. Max feature level: 45312
+2023/04/21 04:24:09 37414109 9d4eec8a [DEBUG Client 6668] [WINDOW] TrigggerDeviceLost
+2023/04/21 04:24:09 37414125 9d4eeba7 [DEBUG Client 6668] [WINDOW] TrigggerDeviceReset
+2023/04/21 04:24:09 37414250 fafff8cf [DEBUG Client 6668] CreateSwapChain: SetFullScreenState 0
+2023/04/21 04:24:09 37414250 9d4eec8a [DEBUG Client 6668] [WINDOW] TrigggerDeviceLost
+2023/04/21 04:24:09 37414265 9d4eeba7 [DEBUG Client 6668] [WINDOW] TrigggerDeviceReset
+2023/04/21 04:24:09 37414390 3275a75e [INFO Client 6668] [SHADER] Disable Async: 1 frames
+2023/04/21 04:24:09 37414390 b51d610e [INFO Client 6668] [RENDER] Disable Async: 1 frames
+2023/04/21 04:24:09 37414390 9d4eec8a [DEBUG Client 6668] [WINDOW] TrigggerDeviceLost
+2023/04/21 04:24:09 37414406 9d4eeba7 [DEBUG Client 6668] [WINDOW] TrigggerDeviceReset
+2023/04/21 04:24:10 37414890 11870f49 [DEBUG Client 6668] Joined guild named Голосовой чат discord.com/invite/nXFKHzJ with 199 members 
+2023/04/21 04:24:11 37415937 cffb071e [INFO Client 6668] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Доки Ориата.
+2023/04/21 04:24:11 37416296 cffb071e [INFO Client 6668] : Вы присоединились к Общему каналу чата 9,968.
+2023/04/21 04:24:11 37416625 32759a9f [INFO Client 6668] [SHADER] Delay: ON
+2023/04/21 04:24:11 37416671 374e0d22 [INFO Client 6668] [Item Filter] Preparing to download online filter 7Mr0AZHP
+2023/04/21 04:24:11 37416671 374e0cc3 [INFO Client 6668] [Item Filter] Hash for online filter 7Mr0AZHP is: 55b166a332ae6c51a1c0cef67a526c5a
+2023/04/21 04:24:12 37416796 374e0cc9 [INFO Client 6668] [Item Filter] Online item filter 7Mr0AZHP returned status: 200
+2023/04/21 04:24:12 37416796 374e0ce3 [DEBUG Client 6668] [Item Filter] Online item filter request resolved to: 209.197.3.101
+2023/04/21 04:24:12 37416796 374e0e8e [DEBUG Client 6668] [Item Filter] X-HW: 1682040249.dop204.ve1.t,1682040249.cds260.ve1.shn,1682040249.dop204.ve1.t,1682040249.cds241.ve1.c
+2023/04/21 04:24:12 37416796 374df808 [INFO Client 6668] [Item Filter] Successfully saved online filter 7Mr0AZHP. Hash is now: 55b166a332ae6c51a1c0cef67a526c5a
+2023/04/21 04:24:12 37416828 7884752a [INFO Client 6668] [Item Filter] Finished reloading online filter 7Mr0AZHP. Result: true. Hash: 55b166a332ae6c51a1c0cef67a526c5a. Type: Normal. Message: 
+2023/04/21 04:24:16 37421484 b51d4f61 [DEBUG Client 6668] [RENDER] SetRendererSettings
+2023/04/21 04:24:16 37421484 b51d6447 [DEBUG Client 6668] [RENDER] ResizeWindow
+2023/04/21 04:24:16 37421484 b51d614c [DEBUG Client 6668] [RENDER] RestartSwapChain
+2023/04/21 04:24:16 37421484 9e6a0b0a [INFO Client 6668] Enumerated adapter: NVIDIA GeForce GTX 1660
+2023/04/21 04:24:16 37421562 9e6a1d2a [INFO Client 6668] Enumerated device for adapter: NVIDIA GeForce GTX 1660. Selected feature level: 45312. Max feature level: 45312
+2023/04/21 04:24:16 37421562 9e6a1363 [INFO Client 6668] Enumerated output for adapter NVIDIA GeForce GTX 1660 of \\.\DISPLAY1
+2023/04/21 04:24:16 37421562 9e6a0b0a [INFO Client 6668] Enumerated adapter: Microsoft Basic Render Driver
+2023/04/21 04:24:16 37421562 9e6a1d2a [INFO Client 6668] Enumerated device for adapter: Microsoft Basic Render Driver. Selected feature level: 45312. Max feature level: 45312
+2023/04/21 04:24:16 37421578 fafff8cf [DEBUG Client 6668] CreateSwapChain: SetFullScreenState 1
+2023/04/21 04:24:16 37421640 9d4eec8a [DEBUG Client 6668] [WINDOW] TrigggerDeviceLost
+2023/04/21 04:24:16 37421656 9d4eeba7 [DEBUG Client 6668] [WINDOW] TrigggerDeviceReset
+2023/04/21 04:24:17 37421812 3275a75e [INFO Client 6668] [SHADER] Disable Async: 1 frames
+2023/04/21 04:24:17 37421812 b51d610e [INFO Client 6668] [RENDER] Disable Async: 1 frames
+2023/04/21 04:24:26 37430796 cffb071e [INFO Client 6668] : Вы получили очков сброса пассивных умений: 2.
+2023/04/21 04:24:46 37451171 cffb071e [INFO Client 6668] : Сделка совершена.
+2023/04/21 04:25:02 37467687 88a904cb [DEBUG Client 6668] Got Instance Details from login server
+2023/04/21 04:25:02 37467687 32759a9f [INFO Client 6668] [SHADER] Delay: OFF
+2023/04/21 04:25:02 37467687 ca3a6a71 [INFO Client 6668] Connecting to instance server at 169.51.201.151:6112
+2023/04/21 04:25:03 37467734 ca3a4dbb [DEBUG Client 6668] Connect time to instance server was 47ms
+2023/04/21 04:25:03 37467796 1186a0e5 [DEBUG Client 6668] Generating level 64 area "2_10_2" with seed 422736949
+2023/04/21 04:25:04 37468734 f22b6987 [INFO Client 6668] Tile hash: 3761732445
+2023/04/21 04:25:04 37468734 f22b6986 [INFO Client 6668] Doodad hash: 3366268012
+2023/04/21 04:25:04 37469312 11870f49 [DEBUG Client 6668] Joined guild named Голосовой чат discord.com/invite/nXFKHzJ with 199 members 
+2023/04/21 04:25:05 37469937 cffb071e [INFO Client 6668] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Разорённая площадь.
+2023/04/21 04:25:05 37470531 32759a9f [INFO Client 6668] [SHADER] Delay: ON
+2023/04/21 04:25:20 37485390 88a904cb [DEBUG Client 6668] Got Instance Details from login server
+2023/04/21 04:25:20 37485390 32759a9f [INFO Client 6668] [SHADER] Delay: OFF
+2023/04/21 04:25:20 37485390 ca3a6a71 [INFO Client 6668] Connecting to instance server at 159.122.142.252:6112
+2023/04/21 04:25:20 37485453 ca3a4dbb [DEBUG Client 6668] Connect time to instance server was 47ms
+2023/04/21 04:25:20 37485500 1186a0e5 [DEBUG Client 6668] Generating level 66 area "2_10_5" with seed 3045036419
+2023/04/21 04:25:21 37485937 f22b6987 [INFO Client 6668] Tile hash: 138786725
+2023/04/21 04:25:21 37485937 f22b6986 [INFO Client 6668] Doodad hash: 1819377068
+2023/04/21 04:25:21 37486437 11870f49 [DEBUG Client 6668] Joined guild named Голосовой чат discord.com/invite/nXFKHzJ with 199 members 
+2023/04/21 04:25:22 37487078 cffb071e [INFO Client 6668] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Каналы.
+2023/04/21 04:25:22 37487484 32759a9f [INFO Client 6668] [SHADER] Delay: ON
+2023/04/21 04:26:07 37532093 379702c8 [WARN Client 6668] Client couldn't execute an instant action from the server.
+action type id = 9220
+2023/04/21 04:26:07 37532093 3796fa8f [WARN Client 6668] Instant/Triggered actionwas serialized to the client, but the client failed to execute the action.
+skill_instance_id: 32772
+action_id: 34374
+object_id: 1242
+target_id: 0
+flags: 257
+2023/04/21 04:27:52 37637171 cffb071e [INFO Client 6668] &<RiPE> dude_gaylord: Короткий лук
+2023/04/21 04:28:07 37652015 1524855a [WARN Client 6668] MeleeAttackActionClientImpl::ContactAttack on_hit_bone Invalid for Metadata/MiscellaneousObjects/TrapBlade
+2023/04/21 04:28:07 37652031 1524855a [WARN Client 6668] MeleeAttackActionClientImpl::ContactAttack on_hit_bone Invalid for Metadata/MiscellaneousObjects/TrapBlade
+2023/04/21 04:29:54 37759609 1524855a [WARN Client 6668] MeleeAttackActionClientImpl::ContactAttack on_hit_bone Invalid for Metadata/Chests/TemplarChest01
+2023/04/21 04:30:45 37809875 88a904cb [DEBUG Client 6668] Got Instance Details from login server
+2023/04/21 04:30:45 37809875 32759a9f [INFO Client 6668] [SHADER] Delay: OFF
+2023/04/21 04:30:45 37809875 ca3a6a71 [INFO Client 6668] Connecting to instance server at 169.51.201.133:6112
+2023/04/21 04:30:45 37809921 ca3a4dbb [DEBUG Client 6668] Connect time to instance server was 31ms
+2023/04/21 04:30:45 37809984 1186a0e5 [DEBUG Client 6668] Generating level 67 area "2_10_6" with seed 1717634166
+2023/04/21 04:30:45 37810703 f22b6987 [INFO Client 6668] Tile hash: 938576031
+2023/04/21 04:30:45 37810703 f22b6986 [INFO Client 6668] Doodad hash: 1132283642
+2023/04/21 04:30:46 37811656 11870f49 [DEBUG Client 6668] Joined guild named Голосовой чат discord.com/invite/nXFKHzJ with 199 members 
+2023/04/21 04:30:47 37812265 cffb071e [INFO Client 6668] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Кормушка.
+2023/04/21 04:30:48 37812890 32759a9f [INFO Client 6668] [SHADER] Delay: ON
+2023/04/21 04:32:50 37935312 3796f5e1 [WARN Client 6668] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/21 04:34:23 38028421 cffb071e [INFO Client 6668] &<RiPE> dude_gaylord: Саван бессветных, Кровожадный доспех
+2023/04/21 04:35:33 38097859 3796f5e1 [WARN Client 6668] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/21 04:35:57 38122562 b51d4f61 [DEBUG Client 6668] [RENDER] SetRendererSettings
+2023/04/21 04:35:57 38122562 b51d6447 [DEBUG Client 6668] [RENDER] ResizeWindow
+2023/04/21 04:35:57 38122578 9d4eec8a [DEBUG Client 6668] [WINDOW] TrigggerDeviceLost
+2023/04/21 04:35:57 38122625 9d4eeba7 [DEBUG Client 6668] [WINDOW] TrigggerDeviceReset
+2023/04/21 04:35:58 38123484 9d4eec8a [DEBUG Client 6668] [WINDOW] TrigggerDeviceLost
+2023/04/21 04:35:58 38123562 9d4eeba7 [DEBUG Client 6668] [WINDOW] TrigggerDeviceReset
+2023/04/21 04:36:01 38126515 b51d614c [DEBUG Client 6668] [RENDER] RestartSwapChain
+2023/04/21 04:36:01 38126515 9e6a0b0a [INFO Client 6668] Enumerated adapter: NVIDIA GeForce GTX 1660
+2023/04/21 04:36:01 38126562 9e6a1d2a [INFO Client 6668] Enumerated device for adapter: NVIDIA GeForce GTX 1660. Selected feature level: 45312. Max feature level: 45312
+2023/04/21 04:36:01 38126562 9e6a1363 [INFO Client 6668] Enumerated output for adapter NVIDIA GeForce GTX 1660 of \\.\DISPLAY1
+2023/04/21 04:36:01 38126562 9e6a0b0a [INFO Client 6668] Enumerated adapter: Microsoft Basic Render Driver
+2023/04/21 04:36:01 38126562 9e6a1d2a [INFO Client 6668] Enumerated device for adapter: Microsoft Basic Render Driver. Selected feature level: 45312. Max feature level: 45312
+2023/04/21 04:36:01 38126578 fafff8cf [DEBUG Client 6668] CreateSwapChain: SetFullScreenState 0
+2023/04/21 04:36:01 38126578 9d4eec8a [DEBUG Client 6668] [WINDOW] TrigggerDeviceLost
+2023/04/21 04:36:01 38126656 9d4eeba7 [DEBUG Client 6668] [WINDOW] TrigggerDeviceReset
+2023/04/21 04:36:04 38129406 3275a75e [INFO Client 6668] [SHADER] Disable Async: 1 frames
+2023/04/21 04:36:04 38129406 b51d610e [INFO Client 6668] [RENDER] Disable Async: 1 frames
+2023/04/21 04:36:04 38129406 9d4eec8a [DEBUG Client 6668] [WINDOW] TrigggerDeviceLost
+2023/04/21 04:36:04 38129484 9d4eeba7 [DEBUG Client 6668] [WINDOW] TrigggerDeviceReset
+2023/04/21 04:36:07 38132484 88a904cb [DEBUG Client 6668] Got Instance Details from login server
+2023/04/21 04:36:07 38132500 32759a9f [INFO Client 6668] [SHADER] Delay: OFF
+2023/04/21 04:36:07 38132500 ca3a6a71 [INFO Client 6668] Connecting to instance server at 169.51.201.178:6112
+2023/04/21 04:36:07 38132515 cffb071e [INFO Client 6668] &<RiPE> dude_gaylord: Саван бессветных, Кровожадный доспех Саван бессветных, Кровожадный доспех
+2023/04/21 04:36:07 38132640 ca3a4dbb [DEBUG Client 6668] Connect time to instance server was 31ms
+2023/04/21 04:36:07 38132703 1186a0e5 [DEBUG Client 6668] Generating level 69 area "2_10_town" with seed 1
+2023/04/21 04:36:08 38133656 f22b6987 [INFO Client 6668] Tile hash: 3862614232
+2023/04/21 04:36:08 38133656 f22b6986 [INFO Client 6668] Doodad hash: 2693664852
+2023/04/21 04:36:10 38135187 aeceac1c [INFO Client 6668] Abnormal disconnect: Для данной операции необходимо авторизоваться.
