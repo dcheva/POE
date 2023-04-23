@@ -13844,3 +13844,954 @@ flags: 257
 2023/04/23 16:47:43 66200015 cffb071e [INFO Client 6304] &<RiPE> Optik_bum: Пустая хитрость, Самоцвет призрачного глаза
 2023/04/23 16:48:29 66245921 cffb071e [INFO Client 6304] : Вы получили очко пассивных умений Атласа.
 2023/04/23 16:49:12 66288296 8da7ead9 [INFO Client 6304] Successfully allocated passive skill id: atlas_path_25_, name: Шанс выпадения соседней карты
+2023/04/23 23:10:28 ***** LOG FILE OPENING *****
+2023/04/23 23:10:28 22806484 f9544283 [INFO Client 2236] [STARTUP] Job Queues
+2023/04/23 23:10:28 22806500 9e6a0b0a [INFO Client 2236] Enumerated adapter: NVIDIA GeForce GTX 1660
+2023/04/23 23:10:28 22806671 9e6a1d2a [INFO Client 2236] Enumerated device for adapter: NVIDIA GeForce GTX 1660. Selected feature level: 45312. Max feature level: 45312
+2023/04/23 23:10:28 22806671 9e6a1363 [INFO Client 2236] Enumerated output for adapter NVIDIA GeForce GTX 1660 of \\.\DISPLAY1
+2023/04/23 23:10:28 22806671 9e6a0b0a [INFO Client 2236] Enumerated adapter: Microsoft Basic Render Driver
+2023/04/23 23:10:28 22806671 9e6a1d2a [INFO Client 2236] Enumerated device for adapter: Microsoft Basic Render Driver. Selected feature level: 45312. Max feature level: 45312
+2023/04/23 23:10:28 22806671 84a7d27d [INFO Client 2236] [ENGINE] Init
+2023/04/23 23:10:28 22806671 55713145 [INFO Client 2236] [JOB] HIGH: 3
+2023/04/23 23:10:28 22806671 55713145 [INFO Client 2236] [JOB] MEDIUM: 3
+2023/04/23 23:10:28 22806671 55713145 [INFO Client 2236] [JOB] LOW: 3
+2023/04/23 23:10:28 22806671 55713145 [INFO Client 2236] [JOB] IDLE: 1
+2023/04/23 23:10:28 22806671 7bb548f [INFO Client 2236] [BUNDLE2] Init
+2023/04/23 23:10:28 22806671 7bb36c4 [INFO Client 2236] [BUNDLE2] Index: Bundles2/_.index.bin
+2023/04/23 23:10:29 22806921 7bb61e6 [INFO Client 2236] [BUNDLE2] File cache size: 1024
+2023/04/23 23:10:29 22806921 b51d61ab [INFO Client 2236] [RENDER] Async: ON
+2023/04/23 23:10:29 22806921 b51d60c8 [INFO Client 2236] [RENDER] Warmup: ON
+2023/04/23 23:10:29 22806921 b51d60ce [INFO Client 2236] [RENDER] Skip: ON
+2023/04/23 23:10:29 22806921 b51d60eb [INFO Client 2236] [RENDER] Throttling: ON
+2023/04/23 23:10:29 22806921 32759a7a [INFO Client 2236] [SHADER] Address: http://www.pathofexile.com/tool/shader-db?a=store
+2023/04/23 23:10:29 22806921 32759a70 [INFO Client 2236] [SHADER] Async: ON
+2023/04/23 23:10:29 22806921 32759a9f [INFO Client 2236] [SHADER] Delay: OFF
+2023/04/23 23:10:29 22806921 32759aba [INFO Client 2236] [SHADER] Limit: ON
+2023/04/23 23:10:29 22806921 32759abc [INFO Client 2236] [SHADER] Warmup: ON
+2023/04/23 23:10:29 22806921 327599d7 [INFO Client 2236] [SHADER] Parallel: OFF
+2023/04/23 23:10:29 22806921 84a7e376 [INFO Client 2236] [ENGINE] Running Engine version 1.8.0
+2023/04/23 23:10:29 22806984 47bbd15a [INFO Client 2236] [SOUND] Buffer size = 64.0 MB
+2023/04/23 23:10:29 22807046 9b0d205 [INFO Client 2236] [VIDEO] Enable: ON
+2023/04/23 23:10:29 22807093 84a7d2d8 [INFO Client 2236] [ENGINE] Ready
+2023/04/23 23:10:29 22807375 951bc0b0 [INFO Client 2236] [STARTUP] Bundle Startup Start
+2023/04/23 23:10:29 22807375 951bc057 [INFO Client 2236] [STARTUP] Bundle Startup in 4.6e-05 seconds
+2023/04/23 23:10:29 22807375 951bc0b0 [INFO Client 2236] [STARTUP] Game Start
+2023/04/23 23:10:29 22807703 ca86fd3f [DEBUG Client 2236] Rebuilding UI::Core properties. Current input mode = '1'
+2023/04/23 23:10:30 22808031 951bc057 [INFO Client 2236] [STARTUP] Game in 0.650615 seconds
+2023/04/23 23:10:30 22808031 951bc0b0 [INFO Client 2236] [STARTUP] Window Start
+2023/04/23 23:10:30 22808031 9e6a0b0a [INFO Client 2236] Enumerated adapter: NVIDIA GeForce GTX 1660
+2023/04/23 23:10:30 22808156 9e6a1d2a [INFO Client 2236] Enumerated device for adapter: NVIDIA GeForce GTX 1660. Selected feature level: 45312. Max feature level: 45312
+2023/04/23 23:10:30 22808156 9e6a1363 [INFO Client 2236] Enumerated output for adapter NVIDIA GeForce GTX 1660 of \\.\DISPLAY1
+2023/04/23 23:10:30 22808156 9e6a0b0a [INFO Client 2236] Enumerated adapter: Microsoft Basic Render Driver
+2023/04/23 23:10:30 22808156 9e6a1d2a [INFO Client 2236] Enumerated device for adapter: Microsoft Basic Render Driver. Selected feature level: 45312. Max feature level: 45312
+2023/04/23 23:10:30 22808171 951bc057 [INFO Client 2236] [STARTUP] Window in 0.144041 seconds
+2023/04/23 23:10:30 22808187 413b61ff [DEBUG Client 2236] [GamepadManager] Initialising
+2023/04/23 23:10:30 22808187 951bc0b0 [INFO Client 2236] [STARTUP] Device Start
+2023/04/23 23:10:30 22808187 b51d6589 [INFO Client 2236] [RENDER] StartDevice: DirectX11
+2023/04/23 23:10:30 22808312 71b2ea0 [DEBUG Client 2236] [SHADER] Load shader cache: ShaderCacheD3D11
+2023/04/23 23:10:30 22808453 fafff8cf [DEBUG Client 2236] CreateSwapChain: SetFullScreenState 1
+2023/04/23 23:10:30 22808500 29d4ce01 [INFO Client 2236] [D3D11] Runtime version = 11.1
+2023/04/23 23:10:30 22808500 29d4ce00 [INFO Client 2236] [D3D11] Feature Level = 11.1
+2023/04/23 23:10:30 22808500 29d4ce03 [INFO Client 2236] [D3D11] Driver Command Lists = YES
+2023/04/23 23:10:30 22808500 29d4ce02 [INFO Client 2236] [D3D11] Driver Concurrent Creates = YES
+2023/04/23 23:10:30 22808500 29d4ce05 [INFO Client 2236] [D3D11] Driver Constant Buffer Offsetting = YES
+2023/04/23 23:10:30 22808656 9d4eeb40 [DEBUG Client 2236] [WINDOW] TrigggerDeviceCreate
+2023/04/23 23:10:31 22808734 9d4eeba7 [DEBUG Client 2236] [WINDOW] TrigggerDeviceReset
+2023/04/23 23:10:31 22808734 951bc057 [INFO Client 2236] [STARTUP] Device in 0.558664 seconds
+2023/04/23 23:10:31 22808734 951bc0b0 [INFO Client 2236] [STARTUP] Tencent Start
+2023/04/23 23:10:31 22808734 951bc057 [INFO Client 2236] [STARTUP] Tencent in 1.4e-05 seconds
+2023/04/23 23:10:31 22808734 951bc0b0 [INFO Client 2236] [STARTUP] Loading Start
+2023/04/23 23:10:31 22808765 951bc057 [INFO Client 2236] [STARTUP] Loading in 0.031786 seconds
+2023/04/23 23:10:31 22808765 951bc0b0 [INFO Client 2236] [STARTUP] DebugGUI Start
+2023/04/23 23:10:31 22808765 951bc057 [INFO Client 2236] [STARTUP] DebugGUI in 1.3e-05 seconds
+2023/04/23 23:10:31 22808765 951bc0b0 [INFO Client 2236] [STARTUP] Bundle Tiny Start
+2023/04/23 23:10:31 22808765 951bc0b0 [INFO Client 2236] [STARTUP] Bundle Login Start
+2023/04/23 23:10:31 22808765 951bc057 [INFO Client 2236] [STARTUP] Bundle Login in 2.2e-05 seconds
+2023/04/23 23:10:31 22808765 951bc0b0 [INFO Client 2236] [STARTUP] Registration Start
+2023/04/23 23:10:31 22808765 951bc057 [INFO Client 2236] [STARTUP] Bundle Tiny in 4.8e-05 seconds
+2023/04/23 23:10:31 22808765 951bc0b0 [INFO Client 2236] [STARTUP] Audio Start
+2023/04/23 23:10:31 22808765 47bbee18 [INFO Client 2236] [SOUND] Channel count = 64 (asked for 64)
+2023/04/23 23:10:31 22808765 47bbee19 [INFO Client 2236] [SOUND] Source count = 512
+2023/04/23 23:10:31 22808875 47bbea58 [INFO Client 2236] Changing to device "Line 1 (Virtual Audio Cable)"
+2023/04/23 23:10:31 22808921 951bc057 [INFO Client 2236] [STARTUP] Audio in 0.148862 seconds
+2023/04/23 23:10:31 22809125 951bc057 [INFO Client 2236] [STARTUP] Registration in 0.357712 seconds
+2023/04/23 23:10:31 22809718 5094179d [WARN Client 2236] tool_settings.json was not found. Resetting to default settings.
+2023/04/23 23:10:37 22815078 890d9d5f [INFO Client 2236] Async connecting to mil01.login.pathofexile.com:20481
+2023/04/23 23:10:37 22815093 890d9cd8 [INFO Client 2236] Connected to mil01.login.pathofexile.com in 0ms.
+2023/04/23 23:10:40 22817984 88a904cb [DEBUG Client 2236] Got Instance Details from login server
+2023/04/23 23:10:40 22818015 32759a9f [INFO Client 2236] [SHADER] Delay: OFF
+2023/04/23 23:10:40 22818015 ca3a6a71 [INFO Client 2236] Connecting to instance server at 159.122.142.253:6112
+2023/04/23 23:10:40 22818078 ca3a4dbb [DEBUG Client 2236] Connect time to instance server was 31ms
+2023/04/23 23:10:40 22818140 1186a0e5 [DEBUG Client 2236] Generating level 69 area "2_11_endgame_town" with seed 1
+2023/04/23 23:10:44 22821781 f22b6987 [INFO Client 2236] Tile hash: 589033374
+2023/04/23 23:10:44 22821781 f22b6986 [INFO Client 2236] Doodad hash: 4274160400
+2023/04/23 23:10:45 22823265 11870f49 [DEBUG Client 2236] Joined guild named Голосовой чат discord.com/invite/nXFKHzJ with 197 members 
+2023/04/23 23:10:45 22823531 d946cb1d [CRIT Client 2236] Error executing statement on Metadata/Monsters/Epilogue/AtlasMilitiaSpear@69 [4296]: Requires a Game Object (or an Animated Object attached to one); value type is Empty
+2023/04/23 23:10:45 22823531 d946cb1d [CRIT Client 2236] Error executing statement on Metadata/Monsters/Epilogue/AtlasMilitiaSpear@69 [4295]: Requires a Game Object (or an Animated Object attached to one); value type is Empty
+2023/04/23 23:10:46 22824531 cffb071e [INFO Client 2236] &: ОБЪЯВЛЕНИЕ ГИЛЬДИИ: В гостяк у CARDIFF 
+2023/04/23 23:10:47 22824921 cffb071e [INFO Client 2236] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Берега Каруи.
+2023/04/23 23:10:47 22825281 cffb071e [INFO Client 2236] : Вы присоединились к Общему каналу чата 9,968.
+2023/04/23 23:10:49 22826984 32759a9f [INFO Client 2236] [SHADER] Delay: ON
+2023/04/23 23:10:49 22827093 374e0d22 [INFO Client 2236] [Item Filter] Preparing to download online filter 7Mr0AZHP
+2023/04/23 23:10:49 22827093 374e0cc3 [INFO Client 2236] [Item Filter] Hash for online filter 7Mr0AZHP is: 55b166a332ae6c51a1c0cef67a526c5a
+2023/04/23 23:10:49 22827296 374e0cc9 [INFO Client 2236] [Item Filter] Online item filter 7Mr0AZHP returned status: 200
+2023/04/23 23:10:49 22827296 374e0ce3 [DEBUG Client 2236] [Item Filter] Online item filter request resolved to: 209.197.3.101
+2023/04/23 23:10:49 22827296 374e0e8e [DEBUG Client 2236] [Item Filter] X-HW: 1682280648.dop222.ve1.t,1682280648.cds225.ve1.shn,1682280648.dop222.ve1.t,1682280648.cds241.ve1.c
+2023/04/23 23:10:49 22827296 374df808 [INFO Client 2236] [Item Filter] Successfully saved online filter 7Mr0AZHP. Hash is now: 55b166a332ae6c51a1c0cef67a526c5a
+2023/04/23 23:10:49 22827328 7884752a [INFO Client 2236] [Item Filter] Finished reloading online filter 7Mr0AZHP. Result: true. Hash: 55b166a332ae6c51a1c0cef67a526c5a. Type: Normal. Message: 
+2023/04/23 23:10:49 22827328 2a1490e5 [INFO Client 2236] PrecalcBaseTypeHashMap
+2023/04/23 23:10:49 22827421 2a1490e7 [INFO Client 2236] PrecalcModNameHashMap
+2023/04/23 23:10:50 22828578 2a1490e1 [INFO Client 2236] PrecalcItemClassMap
+2023/04/23 23:10:50 22828578 2a1490e3 [INFO Client 2236] PrecalcSoundEffects
+2023/04/23 23:10:50 22828578 2a1490ed [INFO Client 2236] PrecalcDropEffects
+2023/04/23 23:10:50 22828578 2a1490c6 [INFO Client 2236] PrecalcNonEnchantModHashes
+2023/04/23 23:10:50 22828578 2a1490c4 [INFO Client 2236] PrecalcRuleNameToTypeMap
+2023/04/23 23:10:50 22828578 2a1490c2 [INFO Client 2236] PrecalcCJESPNIndexMap
+2023/04/23 23:10:50 22828593 2a1490c0 [INFO Client 2236] PrecalcGemAlternateQualityMap
+2023/04/23 23:11:23 22861015 47bbea58 [INFO Client 2236] Changing to device "Динамики (High Definition Audio Device)"
+2023/04/23 23:12:19 22917046 cffb071e [INFO Client 2236] #<GREENL> GenusCrucibleCWDT: блин.. я хз насколько валидные прокнули сапорты для кастера)
+2023/04/23 23:13:57 23015593 cffb071e [INFO Client 2236] : Вы получили очко сброса пассивных умений.
+2023/04/23 23:13:58 23016093 cffb071e [INFO Client 2236] : Вы получили очко сброса пассивных умений.
+2023/04/23 23:13:58 23016515 cffb071e [INFO Client 2236] : Вы получили очко сброса пассивных умений.
+2023/04/23 23:13:59 23016906 cffb071e [INFO Client 2236] : Вы получили очко сброса пассивных умений.
+2023/04/23 23:13:59 23017328 cffb071e [INFO Client 2236] : Вы получили очко сброса пассивных умений.
+2023/04/23 23:14:00 23017796 cffb071e [INFO Client 2236] : Вы получили очко сброса пассивных умений.
+2023/04/23 23:14:00 23018171 cffb071e [INFO Client 2236] : Вы получили очко сброса пассивных умений.
+2023/04/23 23:14:00 23018593 cffb071e [INFO Client 2236] : Вы получили очко сброса пассивных умений.
+2023/04/23 23:14:01 23018953 cffb071e [INFO Client 2236] : Вы получили очко сброса пассивных умений.
+2023/04/23 23:14:01 23019640 cffb071e [INFO Client 2236] : Вы получили очко сброса пассивных умений.
+2023/04/23 23:14:10 23028046 fb7abdec [INFO Client 2236] Successfully unallocated passive skill id: mastery_dagger78, name: Мастерство кинжалов
+2023/04/23 23:14:11 23028828 fb7abdec [INFO Client 2236] Successfully unallocated passive skill id: from_the_shadows471, name: Удар из тени
+2023/04/23 23:14:11 23029484 fb7abdec [INFO Client 2236] Successfully unallocated passive skill id: dagger_mobility2533, name: Урон кинжалом и скорость передвижения
+2023/04/23 23:14:12 23030203 fb7abdec [INFO Client 2236] Successfully unallocated passive skill id: dagger_damage2060, name: Урон кинжалом и скорость передвижения
+2023/04/23 23:14:22 23039750 fb7abdec [INFO Client 2236] Successfully unallocated passive skill id: mastery_poison198, name: Мастерство ядов
+2023/04/23 23:14:22 23040671 fb7abdec [INFO Client 2236] Successfully unallocated passive skill id: attack_poison_notable2352, name: Быстрые яды
+2023/04/23 23:14:23 23041281 fb7abdec [INFO Client 2236] Successfully unallocated passive skill id: attack_poison2350, name: Урон от яда и шанс отравить
+2023/04/23 23:14:24 23041906 fb7abdec [INFO Client 2236] Successfully unallocated passive skill id: attack_poison2349, name: Шанс отравить
+2023/04/23 23:14:44 23062031 fb7abcab [INFO Client 2236] Successfully allocated passive skill id: dexterity989, name: Ловкость
+2023/04/23 23:14:45 23062734 fb7abcab [INFO Client 2236] Successfully allocated passive skill id: dexterity872, name: Ловкость
+2023/04/23 23:14:45 23063328 fb7abcab [INFO Client 2236] Successfully allocated passive skill id: weapon_elemental_damage1263, name: Урон от стихий оружием
+2023/04/23 23:14:46 23064140 fb7abcab [INFO Client 2236] Successfully allocated passive skill id: weapon_elemental_damage1264, name: Урон от стихий оружием
+2023/04/23 23:14:47 23064906 fb7abcab [INFO Client 2236] Successfully allocated passive skill id: weapon_ele_notable1700, name: Силы природы
+2023/04/23 23:15:03 23081390 fb7abcab [INFO Client 2236] Successfully allocated passive skill id: attack_channel_charge2394, name: Подавление чар
+2023/04/23 23:15:04 23082046 fb7abcab [INFO Client 2236] Successfully allocated passive skill id: attack_channel_charge2393, name: Подавление чар
+2023/04/23 23:15:05 23083140 fb7abcab [INFO Client 2236] Successfully allocated passive skill id: attack_channel_charge2395, name: Подавление чар
+2023/04/23 23:15:11 23089640 fb7abdec [INFO Client 2236] Successfully unallocated passive skill id: projectile_damage1233, name: Урон снарядами
+2023/04/23 23:15:14 23092234 fb7abcab [INFO Client 2236] Successfully allocated passive skill id: attack_channel_charge_notable2396, name: Закоренелый
+2023/04/23 23:16:10 23148281 b51d4f61 [DEBUG Client 2236] [RENDER] SetRendererSettings
+2023/04/23 23:16:10 23148281 b51d6447 [DEBUG Client 2236] [RENDER] ResizeWindow
+2023/04/23 23:16:10 23148296 9d4eec8a [DEBUG Client 2236] [WINDOW] TrigggerDeviceLost
+2023/04/23 23:16:10 23148312 9d4eeba7 [DEBUG Client 2236] [WINDOW] TrigggerDeviceReset
+2023/04/23 23:16:11 23148953 b51d614c [DEBUG Client 2236] [RENDER] RestartSwapChain
+2023/04/23 23:16:11 23148953 9e6a0b0a [INFO Client 2236] Enumerated adapter: NVIDIA GeForce GTX 1660
+2023/04/23 23:16:11 23149000 9e6a1d2a [INFO Client 2236] Enumerated device for adapter: NVIDIA GeForce GTX 1660. Selected feature level: 45312. Max feature level: 45312
+2023/04/23 23:16:11 23149000 9e6a1363 [INFO Client 2236] Enumerated output for adapter NVIDIA GeForce GTX 1660 of \\.\DISPLAY1
+2023/04/23 23:16:11 23149000 9e6a0b0a [INFO Client 2236] Enumerated adapter: Microsoft Basic Render Driver
+2023/04/23 23:16:11 23149000 9e6a1d2a [INFO Client 2236] Enumerated device for adapter: Microsoft Basic Render Driver. Selected feature level: 45312. Max feature level: 45312
+2023/04/23 23:16:11 23149031 9d4eec8a [DEBUG Client 2236] [WINDOW] TrigggerDeviceLost
+2023/04/23 23:16:11 23149078 9d4eeba7 [DEBUG Client 2236] [WINDOW] TrigggerDeviceReset
+2023/04/23 23:16:11 23149609 fafff8cf [DEBUG Client 2236] CreateSwapChain: SetFullScreenState 0
+2023/04/23 23:16:11 23149609 9d4eec8a [DEBUG Client 2236] [WINDOW] TrigggerDeviceLost
+2023/04/23 23:16:11 23149640 9d4eeba7 [DEBUG Client 2236] [WINDOW] TrigggerDeviceReset
+2023/04/23 23:16:12 23150250 3275a75e [INFO Client 2236] [SHADER] Disable Async: 1 frames
+2023/04/23 23:16:12 23150250 b51d610e [INFO Client 2236] [RENDER] Disable Async: 1 frames
+2023/04/23 23:16:12 23150250 9d4eec8a [DEBUG Client 2236] [WINDOW] TrigggerDeviceLost
+2023/04/23 23:16:12 23150296 9d4eeba7 [DEBUG Client 2236] [WINDOW] TrigggerDeviceReset
+2023/04/23 23:16:14 23152390 b51d4f61 [DEBUG Client 2236] [RENDER] SetRendererSettings
+2023/04/23 23:16:14 23152390 b51d6447 [DEBUG Client 2236] [RENDER] ResizeWindow
+2023/04/23 23:16:14 23152406 b51d614c [DEBUG Client 2236] [RENDER] RestartSwapChain
+2023/04/23 23:16:14 23152406 9e6a0b0a [INFO Client 2236] Enumerated adapter: NVIDIA GeForce GTX 1660
+2023/04/23 23:16:14 23152437 9e6a1d2a [INFO Client 2236] Enumerated device for adapter: NVIDIA GeForce GTX 1660. Selected feature level: 45312. Max feature level: 45312
+2023/04/23 23:16:14 23152437 9e6a1363 [INFO Client 2236] Enumerated output for adapter NVIDIA GeForce GTX 1660 of \\.\DISPLAY1
+2023/04/23 23:16:14 23152437 9e6a0b0a [INFO Client 2236] Enumerated adapter: Microsoft Basic Render Driver
+2023/04/23 23:16:14 23152453 9e6a1d2a [INFO Client 2236] Enumerated device for adapter: Microsoft Basic Render Driver. Selected feature level: 45312. Max feature level: 45312
+2023/04/23 23:16:14 23152453 fafff8cf [DEBUG Client 2236] CreateSwapChain: SetFullScreenState 1
+2023/04/23 23:16:14 23152531 9d4eec8a [DEBUG Client 2236] [WINDOW] TrigggerDeviceLost
+2023/04/23 23:16:14 23152546 9d4eeba7 [DEBUG Client 2236] [WINDOW] TrigggerDeviceReset
+2023/04/23 23:16:15 23153250 3275a75e [INFO Client 2236] [SHADER] Disable Async: 1 frames
+2023/04/23 23:16:15 23153250 b51d610e [INFO Client 2236] [RENDER] Disable Async: 1 frames
+2023/04/23 23:16:21 23159171 b51d4f61 [DEBUG Client 2236] [RENDER] SetRendererSettings
+2023/04/23 23:16:21 23159171 b51d6447 [DEBUG Client 2236] [RENDER] ResizeWindow
+2023/04/23 23:16:21 23159171 9d4eec8a [DEBUG Client 2236] [WINDOW] TrigggerDeviceLost
+2023/04/23 23:16:21 23159187 9d4eeba7 [DEBUG Client 2236] [WINDOW] TrigggerDeviceReset
+2023/04/23 23:16:22 23160000 b51d614c [DEBUG Client 2236] [RENDER] RestartSwapChain
+2023/04/23 23:16:22 23160000 9e6a0b0a [INFO Client 2236] Enumerated adapter: NVIDIA GeForce GTX 1660
+2023/04/23 23:16:22 23160031 9e6a1d2a [INFO Client 2236] Enumerated device for adapter: NVIDIA GeForce GTX 1660. Selected feature level: 45312. Max feature level: 45312
+2023/04/23 23:16:22 23160046 9e6a1363 [INFO Client 2236] Enumerated output for adapter NVIDIA GeForce GTX 1660 of \\.\DISPLAY1
+2023/04/23 23:16:22 23160046 9e6a0b0a [INFO Client 2236] Enumerated adapter: Microsoft Basic Render Driver
+2023/04/23 23:16:22 23160046 9e6a1d2a [INFO Client 2236] Enumerated device for adapter: Microsoft Basic Render Driver. Selected feature level: 45312. Max feature level: 45312
+2023/04/23 23:16:22 23160078 9d4eec8a [DEBUG Client 2236] [WINDOW] TrigggerDeviceLost
+2023/04/23 23:16:22 23160125 9d4eeba7 [DEBUG Client 2236] [WINDOW] TrigggerDeviceReset
+2023/04/23 23:16:23 23160984 fafff8cf [DEBUG Client 2236] CreateSwapChain: SetFullScreenState 0
+2023/04/23 23:16:23 23160984 9d4eec8a [DEBUG Client 2236] [WINDOW] TrigggerDeviceLost
+2023/04/23 23:16:23 23161015 9d4eeba7 [DEBUG Client 2236] [WINDOW] TrigggerDeviceReset
+2023/04/23 23:16:24 23161890 3275a75e [INFO Client 2236] [SHADER] Disable Async: 1 frames
+2023/04/23 23:16:24 23161890 b51d610e [INFO Client 2236] [RENDER] Disable Async: 1 frames
+2023/04/23 23:16:24 23161890 9d4eec8a [DEBUG Client 2236] [WINDOW] TrigggerDeviceLost
+2023/04/23 23:16:24 23161921 9d4eeba7 [DEBUG Client 2236] [WINDOW] TrigggerDeviceReset
+2023/04/23 23:16:36 23174156 cffb071e [INFO Client 2236] &<RiPE> __HARDCORE__: привет есть кто?
+2023/04/23 23:16:48 23185890 cffb071e [INFO Client 2236] &<RiPE> dude_gaylord: e
+2023/04/23 23:16:53 23191375 cffb071e [INFO Client 2236] &<RiPE> __HARDCORE__: блин чтож вы на харде не играете никто
+2023/04/23 23:16:55 23192734 b51d4f61 [DEBUG Client 2236] [RENDER] SetRendererSettings
+2023/04/23 23:16:55 23192734 b51d6447 [DEBUG Client 2236] [RENDER] ResizeWindow
+2023/04/23 23:16:55 23192734 b51d614c [DEBUG Client 2236] [RENDER] RestartSwapChain
+2023/04/23 23:16:55 23192734 9e6a0b0a [INFO Client 2236] Enumerated adapter: NVIDIA GeForce GTX 1660
+2023/04/23 23:16:55 23192796 9e6a1d2a [INFO Client 2236] Enumerated device for adapter: NVIDIA GeForce GTX 1660. Selected feature level: 45312. Max feature level: 45312
+2023/04/23 23:16:55 23192796 9e6a1363 [INFO Client 2236] Enumerated output for adapter NVIDIA GeForce GTX 1660 of \\.\DISPLAY1
+2023/04/23 23:16:55 23192796 9e6a0b0a [INFO Client 2236] Enumerated adapter: Microsoft Basic Render Driver
+2023/04/23 23:16:55 23192796 9e6a1d2a [INFO Client 2236] Enumerated device for adapter: Microsoft Basic Render Driver. Selected feature level: 45312. Max feature level: 45312
+2023/04/23 23:16:55 23192796 fafff8cf [DEBUG Client 2236] CreateSwapChain: SetFullScreenState 1
+2023/04/23 23:16:55 23192859 9d4eec8a [DEBUG Client 2236] [WINDOW] TrigggerDeviceLost
+2023/04/23 23:16:55 23192875 9d4eeba7 [DEBUG Client 2236] [WINDOW] TrigggerDeviceReset
+2023/04/23 23:16:56 23193859 3275a75e [INFO Client 2236] [SHADER] Disable Async: 1 frames
+2023/04/23 23:16:56 23193859 b51d610e [INFO Client 2236] [RENDER] Disable Async: 1 frames
+2023/04/23 23:17:36 23233828 cffb071e [INFO Client 2236] &<RiPE> Karta_A: акты дрочить времени нет
+2023/04/23 23:17:58 23256078 cffb071e [INFO Client 2236] &<RiPE> КотлетыВдуховке: вермя фактор Ден привет
+2023/04/23 23:18:11 23268781 cffb071e [INFO Client 2236] : Сделка совершена.
+2023/04/23 23:18:15 23273203 cffb071e [INFO Client 2236] : Сделка совершена.
+2023/04/23 23:21:36 23474109 cffb071e [INFO Client 2236] #OneDEDmovedAway: кстати не знал что на посохе могут и повторные камни прокнуть
+2023/04/23 23:22:47 23545531 cffb071e [INFO Client 2236] #<GREENL> GenusCrucibleCWDT: покаж
+2023/04/23 23:23:00 23558406 cffb071e [INFO Client 2236] #OneDEDmovedAway: я про твой посох :)
+2023/04/23 23:23:14 23572718 cffb071e [INFO Client 2236] #OneDEDmovedAway: 2 раза средоточие
+2023/04/23 23:23:16 23574578 cffb071e [INFO Client 2236] #FirstDedOnThorp: покажь
+2023/04/23 23:23:20 23578468 cffb071e [INFO Client 2236] #<GREENL> GenusCrucibleCWDT: там нет повторных оО
+2023/04/23 23:23:40 23598562 cffb071e [INFO Client 2236] #<GREENL> GenusCrucibleCWDT: Круг геомантии, Посох патриция
+2023/04/23 23:23:44 23602625 cffb071e [INFO Client 2236] #OneDEDmovedAway:  а средоточие и сосредоточение :)
+2023/04/23 23:23:52 23610250 cffb071e [INFO Client 2236] #OneDEDmovedAway: слепс
+2023/04/23 23:26:41 23779640 cffb071e [INFO Client 2236] #OneDEDmovedAway: в целом кстати рабочий посох
+2023/04/23 23:26:52 23790500 88a904cb [DEBUG Client 2236] Got Instance Details from login server
+2023/04/23 23:26:52 23790531 32759a9f [INFO Client 2236] [SHADER] Delay: OFF
+2023/04/23 23:26:52 23790531 ca3a6a71 [INFO Client 2236] Connecting to instance server at 169.51.201.167:6112
+2023/04/23 23:26:52 23790578 ca3a4dbb [DEBUG Client 2236] Connect time to instance server was 31ms
+2023/04/23 23:26:52 23790640 1186a0e5 [DEBUG Client 2236] Generating level 20 area "HideoutCoral" with seed 1
+2023/04/23 23:26:53 23790859 f22b6987 [INFO Client 2236] Tile hash: 805187908
+2023/04/23 23:26:53 23790859 f22b6986 [INFO Client 2236] Doodad hash: 0
+2023/04/23 23:26:53 23791515 11870f49 [DEBUG Client 2236] Joined guild named Голосовой чат discord.com/invite/nXFKHzJ with 197 members 
+2023/04/23 23:26:54 23792562 cffb071e [INFO Client 2236] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Коралловое убежище.
+2023/04/23 23:26:55 23792843 b51d4f61 [DEBUG Client 2236] [RENDER] SetRendererSettings
+2023/04/23 23:26:55 23792843 b51d6447 [DEBUG Client 2236] [RENDER] ResizeWindow
+2023/04/23 23:26:55 23792843 9d4eec8a [DEBUG Client 2236] [WINDOW] TrigggerDeviceLost
+2023/04/23 23:26:55 23792859 9d4eeba7 [DEBUG Client 2236] [WINDOW] TrigggerDeviceReset
+2023/04/23 23:26:55 23793359 b51d614c [DEBUG Client 2236] [RENDER] RestartSwapChain
+2023/04/23 23:26:55 23793359 9e6a0b0a [INFO Client 2236] Enumerated adapter: NVIDIA GeForce GTX 1660
+2023/04/23 23:26:55 23793390 9e6a1d2a [INFO Client 2236] Enumerated device for adapter: NVIDIA GeForce GTX 1660. Selected feature level: 45312. Max feature level: 45312
+2023/04/23 23:26:55 23793406 9e6a1363 [INFO Client 2236] Enumerated output for adapter NVIDIA GeForce GTX 1660 of \\.\DISPLAY1
+2023/04/23 23:26:55 23793406 9e6a0b0a [INFO Client 2236] Enumerated adapter: Microsoft Basic Render Driver
+2023/04/23 23:26:55 23793406 9e6a1d2a [INFO Client 2236] Enumerated device for adapter: Microsoft Basic Render Driver. Selected feature level: 45312. Max feature level: 45312
+2023/04/23 23:26:55 23793437 9d4eec8a [DEBUG Client 2236] [WINDOW] TrigggerDeviceLost
+2023/04/23 23:26:55 23793453 9d4eeba7 [DEBUG Client 2236] [WINDOW] TrigggerDeviceReset
+2023/04/23 23:26:56 23794031 fafff8cf [DEBUG Client 2236] CreateSwapChain: SetFullScreenState 0
+2023/04/23 23:26:56 23794031 9d4eec8a [DEBUG Client 2236] [WINDOW] TrigggerDeviceLost
+2023/04/23 23:26:56 23794046 9d4eeba7 [DEBUG Client 2236] [WINDOW] TrigggerDeviceReset
+2023/04/23 23:26:56 23794656 3275a75e [INFO Client 2236] [SHADER] Disable Async: 1 frames
+2023/04/23 23:26:56 23794656 b51d610e [INFO Client 2236] [RENDER] Disable Async: 1 frames
+2023/04/23 23:26:56 23794671 9d4eec8a [DEBUG Client 2236] [WINDOW] TrigggerDeviceLost
+2023/04/23 23:26:56 23794703 9d4eeba7 [DEBUG Client 2236] [WINDOW] TrigggerDeviceReset
+2023/04/23 23:26:58 23796062 32759a9f [INFO Client 2236] [SHADER] Delay: ON
+2023/04/23 23:27:00 23798203 b51d4f61 [DEBUG Client 2236] [RENDER] SetRendererSettings
+2023/04/23 23:27:00 23798203 b51d6447 [DEBUG Client 2236] [RENDER] ResizeWindow
+2023/04/23 23:27:00 23798203 b51d614c [DEBUG Client 2236] [RENDER] RestartSwapChain
+2023/04/23 23:27:00 23798203 9e6a0b0a [INFO Client 2236] Enumerated adapter: NVIDIA GeForce GTX 1660
+2023/04/23 23:27:00 23798265 9e6a1d2a [INFO Client 2236] Enumerated device for adapter: NVIDIA GeForce GTX 1660. Selected feature level: 45312. Max feature level: 45312
+2023/04/23 23:27:00 23798265 9e6a1363 [INFO Client 2236] Enumerated output for adapter NVIDIA GeForce GTX 1660 of \\.\DISPLAY1
+2023/04/23 23:27:00 23798265 9e6a0b0a [INFO Client 2236] Enumerated adapter: Microsoft Basic Render Driver
+2023/04/23 23:27:00 23798265 9e6a1d2a [INFO Client 2236] Enumerated device for adapter: Microsoft Basic Render Driver. Selected feature level: 45312. Max feature level: 45312
+2023/04/23 23:27:00 23798265 fafff8cf [DEBUG Client 2236] CreateSwapChain: SetFullScreenState 1
+2023/04/23 23:27:00 23798328 9d4eec8a [DEBUG Client 2236] [WINDOW] TrigggerDeviceLost
+2023/04/23 23:27:00 23798328 9d4eeba7 [DEBUG Client 2236] [WINDOW] TrigggerDeviceReset
+2023/04/23 23:27:01 23799046 3275a75e [INFO Client 2236] [SHADER] Disable Async: 1 frames
+2023/04/23 23:27:01 23799046 b51d610e [INFO Client 2236] [RENDER] Disable Async: 1 frames
+2023/04/23 23:27:10 23808515 cffb071e [INFO Client 2236] #<RiPE> CR_PAK: Смертельный виток, Карта тропического острова
+2023/04/23 23:27:43 23841281 cffb071e [INFO Client 2236] &<RiPE> CR_PAK:  Смертельный виток, Карта тропического острова
+2023/04/23 23:27:48 23846468 88a904cb [DEBUG Client 2236] Got Instance Details from login server
+2023/04/23 23:27:48 23846484 32759a9f [INFO Client 2236] [SHADER] Delay: OFF
+2023/04/23 23:27:48 23846484 ca3a6a71 [INFO Client 2236] Connecting to instance server at 169.51.201.167:6112
+2023/04/23 23:27:48 23846546 ca3a4dbb [DEBUG Client 2236] Connect time to instance server was 47ms
+2023/04/23 23:27:48 23846609 1186a0e5 [DEBUG Client 2236] Generating level 69 area "MapWorldsPrecinct" with seed 1363651389
+2023/04/23 23:27:49 23847656 f22b6987 [INFO Client 2236] Tile hash: 1172878531
+2023/04/23 23:27:49 23847656 f22b6986 [INFO Client 2236] Doodad hash: 2573960847
+2023/04/23 23:27:50 23848031 11870f49 [DEBUG Client 2236] Joined guild named Голосовой чат discord.com/invite/nXFKHzJ with 197 members 
+2023/04/23 23:27:51 23848890 cffb071e [INFO Client 2236] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Окрестности.
+2023/04/23 23:27:51 23849671 32759a9f [INFO Client 2236] [SHADER] Delay: ON
+2023/04/23 23:28:07 23865468 cffb071e [INFO Client 2236] #asdfgghiy: нифигово так можно сделать куча линк)
+2023/04/23 23:28:26 23884421 3796f5e1 [WARN Client 2236] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/23 23:29:21 23939140 cffb071e [INFO Client 2236] #OneDEDmovedAway: ну не куча линк, а 6л
+2023/04/23 23:29:37 23955281 cffb071e [INFO Client 2236] #OneDEDmovedAway: тут фишка в 30 лвл камня. там некотоыре так бустят урон что капец
+2023/04/23 23:29:58 23976437 cffb071e [INFO Client 2236] : Да не убоишься стихий
+2023/04/23 23:30:02 23980421 cffb071e [INFO Client 2236] #asdfgghiy:  ааа не увидел что имеет одно гнездо думал имбулечка
+2023/04/23 23:30:04 23982312 cffb071e [INFO Client 2236] #OneDEDmovedAway: вон шапка на Эпилептика, 1 камень а стоит под мирор
+2023/04/23 23:30:31 24009500 cffb071e [INFO Client 2236] #OneDEDmovedAway: Круг геомантии, Посох патриция
+2023/04/23 23:30:40 24018703 118717eb [DEBUG Client 2236] Resyncing 3902
+2023/04/23 23:30:42 24019828 cffb071e [INFO Client 2236] #OneDEDmovedAway: мой кстати на редкость унылое Г
+2023/04/23 23:31:06 24043984 3796f5e1 [WARN Client 2236] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/23 23:31:06 24044046 3796f5e1 [WARN Client 2236] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/23 23:31:07 24045234 3796f5e1 [WARN Client 2236] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/23 23:31:07 24045234 3796f5e1 [WARN Client 2236] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/23 23:31:07 24045609 3796f5e1 [WARN Client 2236] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/23 23:32:32 24129921 cffb071e [INFO Client 2236] #asdfgghiy: есть у кого когти чтобы я посмотрел и понял к чему стремиться в горниле?) а то пока одна хрень выходит
+2023/04/23 23:32:41 24139093 cffb071e [INFO Client 2236] #asdfgghiy: Ненавистный укус, Имперский коготь
+2023/04/23 23:33:11 24169203 cffb071e [INFO Client 2236] #<GREENL> GenusCrucibleCWDT: Морозный Лук палача подготовки эм.. чет за 55х спамят
+2023/04/23 23:33:43 24201468 cffb071e [INFO Client 2236] : Вы получили очко пассивных умений Атласа.
+2023/04/23 23:33:54 24212250 8da7ead9 [INFO Client 2236] Successfully allocated passive skill id: atlas_path_27, name: Шанс выпадения соседней карты
+2023/04/23 23:34:14 24232062 cffb071e [INFO Client 2236] #OneDEDmovedAway: странно
+2023/04/23 23:34:19 24236750 cffb071e [INFO Client 2236] : Покрой мир льдами
+2023/04/23 23:34:26 24244531 cffb071e [INFO Client 2236] #OneDEDmovedAway: жеода. даже х2
+2023/04/23 23:34:30 24248484 cffb071e [INFO Client 2236] #<GREENL> GenusCrucibleCWDT: мб неплохая стартовая болванка
+2023/04/23 23:34:34 24252421 cffb071e [INFO Client 2236] #OneDEDmovedAway: или это убер?
+2023/04/23 23:34:45 24262765 bce2d691 [INFO Client 2236] Steam stats stored
+2023/04/23 23:35:27 24304781 890d9d5f [INFO Client 2236] Async connecting to mil01.login.pathofexile.com:20481
+2023/04/23 23:35:27 24304781 890d9cd8 [INFO Client 2236] Connected to mil01.login.pathofexile.com in 0ms.
+2023/04/23 23:35:30 24308046 88a904cb [DEBUG Client 2236] Got Instance Details from login server
+2023/04/23 23:35:30 24308046 32759a9f [INFO Client 2236] [SHADER] Delay: OFF
+2023/04/23 23:35:30 24308046 ca3a6a71 [INFO Client 2236] Connecting to instance server at 169.51.201.145:6112
+2023/04/23 23:35:30 24308109 ca3a4dbb [DEBUG Client 2236] Connect time to instance server was 31ms
+2023/04/23 23:35:30 24308171 1186a0e5 [DEBUG Client 2236] Generating level 69 area "2_11_endgame_town" with seed 1
+2023/04/23 23:35:32 24310281 f22b6987 [INFO Client 2236] Tile hash: 589033374
+2023/04/23 23:35:32 24310281 f22b6986 [INFO Client 2236] Doodad hash: 4274160400
+2023/04/23 23:35:33 24311000 11870f49 [DEBUG Client 2236] Joined guild named Голосовой чат discord.com/invite/nXFKHzJ with 197 members 
+2023/04/23 23:35:34 24311765 cffb071e [INFO Client 2236] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Берега Каруи.
+2023/04/23 23:35:34 24311765 cffb071e [INFO Client 2236] #Hahahahache: каму нужно Древний тайник, Карта дюн 2 шт за 80с
+2023/04/23 23:35:34 24311765 cffb071e [INFO Client 2236] #Govnila_Perdanila_: 2
+2023/04/23 23:35:34 24312171 cffb071e [INFO Client 2236] : Вы присоединились к Общему каналу чата 9,968.
+2023/04/23 23:35:34 24312500 32759a9f [INFO Client 2236] [SHADER] Delay: ON
+2023/04/23 23:35:34 24312515 374e0d22 [INFO Client 2236] [Item Filter] Preparing to download online filter 7Mr0AZHP
+2023/04/23 23:35:34 24312515 374e0cc3 [INFO Client 2236] [Item Filter] Hash for online filter 7Mr0AZHP is: 55b166a332ae6c51a1c0cef67a526c5a
+2023/04/23 23:35:34 24312656 374e0cc9 [INFO Client 2236] [Item Filter] Online item filter 7Mr0AZHP returned status: 200
+2023/04/23 23:35:34 24312656 374e0ce3 [DEBUG Client 2236] [Item Filter] Online item filter request resolved to: 209.197.3.101
+2023/04/23 23:35:34 24312656 374e0e8e [DEBUG Client 2236] [Item Filter] X-HW: 1682282133.dop223.ve1.t,1682282133.cds237.ve1.shn,1682282133.dop223.ve1.t,1682282133.cds241.ve1.c
+2023/04/23 23:35:34 24312656 374df808 [INFO Client 2236] [Item Filter] Successfully saved online filter 7Mr0AZHP. Hash is now: 55b166a332ae6c51a1c0cef67a526c5a
+2023/04/23 23:35:34 24312656 7884752a [INFO Client 2236] [Item Filter] Finished reloading online filter 7Mr0AZHP. Result: true. Hash: 55b166a332ae6c51a1c0cef67a526c5a. Type: Normal. Message: 
+2023/04/23 23:35:43 24320921 cffb071e [INFO Client 2236] #<GREENL> GenusCrucibleCWDT: геод этот 10х стоит
+2023/04/23 23:35:44 24322046 cffb071e [INFO Client 2236] #<GREENL> GenusCrucibleCWDT: вроде
+2023/04/23 23:36:38 24376328 88a904cb [DEBUG Client 2236] Got Instance Details from login server
+2023/04/23 23:36:38 24376328 32759a9f [INFO Client 2236] [SHADER] Delay: OFF
+2023/04/23 23:36:38 24376328 ca3a6a71 [INFO Client 2236] Connecting to instance server at 169.51.201.167:6112
+2023/04/23 23:36:38 24376375 ca3a4dbb [DEBUG Client 2236] Connect time to instance server was 31ms
+2023/04/23 23:36:38 24376421 1186a0e5 [DEBUG Client 2236] Generating level 69 area "MapWorldsPrecinct" with seed 1363651389
+2023/04/23 23:36:38 24376468 f22b6987 [INFO Client 2236] Tile hash: 1172878531
+2023/04/23 23:36:38 24376468 f22b6986 [INFO Client 2236] Doodad hash: 2573960847
+2023/04/23 23:36:39 24377109 11870f49 [DEBUG Client 2236] Joined guild named Голосовой чат discord.com/invite/nXFKHzJ with 197 members 
+2023/04/23 23:36:40 24377750 cffb071e [INFO Client 2236] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Окрестности.
+2023/04/23 23:36:40 24378171 32759a9f [INFO Client 2236] [SHADER] Delay: ON
+2023/04/23 23:36:45 24383078 88a904cb [DEBUG Client 2236] Got Instance Details from login server
+2023/04/23 23:36:45 24383078 32759a9f [INFO Client 2236] [SHADER] Delay: OFF
+2023/04/23 23:36:45 24383078 ca3a6a71 [INFO Client 2236] Connecting to instance server at 169.51.201.165:6112
+2023/04/23 23:36:45 24383140 ca3a4dbb [DEBUG Client 2236] Connect time to instance server was 31ms
+2023/04/23 23:36:45 24383234 1186a0e5 [DEBUG Client 2236] Generating level 69 area "2_11_endgame_town" with seed 1
+2023/04/23 23:36:46 24383828 f22b6987 [INFO Client 2236] Tile hash: 589033374
+2023/04/23 23:36:46 24383828 f22b6986 [INFO Client 2236] Doodad hash: 4274160400
+2023/04/23 23:36:46 24384156 11870f49 [DEBUG Client 2236] Joined guild named Голосовой чат discord.com/invite/nXFKHzJ with 197 members 
+2023/04/23 23:36:47 24384890 cffb071e [INFO Client 2236] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Берега Каруи.
+2023/04/23 23:36:47 24385546 32759a9f [INFO Client 2236] [SHADER] Delay: ON
+2023/04/23 23:36:51 24389187 88a904cb [DEBUG Client 2236] Got Instance Details from login server
+2023/04/23 23:36:51 24389187 32759a9f [INFO Client 2236] [SHADER] Delay: OFF
+2023/04/23 23:36:51 24389187 ca3a6a71 [INFO Client 2236] Connecting to instance server at 169.51.201.171:6112
+2023/04/23 23:36:51 24389250 ca3a4dbb [DEBUG Client 2236] Connect time to instance server was 47ms
+2023/04/23 23:36:51 24389296 1186a0e5 [DEBUG Client 2236] Generating level 20 area "HideoutCoral" with seed 1
+2023/04/23 23:36:51 24389468 f22b6987 [INFO Client 2236] Tile hash: 805187908
+2023/04/23 23:36:51 24389468 f22b6986 [INFO Client 2236] Doodad hash: 0
+2023/04/23 23:36:52 24390281 11870f49 [DEBUG Client 2236] Joined guild named Голосовой чат discord.com/invite/nXFKHzJ with 197 members 
+2023/04/23 23:36:53 24390984 cffb071e [INFO Client 2236] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Коралловое убежище.
+2023/04/23 23:36:53 24391703 32759a9f [INFO Client 2236] [SHADER] Delay: ON
+2023/04/23 23:38:18 24476593 88a904cb [DEBUG Client 2236] Got Instance Details from login server
+2023/04/23 23:38:18 24476593 32759a9f [INFO Client 2236] [SHADER] Delay: OFF
+2023/04/23 23:38:18 24476593 ca3a6a71 [INFO Client 2236] Connecting to instance server at 169.51.201.167:6112
+2023/04/23 23:38:18 24476656 ca3a4dbb [DEBUG Client 2236] Connect time to instance server was 47ms
+2023/04/23 23:38:18 24476718 1186a0e5 [DEBUG Client 2236] Generating level 70 area "MapWorldsPrimordialPool" with seed 1361429106
+2023/04/23 23:38:20 24477968 f22b6987 [INFO Client 2236] Tile hash: 3230757838
+2023/04/23 23:38:20 24477968 f22b6986 [INFO Client 2236] Doodad hash: 3913067284
+2023/04/23 23:38:20 24478359 11870f49 [DEBUG Client 2236] Joined guild named Голосовой чат discord.com/invite/nXFKHzJ with 197 members 
+2023/04/23 23:38:21 24479203 cffb071e [INFO Client 2236] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Древнее озеро.
+2023/04/23 23:38:22 24479765 32759a9f [INFO Client 2236] [SHADER] Delay: ON
+2023/04/23 23:38:33 24491703 cffb071e [INFO Client 2236] #OneDEDmovedAway: непонятно, но мод на тотемы самый мощный. но в мета ловушко-тотемах он не нужен
+2023/04/23 23:38:52 24509734 3796f5e1 [WARN Client 2236] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/23 23:38:53 24511437 3796f5e1 [WARN Client 2236] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/23 23:38:53 24511437 3796f5e1 [WARN Client 2236] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/23 23:38:56 24513781 cffb071e [INFO Client 2236] #OneDEDmovedAway: так похожих на твой мало. и там да твой самый дешевый
+2023/04/23 23:39:07 24525062 cffb071e [INFO Client 2236] #OneDEDmovedAway: есть за 68-70 недавно выкинутых
+2023/04/23 23:39:11 24529015 cffb071e [INFO Client 2236] #<SÚ]äð> Sergio_Karat: да то чисто трололо нод поугорать решили ггг
+2023/04/23 23:41:12 24649781 cffb071e [INFO Client 2236] : DeeGyreIIIXXI (Снайпер) достигает 80 уровня
+2023/04/23 23:41:29 24667343 cffb071e [INFO Client 2236] Рог: Нашёл для тебя ещё кое-что!
+2023/04/23 23:41:57 24695656 cffb071e [INFO Client 2236] #<GREENL> GenusCrucibleCWDT: 130х - молчек =)
+2023/04/23 23:43:10 24767812 b51d4f61 [DEBUG Client 2236] [RENDER] SetRendererSettings
+2023/04/23 23:43:10 24767812 b51d6447 [DEBUG Client 2236] [RENDER] ResizeWindow
+2023/04/23 23:43:10 24767828 9d4eec8a [DEBUG Client 2236] [WINDOW] TrigggerDeviceLost
+2023/04/23 23:43:10 24767843 9d4eeba7 [DEBUG Client 2236] [WINDOW] TrigggerDeviceReset
+2023/04/23 23:43:10 24768281 b51d614c [DEBUG Client 2236] [RENDER] RestartSwapChain
+2023/04/23 23:43:10 24768281 9e6a0b0a [INFO Client 2236] Enumerated adapter: NVIDIA GeForce GTX 1660
+2023/04/23 23:43:10 24768328 9e6a1d2a [INFO Client 2236] Enumerated device for adapter: NVIDIA GeForce GTX 1660. Selected feature level: 45312. Max feature level: 45312
+2023/04/23 23:43:10 24768328 9e6a1363 [INFO Client 2236] Enumerated output for adapter NVIDIA GeForce GTX 1660 of \\.\DISPLAY1
+2023/04/23 23:43:10 24768328 9e6a0b0a [INFO Client 2236] Enumerated adapter: Microsoft Basic Render Driver
+2023/04/23 23:43:10 24768328 9e6a1d2a [INFO Client 2236] Enumerated device for adapter: Microsoft Basic Render Driver. Selected feature level: 45312. Max feature level: 45312
+2023/04/23 23:43:10 24768359 9d4eec8a [DEBUG Client 2236] [WINDOW] TrigggerDeviceLost
+2023/04/23 23:43:10 24768390 9d4eeba7 [DEBUG Client 2236] [WINDOW] TrigggerDeviceReset
+2023/04/23 23:43:11 24768812 fafff8cf [DEBUG Client 2236] CreateSwapChain: SetFullScreenState 0
+2023/04/23 23:43:11 24768828 9d4eec8a [DEBUG Client 2236] [WINDOW] TrigggerDeviceLost
+2023/04/23 23:43:11 24768843 9d4eeba7 [DEBUG Client 2236] [WINDOW] TrigggerDeviceReset
+2023/04/23 23:43:11 24769343 3275a75e [INFO Client 2236] [SHADER] Disable Async: 1 frames
+2023/04/23 23:43:11 24769343 b51d610e [INFO Client 2236] [RENDER] Disable Async: 1 frames
+2023/04/23 23:43:11 24769343 9d4eec8a [DEBUG Client 2236] [WINDOW] TrigggerDeviceLost
+2023/04/23 23:43:11 24769375 9d4eeba7 [DEBUG Client 2236] [WINDOW] TrigggerDeviceReset
+2023/04/23 23:43:44 24802437 b51d4f61 [DEBUG Client 2236] [RENDER] SetRendererSettings
+2023/04/23 23:43:44 24802437 b51d6447 [DEBUG Client 2236] [RENDER] ResizeWindow
+2023/04/23 23:43:44 24802437 b51d614c [DEBUG Client 2236] [RENDER] RestartSwapChain
+2023/04/23 23:43:44 24802437 9e6a0b0a [INFO Client 2236] Enumerated adapter: NVIDIA GeForce GTX 1660
+2023/04/23 23:43:44 24802500 9e6a1d2a [INFO Client 2236] Enumerated device for adapter: NVIDIA GeForce GTX 1660. Selected feature level: 45312. Max feature level: 45312
+2023/04/23 23:43:44 24802500 9e6a1363 [INFO Client 2236] Enumerated output for adapter NVIDIA GeForce GTX 1660 of \\.\DISPLAY1
+2023/04/23 23:43:44 24802500 9e6a0b0a [INFO Client 2236] Enumerated adapter: Microsoft Basic Render Driver
+2023/04/23 23:43:44 24802500 9e6a1d2a [INFO Client 2236] Enumerated device for adapter: Microsoft Basic Render Driver. Selected feature level: 45312. Max feature level: 45312
+2023/04/23 23:43:44 24802500 fafff8cf [DEBUG Client 2236] CreateSwapChain: SetFullScreenState 1
+2023/04/23 23:43:44 24802578 9d4eec8a [DEBUG Client 2236] [WINDOW] TrigggerDeviceLost
+2023/04/23 23:43:44 24802593 9d4eeba7 [DEBUG Client 2236] [WINDOW] TrigggerDeviceReset
+2023/04/23 23:43:45 24802984 3275a75e [INFO Client 2236] [SHADER] Disable Async: 1 frames
+2023/04/23 23:43:45 24802984 b51d610e [INFO Client 2236] [RENDER] Disable Async: 1 frames
+2023/04/23 23:44:12 24830015 fb7ab844 [INFO Client 2236] Successfully allocated mastery effect id: 64775, mastery: mastery_accuracy3, name: Мастерство меткости
+2023/04/23 23:44:58 24876109 fb7abdec [INFO Client 2236] Successfully unallocated passive skill id: mastery_accuracy3, name: Мастерство меткости
+2023/04/23 23:45:14 24891953 fb7abcab [INFO Client 2236] Successfully allocated passive skill id: projectile_damage1233, name: Урон снарядами
+2023/04/23 23:46:34 24972203 3796f5e1 [WARN Client 2236] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/23 23:46:38 24975937 3796f5e1 [WARN Client 2236] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/23 23:46:41 24979296 118717eb [DEBUG Client 2236] Resyncing 6488
+2023/04/23 23:46:41 24979296 118717eb [DEBUG Client 2236] Resyncing 6489
+2023/04/23 23:46:41 24979296 118717eb [DEBUG Client 2236] Resyncing 6490
+2023/04/23 23:46:41 24979296 118717eb [DEBUG Client 2236] Resyncing 6491
+2023/04/23 23:46:41 24979296 118717eb [DEBUG Client 2236] Resyncing 6505
+2023/04/23 23:46:41 24979296 118717eb [DEBUG Client 2236] Resyncing 6497
+2023/04/23 23:46:41 24979296 118717eb [DEBUG Client 2236] Resyncing 6499
+2023/04/23 23:46:41 24979296 118717eb [DEBUG Client 2236] Resyncing 6503
+2023/04/23 23:46:41 24979296 118717eb [DEBUG Client 2236] Resyncing 6504
+2023/04/23 23:46:46 24984078 cffb071e [INFO Client 2236] &<RiPE> DehyaManticore: У кого есть усиление эффекта не наносящих урон состояний?
+2023/04/23 23:46:48 24986062 118717eb [DEBUG Client 2236] Resyncing 6497
+2023/04/23 23:46:48 24986062 118717eb [DEBUG Client 2236] Resyncing 6495
+2023/04/23 23:46:48 24986062 118717eb [DEBUG Client 2236] Resyncing 6496
+2023/04/23 23:47:01 24999578 cffb071e [INFO Client 2236] Рог: Береги себя!
+2023/04/23 23:47:48 25046500 cffb071e [INFO Client 2236] : Вы получили очко пассивных умений Атласа.
+2023/04/23 23:48:39 25097546 cffb071e [INFO Client 2236] #<GREENL> GenusCrucibleCWDT: охх открыл форж титанов.. игроки не могут получать фласк чаржи.. ну спс =)
+2023/04/23 23:49:06 25124015 cffb071e [INFO Client 2236] #<GREENL> GenusCrucibleCWDT: чет не думал что будет такая подстава)
+2023/04/23 23:50:02 25180703 8da7ead9 [INFO Client 2236] Successfully allocated passive skill id: atlas_path_14, name: Шанс выпадения соседней карты
+2023/04/23 23:50:21 25198984 890d9d5f [INFO Client 2236] Async connecting to mil01.login.pathofexile.com:20481
+2023/04/23 23:50:21 25199000 890d9cd8 [INFO Client 2236] Connected to mil01.login.pathofexile.com in 0ms.
+2023/04/23 23:50:24 25202515 88a904cb [DEBUG Client 2236] Got Instance Details from login server
+2023/04/23 23:50:24 25202531 32759a9f [INFO Client 2236] [SHADER] Delay: OFF
+2023/04/23 23:50:24 25202531 ca3a6a71 [INFO Client 2236] Connecting to instance server at 169.51.201.139:6112
+2023/04/23 23:50:24 25202578 ca3a4dbb [DEBUG Client 2236] Connect time to instance server was 31ms
+2023/04/23 23:50:24 25202640 1186a0e5 [DEBUG Client 2236] Generating level 69 area "2_11_endgame_town" with seed 1
+2023/04/23 23:50:27 25204906 f22b6987 [INFO Client 2236] Tile hash: 589033374
+2023/04/23 23:50:27 25204906 f22b6986 [INFO Client 2236] Doodad hash: 4274160400
+2023/04/23 23:50:27 25205468 11870f49 [DEBUG Client 2236] Joined guild named Голосовой чат discord.com/invite/nXFKHzJ with 197 members 
+2023/04/23 23:50:27 25205546 d946cb1d [CRIT Client 2236] Error executing statement on Metadata/Monsters/Epilogue/AtlasMilitiaSword@69 [10959]: Requires a Game Object (or an Animated Object attached to one); value type is Empty
+2023/04/23 23:50:28 25206250 cffb071e [INFO Client 2236] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Берега Каруи.
+2023/04/23 23:50:28 25206515 cffb071e [INFO Client 2236] : Вы присоединились к Общему каналу чата 9,968.
+2023/04/23 23:50:29 25206984 32759a9f [INFO Client 2236] [SHADER] Delay: ON
+2023/04/23 23:50:29 25207000 374e0d22 [INFO Client 2236] [Item Filter] Preparing to download online filter 7Mr0AZHP
+2023/04/23 23:50:29 25207000 374e0cc3 [INFO Client 2236] [Item Filter] Hash for online filter 7Mr0AZHP is: 55b166a332ae6c51a1c0cef67a526c5a
+2023/04/23 23:50:29 25207156 374e0cc9 [INFO Client 2236] [Item Filter] Online item filter 7Mr0AZHP returned status: 200
+2023/04/23 23:50:29 25207156 374e0ce3 [DEBUG Client 2236] [Item Filter] Online item filter request resolved to: 209.197.3.101
+2023/04/23 23:50:29 25207156 374e0e8e [DEBUG Client 2236] [Item Filter] X-HW: 1682283027.dop212.ve1.t,1682283028.cds221.ve1.shn,1682283028.dop212.ve1.t,1682283028.cds241.ve1.c
+2023/04/23 23:50:29 25207171 374df808 [INFO Client 2236] [Item Filter] Successfully saved online filter 7Mr0AZHP. Hash is now: 55b166a332ae6c51a1c0cef67a526c5a
+2023/04/23 23:50:29 25207171 7884752a [INFO Client 2236] [Item Filter] Finished reloading online filter 7Mr0AZHP. Result: true. Hash: 55b166a332ae6c51a1c0cef67a526c5a. Type: Normal. Message: 
+2023/04/23 23:50:45 25223031 cffb071e [INFO Client 2236] #<GREENL> Takafumi_Takaoka: ппц перезашел на другого перса а тут пое почти крашнулось) винда хотела уже убивать процесс
+2023/04/23 23:50:45 25223203 cffb071e [INFO Client 2236] : В вашей секции сундука с привязкой "Уникальные предметы" недостаточно места для этого предмета.
+2023/04/23 23:50:46 25223937 cffb071e [INFO Client 2236] : В вашей секции сундука с привязкой "Уникальные предметы" недостаточно места для этого предмета.
+2023/04/23 23:50:47 25225640 cffb071e [INFO Client 2236] : В вашей секции сундука с привязкой "Уникальные предметы" недостаточно места для этого предмета.
+2023/04/23 23:50:48 25226046 cffb071e [INFO Client 2236] : В вашей секции сундука с привязкой "Уникальные предметы" недостаточно места для этого предмета.
+2023/04/23 23:50:48 25226546 cffb071e [INFO Client 2236] #<GREENL> Takafumi_Takaoka: но отдуплило
+2023/04/23 23:50:58 25235765 cffb071e [INFO Client 2236] : В вашей секции сундука с привязкой "Уникальные предметы" недостаточно места для этого предмета.
+2023/04/23 23:50:58 25236328 cffb071e [INFO Client 2236] : В вашей секции сундука с привязкой "Уникальные предметы" недостаточно места для этого предмета.
+2023/04/23 23:51:13 25251046 cffb071e [INFO Client 2236] : Вы получили очко сброса пассивных умений.
+2023/04/23 23:51:20 25258375 fb7abdec [INFO Client 2236] Successfully unallocated passive skill id: projectile_damage1233, name: Урон снарядами
+2023/04/23 23:51:42 25280437 fb7ab844 [INFO Client 2236] Successfully allocated mastery effect id: 7677, mastery: mastery_attack14, name: Мастерство подавления чар
+2023/04/23 23:53:18 25376062 88a904cb [DEBUG Client 2236] Got Instance Details from login server
+2023/04/23 23:53:18 25376062 32759a9f [INFO Client 2236] [SHADER] Delay: OFF
+2023/04/23 23:53:18 25376062 ca3a6a71 [INFO Client 2236] Connecting to instance server at 34.65.8.238:6112
+2023/04/23 23:53:18 25376109 ca3a4dbb [DEBUG Client 2236] Connect time to instance server was 31ms
+2023/04/23 23:53:18 25376156 1186a0e5 [DEBUG Client 2236] Generating level 70 area "MapWorldsInfestedValley" with seed 148802347
+2023/04/23 23:53:20 25378234 f22b6987 [INFO Client 2236] Tile hash: 3970723943
+2023/04/23 23:53:20 25378234 f22b6986 [INFO Client 2236] Doodad hash: 3617607322
+2023/04/23 23:53:21 25378750 11870f49 [DEBUG Client 2236] Joined guild named Голосовой чат discord.com/invite/nXFKHzJ with 197 members 
+2023/04/23 23:53:21 25379453 cffb071e [INFO Client 2236] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Заражённая долина.
+2023/04/23 23:53:22 25380093 32759a9f [INFO Client 2236] [SHADER] Delay: ON
+2023/04/23 23:53:29 25386828 cffb071e [INFO Client 2236] #<GREENL> Takafumi_Takaoka: Расщепляющий свет, Окованный посох
+2023/04/23 23:53:50 25408203 cffb071e [INFO Client 2236] #<GREENL> Takafumi_Takaoka: походу зря я продал посох с кдром.. лучше бы переливал его
+2023/04/23 23:54:19 25436921 cffb071e [INFO Client 2236] #OneDEDmovedAway: сильно дороже с модом?
+2023/04/23 23:54:40 25458375 cffb071e [INFO Client 2236] #<GREENL> Takafumi_Takaoka: кдр щас ставят 10+ диванов
+2023/04/23 23:54:58 25475859 cffb071e [INFO Client 2236] #<GREENL> Takafumi_Takaoka: я свой за 10 продал, но перед кдром был нод вырубающий билд (стил эндюрок)
+2023/04/23 23:55:12 25490015 118717eb [DEBUG Client 2236] Resyncing 26822
+2023/04/23 23:55:25 25503140 cffb071e [INFO Client 2236] #OneDEDmovedAway: ну да. его скорей на перезаливку и использовали
+2023/04/23 23:55:34 25511765 cffb071e [INFO Client 2236] #<GREENL> Takafumi_Takaoka: думал урву дешевше..
+2023/04/23 23:55:40 25518343 cffb071e [INFO Client 2236] #<GREENL> Takafumi_Takaoka: нэт.. не урву
+2023/04/23 23:56:12 25550640 cffb071e [INFO Client 2236] #<GREENL> Takafumi_Takaoka: ближайший был за 5 чувак заинвайтил уже.. а потом видимо пошел спам ему
+2023/04/23 23:56:15 25553531 cffb071e [INFO Client 2236] #<GREENL> Takafumi_Takaoka: он офнул =)
+2023/04/23 23:56:25 25563250 cffb071e [INFO Client 2236] #OneDEDmovedAway: :)
+2023/04/23 23:56:26 25564343 cffb071e [INFO Client 2236] #<GREENL> Takafumi_Takaoka: чтоб не кикать из пати)
+2023/04/23 23:56:32 25569890 cffb071e [INFO Client 2236] #<GREENL> Takafumi_Takaoka: а потом за 150 поставил
+2023/04/23 23:56:52 25590078 cffb071e [INFO Client 2236] Ошаби: Сюда, изгнанница.
+2023/04/23 23:56:56 25593843 cffb071e [INFO Client 2236] Ошаби: Нам нужен не плод, а сок.
+2023/04/23 23:57:53 25651046 118717eb [DEBUG Client 2236] Resyncing 32349
+2023/04/23 23:57:53 25651046 118717eb [DEBUG Client 2236] Resyncing 32347
+2023/04/23 23:57:53 25651046 118717eb [DEBUG Client 2236] Resyncing 25867
+2023/04/23 23:59:43 25761062 3796f5e1 [WARN Client 2236] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/23 23:59:53 25771140 3796f5e1 [WARN Client 2236] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/23 23:59:53 25771140 3796f5e1 [WARN Client 2236] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/24 00:00:34 25812687 cffb071e [INFO Client 2236] : Вы получили очко пассивных умений Атласа.
+2023/04/24 00:00:48 25826343 8da7ead9 [INFO Client 2236] Successfully allocated passive skill id: atlas_expedition_4200, name: Скорость продвижения цепочки взрывов в Экспедиции
+2023/04/24 00:00:51 25829171 890d9d5f [INFO Client 2236] Async connecting to mil01.login.pathofexile.com:20481
+2023/04/24 00:00:51 25829203 890d9cd8 [INFO Client 2236] Connected to mil01.login.pathofexile.com in 0ms.
+2023/04/24 00:00:54 25832671 88a904cb [DEBUG Client 2236] Got Instance Details from login server
+2023/04/24 00:00:54 25832671 32759a9f [INFO Client 2236] [SHADER] Delay: OFF
+2023/04/24 00:00:54 25832671 ca3a6a71 [INFO Client 2236] Connecting to instance server at 169.51.201.165:6112
+2023/04/24 00:00:55 25832734 ca3a4dbb [DEBUG Client 2236] Connect time to instance server was 47ms
+2023/04/24 00:00:55 25832796 1186a0e5 [DEBUG Client 2236] Generating level 69 area "2_11_endgame_town" with seed 1
+2023/04/24 00:00:55 25833562 f22b6987 [INFO Client 2236] Tile hash: 589033374
+2023/04/24 00:00:55 25833562 f22b6986 [INFO Client 2236] Doodad hash: 4274160400
+2023/04/24 00:00:57 25835437 11870f49 [DEBUG Client 2236] Joined guild named Голосовой чат discord.com/invite/nXFKHzJ with 197 members 
+2023/04/24 00:00:58 25836250 cffb071e [INFO Client 2236] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Берега Каруи.
+2023/04/24 00:00:58 25836703 cffb071e [INFO Client 2236] : Вы присоединились к Общему каналу чата 9,968.
+2023/04/24 00:00:59 25836984 32759a9f [INFO Client 2236] [SHADER] Delay: ON
+2023/04/24 00:00:59 25837000 374e0d22 [INFO Client 2236] [Item Filter] Preparing to download online filter 7Mr0AZHP
+2023/04/24 00:00:59 25837000 374e0cc3 [INFO Client 2236] [Item Filter] Hash for online filter 7Mr0AZHP is: 55b166a332ae6c51a1c0cef67a526c5a
+2023/04/24 00:00:59 25837187 374e0cc9 [INFO Client 2236] [Item Filter] Online item filter 7Mr0AZHP returned status: 200
+2023/04/24 00:00:59 25837187 374e0ce3 [DEBUG Client 2236] [Item Filter] Online item filter request resolved to: 209.197.3.101
+2023/04/24 00:00:59 25837187 374e0e8e [DEBUG Client 2236] [Item Filter] X-HW: 1682283657.dop212.ve1.t,1682283657.cds241.ve1.shn,1682283658.cds241.ve1.c
+2023/04/24 00:00:59 25837187 374df808 [INFO Client 2236] [Item Filter] Successfully saved online filter 7Mr0AZHP. Hash is now: 55b166a332ae6c51a1c0cef67a526c5a
+2023/04/24 00:00:59 25837203 7884752a [INFO Client 2236] [Item Filter] Finished reloading online filter 7Mr0AZHP. Result: true. Hash: 55b166a332ae6c51a1c0cef67a526c5a. Type: Normal. Message: 
+2023/04/24 00:01:16 25854031 cffb071e [INFO Client 2236] : В вашей секции сундука с привязкой "Уникальные предметы" недостаточно места для этого предмета.
+2023/04/24 00:01:56 25894375 cffb071e [INFO Client 2236] : Сделка совершена.
+2023/04/24 00:01:58 25896000 cffb071e [INFO Client 2236] #scourge_from_sun: как же приятно босса вавакайру шотать, не передать
+2023/04/24 00:03:49 26007296 88a904cb [DEBUG Client 2236] Got Instance Details from login server
+2023/04/24 00:03:49 26007296 32759a9f [INFO Client 2236] [SHADER] Delay: OFF
+2023/04/24 00:03:49 26007296 ca3a6a71 [INFO Client 2236] Connecting to instance server at 169.51.201.165:6112
+2023/04/24 00:03:49 26007359 ca3a4dbb [DEBUG Client 2236] Connect time to instance server was 32ms
+2023/04/24 00:03:49 26007421 1186a0e5 [DEBUG Client 2236] Generating level 70 area "MapWorldsOvergrownShrine" with seed 2834510734
+2023/04/24 00:03:50 26008453 f22b6987 [INFO Client 2236] Tile hash: 3910584798
+2023/04/24 00:03:50 26008453 f22b6986 [INFO Client 2236] Doodad hash: 155231925
+2023/04/24 00:03:51 26008953 11870f49 [DEBUG Client 2236] Joined guild named Голосовой чат discord.com/invite/nXFKHzJ with 197 members 
+2023/04/24 00:03:51 26009625 cffb071e [INFO Client 2236] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Заросшая обитель.
+2023/04/24 00:03:52 26010406 32759a9f [INFO Client 2236] [SHADER] Delay: ON
+2023/04/24 00:04:52 26069859 cffb071e [INFO Client 2236] Дэнниг, воин и скальд: Салют!
+2023/04/24 00:05:20 26097812 3796f5e1 [WARN Client 2236] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/24 00:05:21 26099250 379702c8 [WARN Client 2236] Client couldn't execute an instant action from the server.
+action type id = 9220
+2023/04/24 00:05:21 26099250 3796fa8f [WARN Client 2236] Instant/Triggered actionwas serialized to the client, but the client failed to execute the action.
+skill_instance_id: 33796
+action_id: 35158
+object_id: 1804
+target_id: 1100
+flags: 257
+2023/04/24 00:05:25 26103031 3796f5e1 [WARN Client 2236] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/24 00:05:25 26103046 3796f5e1 [WARN Client 2236] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/24 00:05:26 26103812 3796f5e1 [WARN Client 2236] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/24 00:05:26 26104281 3796f5e1 [WARN Client 2236] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/24 00:05:26 26104281 3796f5e1 [WARN Client 2236] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/24 00:05:28 26106218 3796f5e1 [WARN Client 2236] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/24 00:05:28 26106218 3796f5e1 [WARN Client 2236] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/24 00:05:28 26106640 cffb071e [INFO Client 2236] &<RiPE> Rashpel: +
+2023/04/24 00:07:05 26203546 118717eb [DEBUG Client 2236] Resyncing 4143
+2023/04/24 00:07:05 26203546 118717eb [DEBUG Client 2236] Resyncing 3950
+2023/04/24 00:07:05 26203546 118717eb [DEBUG Client 2236] Resyncing 3970
+2023/04/24 00:07:05 26203546 118717eb [DEBUG Client 2236] Resyncing 3984
+2023/04/24 00:07:05 26203546 118717eb [DEBUG Client 2236] Resyncing 4038
+2023/04/24 00:07:05 26203546 118717eb [DEBUG Client 2236] Resyncing 4104
+2023/04/24 00:07:05 26203546 118717eb [DEBUG Client 2236] Resyncing 3520
+2023/04/24 00:07:13 26211187 118717eb [DEBUG Client 2236] Resyncing 4043
+2023/04/24 00:07:13 26211187 118717eb [DEBUG Client 2236] Resyncing 4160
+2023/04/24 00:07:13 26211187 118717eb [DEBUG Client 2236] Resyncing 4170
+2023/04/24 00:07:13 26211187 118717eb [DEBUG Client 2236] Resyncing 4294
+2023/04/24 00:07:13 26211187 118717eb [DEBUG Client 2236] Resyncing 3520
+2023/04/24 00:07:13 26211187 118717eb [DEBUG Client 2236] Resyncing 4058
+2023/04/24 00:07:13 26211187 118717eb [DEBUG Client 2236] Resyncing 4119
+2023/04/24 00:07:13 26211187 118717eb [DEBUG Client 2236] Resyncing 4155
+2023/04/24 00:07:13 26211187 118717eb [DEBUG Client 2236] Resyncing 4178
+2023/04/24 00:07:13 26211187 118717eb [DEBUG Client 2236] Resyncing 4183
+2023/04/24 00:07:13 26211187 118717eb [DEBUG Client 2236] Resyncing 4193
+2023/04/24 00:07:13 26211187 118717eb [DEBUG Client 2236] Resyncing 4234
+2023/04/24 00:07:13 26211187 118717eb [DEBUG Client 2236] Resyncing 4247
+2023/04/24 00:07:13 26211187 118717eb [DEBUG Client 2236] Resyncing 4257
+2023/04/24 00:07:13 26211187 118717eb [DEBUG Client 2236] Resyncing 4267
+2023/04/24 00:07:13 26211390 cffb071e [INFO Client 2236] : DeeGyreIIIXXI был повержен.
+2023/04/24 00:07:15 26213046 88a904cb [DEBUG Client 2236] Got Instance Details from login server
+2023/04/24 00:07:15 26213046 32759a9f [INFO Client 2236] [SHADER] Delay: OFF
+2023/04/24 00:07:15 26213046 ca3a6a71 [INFO Client 2236] Connecting to instance server at 169.51.201.138:6112
+2023/04/24 00:07:15 26213109 ca3a4dbb [DEBUG Client 2236] Connect time to instance server was 47ms
+2023/04/24 00:07:15 26213171 1186a0e5 [DEBUG Client 2236] Generating level 69 area "2_11_endgame_town" with seed 1
+2023/04/24 00:07:15 26213296 f22b6987 [INFO Client 2236] Tile hash: 589033374
+2023/04/24 00:07:15 26213296 f22b6986 [INFO Client 2236] Doodad hash: 4274160400
+2023/04/24 00:07:16 26213921 11870f49 [DEBUG Client 2236] Joined guild named Голосовой чат discord.com/invite/nXFKHzJ with 197 members 
+2023/04/24 00:07:16 26214640 cffb071e [INFO Client 2236] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Берега Каруи.
+2023/04/24 00:07:17 26215296 32759a9f [INFO Client 2236] [SHADER] Delay: ON
+2023/04/24 00:07:35 26233406 88a904cb [DEBUG Client 2236] Got Instance Details from login server
+2023/04/24 00:07:35 26233406 32759a9f [INFO Client 2236] [SHADER] Delay: OFF
+2023/04/24 00:07:35 26233406 ca3a6a71 [INFO Client 2236] Connecting to instance server at 169.51.201.165:6112
+2023/04/24 00:07:35 26233453 ca3a4dbb [DEBUG Client 2236] Connect time to instance server was 31ms
+2023/04/24 00:07:35 26233500 1186a0e5 [DEBUG Client 2236] Generating level 70 area "MapWorldsOvergrownShrine" with seed 2834510734
+2023/04/24 00:07:35 26233578 f22b6987 [INFO Client 2236] Tile hash: 3910584798
+2023/04/24 00:07:35 26233578 f22b6986 [INFO Client 2236] Doodad hash: 155231925
+2023/04/24 00:07:36 26234343 11870f49 [DEBUG Client 2236] Joined guild named Голосовой чат discord.com/invite/nXFKHzJ with 197 members 
+2023/04/24 00:07:37 26234953 cffb071e [INFO Client 2236] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Заросшая обитель.
+2023/04/24 00:07:37 26235421 32759a9f [INFO Client 2236] [SHADER] Delay: ON
+2023/04/24 00:10:42 26420000 b51d4f61 [DEBUG Client 2236] [RENDER] SetRendererSettings
+2023/04/24 00:10:42 26420000 b51d6447 [DEBUG Client 2236] [RENDER] ResizeWindow
+2023/04/24 00:10:42 26420015 9d4eec8a [DEBUG Client 2236] [WINDOW] TrigggerDeviceLost
+2023/04/24 00:10:42 26420046 9d4eeba7 [DEBUG Client 2236] [WINDOW] TrigggerDeviceReset
+2023/04/24 00:10:42 26420531 b51d614c [DEBUG Client 2236] [RENDER] RestartSwapChain
+2023/04/24 00:10:42 26420531 9e6a0b0a [INFO Client 2236] Enumerated adapter: NVIDIA GeForce GTX 1660
+2023/04/24 00:10:42 26420578 9e6a1d2a [INFO Client 2236] Enumerated device for adapter: NVIDIA GeForce GTX 1660. Selected feature level: 45312. Max feature level: 45312
+2023/04/24 00:10:42 26420578 9e6a1363 [INFO Client 2236] Enumerated output for adapter NVIDIA GeForce GTX 1660 of \\.\DISPLAY1
+2023/04/24 00:10:42 26420578 9e6a0b0a [INFO Client 2236] Enumerated adapter: Microsoft Basic Render Driver
+2023/04/24 00:10:42 26420578 9e6a1d2a [INFO Client 2236] Enumerated device for adapter: Microsoft Basic Render Driver. Selected feature level: 45312. Max feature level: 45312
+2023/04/24 00:10:42 26420625 9d4eec8a [DEBUG Client 2236] [WINDOW] TrigggerDeviceLost
+2023/04/24 00:10:42 26420656 9d4eeba7 [DEBUG Client 2236] [WINDOW] TrigggerDeviceReset
+2023/04/24 00:10:43 26421187 fafff8cf [DEBUG Client 2236] CreateSwapChain: SetFullScreenState 0
+2023/04/24 00:10:43 26421187 9d4eec8a [DEBUG Client 2236] [WINDOW] TrigggerDeviceLost
+2023/04/24 00:10:43 26421234 9d4eeba7 [DEBUG Client 2236] [WINDOW] TrigggerDeviceReset
+2023/04/24 00:10:44 26421750 3275a75e [INFO Client 2236] [SHADER] Disable Async: 1 frames
+2023/04/24 00:10:44 26421750 b51d610e [INFO Client 2236] [RENDER] Disable Async: 1 frames
+2023/04/24 00:10:44 26421750 9d4eec8a [DEBUG Client 2236] [WINDOW] TrigggerDeviceLost
+2023/04/24 00:10:44 26421796 9d4eeba7 [DEBUG Client 2236] [WINDOW] TrigggerDeviceReset
+2023/04/24 00:11:54 26492406 b51d4f61 [DEBUG Client 2236] [RENDER] SetRendererSettings
+2023/04/24 00:11:54 26492406 b51d6447 [DEBUG Client 2236] [RENDER] ResizeWindow
+2023/04/24 00:11:54 26492406 b51d614c [DEBUG Client 2236] [RENDER] RestartSwapChain
+2023/04/24 00:11:54 26492406 9e6a0b0a [INFO Client 2236] Enumerated adapter: NVIDIA GeForce GTX 1660
+2023/04/24 00:11:54 26492468 9e6a1d2a [INFO Client 2236] Enumerated device for adapter: NVIDIA GeForce GTX 1660. Selected feature level: 45312. Max feature level: 45312
+2023/04/24 00:11:54 26492468 9e6a1363 [INFO Client 2236] Enumerated output for adapter NVIDIA GeForce GTX 1660 of \\.\DISPLAY1
+2023/04/24 00:11:54 26492468 9e6a0b0a [INFO Client 2236] Enumerated adapter: Microsoft Basic Render Driver
+2023/04/24 00:11:54 26492484 9e6a1d2a [INFO Client 2236] Enumerated device for adapter: Microsoft Basic Render Driver. Selected feature level: 45312. Max feature level: 45312
+2023/04/24 00:11:54 26492484 fafff8cf [DEBUG Client 2236] CreateSwapChain: SetFullScreenState 1
+2023/04/24 00:11:54 26492562 9d4eec8a [DEBUG Client 2236] [WINDOW] TrigggerDeviceLost
+2023/04/24 00:11:54 26492578 9d4eeba7 [DEBUG Client 2236] [WINDOW] TrigggerDeviceReset
+2023/04/24 00:11:55 26493062 3275a75e [INFO Client 2236] [SHADER] Disable Async: 1 frames
+2023/04/24 00:11:55 26493062 b51d610e [INFO Client 2236] [RENDER] Disable Async: 1 frames
+2023/04/24 00:20:42 27020156 cffb071e [INFO Client 2236] : Вы получили очко пассивных умений Атласа.
+2023/04/24 00:21:00 27038062 8da7ead9 [INFO Client 2236] Successfully allocated passive skill id: atlas_expedition_4198, name: Скорость продвижения цепочки взрывов в Экспедиции
+2023/04/24 00:21:03 27040984 890d9d5f [INFO Client 2236] Async connecting to mil01.login.pathofexile.com:20481
+2023/04/24 00:21:03 27041000 890d9cd8 [INFO Client 2236] Connected to mil01.login.pathofexile.com in 0ms.
+2023/04/24 00:21:06 27044296 88a904cb [DEBUG Client 2236] Got Instance Details from login server
+2023/04/24 00:21:06 27044296 32759a9f [INFO Client 2236] [SHADER] Delay: OFF
+2023/04/24 00:21:06 27044296 ca3a6a71 [INFO Client 2236] Connecting to instance server at 169.51.201.139:6112
+2023/04/24 00:21:06 27044343 ca3a4dbb [DEBUG Client 2236] Connect time to instance server was 32ms
+2023/04/24 00:21:06 27044406 1186a0e5 [DEBUG Client 2236] Generating level 69 area "2_11_endgame_town" with seed 1
+2023/04/24 00:21:07 27045250 f22b6987 [INFO Client 2236] Tile hash: 589033374
+2023/04/24 00:21:07 27045250 f22b6986 [INFO Client 2236] Doodad hash: 4274160400
+2023/04/24 00:21:09 27047156 11870f49 [DEBUG Client 2236] Joined guild named Голосовой чат discord.com/invite/nXFKHzJ with 197 members 
+2023/04/24 00:21:10 27048015 cffb071e [INFO Client 2236] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Берега Каруи.
+2023/04/24 00:21:10 27048421 cffb071e [INFO Client 2236] : Вы присоединились к Общему каналу чата 9,968.
+2023/04/24 00:21:11 27048734 32759a9f [INFO Client 2236] [SHADER] Delay: ON
+2023/04/24 00:21:11 27048750 374e0d22 [INFO Client 2236] [Item Filter] Preparing to download online filter 7Mr0AZHP
+2023/04/24 00:21:11 27048750 374e0cc3 [INFO Client 2236] [Item Filter] Hash for online filter 7Mr0AZHP is: 55b166a332ae6c51a1c0cef67a526c5a
+2023/04/24 00:21:11 27048906 374e0cc9 [INFO Client 2236] [Item Filter] Online item filter 7Mr0AZHP returned status: 200
+2023/04/24 00:21:11 27048906 374e0ce3 [DEBUG Client 2236] [Item Filter] Online item filter request resolved to: 209.197.3.101
+2023/04/24 00:21:11 27048906 374e0e8e [DEBUG Client 2236] [Item Filter] X-HW: 1682284869.dop226.ve1.t,1682284869.cds230.ve1.shn,1682284869.dop226.ve1.t,1682284869.cds241.ve1.c
+2023/04/24 00:21:11 27048906 374df808 [INFO Client 2236] [Item Filter] Successfully saved online filter 7Mr0AZHP. Hash is now: 55b166a332ae6c51a1c0cef67a526c5a
+2023/04/24 00:21:11 27048906 7884752a [INFO Client 2236] [Item Filter] Finished reloading online filter 7Mr0AZHP. Result: true. Hash: 55b166a332ae6c51a1c0cef67a526c5a. Type: Normal. Message: 
+2023/04/24 00:21:18 27056406 cffb071e [INFO Client 2236] #<GREENL> GenusCrucibleCWDT: нужно кому разучить дерево на рарке?
+2023/04/24 00:21:48 27085859 cffb071e [INFO Client 2236] #<GREENL> GenusCrucibleCWDT: миснул мапку.. вместо добавления уника положил разучить дерево рарки
+2023/04/24 00:21:49 27087406 cffb071e [INFO Client 2236] : Сделка совершена.
+2023/04/24 00:22:13 27111453 cffb071e [INFO Client 2236] : Не удалось применить предмет: Предмет уже достиг наивысшего качества.
+2023/04/24 00:22:13 27111687 cffb071e [INFO Client 2236] : Не удалось применить предмет: Предмет уже достиг наивысшего качества.
+2023/04/24 00:22:14 27111890 cffb071e [INFO Client 2236] : Не удалось применить предмет: Предмет уже достиг наивысшего качества.
+2023/04/24 00:22:14 27112156 cffb071e [INFO Client 2236] : Не удалось применить предмет: Предмет уже достиг наивысшего качества.
+2023/04/24 00:22:26 27123937 cffb071e [INFO Client 2236] &<RiPE> ISeeMurder: +
+2023/04/24 00:25:29 27307687 88a904cb [DEBUG Client 2236] Got Instance Details from login server
+2023/04/24 00:25:29 27307687 32759a9f [INFO Client 2236] [SHADER] Delay: OFF
+2023/04/24 00:25:29 27307687 ca3a6a71 [INFO Client 2236] Connecting to instance server at 159.122.142.252:6112
+2023/04/24 00:25:30 27307750 ca3a4dbb [DEBUG Client 2236] Connect time to instance server was 47ms
+2023/04/24 00:25:30 27307812 1186a0e5 [DEBUG Client 2236] Generating level 20 area "HideoutCoral" with seed 1
+2023/04/24 00:25:30 27307984 f22b6987 [INFO Client 2236] Tile hash: 805187908
+2023/04/24 00:25:30 27307984 f22b6986 [INFO Client 2236] Doodad hash: 0
+2023/04/24 00:25:31 27309000 11870f49 [DEBUG Client 2236] Joined guild named Голосовой чат discord.com/invite/nXFKHzJ with 197 members 
+2023/04/24 00:25:32 27309859 cffb071e [INFO Client 2236] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Коралловое убежище.
+2023/04/24 00:25:32 27310468 32759a9f [INFO Client 2236] [SHADER] Delay: ON
+2023/04/24 00:26:27 27365671 88a904cb [DEBUG Client 2236] Got Instance Details from login server
+2023/04/24 00:26:27 27365687 32759a9f [INFO Client 2236] [SHADER] Delay: OFF
+2023/04/24 00:26:27 27365687 ca3a6a71 [INFO Client 2236] Connecting to instance server at 34.65.166.170:6112
+2023/04/24 00:26:28 27365734 ca3a4dbb [DEBUG Client 2236] Connect time to instance server was 31ms
+2023/04/24 00:26:28 27365765 1186a0e5 [DEBUG Client 2236] Generating level 70 area "MapWorldsLair" with seed 2839611787
+2023/04/24 00:26:29 27367296 f22b6987 [INFO Client 2236] Tile hash: 925902212
+2023/04/24 00:26:29 27367296 f22b6986 [INFO Client 2236] Doodad hash: 2198739397
+2023/04/24 00:26:30 27367750 11870f49 [DEBUG Client 2236] Joined guild named Голосовой чат discord.com/invite/nXFKHzJ with 197 members 
+2023/04/24 00:26:30 27368515 cffb071e [INFO Client 2236] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Логово.
+2023/04/24 00:26:31 27369234 32759a9f [INFO Client 2236] [SHADER] Delay: ON
+2023/04/24 00:27:32 27429859 3796f5e1 [WARN Client 2236] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/24 00:27:32 27429953 3796f5e1 [WARN Client 2236] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/24 00:27:32 27429984 3796f5e1 [WARN Client 2236] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/24 00:27:37 27435343 3796f5e1 [WARN Client 2236] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/24 00:27:37 27435343 3796f5e1 [WARN Client 2236] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/24 00:27:37 27435343 3796f5e1 [WARN Client 2236] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/24 00:27:37 27435343 3796f5e1 [WARN Client 2236] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/24 00:27:58 27456125 cffb071e [INFO Client 2236] : Один удар - одна смерть
+2023/04/24 00:28:24 27482468 3796f5e1 [WARN Client 2236] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/24 00:29:19 27537359 bce2d691 [INFO Client 2236] Steam stats stored
+2023/04/24 00:29:28 27545937 379702c8 [WARN Client 2236] Client couldn't execute an instant action from the server.
+action type id = 9220
+2023/04/24 00:29:28 27545937 3796fa8f [WARN Client 2236] Instant/Triggered actionwas serialized to the client, but the client failed to execute the action.
+skill_instance_id: 33796
+action_id: 36166
+object_id: 2079
+target_id: 1871
+flags: 257
+2023/04/24 00:30:16 27594671 3796f5e1 [WARN Client 2236] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/24 00:33:00 27757890 3796f5e1 [WARN Client 2236] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/24 00:33:06 27764593 3796f5e1 [WARN Client 2236] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/24 00:33:06 27764593 3796f5e1 [WARN Client 2236] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/24 00:33:07 27764765 cffb071e [INFO Client 2236] Луций, Полуночный вой: Охота начинается!
+2023/04/24 00:33:36 27794218 cffb071e [INFO Client 2236] : Вы получили очко пассивных умений Атласа.
+2023/04/24 00:33:36 27794234 cffb071e [INFO Client 2236] Луций, Полуночный вой: Прости меня, Эзомир.
+2023/04/24 00:34:05 27823609 8da7ead9 [INFO Client 2236] Successfully allocated passive skill id: atlas_expedition_4202, name: Скорость продвижения цепочки взрывов в Экспедиции
+2023/04/24 00:34:10 27827828 890d9d5f [INFO Client 2236] Async connecting to mil01.login.pathofexile.com:20481
+2023/04/24 00:34:10 27827843 890d9cd8 [INFO Client 2236] Connected to mil01.login.pathofexile.com in 0ms.
+2023/04/24 00:34:13 27831265 88a904cb [DEBUG Client 2236] Got Instance Details from login server
+2023/04/24 00:34:13 27831265 32759a9f [INFO Client 2236] [SHADER] Delay: OFF
+2023/04/24 00:34:13 27831265 ca3a6a71 [INFO Client 2236] Connecting to instance server at 169.51.201.145:6112
+2023/04/24 00:34:13 27831312 ca3a4dbb [DEBUG Client 2236] Connect time to instance server was 31ms
+2023/04/24 00:34:13 27831375 1186a0e5 [DEBUG Client 2236] Generating level 69 area "2_11_endgame_town" with seed 1
+2023/04/24 00:34:16 27833968 f22b6987 [INFO Client 2236] Tile hash: 589033374
+2023/04/24 00:34:16 27833968 f22b6986 [INFO Client 2236] Doodad hash: 4274160400
+2023/04/24 00:34:16 27834296 11870f49 [DEBUG Client 2236] Joined guild named Голосовой чат discord.com/invite/nXFKHzJ with 197 members 
+2023/04/24 00:34:17 27835156 cffb071e [INFO Client 2236] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Берега Каруи.
+2023/04/24 00:34:17 27835531 cffb071e [INFO Client 2236] : Вы присоединились к Общему каналу чата 9,968.
+2023/04/24 00:34:18 27836562 32759a9f [INFO Client 2236] [SHADER] Delay: ON
+2023/04/24 00:34:18 27836578 374e0d22 [INFO Client 2236] [Item Filter] Preparing to download online filter 7Mr0AZHP
+2023/04/24 00:34:18 27836578 374e0cc3 [INFO Client 2236] [Item Filter] Hash for online filter 7Mr0AZHP is: 55b166a332ae6c51a1c0cef67a526c5a
+2023/04/24 00:34:18 27836718 374e0cc9 [INFO Client 2236] [Item Filter] Online item filter 7Mr0AZHP returned status: 200
+2023/04/24 00:34:18 27836718 374e0ce3 [DEBUG Client 2236] [Item Filter] Online item filter request resolved to: 209.197.3.101
+2023/04/24 00:34:18 27836718 374e0e8e [DEBUG Client 2236] [Item Filter] X-HW: 1682285657.dop227.ve1.t,1682285657.cds246.ve1.shn,1682285657.dop227.ve1.t,1682285657.cds241.ve1.c
+2023/04/24 00:34:19 27836718 374df808 [INFO Client 2236] [Item Filter] Successfully saved online filter 7Mr0AZHP. Hash is now: 55b166a332ae6c51a1c0cef67a526c5a
+2023/04/24 00:34:19 27836734 7884752a [INFO Client 2236] [Item Filter] Finished reloading online filter 7Mr0AZHP. Result: true. Hash: 55b166a332ae6c51a1c0cef67a526c5a. Type: Normal. Message: 
+2023/04/24 00:34:44 27862515 cffb071e [INFO Client 2236] : В вашей секции сундука с привязкой "Уникальные предметы" недостаточно места для этого предмета.
+2023/04/24 00:35:48 27926343 88a904cb [DEBUG Client 2236] Got Instance Details from login server
+2023/04/24 00:35:48 27926359 32759a9f [INFO Client 2236] [SHADER] Delay: OFF
+2023/04/24 00:35:48 27926359 ca3a6a71 [INFO Client 2236] Connecting to instance server at 169.51.201.177:6112
+2023/04/24 00:35:48 27926421 ca3a4dbb [DEBUG Client 2236] Connect time to instance server was 31ms
+2023/04/24 00:35:48 27926453 1186a0e5 [DEBUG Client 2236] Generating level 20 area "HideoutCoral" with seed 1
+2023/04/24 00:35:48 27926656 f22b6987 [INFO Client 2236] Tile hash: 805187908
+2023/04/24 00:35:48 27926656 f22b6986 [INFO Client 2236] Doodad hash: 0
+2023/04/24 00:35:49 27927484 11870f49 [DEBUG Client 2236] Joined guild named Голосовой чат discord.com/invite/nXFKHzJ with 197 members 
+2023/04/24 00:35:50 27928265 cffb071e [INFO Client 2236] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Коралловое убежище.
+2023/04/24 00:35:51 27928953 32759a9f [INFO Client 2236] [SHADER] Delay: ON
+2023/04/24 00:37:28 28026531 b51d4f61 [DEBUG Client 2236] [RENDER] SetRendererSettings
+2023/04/24 00:37:28 28026531 b51d6447 [DEBUG Client 2236] [RENDER] ResizeWindow
+2023/04/24 00:37:28 28026546 9d4eec8a [DEBUG Client 2236] [WINDOW] TrigggerDeviceLost
+2023/04/24 00:37:28 28026562 9d4eeba7 [DEBUG Client 2236] [WINDOW] TrigggerDeviceReset
+2023/04/24 00:37:29 28027093 b51d614c [DEBUG Client 2236] [RENDER] RestartSwapChain
+2023/04/24 00:37:29 28027093 9e6a0b0a [INFO Client 2236] Enumerated adapter: NVIDIA GeForce GTX 1660
+2023/04/24 00:37:29 28027140 9e6a1d2a [INFO Client 2236] Enumerated device for adapter: NVIDIA GeForce GTX 1660. Selected feature level: 45312. Max feature level: 45312
+2023/04/24 00:37:29 28027140 9e6a1363 [INFO Client 2236] Enumerated output for adapter NVIDIA GeForce GTX 1660 of \\.\DISPLAY1
+2023/04/24 00:37:29 28027140 9e6a0b0a [INFO Client 2236] Enumerated adapter: Microsoft Basic Render Driver
+2023/04/24 00:37:29 28027140 9e6a1d2a [INFO Client 2236] Enumerated device for adapter: Microsoft Basic Render Driver. Selected feature level: 45312. Max feature level: 45312
+2023/04/24 00:37:29 28027187 9d4eec8a [DEBUG Client 2236] [WINDOW] TrigggerDeviceLost
+2023/04/24 00:37:29 28027203 9d4eeba7 [DEBUG Client 2236] [WINDOW] TrigggerDeviceReset
+2023/04/24 00:37:30 28027781 fafff8cf [DEBUG Client 2236] CreateSwapChain: SetFullScreenState 0
+2023/04/24 00:37:30 28027781 9d4eec8a [DEBUG Client 2236] [WINDOW] TrigggerDeviceLost
+2023/04/24 00:37:30 28027796 9d4eeba7 [DEBUG Client 2236] [WINDOW] TrigggerDeviceReset
+2023/04/24 00:37:30 28028406 3275a75e [INFO Client 2236] [SHADER] Disable Async: 1 frames
+2023/04/24 00:37:30 28028406 b51d610e [INFO Client 2236] [RENDER] Disable Async: 1 frames
+2023/04/24 00:37:30 28028406 9d4eec8a [DEBUG Client 2236] [WINDOW] TrigggerDeviceLost
+2023/04/24 00:37:30 28028437 9d4eeba7 [DEBUG Client 2236] [WINDOW] TrigggerDeviceReset
+2023/04/24 00:38:18 28076093 b51d4f61 [DEBUG Client 2236] [RENDER] SetRendererSettings
+2023/04/24 00:38:18 28076093 b51d6447 [DEBUG Client 2236] [RENDER] ResizeWindow
+2023/04/24 00:38:18 28076109 b51d614c [DEBUG Client 2236] [RENDER] RestartSwapChain
+2023/04/24 00:38:18 28076109 9e6a0b0a [INFO Client 2236] Enumerated adapter: NVIDIA GeForce GTX 1660
+2023/04/24 00:38:18 28076171 9e6a1d2a [INFO Client 2236] Enumerated device for adapter: NVIDIA GeForce GTX 1660. Selected feature level: 45312. Max feature level: 45312
+2023/04/24 00:38:18 28076171 9e6a1363 [INFO Client 2236] Enumerated output for adapter NVIDIA GeForce GTX 1660 of \\.\DISPLAY1
+2023/04/24 00:38:18 28076171 9e6a0b0a [INFO Client 2236] Enumerated adapter: Microsoft Basic Render Driver
+2023/04/24 00:38:18 28076171 9e6a1d2a [INFO Client 2236] Enumerated device for adapter: Microsoft Basic Render Driver. Selected feature level: 45312. Max feature level: 45312
+2023/04/24 00:38:18 28076171 fafff8cf [DEBUG Client 2236] CreateSwapChain: SetFullScreenState 1
+2023/04/24 00:38:18 28076281 9d4eec8a [DEBUG Client 2236] [WINDOW] TrigggerDeviceLost
+2023/04/24 00:38:18 28076296 9d4eeba7 [DEBUG Client 2236] [WINDOW] TrigggerDeviceReset
+2023/04/24 00:38:19 28077015 3275a75e [INFO Client 2236] [SHADER] Disable Async: 1 frames
+2023/04/24 00:38:19 28077015 b51d610e [INFO Client 2236] [RENDER] Disable Async: 1 frames
+2023/04/24 00:38:22 28080593 88a904cb [DEBUG Client 2236] Got Instance Details from login server
+2023/04/24 00:38:22 28080593 32759a9f [INFO Client 2236] [SHADER] Delay: OFF
+2023/04/24 00:38:22 28080593 ca3a6a71 [INFO Client 2236] Connecting to instance server at 159.122.142.236:6112
+2023/04/24 00:38:22 28080656 ca3a4dbb [DEBUG Client 2236] Connect time to instance server was 32ms
+2023/04/24 00:38:22 28080703 1186a0e5 [DEBUG Client 2236] Generating level 70 area "MapWorldsTortureChamber" with seed 213130348
+2023/04/24 00:38:23 28081703 f22b6987 [INFO Client 2236] Tile hash: 718486845
+2023/04/24 00:38:23 28081703 f22b6986 [INFO Client 2236] Doodad hash: 1938723828
+2023/04/24 00:38:24 28082250 11870f49 [DEBUG Client 2236] Joined guild named Голосовой чат discord.com/invite/nXFKHzJ with 197 members 
+2023/04/24 00:38:25 28083109 cffb071e [INFO Client 2236] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Первобытное поселение.
+2023/04/24 00:38:26 28083718 32759a9f [INFO Client 2236] [SHADER] Delay: ON
+2023/04/24 00:38:35 28093156 cffb071e [INFO Client 2236] : DeeGyreIIIXXI был повержен.
+2023/04/24 00:38:37 28095343 88a904cb [DEBUG Client 2236] Got Instance Details from login server
+2023/04/24 00:38:37 28095343 32759a9f [INFO Client 2236] [SHADER] Delay: OFF
+2023/04/24 00:38:37 28095343 ca3a6a71 [INFO Client 2236] Connecting to instance server at 169.51.201.177:6112
+2023/04/24 00:38:37 28095390 ca3a4dbb [DEBUG Client 2236] Connect time to instance server was 32ms
+2023/04/24 00:38:37 28095437 1186a0e5 [DEBUG Client 2236] Generating level 20 area "HideoutCoral" with seed 1
+2023/04/24 00:38:37 28095468 f22b6987 [INFO Client 2236] Tile hash: 805187908
+2023/04/24 00:38:37 28095468 f22b6986 [INFO Client 2236] Doodad hash: 0
+2023/04/24 00:38:38 28096093 11870f49 [DEBUG Client 2236] Joined guild named Голосовой чат discord.com/invite/nXFKHzJ with 197 members 
+2023/04/24 00:38:39 28096718 cffb071e [INFO Client 2236] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Коралловое убежище.
+2023/04/24 00:38:39 28097203 32759a9f [INFO Client 2236] [SHADER] Delay: ON
+2023/04/24 00:39:13 28131359 88a904cb [DEBUG Client 2236] Got Instance Details from login server
+2023/04/24 00:39:13 28131359 32759a9f [INFO Client 2236] [SHADER] Delay: OFF
+2023/04/24 00:39:13 28131359 ca3a6a71 [INFO Client 2236] Connecting to instance server at 159.122.142.253:6112
+2023/04/24 00:39:13 28131406 ca3a4dbb [DEBUG Client 2236] Connect time to instance server was 31ms
+2023/04/24 00:39:13 28131453 1186a0e5 [DEBUG Client 2236] Generating level 70 area "MapWorldsTortureChamber" with seed 1676061867
+2023/04/24 00:39:13 28131640 f22b6987 [INFO Client 2236] Tile hash: 1511106045
+2023/04/24 00:39:13 28131640 f22b6986 [INFO Client 2236] Doodad hash: 1549355535
+2023/04/24 00:39:14 28132406 11870f49 [DEBUG Client 2236] Joined guild named Голосовой чат discord.com/invite/nXFKHzJ with 197 members 
+2023/04/24 00:39:15 28133078 cffb071e [INFO Client 2236] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Первобытное поселение.
+2023/04/24 00:39:15 28133562 32759a9f [INFO Client 2236] [SHADER] Delay: ON
+2023/04/24 00:40:13 28191703 3796f5e1 [WARN Client 2236] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/24 00:40:13 28191703 3796f5e1 [WARN Client 2236] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/24 00:40:13 28191703 3796f5e1 [WARN Client 2236] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/24 00:40:15 28193265 3796f5e1 [WARN Client 2236] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/24 00:40:16 28193796 3796f5e1 [WARN Client 2236] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/24 00:40:16 28193796 3796f5e1 [WARN Client 2236] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/24 00:40:16 28193828 3796f5e1 [WARN Client 2236] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/24 00:40:16 28194125 3796f5e1 [WARN Client 2236] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/24 00:40:16 28194156 3796f5e1 [WARN Client 2236] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/24 00:40:16 28194156 3796f5e1 [WARN Client 2236] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/24 00:40:17 28195093 3796f5e1 [WARN Client 2236] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/24 00:40:17 28195109 3796f5e1 [WARN Client 2236] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/24 00:40:17 28195218 3796f5e1 [WARN Client 2236] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/24 00:40:17 28195218 3796f5e1 [WARN Client 2236] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/24 00:41:50 28288125 cffb071e [INFO Client 2236] Нико, Мастер глубин: Тоже хорошая находка.
+2023/04/24 00:42:26 28324125 3796f5e1 [WARN Client 2236] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/24 00:42:32 28330546 3796f5e1 [WARN Client 2236] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/24 00:42:39 28337125 3796f5e1 [WARN Client 2236] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/24 00:42:50 28348593 cffb071e [INFO Client 2236] Нико, Мастер глубин: Ничего, сойдёт.
+2023/04/24 00:42:59 28357640 118717eb [DEBUG Client 2236] Resyncing 1713
+2023/04/24 00:43:01 28359031 118717eb [DEBUG Client 2236] Resyncing 1721
+2023/04/24 00:43:08 28365937 3796f5e1 [WARN Client 2236] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/24 00:43:08 28365968 3796f5e1 [WARN Client 2236] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/24 00:43:11 28368734 3796f5e1 [WARN Client 2236] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/24 00:43:11 28368781 3796f5e1 [WARN Client 2236] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/24 00:43:11 28368781 3796f5e1 [WARN Client 2236] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/24 00:43:24 28382093 118717eb [DEBUG Client 2236] Resyncing 1495
+2023/04/24 00:43:24 28382093 118717eb [DEBUG Client 2236] Resyncing 1496
+2023/04/24 00:43:24 28382093 118717eb [DEBUG Client 2236] Resyncing 1497
+2023/04/24 00:43:24 28382093 118717eb [DEBUG Client 2236] Resyncing 1494
+2023/04/24 00:43:24 28382093 118717eb [DEBUG Client 2236] Resyncing 1493
+2023/04/24 00:45:03 28480937 cffb071e [INFO Client 2236] Нико, Мастер глубин: Хорошая находка.
+2023/04/24 00:45:25 28503078 cffb071e [INFO Client 2236] &<RiPE> CR_PAK: Полный шлем вечного
+2023/04/24 00:46:05 28543078 118717eb [DEBUG Client 2236] Resyncing 8354
+2023/04/24 00:46:05 28543078 118717eb [DEBUG Client 2236] Resyncing 7242
+2023/04/24 00:46:05 28543078 118717eb [DEBUG Client 2236] Resyncing 1127
+2023/04/24 00:46:10 28548187 cffb071e [INFO Client 2236] : DeeGyreIIIXXI был повержен.
+2023/04/24 00:46:12 28550437 88a904cb [DEBUG Client 2236] Got Instance Details from login server
+2023/04/24 00:46:12 28550437 32759a9f [INFO Client 2236] [SHADER] Delay: OFF
+2023/04/24 00:46:12 28550437 ca3a6a71 [INFO Client 2236] Connecting to instance server at 159.122.142.239:6112
+2023/04/24 00:46:12 28550484 ca3a4dbb [DEBUG Client 2236] Connect time to instance server was 47ms
+2023/04/24 00:46:12 28550531 1186a0e5 [DEBUG Client 2236] Generating level 20 area "HideoutCoral" with seed 1
+2023/04/24 00:46:12 28550562 f22b6987 [INFO Client 2236] Tile hash: 805187908
+2023/04/24 00:46:12 28550562 f22b6986 [INFO Client 2236] Doodad hash: 0
+2023/04/24 00:46:13 28551406 11870f49 [DEBUG Client 2236] Joined guild named Голосовой чат discord.com/invite/nXFKHzJ with 197 members 
+2023/04/24 00:46:14 28552046 cffb071e [INFO Client 2236] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Коралловое убежище.
+2023/04/24 00:46:14 28552578 32759a9f [INFO Client 2236] [SHADER] Delay: ON
+2023/04/24 00:46:47 28585640 88a904cb [DEBUG Client 2236] Got Instance Details from login server
+2023/04/24 00:46:47 28585640 32759a9f [INFO Client 2236] [SHADER] Delay: OFF
+2023/04/24 00:46:47 28585640 ca3a6a71 [INFO Client 2236] Connecting to instance server at 159.122.142.253:6112
+2023/04/24 00:46:47 28585703 ca3a4dbb [DEBUG Client 2236] Connect time to instance server was 47ms
+2023/04/24 00:46:48 28585750 1186a0e5 [DEBUG Client 2236] Generating level 70 area "MapWorldsTortureChamber" with seed 1676061867
+2023/04/24 00:46:48 28585859 f22b6987 [INFO Client 2236] Tile hash: 1511106045
+2023/04/24 00:46:48 28585859 f22b6986 [INFO Client 2236] Doodad hash: 1549355535
+2023/04/24 00:46:48 28586500 11870f49 [DEBUG Client 2236] Joined guild named Голосовой чат discord.com/invite/nXFKHzJ with 197 members 
+2023/04/24 00:46:49 28587171 cffb071e [INFO Client 2236] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Первобытное поселение.
+2023/04/24 00:46:50 28587812 32759a9f [INFO Client 2236] [SHADER] Delay: ON
+2023/04/24 00:48:14 28671921 cffb071e [INFO Client 2236] : Вы получили очко пассивных умений Атласа.
+2023/04/24 00:48:24 28681828 8da7ead9 [INFO Client 2236] Successfully allocated passive skill id: atlas_expedition_4192, name: Древнее разложение
+2023/04/24 00:48:27 28684750 890d9d5f [INFO Client 2236] Async connecting to mil01.login.pathofexile.com:20481
+2023/04/24 00:48:27 28684765 890d9cd8 [INFO Client 2236] Connected to mil01.login.pathofexile.com in 0ms.
+2023/04/24 00:48:31 28689406 88a904cb [DEBUG Client 2236] Got Instance Details from login server
+2023/04/24 00:48:31 28689406 32759a9f [INFO Client 2236] [SHADER] Delay: OFF
+2023/04/24 00:48:31 28689406 ca3a6a71 [INFO Client 2236] Connecting to instance server at 169.51.201.133:6112
+2023/04/24 00:48:31 28689468 ca3a4dbb [DEBUG Client 2236] Connect time to instance server was 31ms
+2023/04/24 00:48:31 28689546 1186a0e5 [DEBUG Client 2236] Generating level 69 area "2_11_endgame_town" with seed 1
+2023/04/24 00:48:34 28692593 f22b6987 [INFO Client 2236] Tile hash: 589033374
+2023/04/24 00:48:34 28692593 f22b6986 [INFO Client 2236] Doodad hash: 4274160400
+2023/04/24 00:48:35 28692921 11870f49 [DEBUG Client 2236] Joined guild named Голосовой чат discord.com/invite/nXFKHzJ with 197 members 
+2023/04/24 00:48:35 28693093 d946cb1d [CRIT Client 2236] Error executing statement on Metadata/Monsters/Epilogue/AtlasMilitiaMaul_@69 [40557]: Requires a Game Object (or an Animated Object attached to one); value type is Empty
+2023/04/24 00:48:35 28693109 d946cb1d [CRIT Client 2236] Error executing statement on Metadata/Monsters/Epilogue/AtlasMilitiaSword@69 [40558]: Requires a Game Object (or an Animated Object attached to one); value type is Empty
+2023/04/24 00:48:35 28693109 d946cb1d [CRIT Client 2236] Error executing statement on Metadata/Monsters/Epilogue/AtlasMilitiaMaul_@69 [40556]: Requires a Game Object (or an Animated Object attached to one); value type is Empty
+2023/04/24 00:48:36 28693875 cffb071e [INFO Client 2236] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Берега Каруи.
+2023/04/24 00:48:36 28693890 d946cb1d [CRIT Client 2236] Error executing statement on Metadata/Monsters/Epilogue/AtlasMilitiaMaul_@69 [40557]: Expression passed to function gave an empty result, expected a location or object
+2023/04/24 00:48:36 28694187 cffb071e [INFO Client 2236] : Вы присоединились к Общему каналу чата 9,968.
+2023/04/24 00:48:36 28694250 d946cb1d [CRIT Client 2236] Error executing statement on Metadata/Monsters/Epilogue/AtlasMilitiaSword@69 [40558]: Expression passed to function gave an empty result, expected a location or object
+2023/04/24 00:48:36 28694250 d946cb1d [CRIT Client 2236] Error executing statement on Metadata/Monsters/Epilogue/AtlasMilitiaMaul_@69 [40556]: Expression passed to function gave an empty result, expected a location or object
+2023/04/24 00:48:37 28695031 32759a9f [INFO Client 2236] [SHADER] Delay: ON
+2023/04/24 00:48:37 28695046 374e0d22 [INFO Client 2236] [Item Filter] Preparing to download online filter 7Mr0AZHP
+2023/04/24 00:48:37 28695046 374e0cc3 [INFO Client 2236] [Item Filter] Hash for online filter 7Mr0AZHP is: 55b166a332ae6c51a1c0cef67a526c5a
+2023/04/24 00:48:37 28695343 374e0cc9 [INFO Client 2236] [Item Filter] Online item filter 7Mr0AZHP returned status: 200
+2023/04/24 00:48:37 28695343 374e0ce3 [DEBUG Client 2236] [Item Filter] Online item filter request resolved to: 209.197.3.101
+2023/04/24 00:48:37 28695343 374e0e8e [DEBUG Client 2236] [Item Filter] X-HW: 1682286515.dop226.ve1.t,1682286516.cds252.ve1.shn,1682286516.dop226.ve1.t,1682286516.cds241.ve1.c
+2023/04/24 00:48:37 28695343 374df808 [INFO Client 2236] [Item Filter] Successfully saved online filter 7Mr0AZHP. Hash is now: 55b166a332ae6c51a1c0cef67a526c5a
+2023/04/24 00:48:37 28695343 7884752a [INFO Client 2236] [Item Filter] Finished reloading online filter 7Mr0AZHP. Result: true. Hash: 55b166a332ae6c51a1c0cef67a526c5a. Type: Normal. Message: 
+2023/04/24 00:48:42 28700312 cffb071e [INFO Client 2236] #WereNotHereTo___Spiders: просто пойзон иммун
+2023/04/24 00:48:53 28711375 cffb071e [INFO Client 2236] #Consueli: хуета
+2023/04/24 00:49:13 28731343 cffb071e [INFO Client 2236] #WereNotHereTo___Spiders: отлично сочетается с крусибл пассивкой в щите на блид иммун и повышенный шанс пойзона
+2023/04/24 00:49:29 28747015 cffb071e [INFO Client 2236] #WereNotHereTo___Spiders: мне урон уже не нужно собирать, я утанковываюсь)
+2023/04/24 00:50:02 28780015 cffb071e [INFO Client 2236] #WereNotHereTo___Spiders: критов нет, состояний нет, пойзона нет, блидов нет, критов - должно быть попроще
+2023/04/24 00:50:22 28799875 cffb071e [INFO Client 2236] #Consueli: танковать<=убивать
+2023/04/24 00:50:26 28804703 88a904cb [DEBUG Client 2236] Got Instance Details from login server
+2023/04/24 00:50:26 28804703 32759a9f [INFO Client 2236] [SHADER] Delay: OFF
+2023/04/24 00:50:26 28804703 ca3a6a71 [INFO Client 2236] Connecting to instance server at 159.122.142.232:6112
+2023/04/24 00:50:27 28804750 ca3a4dbb [DEBUG Client 2236] Connect time to instance server was 31ms
+2023/04/24 00:50:27 28804796 1186a0e5 [DEBUG Client 2236] Generating level 20 area "HideoutCoral" with seed 1
+2023/04/24 00:50:27 28804984 f22b6987 [INFO Client 2236] Tile hash: 805187908
+2023/04/24 00:50:27 28804984 f22b6986 [INFO Client 2236] Doodad hash: 0
+2023/04/24 00:50:28 28805734 11870f49 [DEBUG Client 2236] Joined guild named Голосовой чат discord.com/invite/nXFKHzJ with 197 members 
+2023/04/24 00:50:28 28806484 cffb071e [INFO Client 2236] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Коралловое убежище.
+2023/04/24 00:50:29 28807203 32759a9f [INFO Client 2236] [SHADER] Delay: ON
+2023/04/24 00:50:43 28821343 88a904cb [DEBUG Client 2236] Got Instance Details from login server
+2023/04/24 00:50:43 28821343 32759a9f [INFO Client 2236] [SHADER] Delay: OFF
+2023/04/24 00:50:43 28821343 ca3a6a71 [INFO Client 2236] Connecting to instance server at 169.51.201.165:6112
+2023/04/24 00:50:43 28821406 ca3a4dbb [DEBUG Client 2236] Connect time to instance server was 47ms
+2023/04/24 00:50:43 28821468 1186a0e5 [DEBUG Client 2236] Generating level 70 area "MapWorldsFields" with seed 1577649393
+2023/04/24 00:50:44 28822468 f22b6987 [INFO Client 2236] Tile hash: 3046723350
+2023/04/24 00:50:44 28822468 f22b6986 [INFO Client 2236] Doodad hash: 1364140412
+2023/04/24 00:50:45 28823031 11870f49 [DEBUG Client 2236] Joined guild named Голосовой чат discord.com/invite/nXFKHzJ with 197 members 
+2023/04/24 00:50:46 28823828 cffb071e [INFO Client 2236] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Поля.
+2023/04/24 00:50:46 28824375 32759a9f [INFO Client 2236] [SHADER] Delay: ON
+2023/04/24 00:50:49 28827578 cffb071e [INFO Client 2236] #WereNotHereTo___Spiders: Клык Аракаали, Кинжал изверга они справятся я в них верю)
+2023/04/24 00:50:58 28835921 cffb071e [INFO Client 2236] &<RiPE> ДимаКарыто: Аптекарь нямням
+2023/04/24 00:51:32 28869984 cffb071e [INFO Client 2236] #Consueli: подними хаос рез и до яда не будет дела...
+2023/04/24 00:51:46 28884171 cffb071e [INFO Client 2236] #WereNotHereTo___Spiders: уже в капе
+2023/04/24 00:51:54 28891921 3796f5e1 [WARN Client 2236] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/24 00:51:54 28892093 3796f5e1 [WARN Client 2236] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/24 00:52:58 28956671 3796f5e1 [WARN Client 2236] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/24 00:53:02 28960328 3796f5e1 [WARN Client 2236] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/24 00:53:02 28960328 3796f5e1 [WARN Client 2236] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/24 00:53:14 28972343 118717eb [DEBUG Client 2236] Resyncing 952
+2023/04/24 00:53:14 28972343 118717eb [DEBUG Client 2236] Resyncing 949
+2023/04/24 00:53:14 28972343 cffb071e [INFO Client 2236] : DeeGyreIIIXXI был повержен.
+2023/04/24 00:53:17 28975281 88a904cb [DEBUG Client 2236] Got Instance Details from login server
+2023/04/24 00:53:17 28975281 32759a9f [INFO Client 2236] [SHADER] Delay: OFF
+2023/04/24 00:53:17 28975281 ca3a6a71 [INFO Client 2236] Connecting to instance server at 169.51.201.153:6112
+2023/04/24 00:53:17 28975343 ca3a4dbb [DEBUG Client 2236] Connect time to instance server was 31ms
+2023/04/24 00:53:17 28975390 1186a0e5 [DEBUG Client 2236] Generating level 20 area "HideoutCoral" with seed 1
+2023/04/24 00:53:17 28975437 f22b6987 [INFO Client 2236] Tile hash: 805187908
+2023/04/24 00:53:17 28975437 f22b6986 [INFO Client 2236] Doodad hash: 0
+2023/04/24 00:53:18 28976375 11870f49 [DEBUG Client 2236] Joined guild named Голосовой чат discord.com/invite/nXFKHzJ with 197 members 
+2023/04/24 00:53:19 28977031 cffb071e [INFO Client 2236] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Коралловое убежище.
+2023/04/24 00:53:19 28977671 32759a9f [INFO Client 2236] [SHADER] Delay: ON
+2023/04/24 00:53:27 28985296 88a904cb [DEBUG Client 2236] Got Instance Details from login server
+2023/04/24 00:53:27 28985296 32759a9f [INFO Client 2236] [SHADER] Delay: OFF
+2023/04/24 00:53:27 28985296 ca3a6a71 [INFO Client 2236] Connecting to instance server at 169.51.201.165:6112
+2023/04/24 00:53:27 28985343 ca3a4dbb [DEBUG Client 2236] Connect time to instance server was 32ms
+2023/04/24 00:53:27 28985390 1186a0e5 [DEBUG Client 2236] Generating level 70 area "MapWorldsFields" with seed 1577649393
+2023/04/24 00:53:27 28985484 f22b6987 [INFO Client 2236] Tile hash: 3046723350
+2023/04/24 00:53:27 28985484 f22b6986 [INFO Client 2236] Doodad hash: 1364140412
+2023/04/24 00:53:28 28986109 11870f49 [DEBUG Client 2236] Joined guild named Голосовой чат discord.com/invite/nXFKHzJ with 197 members 
+2023/04/24 00:53:29 28986734 cffb071e [INFO Client 2236] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Поля.
+2023/04/24 00:53:29 28987171 32759a9f [INFO Client 2236] [SHADER] Delay: ON
+2023/04/24 00:54:35 29052968 3796f5e1 [WARN Client 2236] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/24 00:56:02 29140531 cffb071e [INFO Client 2236] : DeeGyreIIIXXI был повержен.
+2023/04/24 00:56:05 29143234 88a904cb [DEBUG Client 2236] Got Instance Details from login server
+2023/04/24 00:56:05 29143234 32759a9f [INFO Client 2236] [SHADER] Delay: OFF
+2023/04/24 00:56:05 29143234 ca3a6a71 [INFO Client 2236] Connecting to instance server at 169.51.201.158:6112
+2023/04/24 00:56:05 29143296 ca3a4dbb [DEBUG Client 2236] Connect time to instance server was 31ms
+2023/04/24 00:56:05 29143343 1186a0e5 [DEBUG Client 2236] Generating level 20 area "HideoutCoral" with seed 1
+2023/04/24 00:56:05 29143390 f22b6987 [INFO Client 2236] Tile hash: 805187908
+2023/04/24 00:56:05 29143390 f22b6986 [INFO Client 2236] Doodad hash: 0
+2023/04/24 00:56:06 29144218 11870f49 [DEBUG Client 2236] Joined guild named Голосовой чат discord.com/invite/nXFKHzJ with 197 members 
+2023/04/24 00:56:07 29144843 cffb071e [INFO Client 2236] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Коралловое убежище.
+2023/04/24 00:56:07 29145468 32759a9f [INFO Client 2236] [SHADER] Delay: ON
+2023/04/24 00:56:12 29149890 88a904cb [DEBUG Client 2236] Got Instance Details from login server
+2023/04/24 00:56:12 29149890 32759a9f [INFO Client 2236] [SHADER] Delay: OFF
+2023/04/24 00:56:12 29149890 ca3a6a71 [INFO Client 2236] Connecting to instance server at 169.51.201.165:6112
+2023/04/24 00:56:12 29149953 ca3a4dbb [DEBUG Client 2236] Connect time to instance server was 47ms
+2023/04/24 00:56:12 29150015 1186a0e5 [DEBUG Client 2236] Generating level 70 area "MapWorldsFields" with seed 1577649393
+2023/04/24 00:56:12 29150093 f22b6987 [INFO Client 2236] Tile hash: 3046723350
+2023/04/24 00:56:12 29150093 f22b6986 [INFO Client 2236] Doodad hash: 1364140412
+2023/04/24 00:56:13 29150796 11870f49 [DEBUG Client 2236] Joined guild named Голосовой чат discord.com/invite/nXFKHzJ with 197 members 
+2023/04/24 00:56:13 29151390 cffb071e [INFO Client 2236] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Поля.
+2023/04/24 00:56:14 29151828 32759a9f [INFO Client 2236] [SHADER] Delay: ON
