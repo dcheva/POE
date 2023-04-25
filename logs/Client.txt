@@ -15906,3 +15906,560 @@ flags: 257
 2023/04/25 19:38:09 153516031 9d4eeba7 [DEBUG Client 12328] [WINDOW] TrigggerDeviceReset
 2023/04/25 19:38:10 153517281 3275a75e [INFO Client 12328] [SHADER] Disable Async: 1 frames
 2023/04/25 19:38:10 153517281 b51d610e [INFO Client 12328] [RENDER] Disable Async: 1 frames
+2023/04/25 19:38:35 ***** LOG FILE OPENING *****
+2023/04/25 19:38:35 153541953 f9544283 [INFO Client 2768] [STARTUP] Job Queues
+2023/04/25 19:38:35 153541953 9e6a0b0a [INFO Client 2768] Enumerated adapter: NVIDIA GeForce GTX 1660
+2023/04/25 19:38:35 153542109 9e6a1d2a [INFO Client 2768] Enumerated device for adapter: NVIDIA GeForce GTX 1660. Selected feature level: 45312. Max feature level: 45312
+2023/04/25 19:38:35 153542109 9e6a1363 [INFO Client 2768] Enumerated output for adapter NVIDIA GeForce GTX 1660 of \\.\DISPLAY1
+2023/04/25 19:38:35 153542109 9e6a0b0a [INFO Client 2768] Enumerated adapter: Microsoft Basic Render Driver
+2023/04/25 19:38:35 153542109 9e6a1d2a [INFO Client 2768] Enumerated device for adapter: Microsoft Basic Render Driver. Selected feature level: 45312. Max feature level: 45312
+2023/04/25 19:38:35 153542109 84a7d27d [INFO Client 2768] [ENGINE] Init
+2023/04/25 19:38:35 153542109 55713145 [INFO Client 2768] [JOB] HIGH: 3
+2023/04/25 19:38:35 153542109 55713145 [INFO Client 2768] [JOB] MEDIUM: 3
+2023/04/25 19:38:35 153542109 55713145 [INFO Client 2768] [JOB] LOW: 3
+2023/04/25 19:38:35 153542109 55713145 [INFO Client 2768] [JOB] IDLE: 1
+2023/04/25 19:38:35 153542109 7bb548f [INFO Client 2768] [BUNDLE2] Init
+2023/04/25 19:38:35 153542109 7bb36c4 [INFO Client 2768] [BUNDLE2] Index: Bundles2/_.index.bin
+2023/04/25 19:38:35 153542328 7bb61e6 [INFO Client 2768] [BUNDLE2] File cache size: 1024
+2023/04/25 19:38:35 153542328 b51d61ab [INFO Client 2768] [RENDER] Async: ON
+2023/04/25 19:38:35 153542328 b51d60c8 [INFO Client 2768] [RENDER] Warmup: ON
+2023/04/25 19:38:35 153542328 b51d60ce [INFO Client 2768] [RENDER] Skip: ON
+2023/04/25 19:38:35 153542328 b51d60eb [INFO Client 2768] [RENDER] Throttling: ON
+2023/04/25 19:38:35 153542328 32759a7a [INFO Client 2768] [SHADER] Address: http://www.pathofexile.com/tool/shader-db?a=store
+2023/04/25 19:38:35 153542328 32759a70 [INFO Client 2768] [SHADER] Async: ON
+2023/04/25 19:38:35 153542328 32759a9f [INFO Client 2768] [SHADER] Delay: OFF
+2023/04/25 19:38:35 153542328 32759aba [INFO Client 2768] [SHADER] Limit: ON
+2023/04/25 19:38:35 153542328 32759abc [INFO Client 2768] [SHADER] Warmup: ON
+2023/04/25 19:38:35 153542328 327599d7 [INFO Client 2768] [SHADER] Parallel: OFF
+2023/04/25 19:38:35 153542328 84a7e376 [INFO Client 2768] [ENGINE] Running Engine version 1.8.0
+2023/04/25 19:38:35 153542328 47bbd15a [INFO Client 2768] [SOUND] Buffer size = 64.0 MB
+2023/04/25 19:38:35 153542359 9b0d205 [INFO Client 2768] [VIDEO] Enable: ON
+2023/04/25 19:38:35 153542375 84a7d2d8 [INFO Client 2768] [ENGINE] Ready
+2023/04/25 19:38:35 153542625 951bc0b0 [INFO Client 2768] [STARTUP] Bundle Startup Start
+2023/04/25 19:38:35 153542625 951bc057 [INFO Client 2768] [STARTUP] Bundle Startup in 4.4e-05 seconds
+2023/04/25 19:38:35 153542625 951bc0b0 [INFO Client 2768] [STARTUP] Game Start
+2023/04/25 19:38:36 153542906 ca86fd3f [DEBUG Client 2768] Rebuilding UI::Core properties. Current input mode = '1'
+2023/04/25 19:38:36 153543140 951bc057 [INFO Client 2768] [STARTUP] Game in 0.514826 seconds
+2023/04/25 19:38:36 153543140 951bc0b0 [INFO Client 2768] [STARTUP] Window Start
+2023/04/25 19:38:36 153543140 9e6a0b0a [INFO Client 2768] Enumerated adapter: NVIDIA GeForce GTX 1660
+2023/04/25 19:38:36 153543265 9e6a1d2a [INFO Client 2768] Enumerated device for adapter: NVIDIA GeForce GTX 1660. Selected feature level: 45312. Max feature level: 45312
+2023/04/25 19:38:36 153543265 9e6a1363 [INFO Client 2768] Enumerated output for adapter NVIDIA GeForce GTX 1660 of \\.\DISPLAY1
+2023/04/25 19:38:36 153543265 9e6a0b0a [INFO Client 2768] Enumerated adapter: Microsoft Basic Render Driver
+2023/04/25 19:38:36 153543265 9e6a1d2a [INFO Client 2768] Enumerated device for adapter: Microsoft Basic Render Driver. Selected feature level: 45312. Max feature level: 45312
+2023/04/25 19:38:36 153543281 951bc057 [INFO Client 2768] [STARTUP] Window in 0.141801 seconds
+2023/04/25 19:38:36 153543281 413b61ff [DEBUG Client 2768] [GamepadManager] Initialising
+2023/04/25 19:38:36 153543281 951bc0b0 [INFO Client 2768] [STARTUP] Device Start
+2023/04/25 19:38:36 153543281 b51d6589 [INFO Client 2768] [RENDER] StartDevice: DirectX11
+2023/04/25 19:38:36 153543406 71b2ea0 [DEBUG Client 2768] [SHADER] Load shader cache: ShaderCacheD3D11
+2023/04/25 19:38:36 153543546 fafff8cf [DEBUG Client 2768] CreateSwapChain: SetFullScreenState 1
+2023/04/25 19:38:36 153543578 29d4ce01 [INFO Client 2768] [D3D11] Runtime version = 11.1
+2023/04/25 19:38:36 153543578 29d4ce00 [INFO Client 2768] [D3D11] Feature Level = 11.1
+2023/04/25 19:38:36 153543578 29d4ce03 [INFO Client 2768] [D3D11] Driver Command Lists = YES
+2023/04/25 19:38:36 153543578 29d4ce02 [INFO Client 2768] [D3D11] Driver Concurrent Creates = YES
+2023/04/25 19:38:36 153543578 29d4ce05 [INFO Client 2768] [D3D11] Driver Constant Buffer Offsetting = YES
+2023/04/25 19:38:36 153543718 9d4eeb40 [DEBUG Client 2768] [WINDOW] TrigggerDeviceCreate
+2023/04/25 19:38:37 153543781 9d4eeba7 [DEBUG Client 2768] [WINDOW] TrigggerDeviceReset
+2023/04/25 19:38:37 153543781 951bc057 [INFO Client 2768] [STARTUP] Device in 0.495955 seconds
+2023/04/25 19:38:37 153543781 951bc0b0 [INFO Client 2768] [STARTUP] Tencent Start
+2023/04/25 19:38:37 153543781 951bc057 [INFO Client 2768] [STARTUP] Tencent in 2.1e-05 seconds
+2023/04/25 19:38:37 153543781 951bc0b0 [INFO Client 2768] [STARTUP] Loading Start
+2023/04/25 19:38:37 153543796 951bc057 [INFO Client 2768] [STARTUP] Loading in 0.013826 seconds
+2023/04/25 19:38:37 153543796 951bc0b0 [INFO Client 2768] [STARTUP] DebugGUI Start
+2023/04/25 19:38:37 153543796 951bc057 [INFO Client 2768] [STARTUP] DebugGUI in 3.1e-05 seconds
+2023/04/25 19:38:37 153543796 951bc0b0 [INFO Client 2768] [STARTUP] Bundle Tiny Start
+2023/04/25 19:38:37 153543796 951bc0b0 [INFO Client 2768] [STARTUP] Bundle Login Start
+2023/04/25 19:38:37 153543796 951bc057 [INFO Client 2768] [STARTUP] Bundle Login in 2.1e-05 seconds
+2023/04/25 19:38:37 153543796 951bc057 [INFO Client 2768] [STARTUP] Bundle Tiny in 4.7e-05 seconds
+2023/04/25 19:38:37 153543796 951bc0b0 [INFO Client 2768] [STARTUP] Registration Start
+2023/04/25 19:38:37 153543796 951bc0b0 [INFO Client 2768] [STARTUP] Audio Start
+2023/04/25 19:38:37 153543796 47bbee18 [INFO Client 2768] [SOUND] Channel count = 64 (asked for 64)
+2023/04/25 19:38:37 153543796 47bbee19 [INFO Client 2768] [SOUND] Source count = 512
+2023/04/25 19:38:37 153543890 47bbea58 [INFO Client 2768] Changing to device "Line 1 (Virtual Audio Cable)"
+2023/04/25 19:38:37 153543890 951bc057 [INFO Client 2768] [STARTUP] Audio in 0.098847 seconds
+2023/04/25 19:38:37 153544109 951bc057 [INFO Client 2768] [STARTUP] Registration in 0.308947 seconds
+2023/04/25 19:38:37 153544703 5094179d [WARN Client 2768] tool_settings.json was not found. Resetting to default settings.
+2023/04/25 19:38:43 153550265 890d9d5f [INFO Client 2768] Async connecting to mil01.login.pathofexile.com:20481
+2023/04/25 19:38:43 153550281 890d9cd8 [INFO Client 2768] Connected to mil01.login.pathofexile.com in 0ms.
+2023/04/25 19:38:46 153553281 88a904cb [DEBUG Client 2768] Got Instance Details from login server
+2023/04/25 19:38:46 153553296 32759a9f [INFO Client 2768] [SHADER] Delay: OFF
+2023/04/25 19:38:46 153553296 ca3a6a71 [INFO Client 2768] Connecting to instance server at 159.122.142.243:6112
+2023/04/25 19:38:46 153553359 ca3a4dbb [DEBUG Client 2768] Connect time to instance server was 47ms
+2023/04/25 19:38:46 153553421 1186a0e5 [DEBUG Client 2768] Generating level 69 area "2_11_endgame_town" with seed 1
+2023/04/25 19:38:48 153555609 f22b6987 [INFO Client 2768] Tile hash: 589033374
+2023/04/25 19:38:48 153555609 f22b6986 [INFO Client 2768] Doodad hash: 4274160400
+2023/04/25 19:38:50 153557265 11870f49 [DEBUG Client 2768] Joined guild named Голосовой чат discord.com/invite/nXFKHzJ with 196 members 
+2023/04/25 19:38:52 153558750 cffb071e [INFO Client 2768] &: ОБЪЯВЛЕНИЕ ГИЛЬДИИ: В гостяк у CARDIFF 
+2023/04/25 19:38:52 153559109 cffb071e [INFO Client 2768] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Берега Каруи.
+2023/04/25 19:38:52 153559421 cffb071e [INFO Client 2768] #<Æ+®> хЧелсИх: может кто кору под мейвен 85 закрить?
+2023/04/25 19:38:52 153559546 cffb071e [INFO Client 2768] : Вы присоединились к Общему каналу чата 9,968.
+2023/04/25 19:38:54 153561578 32759a9f [INFO Client 2768] [SHADER] Delay: ON
+2023/04/25 19:38:55 153562218 374e0d22 [INFO Client 2768] [Item Filter] Preparing to download online filter OEr8NXhE
+2023/04/25 19:38:55 153562218 374e0cc3 [INFO Client 2768] [Item Filter] Hash for online filter OEr8NXhE is: 1dad5d2eae2538f324262a806d08dfab
+2023/04/25 19:38:55 153562406 374e0cc9 [INFO Client 2768] [Item Filter] Online item filter OEr8NXhE returned status: 200
+2023/04/25 19:38:55 153562406 374e0ce3 [DEBUG Client 2768] [Item Filter] Online item filter request resolved to: 209.197.3.101
+2023/04/25 19:38:55 153562406 374e0e8e [DEBUG Client 2768] [Item Filter] X-HW: 1682440727.dop223.ve1.t,1682440727.cds242.ve1.shn,1682440727.dop223.ve1.t,1682440727.cds260.ve1.c
+2023/04/25 19:38:55 153562406 374df808 [INFO Client 2768] [Item Filter] Successfully saved online filter OEr8NXhE. Hash is now: 1dad5d2eae2538f324262a806d08dfab
+2023/04/25 19:38:55 153562546 7884752a [INFO Client 2768] [Item Filter] Finished reloading online filter OEr8NXhE. Result: true. Hash: 1dad5d2eae2538f324262a806d08dfab. Type: Normal. Message: 
+2023/04/25 19:38:55 153562546 2a1490e5 [INFO Client 2768] PrecalcBaseTypeHashMap
+2023/04/25 19:38:55 153562625 2a1490e7 [INFO Client 2768] PrecalcModNameHashMap
+2023/04/25 19:38:57 153563875 2a1490e1 [INFO Client 2768] PrecalcItemClassMap
+2023/04/25 19:38:57 153563875 2a1490e3 [INFO Client 2768] PrecalcSoundEffects
+2023/04/25 19:38:57 153563875 2a1490ed [INFO Client 2768] PrecalcDropEffects
+2023/04/25 19:38:57 153563875 2a1490c6 [INFO Client 2768] PrecalcNonEnchantModHashes
+2023/04/25 19:38:57 153563875 2a1490c4 [INFO Client 2768] PrecalcRuleNameToTypeMap
+2023/04/25 19:38:57 153563875 2a1490c2 [INFO Client 2768] PrecalcCJESPNIndexMap
+2023/04/25 19:38:57 153563890 2a1490c0 [INFO Client 2768] PrecalcGemAlternateQualityMap
+2023/04/25 19:39:01 153568593 374e128b [INFO Client 2768] [Item Filter] Downloading online list
+2023/04/25 19:39:02 153569281 374e12ec [INFO Client 2768] [Item Filter] Online list returned status: 200
+2023/04/25 19:39:02 153569281 374e12e6 [DEBUG Client 2768] [Item Filter] Online list request resolved to: 209.197.3.101
+2023/04/25 19:39:02 153569281 374df908 [INFO Client 2768] [Item Filter] List contained online filter OEr8NXhE with hash: 464ac76eba32756a5eb5cc630ef50e62 (local hash is: 1dad5d2eae2538f324262a806d08dfab)
+2023/04/25 19:39:02 153569281 374df908 [INFO Client 2768] [Item Filter] List contained online filter 5XMehq with hash: dc28701127f661c3028cfaa438919b27 (local hash is: dc28701127f661c3028cfaa438919b27)
+2023/04/25 19:39:02 153569281 374df908 [INFO Client 2768] [Item Filter] List contained online filter GmXoTD with hash: 7b84305f0cff160e7990c0832a71f4bd (local hash is: 7b84305f0cff160e7990c0832a71f4bd)
+2023/04/25 19:39:02 153569281 374df908 [INFO Client 2768] [Item Filter] List contained online filter wvPeTJ with hash: b4843f7445bd064f06b4144d9b5d0f6b (local hash is: b4843f7445bd064f06b4144d9b5d0f6b)
+2023/04/25 19:39:02 153569281 374df908 [INFO Client 2768] [Item Filter] List contained online filter 7Mr0AZHP with hash: 464ac76eba32756a5eb5cc630ef50e62 (local hash is: 55b166a332ae6c51a1c0cef67a526c5a)
+2023/04/25 19:39:02 153569281 374e0d22 [INFO Client 2768] [Item Filter] Preparing to download online filter OEr8NXhE
+2023/04/25 19:39:02 153569281 374e0cc3 [INFO Client 2768] [Item Filter] Hash for online filter OEr8NXhE is: 1dad5d2eae2538f324262a806d08dfab
+2023/04/25 19:39:02 153569453 374e0cc9 [INFO Client 2768] [Item Filter] Online item filter OEr8NXhE returned status: 200
+2023/04/25 19:39:02 153569453 374e0ce3 [DEBUG Client 2768] [Item Filter] Online item filter request resolved to: 209.197.3.101
+2023/04/25 19:39:02 153569453 374e0e8e [DEBUG Client 2768] [Item Filter] X-HW: 1682440734.dop227.ve1.t,1682440734.cds240.ve1.shn,1682440734.dop227.ve1.t,1682440734.cds260.ve1.c
+2023/04/25 19:39:02 153569453 374df808 [INFO Client 2768] [Item Filter] Successfully saved online filter OEr8NXhE. Hash is now: 1dad5d2eae2538f324262a806d08dfab
+2023/04/25 19:39:02 153569468 7884752a [INFO Client 2768] [Item Filter] Finished reloading online filter OEr8NXhE. Result: true. Hash: 1dad5d2eae2538f324262a806d08dfab. Type: Normal. Message: 
+2023/04/25 19:39:17 153584328 374e128b [INFO Client 2768] [Item Filter] Downloading online list
+2023/04/25 19:39:18 153585062 374e12ec [INFO Client 2768] [Item Filter] Online list returned status: 200
+2023/04/25 19:39:18 153585062 374e12e6 [DEBUG Client 2768] [Item Filter] Online list request resolved to: 209.197.3.101
+2023/04/25 19:39:18 153585062 374df908 [INFO Client 2768] [Item Filter] List contained online filter OEr8NXhE with hash: 464ac76eba32756a5eb5cc630ef50e62 (local hash is: 1dad5d2eae2538f324262a806d08dfab)
+2023/04/25 19:39:18 153585062 374df908 [INFO Client 2768] [Item Filter] List contained online filter 5XMehq with hash: dc28701127f661c3028cfaa438919b27 (local hash is: dc28701127f661c3028cfaa438919b27)
+2023/04/25 19:39:18 153585062 374df908 [INFO Client 2768] [Item Filter] List contained online filter GmXoTD with hash: 7b84305f0cff160e7990c0832a71f4bd (local hash is: 7b84305f0cff160e7990c0832a71f4bd)
+2023/04/25 19:39:18 153585062 374df908 [INFO Client 2768] [Item Filter] List contained online filter wvPeTJ with hash: b4843f7445bd064f06b4144d9b5d0f6b (local hash is: b4843f7445bd064f06b4144d9b5d0f6b)
+2023/04/25 19:39:18 153585062 374df908 [INFO Client 2768] [Item Filter] List contained online filter 7Mr0AZHP with hash: 464ac76eba32756a5eb5cc630ef50e62 (local hash is: 55b166a332ae6c51a1c0cef67a526c5a)
+2023/04/25 19:39:18 153585062 374e0d22 [INFO Client 2768] [Item Filter] Preparing to download online filter OEr8NXhE
+2023/04/25 19:39:18 153585062 374e0cc3 [INFO Client 2768] [Item Filter] Hash for online filter OEr8NXhE is: 1dad5d2eae2538f324262a806d08dfab
+2023/04/25 19:39:18 153585234 374e0cc9 [INFO Client 2768] [Item Filter] Online item filter OEr8NXhE returned status: 200
+2023/04/25 19:39:18 153585234 374e0ce3 [DEBUG Client 2768] [Item Filter] Online item filter request resolved to: 209.197.3.101
+2023/04/25 19:39:18 153585234 374e0e8e [DEBUG Client 2768] [Item Filter] X-HW: 1682440750.dop214.ve1.t,1682440750.cds254.ve1.shn,1682440750.dop214.ve1.t,1682440750.cds260.ve1.c
+2023/04/25 19:39:18 153585250 374df808 [INFO Client 2768] [Item Filter] Successfully saved online filter OEr8NXhE. Hash is now: 1dad5d2eae2538f324262a806d08dfab
+2023/04/25 19:39:18 153585250 7884752a [INFO Client 2768] [Item Filter] Finished reloading online filter OEr8NXhE. Result: true. Hash: 1dad5d2eae2538f324262a806d08dfab. Type: Normal. Message: 
+2023/04/25 19:39:26 153593234 374e0d22 [INFO Client 2768] [Item Filter] Preparing to download online filter OEr8NXhE
+2023/04/25 19:39:26 153593234 374e0cc3 [INFO Client 2768] [Item Filter] Hash for online filter OEr8NXhE is: (empty)
+2023/04/25 19:39:26 153593406 374e0cc9 [INFO Client 2768] [Item Filter] Online item filter OEr8NXhE returned status: 200
+2023/04/25 19:39:26 153593406 374e0ce3 [DEBUG Client 2768] [Item Filter] Online item filter request resolved to: 209.197.3.101
+2023/04/25 19:39:26 153593406 374e0e8e [DEBUG Client 2768] [Item Filter] X-HW: 1682440758.dop220.ve1.t,1682440758.cds258.ve1.shn,1682440758.dop220.ve1.t,1682440758.cds260.ve1.c
+2023/04/25 19:39:26 153593406 374df808 [INFO Client 2768] [Item Filter] Successfully saved online filter OEr8NXhE. Hash is now: 1dad5d2eae2538f324262a806d08dfab
+2023/04/25 19:39:26 153593421 7884752a [INFO Client 2768] [Item Filter] Finished reloading online filter OEr8NXhE. Result: true. Hash: 1dad5d2eae2538f324262a806d08dfab. Type: Normal. Message: 
+2023/04/25 19:39:28 153595000 374e128b [INFO Client 2768] [Item Filter] Downloading online list
+2023/04/25 19:39:28 153595703 374e12ec [INFO Client 2768] [Item Filter] Online list returned status: 200
+2023/04/25 19:39:28 153595703 374e12e6 [DEBUG Client 2768] [Item Filter] Online list request resolved to: 209.197.3.101
+2023/04/25 19:39:28 153595703 374df908 [INFO Client 2768] [Item Filter] List contained online filter OEr8NXhE with hash: 464ac76eba32756a5eb5cc630ef50e62 (local hash is: 1dad5d2eae2538f324262a806d08dfab)
+2023/04/25 19:39:28 153595703 374df908 [INFO Client 2768] [Item Filter] List contained online filter 5XMehq with hash: dc28701127f661c3028cfaa438919b27 (local hash is: dc28701127f661c3028cfaa438919b27)
+2023/04/25 19:39:28 153595703 374df908 [INFO Client 2768] [Item Filter] List contained online filter GmXoTD with hash: 7b84305f0cff160e7990c0832a71f4bd (local hash is: 7b84305f0cff160e7990c0832a71f4bd)
+2023/04/25 19:39:28 153595703 374df908 [INFO Client 2768] [Item Filter] List contained online filter wvPeTJ with hash: b4843f7445bd064f06b4144d9b5d0f6b (local hash is: b4843f7445bd064f06b4144d9b5d0f6b)
+2023/04/25 19:39:28 153595703 374df908 [INFO Client 2768] [Item Filter] List contained online filter 7Mr0AZHP with hash: 464ac76eba32756a5eb5cc630ef50e62 (local hash is: 55b166a332ae6c51a1c0cef67a526c5a)
+2023/04/25 19:39:28 153595718 374e0d22 [INFO Client 2768] [Item Filter] Preparing to download online filter OEr8NXhE
+2023/04/25 19:39:28 153595718 374e0cc3 [INFO Client 2768] [Item Filter] Hash for online filter OEr8NXhE is: 1dad5d2eae2538f324262a806d08dfab
+2023/04/25 19:39:29 153595890 374e0cc9 [INFO Client 2768] [Item Filter] Online item filter OEr8NXhE returned status: 200
+2023/04/25 19:39:29 153595890 374e0ce3 [DEBUG Client 2768] [Item Filter] Online item filter request resolved to: 209.197.3.101
+2023/04/25 19:39:29 153595890 374e0e8e [DEBUG Client 2768] [Item Filter] X-HW: 1682440761.dop210.ve1.t,1682440761.cds249.ve1.shn,1682440761.dop210.ve1.t,1682440761.cds260.ve1.c
+2023/04/25 19:39:29 153595890 374df808 [INFO Client 2768] [Item Filter] Successfully saved online filter OEr8NXhE. Hash is now: 1dad5d2eae2538f324262a806d08dfab
+2023/04/25 19:39:29 153595906 7884752a [INFO Client 2768] [Item Filter] Finished reloading online filter OEr8NXhE. Result: true. Hash: 1dad5d2eae2538f324262a806d08dfab. Type: Normal. Message: 
+2023/04/25 19:39:33 153600500 b51d4f61 [DEBUG Client 2768] [RENDER] SetRendererSettings
+2023/04/25 19:39:33 153600500 b51d6447 [DEBUG Client 2768] [RENDER] ResizeWindow
+2023/04/25 19:39:33 153600500 9d4eec8a [DEBUG Client 2768] [WINDOW] TrigggerDeviceLost
+2023/04/25 19:39:33 153600515 9d4eeba7 [DEBUG Client 2768] [WINDOW] TrigggerDeviceReset
+2023/04/25 19:39:34 153601062 b51d614c [DEBUG Client 2768] [RENDER] RestartSwapChain
+2023/04/25 19:39:34 153601062 9e6a0b0a [INFO Client 2768] Enumerated adapter: NVIDIA GeForce GTX 1660
+2023/04/25 19:39:34 153601109 9e6a1d2a [INFO Client 2768] Enumerated device for adapter: NVIDIA GeForce GTX 1660. Selected feature level: 45312. Max feature level: 45312
+2023/04/25 19:39:34 153601109 9e6a1363 [INFO Client 2768] Enumerated output for adapter NVIDIA GeForce GTX 1660 of \\.\DISPLAY1
+2023/04/25 19:39:34 153601109 9e6a0b0a [INFO Client 2768] Enumerated adapter: Microsoft Basic Render Driver
+2023/04/25 19:39:34 153601109 9e6a1d2a [INFO Client 2768] Enumerated device for adapter: Microsoft Basic Render Driver. Selected feature level: 45312. Max feature level: 45312
+2023/04/25 19:39:34 153601140 9d4eec8a [DEBUG Client 2768] [WINDOW] TrigggerDeviceLost
+2023/04/25 19:39:34 153601171 9d4eeba7 [DEBUG Client 2768] [WINDOW] TrigggerDeviceReset
+2023/04/25 19:39:34 153601671 fafff8cf [DEBUG Client 2768] CreateSwapChain: SetFullScreenState 0
+2023/04/25 19:39:34 153601671 9d4eec8a [DEBUG Client 2768] [WINDOW] TrigggerDeviceLost
+2023/04/25 19:39:34 153601687 9d4eeba7 [DEBUG Client 2768] [WINDOW] TrigggerDeviceReset
+2023/04/25 19:39:35 153602250 3275a75e [INFO Client 2768] [SHADER] Disable Async: 1 frames
+2023/04/25 19:39:35 153602250 b51d610e [INFO Client 2768] [RENDER] Disable Async: 1 frames
+2023/04/25 19:39:35 153602250 9d4eec8a [DEBUG Client 2768] [WINDOW] TrigggerDeviceLost
+2023/04/25 19:39:35 153602281 9d4eeba7 [DEBUG Client 2768] [WINDOW] TrigggerDeviceReset
+2023/04/25 19:40:17 153643890 b51d4f61 [DEBUG Client 2768] [RENDER] SetRendererSettings
+2023/04/25 19:40:17 153643890 b51d6447 [DEBUG Client 2768] [RENDER] ResizeWindow
+2023/04/25 19:40:17 153643890 b51d614c [DEBUG Client 2768] [RENDER] RestartSwapChain
+2023/04/25 19:40:17 153643890 9e6a0b0a [INFO Client 2768] Enumerated adapter: NVIDIA GeForce GTX 1660
+2023/04/25 19:40:17 153643937 9e6a1d2a [INFO Client 2768] Enumerated device for adapter: NVIDIA GeForce GTX 1660. Selected feature level: 45312. Max feature level: 45312
+2023/04/25 19:40:17 153643937 9e6a1363 [INFO Client 2768] Enumerated output for adapter NVIDIA GeForce GTX 1660 of \\.\DISPLAY1
+2023/04/25 19:40:17 153643937 9e6a0b0a [INFO Client 2768] Enumerated adapter: Microsoft Basic Render Driver
+2023/04/25 19:40:17 153643937 9e6a1d2a [INFO Client 2768] Enumerated device for adapter: Microsoft Basic Render Driver. Selected feature level: 45312. Max feature level: 45312
+2023/04/25 19:40:17 153643953 fafff8cf [DEBUG Client 2768] CreateSwapChain: SetFullScreenState 1
+2023/04/25 19:40:17 153644015 9d4eec8a [DEBUG Client 2768] [WINDOW] TrigggerDeviceLost
+2023/04/25 19:40:17 153644031 9d4eeba7 [DEBUG Client 2768] [WINDOW] TrigggerDeviceReset
+2023/04/25 19:40:18 153644734 3275a75e [INFO Client 2768] [SHADER] Disable Async: 1 frames
+2023/04/25 19:40:18 153644734 b51d610e [INFO Client 2768] [RENDER] Disable Async: 1 frames
+2023/04/25 19:40:19 153646718 374e0d22 [INFO Client 2768] [Item Filter] Preparing to download online filter OEr8NXhE
+2023/04/25 19:40:19 153646718 374e0cc3 [INFO Client 2768] [Item Filter] Hash for online filter OEr8NXhE is: (empty)
+2023/04/25 19:40:20 153646890 374e0cc9 [INFO Client 2768] [Item Filter] Online item filter OEr8NXhE returned status: 200
+2023/04/25 19:40:20 153646890 374e0ce3 [DEBUG Client 2768] [Item Filter] Online item filter request resolved to: 209.197.3.101
+2023/04/25 19:40:20 153646890 374e0e8e [DEBUG Client 2768] [Item Filter] X-HW: 1682440812.dop207.ve1.t,1682440812.cds222.ve1.shn,1682440812.dop207.ve1.t,1682440812.cds260.ve1.c
+2023/04/25 19:40:20 153646890 374df808 [INFO Client 2768] [Item Filter] Successfully saved online filter OEr8NXhE. Hash is now: 1dad5d2eae2538f324262a806d08dfab
+2023/04/25 19:40:20 153646890 7884752a [INFO Client 2768] [Item Filter] Finished reloading online filter OEr8NXhE. Result: true. Hash: 1dad5d2eae2538f324262a806d08dfab. Type: Normal. Message: 
+2023/04/25 19:40:21 153648031 374e128b [INFO Client 2768] [Item Filter] Downloading online list
+2023/04/25 19:40:22 153648765 374e12ec [INFO Client 2768] [Item Filter] Online list returned status: 200
+2023/04/25 19:40:22 153648765 374e12e6 [DEBUG Client 2768] [Item Filter] Online list request resolved to: 209.197.3.101
+2023/04/25 19:40:22 153648765 374df908 [INFO Client 2768] [Item Filter] List contained online filter OEr8NXhE with hash: 464ac76eba32756a5eb5cc630ef50e62 (local hash is: 1dad5d2eae2538f324262a806d08dfab)
+2023/04/25 19:40:22 153648765 374df908 [INFO Client 2768] [Item Filter] List contained online filter 5XMehq with hash: dc28701127f661c3028cfaa438919b27 (local hash is: dc28701127f661c3028cfaa438919b27)
+2023/04/25 19:40:22 153648765 374df908 [INFO Client 2768] [Item Filter] List contained online filter GmXoTD with hash: 7b84305f0cff160e7990c0832a71f4bd (local hash is: 7b84305f0cff160e7990c0832a71f4bd)
+2023/04/25 19:40:22 153648765 374df908 [INFO Client 2768] [Item Filter] List contained online filter wvPeTJ with hash: b4843f7445bd064f06b4144d9b5d0f6b (local hash is: b4843f7445bd064f06b4144d9b5d0f6b)
+2023/04/25 19:40:22 153648765 374df908 [INFO Client 2768] [Item Filter] List contained online filter 7Mr0AZHP with hash: 464ac76eba32756a5eb5cc630ef50e62 (local hash is: 55b166a332ae6c51a1c0cef67a526c5a)
+2023/04/25 19:40:27 153654625 374e128b [INFO Client 2768] [Item Filter] Downloading online list
+2023/04/25 19:40:28 153655343 374e12ec [INFO Client 2768] [Item Filter] Online list returned status: 200
+2023/04/25 19:40:28 153655343 374e12e6 [DEBUG Client 2768] [Item Filter] Online list request resolved to: 209.197.3.101
+2023/04/25 19:40:28 153655343 374df908 [INFO Client 2768] [Item Filter] List contained online filter OEr8NXhE with hash: 464ac76eba32756a5eb5cc630ef50e62 (local hash is: 1dad5d2eae2538f324262a806d08dfab)
+2023/04/25 19:40:28 153655343 374df908 [INFO Client 2768] [Item Filter] List contained online filter 5XMehq with hash: dc28701127f661c3028cfaa438919b27 (local hash is: dc28701127f661c3028cfaa438919b27)
+2023/04/25 19:40:28 153655343 374df908 [INFO Client 2768] [Item Filter] List contained online filter GmXoTD with hash: 7b84305f0cff160e7990c0832a71f4bd (local hash is: 7b84305f0cff160e7990c0832a71f4bd)
+2023/04/25 19:40:28 153655343 374df908 [INFO Client 2768] [Item Filter] List contained online filter wvPeTJ with hash: b4843f7445bd064f06b4144d9b5d0f6b (local hash is: b4843f7445bd064f06b4144d9b5d0f6b)
+2023/04/25 19:40:28 153655343 374df908 [INFO Client 2768] [Item Filter] List contained online filter 7Mr0AZHP with hash: 464ac76eba32756a5eb5cc630ef50e62 (local hash is: 55b166a332ae6c51a1c0cef67a526c5a)
+2023/04/25 19:40:32 153659390 374e128b [INFO Client 2768] [Item Filter] Downloading online list
+2023/04/25 19:40:33 153660093 374e12ec [INFO Client 2768] [Item Filter] Online list returned status: 200
+2023/04/25 19:40:33 153660093 374e12e6 [DEBUG Client 2768] [Item Filter] Online list request resolved to: 209.197.3.101
+2023/04/25 19:40:33 153660093 374df908 [INFO Client 2768] [Item Filter] List contained online filter OEr8NXhE with hash: 464ac76eba32756a5eb5cc630ef50e62 (local hash is: 1dad5d2eae2538f324262a806d08dfab)
+2023/04/25 19:40:33 153660093 374df908 [INFO Client 2768] [Item Filter] List contained online filter 5XMehq with hash: dc28701127f661c3028cfaa438919b27 (local hash is: dc28701127f661c3028cfaa438919b27)
+2023/04/25 19:40:33 153660093 374df908 [INFO Client 2768] [Item Filter] List contained online filter GmXoTD with hash: 7b84305f0cff160e7990c0832a71f4bd (local hash is: 7b84305f0cff160e7990c0832a71f4bd)
+2023/04/25 19:40:33 153660093 374df908 [INFO Client 2768] [Item Filter] List contained online filter wvPeTJ with hash: b4843f7445bd064f06b4144d9b5d0f6b (local hash is: b4843f7445bd064f06b4144d9b5d0f6b)
+2023/04/25 19:40:33 153660093 374df908 [INFO Client 2768] [Item Filter] List contained online filter 7Mr0AZHP with hash: 464ac76eba32756a5eb5cc630ef50e62 (local hash is: 55b166a332ae6c51a1c0cef67a526c5a)
+2023/04/25 19:40:35 153662500 374e128b [INFO Client 2768] [Item Filter] Downloading online list
+2023/04/25 19:40:36 153663234 374e12ec [INFO Client 2768] [Item Filter] Online list returned status: 200
+2023/04/25 19:40:36 153663234 374e12e6 [DEBUG Client 2768] [Item Filter] Online list request resolved to: 209.197.3.101
+2023/04/25 19:40:36 153663234 374df908 [INFO Client 2768] [Item Filter] List contained online filter OEr8NXhE with hash: 464ac76eba32756a5eb5cc630ef50e62 (local hash is: 1dad5d2eae2538f324262a806d08dfab)
+2023/04/25 19:40:36 153663234 374df908 [INFO Client 2768] [Item Filter] List contained online filter 5XMehq with hash: dc28701127f661c3028cfaa438919b27 (local hash is: dc28701127f661c3028cfaa438919b27)
+2023/04/25 19:40:36 153663234 374df908 [INFO Client 2768] [Item Filter] List contained online filter GmXoTD with hash: 7b84305f0cff160e7990c0832a71f4bd (local hash is: 7b84305f0cff160e7990c0832a71f4bd)
+2023/04/25 19:40:36 153663234 374df908 [INFO Client 2768] [Item Filter] List contained online filter wvPeTJ with hash: b4843f7445bd064f06b4144d9b5d0f6b (local hash is: b4843f7445bd064f06b4144d9b5d0f6b)
+2023/04/25 19:40:36 153663234 374df908 [INFO Client 2768] [Item Filter] List contained online filter 7Mr0AZHP with hash: 464ac76eba32756a5eb5cc630ef50e62 (local hash is: 55b166a332ae6c51a1c0cef67a526c5a)
+2023/04/25 19:40:38 153665171 374e128b [INFO Client 2768] [Item Filter] Downloading online list
+2023/04/25 19:40:39 153665906 374e12ec [INFO Client 2768] [Item Filter] Online list returned status: 200
+2023/04/25 19:40:39 153665906 374e12e6 [DEBUG Client 2768] [Item Filter] Online list request resolved to: 209.197.3.101
+2023/04/25 19:40:39 153665906 374df908 [INFO Client 2768] [Item Filter] List contained online filter OEr8NXhE with hash: 464ac76eba32756a5eb5cc630ef50e62 (local hash is: 1dad5d2eae2538f324262a806d08dfab)
+2023/04/25 19:40:39 153665906 374df908 [INFO Client 2768] [Item Filter] List contained online filter 5XMehq with hash: dc28701127f661c3028cfaa438919b27 (local hash is: dc28701127f661c3028cfaa438919b27)
+2023/04/25 19:40:39 153665906 374df908 [INFO Client 2768] [Item Filter] List contained online filter GmXoTD with hash: 7b84305f0cff160e7990c0832a71f4bd (local hash is: 7b84305f0cff160e7990c0832a71f4bd)
+2023/04/25 19:40:39 153665906 374df908 [INFO Client 2768] [Item Filter] List contained online filter wvPeTJ with hash: b4843f7445bd064f06b4144d9b5d0f6b (local hash is: b4843f7445bd064f06b4144d9b5d0f6b)
+2023/04/25 19:40:39 153665906 374df908 [INFO Client 2768] [Item Filter] List contained online filter 7Mr0AZHP with hash: 464ac76eba32756a5eb5cc630ef50e62 (local hash is: 55b166a332ae6c51a1c0cef67a526c5a)
+2023/04/25 19:40:42 153668890 b51d4f61 [DEBUG Client 2768] [RENDER] SetRendererSettings
+2023/04/25 19:40:42 153668890 b51d6447 [DEBUG Client 2768] [RENDER] ResizeWindow
+2023/04/25 19:40:42 153668890 9d4eec8a [DEBUG Client 2768] [WINDOW] TrigggerDeviceLost
+2023/04/25 19:40:42 153668921 9d4eeba7 [DEBUG Client 2768] [WINDOW] TrigggerDeviceReset
+2023/04/25 19:40:42 153669703 b51d614c [DEBUG Client 2768] [RENDER] RestartSwapChain
+2023/04/25 19:40:42 153669703 9e6a0b0a [INFO Client 2768] Enumerated adapter: NVIDIA GeForce GTX 1660
+2023/04/25 19:40:43 153669734 9e6a1d2a [INFO Client 2768] Enumerated device for adapter: NVIDIA GeForce GTX 1660. Selected feature level: 45312. Max feature level: 45312
+2023/04/25 19:40:43 153669734 9e6a1363 [INFO Client 2768] Enumerated output for adapter NVIDIA GeForce GTX 1660 of \\.\DISPLAY1
+2023/04/25 19:40:43 153669734 9e6a0b0a [INFO Client 2768] Enumerated adapter: Microsoft Basic Render Driver
+2023/04/25 19:40:43 153669734 9e6a1d2a [INFO Client 2768] Enumerated device for adapter: Microsoft Basic Render Driver. Selected feature level: 45312. Max feature level: 45312
+2023/04/25 19:40:43 153669765 9d4eec8a [DEBUG Client 2768] [WINDOW] TrigggerDeviceLost
+2023/04/25 19:40:43 153669796 9d4eeba7 [DEBUG Client 2768] [WINDOW] TrigggerDeviceReset
+2023/04/25 19:40:43 153670625 fafff8cf [DEBUG Client 2768] CreateSwapChain: SetFullScreenState 0
+2023/04/25 19:40:43 153670625 9d4eec8a [DEBUG Client 2768] [WINDOW] TrigggerDeviceLost
+2023/04/25 19:40:43 153670656 9d4eeba7 [DEBUG Client 2768] [WINDOW] TrigggerDeviceReset
+2023/04/25 19:40:44 153671500 3275a75e [INFO Client 2768] [SHADER] Disable Async: 1 frames
+2023/04/25 19:40:44 153671500 b51d610e [INFO Client 2768] [RENDER] Disable Async: 1 frames
+2023/04/25 19:40:44 153671500 9d4eec8a [DEBUG Client 2768] [WINDOW] TrigggerDeviceLost
+2023/04/25 19:40:44 153671531 9d4eeba7 [DEBUG Client 2768] [WINDOW] TrigggerDeviceReset
+2023/04/25 19:40:45 153672515 cffb071e [INFO Client 2768] &<RiPE> mataraks: Вампирская звезда, Треуголка грешника
+2023/04/25 19:40:45 153672515 cffb071e [INFO Client 2768] #Consueli: а че глубины бездны удалили?
+2023/04/25 19:40:57 153683890 cffb071e [INFO Client 2768] #<SÚ]äð> Sergio_Karat: не
+2023/04/25 19:41:15 153702093 cffb071e [INFO Client 2768] #Consueli: а фигли у меня шип на карте вылез?
+2023/04/25 19:41:29 153716062 cffb071e [INFO Client 2768] #<SÚ]äð> Sergio_Karat:  сходи к врачу
+2023/04/25 19:41:46 153733250 cffb071e [INFO Client 2768] #ST_Eyedaed: там переделали, что всегд лич, всегда не с первой дырки, личи злее и реже. как-то так
+2023/04/25 19:41:46 153733578 cffb071e [INFO Client 2768] #RasatoNaPensii: сильно))
+2023/04/25 19:42:05 153752218 cffb071e [INFO Client 2768] #Consueli: хуя се
+2023/04/25 19:42:11 153758312 cffb071e [INFO Client 2768] #<SÚ]äð> Sergio_Karat:  =)
+2023/04/25 19:42:34 153780984 b51d4f61 [DEBUG Client 2768] [RENDER] SetRendererSettings
+2023/04/25 19:42:34 153780984 b51d6447 [DEBUG Client 2768] [RENDER] ResizeWindow
+2023/04/25 19:42:34 153781000 b51d614c [DEBUG Client 2768] [RENDER] RestartSwapChain
+2023/04/25 19:42:34 153781000 9e6a0b0a [INFO Client 2768] Enumerated adapter: NVIDIA GeForce GTX 1660
+2023/04/25 19:42:34 153781046 9e6a1d2a [INFO Client 2768] Enumerated device for adapter: NVIDIA GeForce GTX 1660. Selected feature level: 45312. Max feature level: 45312
+2023/04/25 19:42:34 153781046 9e6a1363 [INFO Client 2768] Enumerated output for adapter NVIDIA GeForce GTX 1660 of \\.\DISPLAY1
+2023/04/25 19:42:34 153781046 9e6a0b0a [INFO Client 2768] Enumerated adapter: Microsoft Basic Render Driver
+2023/04/25 19:42:34 153781046 9e6a1d2a [INFO Client 2768] Enumerated device for adapter: Microsoft Basic Render Driver. Selected feature level: 45312. Max feature level: 45312
+2023/04/25 19:42:34 153781062 fafff8cf [DEBUG Client 2768] CreateSwapChain: SetFullScreenState 1
+2023/04/25 19:42:34 153781109 9d4eec8a [DEBUG Client 2768] [WINDOW] TrigggerDeviceLost
+2023/04/25 19:42:34 153781125 9d4eeba7 [DEBUG Client 2768] [WINDOW] TrigggerDeviceReset
+2023/04/25 19:42:35 153782093 3275a75e [INFO Client 2768] [SHADER] Disable Async: 1 frames
+2023/04/25 19:42:35 153782093 b51d610e [INFO Client 2768] [RENDER] Disable Async: 1 frames
+2023/04/25 19:42:37 153783953 374e0d22 [INFO Client 2768] [Item Filter] Preparing to download online filter OEr8NXhE
+2023/04/25 19:42:37 153783953 374e0cc3 [INFO Client 2768] [Item Filter] Hash for online filter OEr8NXhE is: (empty)
+2023/04/25 19:42:37 153784125 374e0cc9 [INFO Client 2768] [Item Filter] Online item filter OEr8NXhE returned status: 200
+2023/04/25 19:42:37 153784125 374e0ce3 [DEBUG Client 2768] [Item Filter] Online item filter request resolved to: 209.197.3.101
+2023/04/25 19:42:37 153784125 374e0e8e [DEBUG Client 2768] [Item Filter] X-HW: 1682440949.dop212.ve1.t,1682440949.cds219.ve1.shn,1682440949.dop212.ve1.t,1682440949.cds260.ve1.c
+2023/04/25 19:42:37 153784125 374df808 [INFO Client 2768] [Item Filter] Successfully saved online filter OEr8NXhE. Hash is now: 1dad5d2eae2538f324262a806d08dfab
+2023/04/25 19:42:37 153784140 7884752a [INFO Client 2768] [Item Filter] Finished reloading online filter OEr8NXhE. Result: true. Hash: 1dad5d2eae2538f324262a806d08dfab. Type: Normal. Message: 
+2023/04/25 19:42:43 153790609 374e128b [INFO Client 2768] [Item Filter] Downloading online list
+2023/04/25 19:42:44 153791390 374e12ec [INFO Client 2768] [Item Filter] Online list returned status: 200
+2023/04/25 19:42:44 153791390 374e12e6 [DEBUG Client 2768] [Item Filter] Online list request resolved to: 209.197.3.101
+2023/04/25 19:42:44 153791390 374df908 [INFO Client 2768] [Item Filter] List contained online filter OEr8NXhE with hash: 464ac76eba32756a5eb5cc630ef50e62 (local hash is: 1dad5d2eae2538f324262a806d08dfab)
+2023/04/25 19:42:44 153791390 374df908 [INFO Client 2768] [Item Filter] List contained online filter 5XMehq with hash: dc28701127f661c3028cfaa438919b27 (local hash is: dc28701127f661c3028cfaa438919b27)
+2023/04/25 19:42:44 153791390 374df908 [INFO Client 2768] [Item Filter] List contained online filter GmXoTD with hash: 7b84305f0cff160e7990c0832a71f4bd (local hash is: 7b84305f0cff160e7990c0832a71f4bd)
+2023/04/25 19:42:44 153791390 374df908 [INFO Client 2768] [Item Filter] List contained online filter wvPeTJ with hash: b4843f7445bd064f06b4144d9b5d0f6b (local hash is: b4843f7445bd064f06b4144d9b5d0f6b)
+2023/04/25 19:42:44 153791390 374df908 [INFO Client 2768] [Item Filter] List contained online filter 7Mr0AZHP with hash: 464ac76eba32756a5eb5cc630ef50e62 (local hash is: 55b166a332ae6c51a1c0cef67a526c5a)
+2023/04/25 19:42:46 153793343 374e0d22 [INFO Client 2768] [Item Filter] Preparing to download online filter OEr8NXhE
+2023/04/25 19:42:46 153793343 374e0cc3 [INFO Client 2768] [Item Filter] Hash for online filter OEr8NXhE is: (empty)
+2023/04/25 19:42:46 153793531 374e0cc9 [INFO Client 2768] [Item Filter] Online item filter OEr8NXhE returned status: 200
+2023/04/25 19:42:46 153793531 374e0ce3 [DEBUG Client 2768] [Item Filter] Online item filter request resolved to: 209.197.3.101
+2023/04/25 19:42:46 153793531 374e0e8e [DEBUG Client 2768] [Item Filter] X-HW: 1682440958.dop219.ve1.t,1682440958.cds230.ve1.shn,1682440958.dop219.ve1.t,1682440958.cds260.ve1.c
+2023/04/25 19:42:46 153793531 374df808 [INFO Client 2768] [Item Filter] Successfully saved online filter OEr8NXhE. Hash is now: 1dad5d2eae2538f324262a806d08dfab
+2023/04/25 19:42:46 153793546 7884752a [INFO Client 2768] [Item Filter] Finished reloading online filter OEr8NXhE. Result: true. Hash: 1dad5d2eae2538f324262a806d08dfab. Type: Normal. Message: 
+2023/04/25 19:42:53 153800062 b51d4f61 [DEBUG Client 2768] [RENDER] SetRendererSettings
+2023/04/25 19:42:53 153800062 b51d6447 [DEBUG Client 2768] [RENDER] ResizeWindow
+2023/04/25 19:42:53 153800062 9d4eec8a [DEBUG Client 2768] [WINDOW] TrigggerDeviceLost
+2023/04/25 19:42:53 153800078 9d4eeba7 [DEBUG Client 2768] [WINDOW] TrigggerDeviceReset
+2023/04/25 19:42:54 153800906 9d4eec8a [DEBUG Client 2768] [WINDOW] TrigggerDeviceLost
+2023/04/25 19:42:54 153800937 9d4eeba7 [DEBUG Client 2768] [WINDOW] TrigggerDeviceReset
+2023/04/25 19:42:55 153802343 b51d614c [DEBUG Client 2768] [RENDER] RestartSwapChain
+2023/04/25 19:42:55 153802343 9e6a0b0a [INFO Client 2768] Enumerated adapter: NVIDIA GeForce GTX 1660
+2023/04/25 19:42:55 153802390 9e6a1d2a [INFO Client 2768] Enumerated device for adapter: NVIDIA GeForce GTX 1660. Selected feature level: 45312. Max feature level: 45312
+2023/04/25 19:42:55 153802390 9e6a1363 [INFO Client 2768] Enumerated output for adapter NVIDIA GeForce GTX 1660 of \\.\DISPLAY1
+2023/04/25 19:42:55 153802390 9e6a0b0a [INFO Client 2768] Enumerated adapter: Microsoft Basic Render Driver
+2023/04/25 19:42:55 153802406 9e6a1d2a [INFO Client 2768] Enumerated device for adapter: Microsoft Basic Render Driver. Selected feature level: 45312. Max feature level: 45312
+2023/04/25 19:42:55 153802406 fafff8cf [DEBUG Client 2768] CreateSwapChain: SetFullScreenState 0
+2023/04/25 19:42:55 153802406 9d4eec8a [DEBUG Client 2768] [WINDOW] TrigggerDeviceLost
+2023/04/25 19:42:55 153802421 9d4eeba7 [DEBUG Client 2768] [WINDOW] TrigggerDeviceReset
+2023/04/25 19:42:56 153803562 3275a75e [INFO Client 2768] [SHADER] Disable Async: 1 frames
+2023/04/25 19:42:56 153803562 b51d610e [INFO Client 2768] [RENDER] Disable Async: 1 frames
+2023/04/25 19:42:56 153803562 9d4eec8a [DEBUG Client 2768] [WINDOW] TrigggerDeviceLost
+2023/04/25 19:42:56 153803593 9d4eeba7 [DEBUG Client 2768] [WINDOW] TrigggerDeviceReset
+2023/04/25 19:42:58 153804796 b51d4f61 [DEBUG Client 2768] [RENDER] SetRendererSettings
+2023/04/25 19:42:58 153804796 b51d6447 [DEBUG Client 2768] [RENDER] ResizeWindow
+2023/04/25 19:42:58 153804812 b51d614c [DEBUG Client 2768] [RENDER] RestartSwapChain
+2023/04/25 19:42:58 153804812 9e6a0b0a [INFO Client 2768] Enumerated adapter: NVIDIA GeForce GTX 1660
+2023/04/25 19:42:58 153804843 9e6a1d2a [INFO Client 2768] Enumerated device for adapter: NVIDIA GeForce GTX 1660. Selected feature level: 45312. Max feature level: 45312
+2023/04/25 19:42:58 153804843 9e6a1363 [INFO Client 2768] Enumerated output for adapter NVIDIA GeForce GTX 1660 of \\.\DISPLAY1
+2023/04/25 19:42:58 153804843 9e6a0b0a [INFO Client 2768] Enumerated adapter: Microsoft Basic Render Driver
+2023/04/25 19:42:58 153804843 9e6a1d2a [INFO Client 2768] Enumerated device for adapter: Microsoft Basic Render Driver. Selected feature level: 45312. Max feature level: 45312
+2023/04/25 19:42:58 153804859 fafff8cf [DEBUG Client 2768] CreateSwapChain: SetFullScreenState 1
+2023/04/25 19:42:58 153804906 9d4eec8a [DEBUG Client 2768] [WINDOW] TrigggerDeviceLost
+2023/04/25 19:42:58 153804937 9d4eeba7 [DEBUG Client 2768] [WINDOW] TrigggerDeviceReset
+2023/04/25 19:42:59 153806187 3275a75e [INFO Client 2768] [SHADER] Disable Async: 1 frames
+2023/04/25 19:42:59 153806187 b51d610e [INFO Client 2768] [RENDER] Disable Async: 1 frames
+2023/04/25 19:43:28 153835156 cffb071e [INFO Client 2768] &<RiPE> mataraks: Самоделка Саффелла, Каплевидный щит с символом
+2023/04/25 19:43:34 153841000 88a904cb [DEBUG Client 2768] Got Instance Details from login server
+2023/04/25 19:43:34 153841015 32759a9f [INFO Client 2768] [SHADER] Delay: OFF
+2023/04/25 19:43:34 153841015 ca3a6a71 [INFO Client 2768] Connecting to instance server at 169.51.201.146:6112
+2023/04/25 19:43:34 153841078 ca3a4dbb [DEBUG Client 2768] Connect time to instance server was 47ms
+2023/04/25 19:43:34 153841140 1186a0e5 [DEBUG Client 2768] Generating level 71 area "MapWorldsTower" with seed 4227050725
+2023/04/25 19:43:35 153841984 f22b6987 [INFO Client 2768] Tile hash: 2295624977
+2023/04/25 19:43:35 153841984 f22b6986 [INFO Client 2768] Doodad hash: 4280940543
+2023/04/25 19:43:35 153842562 11870f49 [DEBUG Client 2768] Joined guild named Голосовой чат discord.com/invite/nXFKHzJ with 196 members 
+2023/04/25 19:43:36 153843265 cffb071e [INFO Client 2768] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Башня.
+2023/04/25 19:43:36 153843515 cffb071e [INFO Client 2768] #ST_Eyedaed: Ярость Хайрри, Кожаный доспех зодиака на 1-2 гнезда он красит 2, на 1-6 одно. Причем не первый раз более слабые рецепты мне дают больше гнезд
+2023/04/25 19:43:37 153843796 32759a9f [INFO Client 2768] [SHADER] Delay: ON
+2023/04/25 19:44:07 153873750 cffb071e [INFO Client 2768] &<RiPE> DarkSertmons: +
+2023/04/25 19:44:33 153900421 3796f5e1 [WARN Client 2768] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/25 19:44:33 153900453 3796f5e1 [WARN Client 2768] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/25 19:44:33 153900515 3796f5e1 [WARN Client 2768] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/25 19:44:38 153904968 3796f5e1 [WARN Client 2768] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/25 19:44:38 153904968 3796f5e1 [WARN Client 2768] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/25 19:44:38 153904968 3796f5e1 [WARN Client 2768] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/25 19:44:38 153904968 3796f5e1 [WARN Client 2768] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/25 19:44:46 153913421 118717eb [DEBUG Client 2768] Resyncing 1456
+2023/04/25 19:51:11 154297812 cffb071e [INFO Client 2768] &<RiPE> БронеМужик: чатик шифтаните кольцо с минус мана костом
+2023/04/25 19:51:59 154346312 cffb071e [INFO Client 2768] &<RiPE> КотлетыВдуховке: Чудесная порука, Контракт: Запретная библиотека
+2023/04/25 19:52:39 154385906 118717eb [DEBUG Client 2768] Resyncing 5503
+2023/04/25 19:52:39 154385906 118717eb [DEBUG Client 2768] Resyncing 5483
+2023/04/25 19:52:39 154385906 118717eb [DEBUG Client 2768] Resyncing 5462
+2023/04/25 19:53:44 154450968 cffb071e [INFO Client 2768] Рог: Ты жива!
+2023/04/25 19:57:29 154676140 cffb071e [INFO Client 2768] &<RiPE> жрякХРЯК: ну что за пиздец? кикнуло с игры пропала карта и не допройденая и лут ((((
+2023/04/25 19:58:03 154710406 cffb071e [INFO Client 2768] &<RiPE> КотлетыВдуховке: бывает оч редко так
+2023/04/25 19:58:05 154712000 cffb071e [INFO Client 2768] &<RiPE> ОлаПипеги: в порядке вещей в этой лиге)
+2023/04/25 19:58:39 154746203 cffb071e [INFO Client 2768] &<RiPE> жрякХРЯК: у меня второй раз уже вчера тоже самое было 2 дивала пропало я только карту прошел уникальную
+2023/04/25 19:59:00 154766765 cffb071e [INFO Client 2768] &<RiPE> ОлаПипеги: дык поднимать надо такие вещи сразу)
+2023/04/25 19:59:15 154782281 cffb071e [INFO Client 2768] &<RiPE> жрякХРЯК: дак они из рюкзака пропали
+2023/04/25 19:59:27 154794515 cffb071e [INFO Client 2768] &<RiPE> ОлаПипеги: хммм как это
+2023/04/25 19:59:30 154796984 cffb071e [INFO Client 2768] &<RiPE> жрякХРЯК: и весь лут пропал что был в рюкзаке
+2023/04/25 19:59:48 154815484 cffb071e [INFO Client 2768] &<RiPE> жрякХРЯК: как буд-то откатило
+2023/04/25 19:59:54 154821671 cffb071e [INFO Client 2768] &<RiPE> ОлаПипеги: странно
+2023/04/25 20:00:02 154829109 cffb071e [INFO Client 2768] &<RiPE> жрякХРЯК: только мапку не вернули
+2023/04/25 20:00:09 154836000 cffb071e [INFO Client 2768] &<RiPE> ОлаПипеги: вылетало не один 10к раз и лут не пропадал
+2023/04/25 20:00:29 154856109 cffb071e [INFO Client 2768] &<RiPE> жрякХРЯК: раньше не пропадал а вот вчера и сегодня пропал
+2023/04/25 20:01:21 154908343 cffb071e [INFO Client 2768] : DeeGyreIIIXXI был повержен.
+2023/04/25 20:01:23 154910296 88a904cb [DEBUG Client 2768] Got Instance Details from login server
+2023/04/25 20:01:23 154910296 32759a9f [INFO Client 2768] [SHADER] Delay: OFF
+2023/04/25 20:01:23 154910296 ca3a6a71 [INFO Client 2768] Connecting to instance server at 159.122.142.234:6112
+2023/04/25 20:01:23 154910359 ca3a4dbb [DEBUG Client 2768] Connect time to instance server was 47ms
+2023/04/25 20:01:23 154910421 1186a0e5 [DEBUG Client 2768] Generating level 69 area "2_11_endgame_town" with seed 1
+2023/04/25 20:01:24 154910921 f22b6987 [INFO Client 2768] Tile hash: 589033374
+2023/04/25 20:01:24 154910921 f22b6986 [INFO Client 2768] Doodad hash: 4274160400
+2023/04/25 20:01:24 154911281 11870f49 [DEBUG Client 2768] Joined guild named Голосовой чат discord.com/invite/nXFKHzJ with 196 members 
+2023/04/25 20:01:25 154912093 cffb071e [INFO Client 2768] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Берега Каруи.
+2023/04/25 20:01:26 154912921 32759a9f [INFO Client 2768] [SHADER] Delay: ON
+2023/04/25 20:01:33 154919812 88a904cb [DEBUG Client 2768] Got Instance Details from login server
+2023/04/25 20:01:33 154919812 32759a9f [INFO Client 2768] [SHADER] Delay: OFF
+2023/04/25 20:01:33 154919812 ca3a6a71 [INFO Client 2768] Connecting to instance server at 169.51.201.146:6112
+2023/04/25 20:01:33 154919875 ca3a4dbb [DEBUG Client 2768] Connect time to instance server was 31ms
+2023/04/25 20:01:33 154919921 1186a0e5 [DEBUG Client 2768] Generating level 71 area "MapWorldsTower" with seed 4227050725
+2023/04/25 20:01:33 154920000 f22b6987 [INFO Client 2768] Tile hash: 2295624977
+2023/04/25 20:01:33 154920000 f22b6986 [INFO Client 2768] Doodad hash: 4280940543
+2023/04/25 20:01:33 154920687 11870f49 [DEBUG Client 2768] Joined guild named Голосовой чат discord.com/invite/nXFKHzJ with 196 members 
+2023/04/25 20:01:34 154921296 cffb071e [INFO Client 2768] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Башня.
+2023/04/25 20:01:35 154921750 32759a9f [INFO Client 2768] [SHADER] Delay: ON
+2023/04/25 20:03:19 155025796 cffb071e [INFO Client 2768] &<RiPE> Опять_Хочу_Фликера:  может кто 4ю лабу провести?
+2023/04/25 20:03:52 155058750 cffb071e [INFO Client 2768] &<RiPE> КотлетыВдуховке: ты в дискроде?
+2023/04/25 20:04:26 155092875 b51d4f61 [DEBUG Client 2768] [RENDER] SetRendererSettings
+2023/04/25 20:04:26 155092875 b51d6447 [DEBUG Client 2768] [RENDER] ResizeWindow
+2023/04/25 20:04:26 155092875 9d4eec8a [DEBUG Client 2768] [WINDOW] TrigggerDeviceLost
+2023/04/25 20:04:26 155092890 9d4eeba7 [DEBUG Client 2768] [WINDOW] TrigggerDeviceReset
+2023/04/25 20:04:26 155093406 b51d614c [DEBUG Client 2768] [RENDER] RestartSwapChain
+2023/04/25 20:04:26 155093406 9e6a0b0a [INFO Client 2768] Enumerated adapter: NVIDIA GeForce GTX 1660
+2023/04/25 20:04:26 155093453 9e6a1d2a [INFO Client 2768] Enumerated device for adapter: NVIDIA GeForce GTX 1660. Selected feature level: 45312. Max feature level: 45312
+2023/04/25 20:04:26 155093453 9e6a1363 [INFO Client 2768] Enumerated output for adapter NVIDIA GeForce GTX 1660 of \\.\DISPLAY1
+2023/04/25 20:04:26 155093453 9e6a0b0a [INFO Client 2768] Enumerated adapter: Microsoft Basic Render Driver
+2023/04/25 20:04:26 155093468 9e6a1d2a [INFO Client 2768] Enumerated device for adapter: Microsoft Basic Render Driver. Selected feature level: 45312. Max feature level: 45312
+2023/04/25 20:04:26 155093484 9d4eec8a [DEBUG Client 2768] [WINDOW] TrigggerDeviceLost
+2023/04/25 20:04:26 155093531 9d4eeba7 [DEBUG Client 2768] [WINDOW] TrigggerDeviceReset
+2023/04/25 20:04:27 155094031 fafff8cf [DEBUG Client 2768] CreateSwapChain: SetFullScreenState 0
+2023/04/25 20:04:27 155094031 9d4eec8a [DEBUG Client 2768] [WINDOW] TrigggerDeviceLost
+2023/04/25 20:04:27 155094062 9d4eeba7 [DEBUG Client 2768] [WINDOW] TrigggerDeviceReset
+2023/04/25 20:04:27 155094625 3275a75e [INFO Client 2768] [SHADER] Disable Async: 1 frames
+2023/04/25 20:04:27 155094625 b51d610e [INFO Client 2768] [RENDER] Disable Async: 1 frames
+2023/04/25 20:04:27 155094625 9d4eec8a [DEBUG Client 2768] [WINDOW] TrigggerDeviceLost
+2023/04/25 20:04:27 155094656 9d4eeba7 [DEBUG Client 2768] [WINDOW] TrigggerDeviceReset
+2023/04/25 20:04:31 155098421 b51d4f61 [DEBUG Client 2768] [RENDER] SetRendererSettings
+2023/04/25 20:04:31 155098421 b51d6447 [DEBUG Client 2768] [RENDER] ResizeWindow
+2023/04/25 20:04:31 155098421 b51d614c [DEBUG Client 2768] [RENDER] RestartSwapChain
+2023/04/25 20:04:31 155098421 9e6a0b0a [INFO Client 2768] Enumerated adapter: NVIDIA GeForce GTX 1660
+2023/04/25 20:04:31 155098484 9e6a1d2a [INFO Client 2768] Enumerated device for adapter: NVIDIA GeForce GTX 1660. Selected feature level: 45312. Max feature level: 45312
+2023/04/25 20:04:31 155098484 9e6a1363 [INFO Client 2768] Enumerated output for adapter NVIDIA GeForce GTX 1660 of \\.\DISPLAY1
+2023/04/25 20:04:31 155098484 9e6a0b0a [INFO Client 2768] Enumerated adapter: Microsoft Basic Render Driver
+2023/04/25 20:04:31 155098484 9e6a1d2a [INFO Client 2768] Enumerated device for adapter: Microsoft Basic Render Driver. Selected feature level: 45312. Max feature level: 45312
+2023/04/25 20:04:31 155098484 fafff8cf [DEBUG Client 2768] CreateSwapChain: SetFullScreenState 1
+2023/04/25 20:04:31 155098546 9d4eec8a [DEBUG Client 2768] [WINDOW] TrigggerDeviceLost
+2023/04/25 20:04:31 155098562 9d4eeba7 [DEBUG Client 2768] [WINDOW] TrigggerDeviceReset
+2023/04/25 20:04:32 155099031 3275a75e [INFO Client 2768] [SHADER] Disable Async: 1 frames
+2023/04/25 20:04:32 155099031 b51d610e [INFO Client 2768] [RENDER] Disable Async: 1 frames
+2023/04/25 20:04:34 155101406 88a904cb [DEBUG Client 2768] Got Instance Details from login server
+2023/04/25 20:04:34 155101406 32759a9f [INFO Client 2768] [SHADER] Delay: OFF
+2023/04/25 20:04:34 155101406 ca3a6a71 [INFO Client 2768] Connecting to instance server at 169.51.201.139:6112
+2023/04/25 20:04:34 155101468 ca3a4dbb [DEBUG Client 2768] Connect time to instance server was 47ms
+2023/04/25 20:04:34 155101531 1186a0e5 [DEBUG Client 2768] Generating level 69 area "2_11_endgame_town" with seed 1
+2023/04/25 20:04:35 155101812 f22b6987 [INFO Client 2768] Tile hash: 589033374
+2023/04/25 20:04:35 155101812 f22b6986 [INFO Client 2768] Doodad hash: 4274160400
+2023/04/25 20:04:35 155102250 11870f49 [DEBUG Client 2768] Joined guild named Голосовой чат discord.com/invite/nXFKHzJ with 196 members 
+2023/04/25 20:04:36 155102921 cffb071e [INFO Client 2768] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Берега Каруи.
+2023/04/25 20:04:36 155103593 32759a9f [INFO Client 2768] [SHADER] Delay: ON
+2023/04/25 20:04:52 155118968 cffb071e [INFO Client 2768] : В вашей секции сундука с привязкой "Уникальные предметы" недостаточно места для этого предмета.
+2023/04/25 20:05:38 155164781 cffb071e [INFO Client 2768] &<RiPE> Опять_Хочу_Фликера:  тут есть дискорд разве?
+2023/04/25 20:05:49 155176031 cffb071e [INFO Client 2768] &<RiPE> КотлетыВдуховке: да
+2023/04/25 20:05:51 155178640 88a904cb [DEBUG Client 2768] Got Instance Details from login server
+2023/04/25 20:05:51 155178640 32759a9f [INFO Client 2768] [SHADER] Delay: OFF
+2023/04/25 20:05:51 155178640 ca3a6a71 [INFO Client 2768] Connecting to instance server at 169.51.201.153:6112
+2023/04/25 20:05:51 155178703 ca3a4dbb [DEBUG Client 2768] Connect time to instance server was 47ms
+2023/04/25 20:05:52 155178765 1186a0e5 [DEBUG Client 2768] Generating level 71 area "MapWorldsTower" with seed 3341304527
+2023/04/25 20:05:52 155179000 f22b6987 [INFO Client 2768] Tile hash: 277172269
+2023/04/25 20:05:52 155179000 f22b6986 [INFO Client 2768] Doodad hash: 1238855696
+2023/04/25 20:05:52 155179640 11870f49 [DEBUG Client 2768] Joined guild named Голосовой чат discord.com/invite/nXFKHzJ with 196 members 
+2023/04/25 20:05:53 155180312 cffb071e [INFO Client 2768] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Башня.
+2023/04/25 20:05:54 155180859 32759a9f [INFO Client 2768] [SHADER] Delay: ON
+2023/04/25 20:06:02 155188828 cffb071e [INFO Client 2768] &<RiPE> Сквозное_очко: конечно
+2023/04/25 20:06:04 155191031 3796f5e1 [WARN Client 2768] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/25 20:06:24 155211546 118717eb [DEBUG Client 2768] Resyncing 1222
+2023/04/25 20:06:24 155211546 118717eb [DEBUG Client 2768] Resyncing 1219
+2023/04/25 20:06:24 155211546 118717eb [DEBUG Client 2768] Resyncing 1221
+2023/04/25 20:06:38 155225703 cffb071e [INFO Client 2768] &<RiPE> КотлетыВдуховке: если есть у тебя ДИскрод - ссылка в названии гильдии
+2023/04/25 20:06:46 155232750 cffb071e [INFO Client 2768] &<RiPE> КотлетыВдуховке: либо в лс отправь свой логин
+2023/04/25 20:06:52 155239312 cffb071e [INFO Client 2768] : Ничто тебя не остановит
+2023/04/25 20:06:55 155242500 cffb071e [INFO Client 2768] &<RiPE> КотлетыВдуховке: как Лектер завершит карту - пойдет 4-ю лабу
+2023/04/25 20:07:43 155290046 cffb071e [INFO Client 2768] &<RiPE> жрякХРЯК: я могу лабу протащить
+2023/04/25 20:07:49 155296265 118717eb [DEBUG Client 2768] Resyncing 1743
+2023/04/25 20:09:42 155408859 cffb071e [INFO Client 2768] Рог: Ты жива!
+2023/04/25 20:10:37 155463734 3796f5e1 [WARN Client 2768] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/25 20:10:44 155471718 cffb071e [INFO Client 2768] Рог: Береги себя!
+2023/04/25 20:11:22 155509359 cffb071e [INFO Client 2768] &<RiPE> mataraks: +
+2023/04/25 20:11:49 155535734 88a904cb [DEBUG Client 2768] Got Instance Details from login server
+2023/04/25 20:11:49 155535734 32759a9f [INFO Client 2768] [SHADER] Delay: OFF
+2023/04/25 20:11:49 155535734 ca3a6a71 [INFO Client 2768] Connecting to instance server at 169.51.201.178:6112
+2023/04/25 20:11:49 155535781 ca3a4dbb [DEBUG Client 2768] Connect time to instance server was 31ms
+2023/04/25 20:11:49 155535828 1186a0e5 [DEBUG Client 2768] Generating level 69 area "2_11_endgame_town" with seed 1
+2023/04/25 20:11:49 155536109 f22b6987 [INFO Client 2768] Tile hash: 589033374
+2023/04/25 20:11:49 155536109 f22b6986 [INFO Client 2768] Doodad hash: 4274160400
+2023/04/25 20:11:49 155536562 11870f49 [DEBUG Client 2768] Joined guild named Голосовой чат discord.com/invite/nXFKHzJ with 196 members 
+2023/04/25 20:11:50 155537296 cffb071e [INFO Client 2768] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Берега Каруи.
+2023/04/25 20:11:51 155537984 32759a9f [INFO Client 2768] [SHADER] Delay: ON
+2023/04/25 20:12:01 155548234 cffb071e [INFO Client 2768] : В вашей секции сундука с привязкой "Уникальные предметы" недостаточно места для этого предмета.
+2023/04/25 20:12:02 155549078 cffb071e [INFO Client 2768] : В вашей секции сундука с привязкой "Уникальные предметы" недостаточно места для этого предмета.
+2023/04/25 20:12:02 155549312 cffb071e [INFO Client 2768] : В вашей секции сундука с привязкой "Уникальные предметы" недостаточно места для этого предмета.
+2023/04/25 20:12:37 155583812 88a904cb [DEBUG Client 2768] Got Instance Details from login server
+2023/04/25 20:12:37 155583812 32759a9f [INFO Client 2768] [SHADER] Delay: OFF
+2023/04/25 20:12:37 155583812 ca3a6a71 [INFO Client 2768] Connecting to instance server at 169.51.201.153:6112
+2023/04/25 20:12:37 155583859 ca3a4dbb [DEBUG Client 2768] Connect time to instance server was 31ms
+2023/04/25 20:12:37 155583906 1186a0e5 [DEBUG Client 2768] Generating level 71 area "MapWorldsTower" with seed 3341304527
+2023/04/25 20:12:37 155584000 f22b6987 [INFO Client 2768] Tile hash: 277172269
+2023/04/25 20:12:37 155584000 f22b6986 [INFO Client 2768] Doodad hash: 1238855696
+2023/04/25 20:12:37 155584703 11870f49 [DEBUG Client 2768] Joined guild named Голосовой чат discord.com/invite/nXFKHzJ with 196 members 
+2023/04/25 20:12:38 155585328 cffb071e [INFO Client 2768] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Башня.
+2023/04/25 20:12:39 155585765 32759a9f [INFO Client 2768] [SHADER] Delay: ON
+2023/04/25 20:12:42 155589546 88a904cb [DEBUG Client 2768] Got Instance Details from login server
+2023/04/25 20:12:42 155589546 32759a9f [INFO Client 2768] [SHADER] Delay: OFF
+2023/04/25 20:12:42 155589546 ca3a6a71 [INFO Client 2768] Connecting to instance server at 159.122.142.234:6112
+2023/04/25 20:12:42 155589593 ca3a4dbb [DEBUG Client 2768] Connect time to instance server was 47ms
+2023/04/25 20:12:42 155589640 1186a0e5 [DEBUG Client 2768] Generating level 69 area "2_11_endgame_town" with seed 1
+2023/04/25 20:12:43 155589875 f22b6987 [INFO Client 2768] Tile hash: 589033374
+2023/04/25 20:12:43 155589875 f22b6986 [INFO Client 2768] Doodad hash: 4274160400
+2023/04/25 20:12:43 155590421 11870f49 [DEBUG Client 2768] Joined guild named Голосовой чат discord.com/invite/nXFKHzJ with 196 members 
+2023/04/25 20:12:44 155591156 cffb071e [INFO Client 2768] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Берега Каруи.
+2023/04/25 20:12:45 155591843 32759a9f [INFO Client 2768] [SHADER] Delay: ON
+2023/04/25 20:12:47 155594250 88a904cb [DEBUG Client 2768] Got Instance Details from login server
+2023/04/25 20:12:47 155594250 32759a9f [INFO Client 2768] [SHADER] Delay: OFF
+2023/04/25 20:12:47 155594250 ca3a6a71 [INFO Client 2768] Connecting to instance server at 169.51.201.153:6112
+2023/04/25 20:12:47 155594296 ca3a4dbb [DEBUG Client 2768] Connect time to instance server was 46ms
+2023/04/25 20:12:47 155594359 1186a0e5 [DEBUG Client 2768] Generating level 71 area "MapWorldsTower" with seed 3341304527
+2023/04/25 20:12:47 155594437 f22b6987 [INFO Client 2768] Tile hash: 277172269
+2023/04/25 20:12:47 155594437 f22b6986 [INFO Client 2768] Doodad hash: 1238855696
+2023/04/25 20:12:48 155595140 11870f49 [DEBUG Client 2768] Joined guild named Голосовой чат discord.com/invite/nXFKHzJ with 196 members 
+2023/04/25 20:12:49 155595750 cffb071e [INFO Client 2768] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Башня.
+2023/04/25 20:12:49 155596187 32759a9f [INFO Client 2768] [SHADER] Delay: ON
+2023/04/25 20:13:21 155628343 3796f5e1 [WARN Client 2768] Matching object found for InstanceClientActionUpdate, but no matching action was found on object to update.
+2023/04/25 20:13:55 155661796 cffb071e [INFO Client 2768] : DeeGyreIIIXXI был повержен.
+2023/04/25 20:13:57 155664000 88a904cb [DEBUG Client 2768] Got Instance Details from login server
+2023/04/25 20:13:57 155664000 32759a9f [INFO Client 2768] [SHADER] Delay: OFF
+2023/04/25 20:13:57 155664000 ca3a6a71 [INFO Client 2768] Connecting to instance server at 159.122.142.237:6112
+2023/04/25 20:13:57 155664062 ca3a4dbb [DEBUG Client 2768] Connect time to instance server was 46ms
+2023/04/25 20:13:57 155664125 1186a0e5 [DEBUG Client 2768] Generating level 69 area "2_11_endgame_town" with seed 1
+2023/04/25 20:13:57 155664484 f22b6987 [INFO Client 2768] Tile hash: 589033374
+2023/04/25 20:13:57 155664484 f22b6986 [INFO Client 2768] Doodad hash: 4274160400
+2023/04/25 20:13:58 155664828 11870f49 [DEBUG Client 2768] Joined guild named Голосовой чат discord.com/invite/nXFKHzJ with 196 members 
+2023/04/25 20:13:58 155665468 cffb071e [INFO Client 2768] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Берега Каруи.
+2023/04/25 20:13:59 155666125 32759a9f [INFO Client 2768] [SHADER] Delay: ON
+2023/04/25 20:14:07 155674031 88a904cb [DEBUG Client 2768] Got Instance Details from login server
+2023/04/25 20:14:07 155674031 32759a9f [INFO Client 2768] [SHADER] Delay: OFF
+2023/04/25 20:14:07 155674031 ca3a6a71 [INFO Client 2768] Connecting to instance server at 169.51.201.153:6112
+2023/04/25 20:14:07 155674093 ca3a4dbb [DEBUG Client 2768] Connect time to instance server was 47ms
+2023/04/25 20:14:07 155674156 1186a0e5 [DEBUG Client 2768] Generating level 71 area "MapWorldsTower" with seed 3341304527
+2023/04/25 20:14:07 155674234 f22b6987 [INFO Client 2768] Tile hash: 277172269
+2023/04/25 20:14:07 155674234 f22b6986 [INFO Client 2768] Doodad hash: 1238855696
+2023/04/25 20:14:08 155674828 11870f49 [DEBUG Client 2768] Joined guild named Голосовой чат discord.com/invite/nXFKHzJ with 196 members 
+2023/04/25 20:14:08 155675406 cffb071e [INFO Client 2768] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Башня.
+2023/04/25 20:14:09 155675859 32759a9f [INFO Client 2768] [SHADER] Delay: ON
+2023/04/25 20:14:18 155685359 cffb071e [INFO Client 2768] : DeeGyreIIIXXI был повержен.
+2023/04/25 20:14:20 155686812 88a904cb [DEBUG Client 2768] Got Instance Details from login server
+2023/04/25 20:14:20 155686812 32759a9f [INFO Client 2768] [SHADER] Delay: OFF
+2023/04/25 20:14:20 155686812 ca3a6a71 [INFO Client 2768] Connecting to instance server at 159.122.142.237:6112
+2023/04/25 20:14:20 155686859 ca3a4dbb [DEBUG Client 2768] Connect time to instance server was 31ms
+2023/04/25 20:14:20 155686906 1186a0e5 [DEBUG Client 2768] Generating level 69 area "2_11_endgame_town" with seed 1
+2023/04/25 20:14:20 155687015 f22b6987 [INFO Client 2768] Tile hash: 589033374
+2023/04/25 20:14:20 155687015 f22b6986 [INFO Client 2768] Doodad hash: 4274160400
+2023/04/25 20:14:20 155687609 11870f49 [DEBUG Client 2768] Joined guild named Голосовой чат discord.com/invite/nXFKHzJ with 196 members 
+2023/04/25 20:14:21 155688203 cffb071e [INFO Client 2768] : <<set:MS>><<set:M>><<set:S>>Вы вошли в область Берега Каруи.
+2023/04/25 20:14:21 155688656 32759a9f [INFO Client 2768] [SHADER] Delay: ON
+2023/04/25 20:14:23 155690046 b51d4f61 [DEBUG Client 2768] [RENDER] SetRendererSettings
+2023/04/25 20:14:23 155690046 b51d6447 [DEBUG Client 2768] [RENDER] ResizeWindow
+2023/04/25 20:14:23 155690062 9d4eec8a [DEBUG Client 2768] [WINDOW] TrigggerDeviceLost
+2023/04/25 20:14:23 155690078 9d4eeba7 [DEBUG Client 2768] [WINDOW] TrigggerDeviceReset
+2023/04/25 20:14:23 155690546 b51d614c [DEBUG Client 2768] [RENDER] RestartSwapChain
+2023/04/25 20:14:23 155690562 9e6a0b0a [INFO Client 2768] Enumerated adapter: NVIDIA GeForce GTX 1660
+2023/04/25 20:14:23 155690593 9e6a1d2a [INFO Client 2768] Enumerated device for adapter: NVIDIA GeForce GTX 1660. Selected feature level: 45312. Max feature level: 45312
+2023/04/25 20:14:23 155690593 9e6a1363 [INFO Client 2768] Enumerated output for adapter NVIDIA GeForce GTX 1660 of \\.\DISPLAY1
+2023/04/25 20:14:23 155690593 9e6a0b0a [INFO Client 2768] Enumerated adapter: Microsoft Basic Render Driver
+2023/04/25 20:14:23 155690609 9e6a1d2a [INFO Client 2768] Enumerated device for adapter: Microsoft Basic Render Driver. Selected feature level: 45312. Max feature level: 45312
+2023/04/25 20:14:23 155690640 9d4eec8a [DEBUG Client 2768] [WINDOW] TrigggerDeviceLost
+2023/04/25 20:14:23 155690671 9d4eeba7 [DEBUG Client 2768] [WINDOW] TrigggerDeviceReset
+2023/04/25 20:14:24 155691203 fafff8cf [DEBUG Client 2768] CreateSwapChain: SetFullScreenState 0
+2023/04/25 20:14:24 155691203 9d4eec8a [DEBUG Client 2768] [WINDOW] TrigggerDeviceLost
+2023/04/25 20:14:24 155691234 9d4eeba7 [DEBUG Client 2768] [WINDOW] TrigggerDeviceReset
+2023/04/25 20:14:25 155691781 3275a75e [INFO Client 2768] [SHADER] Disable Async: 1 frames
+2023/04/25 20:14:25 155691781 b51d610e [INFO Client 2768] [RENDER] Disable Async: 1 frames
+2023/04/25 20:14:25 155691781 9d4eec8a [DEBUG Client 2768] [WINDOW] TrigggerDeviceLost
+2023/04/25 20:14:25 155691812 9d4eeba7 [DEBUG Client 2768] [WINDOW] TrigggerDeviceReset
