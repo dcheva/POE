@@ -1,14 +1,14 @@
 #Online Item Filter
-#name:Vaal No Flasks 2c Sets 1.22
-#version:3.21.0c
+#name:Vaal No Flasks 2c Sets 1.22a
+#version:3.21.1
 #realm:pc
 #errors:
-#hash:1dad5d2eae2538f324262a806d08dfab
-#filterVersion:2c.1.22
+#hash:464ac76eba32756a5eb5cc630ef50e62
+#filterVersion:2c.1.22a
 #filterType:Normal
-#lastUpdate:2023-04-25T16:29:06Z
-#monthTimeStamp:1480
-#-v.1.222-------------------------------------
+#lastUpdate:2023-04-25T16:42:23Z
+#monthTimeStamp:1481
+#-v.1.21-------------------------------------
 #-2-chaos-sets-------------------------------
 
 Show # $type->2chaos-a
@@ -108,7 +108,7 @@ Show # $type->2chaos-d
     ItemLevel >= 60
     ItemLevel <= 85
 	SetFontSize 40
-	CustomAlertSound "Sounds\03coinsshake.mp3" 300
+	CustomAlertSound "Sounds\03coinshake.mp3" 300
 	#PlayAlertSound 4 200
 	PlayEffect Orange
 	MinimapIcon 1 Orange Circle
@@ -131,6 +131,8 @@ Show # $type->2chaos-e
 	MinimapIcon 1 Orange Circle
 	
 #/2-chaos-sets-------------------------------
+
+
 
 #===============================================================================================================
 # NeverSink's Indepth Loot Filter - for Path of Exile
