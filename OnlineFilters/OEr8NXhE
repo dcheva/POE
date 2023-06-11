@@ -1,14 +1,14 @@
 #Online Item Filter
-#name:Vaal No Flasks 2c Sets 1.22a
+#name:Vaal No Flasks 2c Sets 1.23
 #version:3.21.1
 #realm:pc
 #errors:
-#hash:464ac76eba32756a5eb5cc630ef50e62
-#filterVersion:2c.1.22a
+#hash:b34dbdaf0fb9b6902c86d907e05a919e
+#filterVersion:2c.1.23
 #filterType:Normal
-#lastUpdate:2023-04-25T16:42:23Z
+#lastUpdate:2023-06-11T00:51:42Z
 #monthTimeStamp:1482
-#-v.1.21-------------------------------------
+#-v.1.23-------------------------------------
 #-2-chaos-sets-------------------------------
 
 Show # $type->2chaos-a
@@ -6928,7 +6928,7 @@ SetBorderColor 255 255 255 255
 SetBackgroundColor 190 30 30 255
 PlayEffect Red
 MinimapIcon 0 Red Circle
-CustomAlertSound "Sounds/3uniques.mp3" 300
+CustomAlertSound "Sounds/06money2.mp3" 300
 
 Show # %D7 $type->currency->stackedthree $tier->t3
 StackSize >= 3
@@ -6940,7 +6940,7 @@ SetBorderColor 0 0 0 255
 SetBackgroundColor 190 30 30 255
 PlayEffect Yellow
 MinimapIcon 1 Yellow Circle
-CustomAlertSound "Sounds/3uniques.mp3" 300
+CustomAlertSound "Sounds/06money2.mp3" 300
 
 Show # %D6 $type->currency->stackedthree $tier->t4
 StackSize >= 3
@@ -7035,7 +7035,7 @@ SetBorderColor 255 255 255 255
 SetBackgroundColor 190 30 30 255
 PlayEffect Red
 MinimapIcon 0 Red Circle
-CustomAlertSound "Sounds/3uniques.mp3" 300
+CustomAlertSound "Sounds/06money2.mp3" 300
 
 Show # $type->currency $tier->t3annul
 Class "Currency"
@@ -7046,7 +7046,7 @@ SetBorderColor 0 0 0 255
 SetBackgroundColor 190 30 30 255
 PlayEffect Yellow
 MinimapIcon 1 Yellow Circle
-CustomAlertSound "Sounds/3uniques.mp3" 300
+CustomAlertSound "Sounds/06money2.mp3" 300
 
 Show # $type->currency $tier->t4chaos
 Class "Currency"
@@ -7057,7 +7057,7 @@ SetBorderColor 0 0 0 255
 SetBackgroundColor 180 76 58 255
 PlayEffect White
 MinimapIcon 2 White Circle
-CustomAlertSound "Sounds/3uniques.mp3" 300
+CustomAlertSound "Sounds/06money2.mp3" 300
 
 Show # %HS4 $type->currency $tier->t5alchemy
 Class "Currency"
