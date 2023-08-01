@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <PathOfBuilding>
-	<Mode mode="BUILD">
-		<Arg string="C:\Users\Dmytro\Documents/Path of Building/Builds/IIIXXII/DeeTain-50+plan-Reap.xml"/>
-		<Arg string="DeeTain-50+plan-Reap"/>
+	<Mode mode="LIST">
+		<Arg string="DeeTain-70-Uniqs-20c"/>
+		<Arg string="IIIXXII/"/>
 	</Mode>
 	<Accounts lastAccountName="dmytro_cheva" lastRealm="PC">
 		<Account accountName="dmytro_cheva"/>
