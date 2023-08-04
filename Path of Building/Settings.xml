@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <PathOfBuilding>
-	<Mode mode="LIST">
-		<Arg string="DeeTain-70-Uniqs-20c"/>
-		<Arg string="IIIXXII/"/>
+	<Mode mode="BUILD">
+		<Arg boolean="false"/>
+		<Arg string="Imported Build"/>
 	</Mode>
 	<Accounts lastAccountName="dmytro_cheva" lastRealm="PC">
 		<Account accountName="dmytro_cheva"/>
