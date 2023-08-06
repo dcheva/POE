@@ -1,3 +1,4 @@
+------ Act 1
 0. [B-B] Fireball + Arcane Surge !!! level 1
 Take [B] Raise Zombie
 2x Driftwood Wands or Spirit Shield
@@ -29,3 +30,7 @@ Passives: Lord of the Dead, Mystic Bulwark
 [B-B] Frostblink Proliferation
 [R] [G] [B] Vitality, Clarity, Precision
 [B] Flash Offering
+
+------ Act 2
+Always check Yeena for Calling Wands
+Passives: Cruel Preparation, Life mastery +50 to Maximum Health
