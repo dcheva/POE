@@ -1,0 +1,31 @@
+0. [B-B] Fireball + Arcane Surge !!! level 1
+Take [B] Raise Zombie
+2x Driftwood Wands or Spirit Shield
+Passives: Spell Damage, Cast Speed -> Arcanist Domonotion
+--- The Tidal Island
+Take [B] Elemental Proliferation from Nessa
+Take [B] SRS and [B] Frostblink from Tarkli
+Replace Fireball with SRS
+ideal: [B-B-B-B] SRS, Arcane Surge, Frostblink Proliferation 
+minimal: [B-B] SRS Surge + [B-B] Frostblink Proliferation
+Frostblink to LMB
+Buy maximals: Coral Ring, Paula Amulet and Paula Ring
+--- The Prison lvl 7-9
+Passives: Practical Application, Heart and Soul
+Take Combustion from Nessa
+Buy [R] Melee Splash
+[B-B-B] SRS, Arcane Surge, Combustion
+[B-R] Raise Zombie, Melee Splash
+--- Kill Brutus 9-10
+Take [B] Skeletons from Tarkli
+[B-B-R] Skeletons, Raise Zombie, Melee Splash
+Buy [R.G.B] Auras
+--- Help Captain Fairgraves
+Take [B] Flash Offering from Bestel
+---  Kill Maven 12-14
+Passives: Lord of the Dead, Mystic Bulwark
+[B-B-B] SRS, Arcane Surge, Combustion
+[B-B-R] Skeletons, Raise Zombie, Melee Splash
+[B-B] Frostblink Proliferation
+[R] [G] [B] Vitality, Clarity, Precision
+[B] Flash Offering
