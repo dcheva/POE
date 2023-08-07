@@ -69,7 +69,8 @@ Return to Lunaris II and take Spectre: Tentacle Miscreation
 [Skills]
 [B-B-B] Raise Spectre, Minion Health, Minion Speed
 
---- Laba lvl 32-35
-lvl 35 Passives: Retribution, Discipline and Training
+--- Laba lvl 32-36
+lvl 34 Passives: Retribution
+lvl 36 Passives: Discipline and Training
 
 --- Act 4
