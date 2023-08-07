@@ -59,9 +59,17 @@ find Saumethic Sulfite, skip Fairgraves
 [B] Flash Offering
 [G] [G] Arctic Armour, Desecrate
 --- The Solaris, Ebony Barracks, Lunaris, kill Vera, take the key, goto Gardens lvl 32
-Passives: Spiritual Command, Minion Offence Mastery (20% Physical damage)
+lvl 32 Passives: Spiritual Command, Minion Offence Mastery (20% Physical damage)
 --- Find Siosa in Library, give pages and:
 Take: [B] Feeding Frenzy for leveling
-Buy 
---- Laba lvl 32-34
-Passives: Retribution, Discipline and Training
+Buy:
+--- Open The Sceptre of God, return to the Sarn
+Take [B] Spectre from Maramoa
+Return to Lunaris II and take Spectre: Tentacle Miscreation
+[Skills]
+[B-B-B] Raise Spectre, Minion Health, Minion Speed
+
+--- Laba lvl 32-35
+lvl 35 Passives: Retribution, Discipline and Training
+
+--- Act 4
