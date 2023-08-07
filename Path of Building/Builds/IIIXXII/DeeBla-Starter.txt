@@ -23,7 +23,7 @@ Take [B] Skeletons from Tarkli
 [B-B-R] Skeletons, Raise Zombie, Melee Splash
 Buy [R.G.B] Auras
 --- Help Captain Fairgraves
-Take [B] Flash Offering from Bestel
+Take [B] Flesh Offering from Bestel
 ---  Kill Maven 12-14
 Passives: Lord of the Dead, Mystic Bulwark
 [Skills]
@@ -56,17 +56,17 @@ find Saumethic Sulfite, skip Fairgraves
 [B-B-R-G] Skeletons, Raise Zombie, Melee Splash, Culling Strike
 [B-B] Frostblink, Proliferation
 [R] [G] [B] Vitality, Clarity, Precision
-[B] Flash Offering
+[B] Flesh Offering
 [G] [G] Arctic Armour, Desecrate
 --- The Solaris, Ebony Barracks, Lunaris, kill Vera, take the key, goto Gardens lvl 32
 lvl 32 Passives: Spiritual Command, Minion Offence Mastery (20% Physical damage)
 --- Find Siosa in Library, give pages and:
 Take: [B] Feeding Frenzy for leveling
-Buy:
+Buy: [G] Haste for leveling
 --- Open The Sceptre of God, return to the Sarn
 Take [B] Spectre from Maramoa
-Return to Lunaris II and take Spectre: Tentacle Miscreation
-[Skills]
+Return to Lunaris II, Take Spectre: Tentacle Miscreation
+[Skills] added:
 [B-B-B] Raise Spectre, Minion Health, Minion Speed
 
 --- Laba lvl 32-36
@@ -74,3 +74,13 @@ lvl 34 Passives: Retribution
 lvl 36 Passives: Discipline and Training
 
 --- Act 4
+--- kill Kaoma and Daresso, goto Vera, Take Spectre: Stygian Revenant
+lvl 42 Passives: Gravepact, (with/OR/without) Minion Offence Mastery: (+250 precision /OR/ +20% Flesh)
+lvl 44 Passives: Minion Attack and Cast speed, goto Purity of Flesh
+Take [R] Multistrike support from Diala, replace [R] Melee Splash
+Take [B] Carrion Golem from Oyun
+[Skills] added:
+[B-B-R-G] Skeletons, Raise Zombie, Multistrike, Culling Strike
+[B-B] Carrion Golem, Feeding Frenzy
+
+--- Act 5
