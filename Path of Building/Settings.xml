@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <PathOfBuilding>
 	<Mode mode="BUILD">
-		<Arg string="C:\Users\Dmytro\Documents/Path of Building/Builds/IIIXXII/Level 96 Seismic Trap Saboteur.xml"/>
-		<Arg string="Level 96 Seismic Trap Saboteur"/>
+		<Arg string="C:\Users\Dmytro\Documents/Path of Building/Builds/IIIXXII/DeeBla-GoodBoy_TV.xml"/>
+		<Arg string="DeeBla-GoodBoy_TV"/>
 	</Mode>
 	<Accounts lastAccountName="dmytro_cheva" lastRealm="PC">
 		<Account accountName="dmytro_cheva"/>

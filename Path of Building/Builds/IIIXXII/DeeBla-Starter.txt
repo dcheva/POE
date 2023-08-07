@@ -1,5 +1,5 @@
 ------ Act 1
-0. [B-B] Fireball + Arcane Surge !!! level 1
+0. [B-B] Fireball + Arcane Surge !!!lvl1 and hold A.S. in Fireball mana cost
 Take [B] Raise Zombie
 2x Driftwood Wands or Spirit Shield
 Passives: Spell Damage, Cast Speed -> Arcanist Domonotion
@@ -7,14 +7,15 @@ Passives: Spell Damage, Cast Speed -> Arcanist Domonotion
 Take [B] Elemental Proliferation from Nessa
 Take [B] SRS and [B] Frostblink from Tarkli
 Replace Fireball with SRS
-ideal: [B-B-B-B] SRS, Arcane Surge, Frostblink Proliferation 
-minimal: [B-B] SRS Surge + [B-B] Frostblink Proliferation
+ideal: [B-B-B-B] SRS, Arcane Surge, Frostblink, Proliferation 
+minimal: [B-B] SRS Surge + [B-B] Frostblink, Proliferation
 Frostblink to LMB
 Buy maximals: Coral Ring, Paula Amulet and Paula Ring
 --- The Prison lvl 7-9
 Passives: Practical Application, Heart and Soul
 Take Combustion from Nessa
 Buy [R] Melee Splash
+[Skills] !remember to hold Arcane Surge in 3x Summon Rage Souls mana cost!
 [B-B-B] SRS, Arcane Surge, Combustion
 [B-R] Raise Zombie, Melee Splash
 --- Kill Brutus 9-10
@@ -25,12 +26,42 @@ Buy [R.G.B] Auras
 Take [B] Flash Offering from Bestel
 ---  Kill Maven 12-14
 Passives: Lord of the Dead, Mystic Bulwark
+[Skills]
 [B-B-B] SRS, Arcane Surge, Combustion
 [B-B-R] Skeletons, Raise Zombie, Melee Splash
-[B-B] Frostblink Proliferation
+[B-B] Frostblink, Proliferation
 [R] [G] [B] Vitality, Clarity, Precision
 [B] Flash Offering
 
 ------ Act 2
 Always check Yeena for Calling Wands
-Passives: Cruel Preparation, Life mastery +50 to Maximum Health
+Passives: Cruel Preparation, Life mastery (+50 to Maximum Health)
+--- Kill Fidelis
+Take [G] Desecrate from Greust
+--- Kill Bandirs, kill Weaver
+Passives: Enduring Bond, Minion Offence Mastery (25% chance to gain Unholy Might)
+Take [B] Minion Speed from Silk
+Buy [B] Minion Life, [G] Arctic Armour, [B] Minion damage and [G] Culling Strike from Yeena
+Second hand (leveling) [B] Minion Life, [B] Minion Speed, [B] Minion damage and [G] Culling Strike 
+
+------ Act 3 
+Passives: Quick Recovery (without Life Mastery)
+--- Talman, Victario's Secrets, goto The Battlefront
+Take [B] Convocation from Maramoa for leveling
+Passives: Minion life, Sacrifice, Minion Defence Mastery (Recover 5% Life on Death)
+--- Docks lvl 28-30
+find Saumethic Sulfite, skip Fairgraves
+[Skills]
+[B-B-B-B] SRS, Arcane Surge, Combustion, Minion Damage
+[B-B-R-G] Skeletons, Raise Zombie, Melee Splash, Culling Strike
+[B-B] Frostblink, Proliferation
+[R] [G] [B] Vitality, Clarity, Precision
+[B] Flash Offering
+[G] [G] Arctic Armour, Desecrate
+--- The Solaris, Ebony Barracks, Lunaris, kill Vera, take the key, goto Gardens lvl 32
+Passives: Spiritual Command, Minion Offence Mastery (20% Physical damage)
+--- Find Siosa in Library, give pages and:
+Take: [B] Feeding Frenzy for leveling
+Buy 
+--- Laba lvl 32-34
+Passives: Retribution, Discipline and Training
