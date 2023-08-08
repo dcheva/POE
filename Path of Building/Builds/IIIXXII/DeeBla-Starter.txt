@@ -63,6 +63,7 @@ lvl 32 Passives: Spiritual Command, Minion Offence Mastery (20% Physical damage)
 --- Find Siosa in Library, give pages and:
 Take: [B] Feeding Frenzy for leveling
 Buy: [G] Haste for leveling
+Buy: [B] Bonechill/Critical Chance for leveling
 --- Open The Sceptre of God, return to the Sarn
 Take [B] Spectre from Maramoa
 Return to Lunaris II, Take Spectre: Tentacle Miscreation
@@ -74,13 +75,18 @@ lvl 34 Passives: Retribution
 lvl 36 Passives: Discipline and Training
 
 --- Act 4
---- kill Kaoma and Daresso, goto Vera, Take Spectre: Stygian Revenant
+--- Kill Kaoma and Daresso, goto Vera, Take Spectre: Stygian Revenant
 lvl 42 Passives: Gravepact, (with/OR/without) Minion Offence Mastery: (+250 precision /OR/ +20% Flesh)
 lvl 44 Passives: Minion Attack and Cast speed, goto Purity of Flesh
 Take [R] Multistrike support from Diala, replace [R] Melee Splash
 Take [B] Carrion Golem from Oyun
 [Skills] added:
 [B-B-R-G] Skeletons, Raise Zombie, Multistrike, Culling Strike
+[B-B-B] Frostblink, Proliferation, Bonechill/Critical Chance
 [B-B] Carrion Golem, Feeding Frenzy
 
---- Act 5
+--- Act 5 lvl 50
+--- Act 6 lvl 54
+lvl 54 Passives: Minion Damage, Death Attunement, Minion Offence Mastery: (+250 precision /AND/ +20% Flesh)
+--- Act 7
+lvl 60 Passives: Rightous Army, Redemption, without Minion Offence Mastery
