@@ -1,0 +1,144 @@
+#\2-chaos-sets-------------------------------
+#\v.1.23-------------------------------------
+
+Show # $type->2chaos-a
+	Class "Amulets" "Rings"
+	SetBackgroundColor 50 40 30 255
+	SetBorderColor 100 255 100 255
+	SetTextColor 255 205 155 255
+	Identified False
+	Corrupted False
+	Mirrored False
+	Rarity Rare
+    ItemLevel >= 60
+    ItemLevel <= 85
+	SetFontSize 40
+	CustomAlertSound "Sounds\1maybevaluable.mp3" 300
+	#PlayAlertSound 4 200
+	PlayEffect Orange
+	MinimapIcon 1 Orange Circle	
+	
+Show # $type->2chaos-b
+	Class "Belts"
+	SetBackgroundColor 50 40 30 255
+	SetBorderColor 100 100 255 255
+	SetTextColor 255 205 155 255
+	Identified False
+	Corrupted False
+	Mirrored False
+	Rarity Rare
+    ItemLevel >= 60
+    ItemLevel <= 85
+	SetFontSize 40
+	CustomAlertSound "Sounds\1maybevaluable.mp3" 300
+	#PlayAlertSound 4 200
+	PlayEffect Orange
+	MinimapIcon 1 Orange Circle
+	
+Show # $type->2chaos-c
+	Class "Daggers" "Rune Dagger" "Wands"
+	SetBackgroundColor 50 40 30 255
+	SetBorderColor 255 100 100 255
+	SetTextColor 255 205 155 255
+	Identified False
+	Corrupted False
+	Mirrored False
+	Rarity Rare
+    ItemLevel >= 60
+    ItemLevel <= 85
+	SetFontSize 40
+	CustomAlertSound "Sounds\02coin.mp3" 300
+	#PlayAlertSound 4 200
+	PlayEffect Orange
+	MinimapIcon 1 Orange Circle	
+	
+Show # $type->2chaos-d
+	Class "Boots"
+	SetBackgroundColor 50 40 30 255
+	SetBorderColor 200 150 100 255
+	SetTextColor 255 205 155 255
+	Identified False
+	Corrupted False
+	Mirrored False
+	Rarity Rare
+    ItemLevel >= 60
+    ItemLevel <= 85
+	SetFontSize 40
+	CustomAlertSound "Sounds\03coinshake.mp3" 300
+	#PlayAlertSound 4 200
+	PlayEffect Orange
+	MinimapIcon 1 Orange Circle
+	
+Show # $type->2chaos-d
+	Class "Gloves"
+	SetBackgroundColor 50 40 30 255
+	SetBorderColor 200 150 100 255
+	SetTextColor 255 205 155 255
+	Identified False
+	Corrupted False
+	Mirrored False
+	Rarity Rare
+    ItemLevel >= 60
+    ItemLevel <= 85
+	SetFontSize 40
+	CustomAlertSound "Sounds\03coinshake.mp3" 300
+	#PlayAlertSound 4 200
+	PlayEffect Orange
+	MinimapIcon 1 Orange Circle
+	
+Show # $type->2chaos-d
+	Class "Helmets"
+	SetBackgroundColor 50 40 30 255
+	SetBorderColor 200 150 100 255
+	SetTextColor 255 205 155 255
+	Identified False
+	Corrupted False
+	Mirrored False
+	Rarity Rare
+    ItemLevel >= 60
+    ItemLevel <= 85
+	SetFontSize 40
+	CustomAlertSound "Sounds\03coinshake.mp3" 300
+	#PlayAlertSound 4 200
+	PlayEffect Orange
+	MinimapIcon 1 Orange Circle
+	
+Show # $type->2chaos-e
+	Class "Body Armours"
+	SetBackgroundColor 50 40 30 255
+	SetBorderColor 255 255 100 255
+	SetTextColor 255 205 155 255
+	Identified False
+	Corrupted False
+	Mirrored False
+	Rarity Rare
+    ItemLevel >= 60
+    ItemLevel <= 74
+	SetFontSize 40
+	#PlayAlertSound 4 200
+	CustomAlertSound "Sounds\04cointojar.mp3" 300
+	PlayEffect Orange
+	MinimapIcon 1 Orange Circle
+	
+#/2-chaos-sets-------------------------------
+
+
+#\Necromancers-Wands------------------------
+# Minions deal xx% increased Damage
+# Calling Wand, Superior Calling Wand, Convening Wand, Superior Convening Wand, Convoking Wand, Superior Convoking Wand
+
+Show  # $type->Necromancers-Wands
+	BaseType == "Calling Wand" "Convening Wand" "Convoking Wand"
+	SetFontSize 45
+	SetBackgroundColor 20 30 40 255
+	SetBorderColor 100 225 255 255
+	SetTextColor 205 225 255 255
+	#PlayAlertSound 3 300
+	CustomAlertSound "Sounds\24item.mp3" 300
+	PlayEffect White
+	MinimapIcon 1 White Circle
+
+#/Necromancer's-Wands------------------------
+
+
+

@@ -70,7 +70,9 @@ Return to Lunaris II, Take Spectre: Tentacle Miscreation
 [Skills] added:
 [B-B-B] Raise Spectre, Minion Health, Minion Speed
 
---- Laba lvl 32-36
+--- Lab 1 lvl 32-36
+Lab Proficiency: Necromancer
+Lab passives: Mindless Agression
 lvl 34 Passives: Retribution
 lvl 36 Passives: Discipline and Training
 
@@ -86,7 +88,30 @@ Take [B] Carrion Golem from Oyun
 [B-B] Carrion Golem, Feeding Frenzy
 
 --- Act 5 lvl 50
+
 --- Act 6 lvl 54
 lvl 54 Passives: Minion Damage, Death Attunement, Minion Offence Mastery: (+250 precision /AND/ +20% Flesh)
+
 --- Act 7
 lvl 60 Passives: Rightous Army, Redemption, without Minion Offence Mastery
+--- Lab 2 lvl 55-60
+Lab passives: Mindless Agression
+
+---[Variation: Fire damage]---
+Start remap damage to fire.
+Goto Act 2 to Yeena.
+Buy: lvl 11 [R] Cold to Fire
+Buy or Craft: Convening Wand [B-B-R] with:
+- Minions deal >20% increased Damage
+-- Minions modifiers
+-- Adds Physical/Fire/Cold Damage
+-- increased Physical/Fire/Cold Damage
+[Skills] added:
+[B-B-R] Frostblink, Proliferation, Cold to Fire
+
+lvl 66 Passives: Ignite Chance, Fire Mastery: 40% Phys to Fire
+
+--- Act 8
+Use filter for 2-chaos sets
+Go to Solaris II, Take Spectre: Infernal Sentinel
+Go to Bridge and check to have 225-275k SP/hour and good FPS
