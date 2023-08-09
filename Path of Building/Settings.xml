@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <PathOfBuilding>
 	<Mode mode="BUILD">
-		<Arg string="C:\Users\Dmytro\Documents/Path of Building/Builds/IIIXXII/DeeBla-GoodBoy_TV.xml"/>
-		<Arg string="DeeBla-GoodBoy_TV"/>
+		<Arg string="C:\Users\Dmytro\Documents/Path of Building/Builds/IIIXXII/DeeBla-80-R1-plan.xml"/>
+		<Arg string="DeeBla-80-R1-plan"/>
 	</Mode>
-	<Accounts lastAccountName="dmytro_cheva" lastRealm="PC">
+	<Accounts lastAccountName="SteamCovan" lastRealm="PC">
 		<Account accountName="dmytro_cheva"/>
+		<Account accountName="SteamCovan"/>
 	</Accounts>
 	<SharedItems/>
 	<Misc betaTest="false" connectionProtocol="0" thousandsSeparator="," showThousandsSeparators="true" colorPositive="^x33FF77" buildSortMode="NAME" invertSliderScrollDirection="false" showTitlebarName="true" disableDevAutoSave="false" POESESSID="" slotOnlyTooltips="true" defaultCharLevel="1" showWarnings="true" decimalSeparator="." nodePowerTheme="RED/BLUE" defaultItemAffixQuality="0.5" defaultGemQuality="0" colorNegative="^xDD0022"/>
