@@ -95,7 +95,7 @@ lvl 54 Passives: Minion Damage, Death Attunement, Minion Offence Mastery: (+250 
 --- Act 7
 lvl 60 Passives: Rightous Army, Redemption, without Minion Offence Mastery
 --- Lab 2 lvl 55-60
-Lab passives: Mindless Agression
+Lab passives: Unnatural Strength
 
 ---[Variation: Fire damage]---
 Start remap damage to fire.
@@ -125,4 +125,14 @@ Go to Bridge and check to have 225-275k SP/hour and good FPS
 
 --- Act 10
 lvl 70 Passives: Searing Heat, without Fire mastery.
-lvl 72 Passives: 
+
+--- Lab 3 lvl 70-80
+Lab passives: Commander of Darkness
+
+--- Begin DeeBla-80-R1-plan
+lvl 72 Passives: Ravenous Horde
+lvl 78 Passives Constitution
+Here You need 1000+ Armour items
+lvl 80 Passives 2x Minion Damage (near Rightous Army, Redemption)
+
+
