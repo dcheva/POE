@@ -2,21 +2,23 @@
 0. [B-B] Fireball + Arcane Surge !!!lvl1 and hold A.S. in Fireball mana cost
 Take [B] Raise Zombie
 2x Driftwood Wands or Spirit Shield
-Passives: Spell Damage, Cast Speed -> Arcanist Domonotion
+Passives: Energy Shield and Mana, Minion Damage, Cast Speed -> Deep Wisdom
 --- The Tidal Island
 Take [B] Elemental Proliferation from Nessa
 Take [B] SRS and [B] Frostblink from Tarkli
 Replace Fireball with SRS
 ideal: [B-B-B-B] SRS, Arcane Surge, Frostblink, Proliferation 
-minimal: [B-B] SRS Surge + [B-B] Frostblink, Proliferation
+minimal: [B-B] SRS, Arcane Surge + [B-B] Frostblink, Proliferation
 Frostblink to LMB
 Buy maximals: Coral Ring, Paula Amulet and Paula Ring
+If You have [B-B-B], buy [B] Infernal Legion for skills:
+[B-B-B] SRS, Arcane Surge, Infernal Legion
 --- The Prison lvl 7-9
 Passives: Practical Application, Heart and Soul
-Take Combustion from Nessa
+Take [B] Combustion from Nessa
 Buy [R] Melee Splash
 [Skills] !remember to hold Arcane Surge in 3x Summon Rage Souls mana cost!
-[B-B-B] SRS, Arcane Surge, Combustion
+[B-B-B] SRS, Infernal Legion/Arcane Surge, Combustion
 [B-R] Raise Zombie, Melee Splash
 --- Kill Brutus 9-10
 Take [B] Skeletons from Tarkli
@@ -27,21 +29,24 @@ Take [B] Flesh Offering from Bestel
 ---  Kill Maven 12-14
 Passives: Lord of the Dead, Mystic Bulwark
 [Skills]
-[B-B-B] SRS, Arcane Surge, Combustion
+[B-B-B] SRS, Infernal Legion/Arcane Surge, Combustion
 [B-B-R] Skeletons, Raise Zombie, Melee Splash
 [B-B] Frostblink, Proliferation
 [R] [G] [B] Vitality, Clarity, Precision
-[B] Flash Offering
+[B] Flesh Offering
 
 ------ Act 2
 Always check Yeena for Calling Wands
 Passives: Cruel Preparation, Life mastery (+50 to Maximum Health)
 --- Kill Fidelis
 Take [G] Desecrate from Greust
+Buy: [R] Herald of Ash from Yeena 
+Skills added: 
+[R] [G] Herald of Ash, Desecrate
 --- Kill Bandirs, kill Weaver
 Passives: Enduring Bond, Minion Offence Mastery (25% chance to gain Unholy Might)
 Take [B] Minion Speed from Silk
-Buy [B] Minion Life, [G] Arctic Armour, [B] Minion damage and [G] Culling Strike from Yeena
+Buy [B] Minion Life, [B] Minion damage, [G] Arctic Armour and [G] Culling Strike from Yeena
 Second hand (leveling) [B] Minion Life, [B] Minion Speed, [B] Minion damage and [G] Culling Strike 
 
 ------ Act 3 
@@ -52,12 +57,12 @@ Passives: Minion life, Sacrifice, Minion Defence Mastery (Recover 5% Life on Dea
 --- Docks lvl 28-30
 find Saumethic Sulfite, skip Fairgraves
 [Skills]
-[B-B-B-B] SRS, Arcane Surge, Combustion, Minion Damage
+[B-B-B-B] SRS, Infernal Legion, Combustion, Minion Damage
 [B-B-R-G] Skeletons, Raise Zombie, Melee Splash, Culling Strike
 [B-B] Frostblink, Proliferation
-[R] [G] [B] Vitality, Clarity, Precision
 [B] Flesh Offering
-[G] [G] Arctic Armour, Desecrate
+[R] [G] [B] Vitality, Clarity, Precision
+[G] [G] [R] Arctic Armour, Desecrate, Herald of Ash
 --- The Solaris, Ebony Barracks, Lunaris, kill Vera, take the key, goto Gardens lvl 32
 lvl 32 Passives: Spiritual Command, Minion Offence Mastery (20% Physical damage)
 --- Find Siosa in Library, give pages and:
@@ -119,7 +124,6 @@ Buy or Craft: Convening Wand [B-B-R] with:
 [R] [G] [B] Herald of Ash, Clarity, Precision 
 [B] Flammability
 Passives: Mana mastery: +12% efficiency (near Mystic Bulwark), Minion Offence Mastery (+250 accuracy)
-lvl 66 Passives: Ignite Chance, Fire Mastery: 40% Phys to Fire
 
 --- Act 8
 Use filter for 2-chaos sets
@@ -128,15 +132,12 @@ Go to Bridge and check to have 225-275k SP/hour and good FPS
 --- Act 9
 
 --- Act 10
-lvl 70 Passives: Searing Heat, without Fire mastery.
+lvl 70-72 Passives: 2x Minion Damage (near Rightous Army, Redemption), Ravenous Horde, Devotion, Constitution
 
 --- Lab 3 lvl 70-80
 Lab passives: Commander of Darkness
 
 --- Begin DeeBla-80-R1-plan
-lvl 72 Passives: Ravenous Horde
-lvl 78 Passives Constitution
 Here You need 1000+ Armour items
-lvl 80 Passives 2x Minion Damage (near Rightous Army, Redemption)
 
 
