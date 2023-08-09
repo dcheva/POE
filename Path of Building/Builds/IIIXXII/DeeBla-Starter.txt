@@ -118,7 +118,7 @@ lvl 66 Passives: Ignite Chance, Fire Mastery: 40% Phys to Fire
 
 --- Act 8
 Use filter for 2-chaos sets
-Go to Solaris II, Take Spectre: Infernal Sentinel
+Go to Solaris II, Take Spectre: Flame Sentinel
 Go to Bridge and check to have 225-275k SP/hour and good FPS
 
 --- Act 9
