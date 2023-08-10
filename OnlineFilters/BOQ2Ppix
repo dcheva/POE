@@ -1,16 +1,16 @@
 #Online Item Filter
-#name:Vaal Semistrict 230808-2c-necr
+#name:Vaal Strict 230810-2c-necr-nf
 #version:3.21.2b
 #realm:pc
 #errors:
-#hash:a223b4c2a450e135d0474baca84c0c6a
-#filterVersion:8.10.5-230808dV
+#hash:aeccfffb40e43cdd9925c68773289872
+#filterVersion:8.10.5-230810nV
 #filterType:Normal
-#lastUpdate:2023-08-08T15:28:06Z
+#lastUpdate:2023-08-10T12:37:44Z
 #monthTimeStamp:1484
+#--------------------------------------------
+#v1.25.necr
 #\2-chaos-sets-------------------------------
-#\v.1.23-------------------------------------
-
 Show # $type->2chaos-a
 	Class "Amulets" "Rings"
 	SetBackgroundColor 50 40 30 255
@@ -20,8 +20,8 @@ Show # $type->2chaos-a
 	Corrupted False
 	Mirrored False
 	Rarity Rare
-    ItemLevel >= 60
-    ItemLevel <= 85
+	ItemLevel >= 60
+	ItemLevel <= 85
 	SetFontSize 40
 	CustomAlertSound "Sounds\1maybevaluable.mp3" 300
 	#PlayAlertSound 4 200
@@ -37,8 +37,8 @@ Show # $type->2chaos-b
 	Corrupted False
 	Mirrored False
 	Rarity Rare
-    ItemLevel >= 60
-    ItemLevel <= 85
+	ItemLevel >= 60
+	ItemLevel <= 85
 	SetFontSize 40
 	CustomAlertSound "Sounds\1maybevaluable.mp3" 300
 	#PlayAlertSound 4 200
@@ -54,8 +54,8 @@ Show # $type->2chaos-c
 	Corrupted False
 	Mirrored False
 	Rarity Rare
-    ItemLevel >= 60
-    ItemLevel <= 85
+	ItemLevel >= 60
+	ItemLevel <= 85
 	SetFontSize 40
 	CustomAlertSound "Sounds\02coin.mp3" 300
 	#PlayAlertSound 4 200
@@ -71,8 +71,8 @@ Show # $type->2chaos-d
 	Corrupted False
 	Mirrored False
 	Rarity Rare
-    ItemLevel >= 60
-    ItemLevel <= 85
+	ItemLevel >= 60
+	ItemLevel <= 85
 	SetFontSize 40
 	CustomAlertSound "Sounds\03coinshake.mp3" 300
 	#PlayAlertSound 4 200
@@ -88,8 +88,8 @@ Show # $type->2chaos-d
 	Corrupted False
 	Mirrored False
 	Rarity Rare
-    ItemLevel >= 60
-    ItemLevel <= 85
+	ItemLevel >= 60
+	ItemLevel <= 85
 	SetFontSize 40
 	CustomAlertSound "Sounds\03coinshake.mp3" 300
 	#PlayAlertSound 4 200
@@ -105,8 +105,8 @@ Show # $type->2chaos-d
 	Corrupted False
 	Mirrored False
 	Rarity Rare
-    ItemLevel >= 60
-    ItemLevel <= 85
+	ItemLevel >= 60
+	ItemLevel <= 85
 	SetFontSize 40
 	CustomAlertSound "Sounds\03coinshake.mp3" 300
 	#PlayAlertSound 4 200
@@ -122,8 +122,8 @@ Show # $type->2chaos-e
 	Corrupted False
 	Mirrored False
 	Rarity Rare
-    ItemLevel >= 60
-    ItemLevel <= 74
+	ItemLevel >= 60
+	ItemLevel <= 74
 	SetFontSize 40
 	#PlayAlertSound 4 200
 	CustomAlertSound "Sounds\04cointojar.mp3" 300
@@ -133,13 +133,16 @@ Show # $type->2chaos-e
 #/2-chaos-sets-------------------------------
 
 
-#\Necromancers-Wands------------------------
+#\Necromancers-------------------------------
 # Minions deal xx% increased Damage
-# Calling Wand, Superior Calling Wand, Convening Wand, Superior Convening Wand, Convoking Wand, Superior Convoking Wand
+# Calling Wand, Convening Wand, Convoking Wand
+# Bone Spirit Shield, Ivory Spirit Shield, Fossilised Spirit Shield
+# Bone Helmet
 
-Show  # $type->Necromancers-Wands
-	BaseType == "Calling Wand" "Convening Wand" "Convoking Wand"
-	SetFontSize 45
+Show  # $type->Necromancers-Wands-Shields
+	BaseType == "Calling Wand" "Convening Wand" "Convoking Wand" "Bone Spirit Shield" "Ivory Spirit Shield" "Fossilised Spirit Shield" "Bone Helmet"
+	Rarity Normal Magic Rare
+	SetFontSize 40
 	SetBackgroundColor 20 30 40 255
 	SetBorderColor 100 225 255 255
 	SetTextColor 205 225 255 255
@@ -148,15 +151,26 @@ Show  # $type->Necromancers-Wands
 	PlayEffect White
 	MinimapIcon 1 White Circle
 
-#/Necromancer's-Wands------------------------
+Show  # $type->Necromancers-Wands-Shields
+	BaseType == "Calling Wand" "Convening Wand" "Convoking Wand" "Bone Spirit Shield" "Ivory Spirit Shield" "Fossilised Spirit Shield" "Bone Helmet"
+	Rarity Unique
+	SetFontSize 40
+	SetBackgroundColor 20 10 40 255
+	SetBorderColor 150 85 255 255
+	SetTextColor 225 125 255 255
+	#PlayAlertSound 3 300
+	CustomAlertSound "Sounds\12leveling.mp3" 300
+	PlayEffect Purple
+	MinimapIcon 1 Purple Circle
 
+#/Necromancers-------------------------------
 
 
 #===============================================================================================================
 # NeverSink's Indepth Loot Filter - for Path of Exile
 #===============================================================================================================
 # VERSION:  8.10.5
-# TYPE:     2-SEMI-STRICT
+# TYPE:     3-STRICT
 # STYLE:    VAAL
 # AUTHOR:   NeverSink
 # BUILDNOTES: Filter generated with NeverSink's FilterpolishZ and the domainlanguage Exo.
@@ -2420,15 +2434,15 @@ Show # %D4 $type->exoticmods $tier->incursionmagic
 	PlayEffect Blue
 	MinimapIcon 2 Blue Diamond
 
-Show # %D2 $type->exoticmods $tier->incursionrandom
-	Identified True
-	Rarity Rare
-	HasExplicitMod "Citaqualotl" "Guatelitzi" "Matatl" "Puhuarte" "Tacati" "Topotante" "Xopec"
-	SetFontSize 45
-	SetBorderColor 0 240 190 255
-	PlayAlertSound 3 300
-	PlayEffect Blue
-	MinimapIcon 2 Blue Diamond
+#Show # # %D2 $type->exoticmods $tier->incursionrandom
+#	Identified True
+#	Rarity Rare
+#	HasExplicitMod "Citaqualotl" "Guatelitzi" "Matatl" "Puhuarte" "Tacati" "Topotante" "Xopec"
+#	SetFontSize 45
+#	SetBorderColor 0 240 190 255
+#	PlayAlertSound 3 300
+#	PlayEffect Blue
+#	MinimapIcon 2 Blue Diamond
 
 #------------------------------------
 #   [0803] Bestiary
@@ -2495,13 +2509,13 @@ Show # %D3 $type->exoticmods $tier->warband
 	PlayEffect Blue
 	MinimapIcon 2 Blue Diamond
 
-Show # %D2 $type->exoticmods $tier->essence
-	Identified True
-	Rarity Rare
-	HasExplicitMod "of the Essence" "Essences"
-	SetFontSize 40
-	SetBorderColor 0 240 190 180
-	PlayEffect Blue Temp
+#Show # # %D2 $type->exoticmods $tier->essence
+#	Identified True
+#	Rarity Rare
+#	HasExplicitMod "of the Essence" "Essences"
+#	SetFontSize 40
+#	SetBorderColor 0 240 190 180
+#	PlayEffect Blue Temp
 
 #Show # # %D1 $type->exoticmods $tier->crafting
 #	Identified True
@@ -2904,13 +2918,13 @@ Show # %D6 $type->exotic->enchanted $tier->anointedamulets
 	PlayEffect Blue
 	MinimapIcon 1 Blue Diamond
 
-Show # %D2 $type->exotic->enchanted $tier->glovesboots
-	AnyEnchantment True
-	Rarity Normal Magic Rare
-	Class "Boots" "Gloves"
-	SetFontSize 40
-	SetBorderColor 0 240 190 180
-	PlayEffect Blue Temp
+#Show # # %D2 $type->exotic->enchanted $tier->glovesboots
+#	AnyEnchantment True
+#	Rarity Normal Magic Rare
+#	Class "Boots" "Gloves"
+#	SetFontSize 40
+#	SetBorderColor 0 240 190 180
+#	PlayEffect Blue Temp
 
 #------------------------------------
 #   [1007] Crucible
@@ -3079,7 +3093,7 @@ MinimapIcon 0 Purple Moon
 #------------------------------------
 # !! Waypoint c4.recipes.rgb.all : "Recipes - Endgame chromatic recipes (normal and magic RGBs)"
 
-Show # %H2 $type->endgamergb $tier->rgbsmall1
+Hide # %H2 $type->endgamergb $tier->rgbsmall1
 	Width 2
 	Height 2
 	Rarity Normal Magic
@@ -3089,7 +3103,7 @@ Show # %H2 $type->endgamergb $tier->rgbsmall1
 	SetBorderColor 200 200 200 255
 	SetBackgroundColor 73 40 73 210
 
-Show # %H2 $type->endgamergb $tier->rgbsmall2
+Hide # %H2 $type->endgamergb $tier->rgbsmall2
 	Width 1
 	Height <= 4
 	Rarity Normal Magic
@@ -3213,13 +3227,13 @@ Rarity Normal Magic Rare
 BaseType == "Amethyst Ring" "Artillery Quiver" "Astral Plate" "Bone Ring" "Broadhead Arrow Quiver" "Cardinal Round Shield" "Colossal Tower Shield" "Convoking Wand" "Copper Kris" "Diamond Ring" "Dragonscale Boots" "Dragonscale Gauntlets" "Eclipse Staff" "Eternal Burgonet" "Fossilised Spirit Shield" "Full Dragonscale" "Gemini Claw" "Glorious Plate" "Golden Kris" "Hubris Circlet" "Imbued Wand" "Imperial Claw" "Jewelled Foil" "Judgement Staff" "Karui Chopper" "Lacquered Buckler" "Lion Pelt" "Onyx Amulet" "Opal Sceptre" "Opal Wand" "Pig-Faced Bascinet" "Piledriver" "Platinum Kris" "Primal Arrow Quiver" "Prismatic Ring" "Profane Wand" "Royal Burgonet" "Sambar Sceptre" "Short Bow" "Siege Axe" "Slink Boots" "Slink Gloves" "Sorcerer Boots" "Sorcerer Gloves" "Spine Bow" "Thicket Bow" "Titan Gauntlets" "Titan Greaves" "Titanium Spirit Shield" "Two-Stone Ring" "Vaal Regalia" "Vanguard Belt" "Void Sceptre" "Zodiac Leather"
 SetBorderColor 255 125 0 185
 
-Show # %D2 $type->normalcraft->i86 $tier->t3
-Corrupted False
-Mirrored False
-ItemLevel >= 86
-Rarity Normal Magic Rare
-BaseType == "Agate Amulet" "Ambusher" "Archon Kite Shield" "Assassin's Garb" "Behemoth Mace" "Champion Kite Shield" "Citadel Bow" "Citrine Amulet" "Coronal Maul" "Corsair Sword" "Crusader Boots" "Crusader Buckler" "Crusader Gloves" "Deicide Mask" "Despot Axe" "Elegant Round Shield" "Eternal Sword" "Exquisite Blade" "Ezomyte Blade" "Ezomyte Tower Shield" "Fleshripper" "Harmonic Spirit Shield" "Heavy Arrow Quiver" "Imperial Buckler" "Karui Maul" "Leather Belt" "Maraketh Bow" "Moonstone Ring" "Murder Boots" "Murder Mitts" "Nightmare Bascinet" "Pinnacle Tower Shield" "Praetor Crown" "Runic Hatchet" "Rustic Sash" "Sadist Garb" "Saintly Chainmail" "Spiraled Foil" "Supreme Spiked Shield" "Triumphant Lamellar" "Turquoise Amulet" "Unset Ring" "Vaal Axe" "Vile Arrow Quiver"
-SetBorderColor 255 125 0 185
+#Show # # %D2 $type->normalcraft->i86 $tier->t3
+#	Corrupted False
+#	Mirrored False
+#	ItemLevel >= 86
+#	Rarity Normal Magic Rare
+#	BaseType == "Agate Amulet" "Ambusher" "Archon Kite Shield" "Assassin's Garb" "Behemoth Mace" "Champion Kite Shield" "Citadel Bow" "Citrine Amulet" "Coronal Maul" "Corsair Sword" "Crusader Boots" "Crusader Buckler" "Crusader Gloves" "Deicide Mask" "Despot Axe" "Elegant Round Shield" "Eternal Sword" "Exquisite Blade" "Ezomyte Blade" "Ezomyte Tower Shield" "Fleshripper" "Harmonic Spirit Shield" "Heavy Arrow Quiver" "Imperial Buckler" "Karui Maul" "Leather Belt" "Maraketh Bow" "Moonstone Ring" "Murder Boots" "Murder Mitts" "Nightmare Bascinet" "Pinnacle Tower Shield" "Praetor Crown" "Runic Hatchet" "Rustic Sash" "Sadist Garb" "Saintly Chainmail" "Spiraled Foil" "Supreme Spiked Shield" "Triumphant Lamellar" "Turquoise Amulet" "Unset Ring" "Vaal Axe" "Vile Arrow Quiver"
+#	SetBorderColor 255 125 0 185
 
 #------------------------------------
 #   [1205] ILVL 84
@@ -3564,13 +3578,13 @@ Show # %D4 $type->endgameflasks $tier->earlymappingflasks
 	SetBorderColor 0 0 0 255
 	SetBackgroundColor 25 100 75
 
-Show # %D2 $type->endgameflasks $tier->anyutility
-	Rarity Normal Magic
-	Class "Utility Flasks"
-	AreaLevel >= 68
-	SetFontSize 40
-	SetBorderColor 0 0 0 255
-	SetBackgroundColor 25 100 75
+#Show # # %D2 $type->endgameflasks $tier->anyutility
+#	Rarity Normal Magic
+#	Class "Utility Flasks"
+#	AreaLevel >= 68
+#	SetFontSize 40
+#	SetBorderColor 0 0 0 255
+#	SetBackgroundColor 25 100 75
 
 #------------------------------------
 #   [1404] Quality Low
@@ -3600,13 +3614,13 @@ Show # %D2 $type->endgameflasks $tier->anyutility
 #   [1405] Early mapping life/mana/utility flasks
 #------------------------------------
 
-Show # %D2 $type->endgameflasks $tier->earlymappinglifemana
-Rarity Normal Magic
-BaseType == "Divine Life Flask" "Divine Mana Flask" "Eternal Life Flask" "Eternal Mana Flask" "Hallowed Hybrid Flask"
-AreaLevel >= 68
-AreaLevel <= 69
-SetBorderColor 100 100 100 150
-SetBackgroundColor 0 0 0 180
+#Show # # %D2 $type->endgameflasks $tier->earlymappinglifemana
+#	Rarity Normal Magic
+#	BaseType == "Divine Life Flask" "Divine Mana Flask" "Eternal Life Flask" "Eternal Mana Flask" "Hallowed Hybrid Flask"
+#	AreaLevel >= 68
+#	AreaLevel <= 69
+#	SetBorderColor 100 100 100 150
+#	SetBackgroundColor 0 0 0 180
 
 #===============================================================================================================
 # [[1500]] Misc Rules
@@ -3769,15 +3783,15 @@ PlayAlertSound 3 300
 PlayEffect Blue
 MinimapIcon 1 Blue Diamond
 
-Show # %HS1 $type->rare->exotic->breachrings $tier->any
-ItemLevel >= 68
-Rarity Rare
-Class "Rings"
-BaseType "Breach"
-SetFontSize 45
-SetTextColor 0 0 0 255
-SetBorderColor 0 240 190 255
-SetBackgroundColor 226 155 25 200
+Hide # %HS1 $type->rare->exotic->breachrings $tier->any
+	ItemLevel >= 68
+	Rarity Rare
+	Class "Rings"
+	BaseType "Breach"
+	SetFontSize 45
+	SetTextColor 0 0 0 255
+	SetBorderColor 0 240 190 255
+	SetBackgroundColor 226 155 25 200
 
 # !! Waypoint c6.rare.talisman.all : "Rare Endgame Items - Talismans"
 
@@ -3908,15 +3922,15 @@ SetTextColor 0 0 0 255
 SetBorderColor 0 0 0 255
 SetBackgroundColor 226 155 25 255
 
-Show # %D2 $type->rr->amuring $tier->t3
-ItemLevel >= 68
-Rarity Rare
-Class "Amulets" "Rings"
-BaseType == "Coral Amulet" "Gold Amulet" "Gold Ring" "Iron Ring" "Moonstone Ring" "Paua Amulet" "Paua Ring"
-SetFontSize 40
-SetTextColor 0 0 0 255
-SetBorderColor 0 0 0 255
-SetBackgroundColor 226 155 25 200
+#Show # # %D2 $type->rr->amuring $tier->t3
+#	ItemLevel >= 68
+#	Rarity Rare
+#	Class "Amulets" "Rings"
+#	BaseType == "Coral Amulet" "Gold Amulet" "Gold Ring" "Iron Ring" "Moonstone Ring" "Paua Amulet" "Paua Ring"
+#	SetFontSize 40
+#	SetTextColor 0 0 0 255
+#	SetBorderColor 0 0 0 255
+#	SetBackgroundColor 226 155 25 200
 
 # !! Waypoint c6.rare.belts.all : "Rare Endgame Items - Belts"
 
@@ -3940,15 +3954,15 @@ SetTextColor 0 0 0 255
 SetBorderColor 0 0 0 255
 SetBackgroundColor 226 155 25 255
 
-Show # %D2 $type->rr->belts $tier->t3
-ItemLevel >= 68
-Rarity Rare
-Class "Belts"
-BaseType == "Chain Belt" "Cloth Belt" "Studded Belt"
-SetFontSize 40
-SetTextColor 0 0 0 255
-SetBorderColor 0 0 0 255
-SetBackgroundColor 226 155 25 200
+#Show # # %D2 $type->rr->belts $tier->t3
+#	ItemLevel >= 68
+#	Rarity Rare
+#	Class "Belts"
+#	BaseType == "Chain Belt" "Cloth Belt" "Studded Belt"
+#	SetFontSize 40
+#	SetTextColor 0 0 0 255
+#	SetBorderColor 0 0 0 255
+#	SetBackgroundColor 226 155 25 200
 
 #===============================================================================================================
 # [[2100]] Endgame - Rare - Gear - T1 - handpicked
@@ -4009,173 +4023,173 @@ SetBackgroundColor 35 35 35 213
 #===============================================================================================================
 # !! Waypoint c6.rare.t3.all : "Rare Endgame Items - t3"
 
-Show # %D2 $type->rr $tier->t3runedaggers
-ItemLevel >= 68
-Rarity Rare
-Class == "Rune Daggers"
-BaseType == "Demon Dagger" "Imperial Skean"
-SetFontSize 35
-SetBackgroundColor 118 118 118 136
+#Show # # %D2 $type->rr $tier->t3runedaggers
+#	ItemLevel >= 68
+#	Rarity Rare
+#	Class == "Rune Daggers"
+#	BaseType == "Demon Dagger" "Imperial Skean"
+#	SetFontSize 35
+#	SetBackgroundColor 118 118 118 136
 
-Show # %D2 $type->rr $tier->t3daggers
-ItemLevel >= 68
-Rarity Rare
-Class == "Daggers"
-BaseType == "Ambusher" "Sai"
-SetFontSize 35
-SetBackgroundColor 118 118 118 136
+#Show # # %D2 $type->rr $tier->t3daggers
+#	ItemLevel >= 68
+#	Rarity Rare
+#	Class == "Daggers"
+#	BaseType == "Ambusher" "Sai"
+#	SetFontSize 35
+#	SetBackgroundColor 118 118 118 136
 
-Show # %D2 $type->rr $tier->t3claws
-ItemLevel >= 68
-Rarity Rare
-Class == "Claws"
-BaseType == "Eye Gouger" "Hellion's Paw" "Terror Claw" "Throat Stabber" "Twin Claw"
-SetFontSize 35
-SetBackgroundColor 118 118 118 136
+#Show # # %D2 $type->rr $tier->t3claws
+#	ItemLevel >= 68
+#	Rarity Rare
+#	Class == "Claws"
+#	BaseType == "Eye Gouger" "Hellion's Paw" "Terror Claw" "Throat Stabber" "Twin Claw"
+#	SetFontSize 35
+#	SetBackgroundColor 118 118 118 136
 
-Show # %D2 $type->rr $tier->t3wands
-ItemLevel >= 68
-Rarity Rare
-Class == "Wands"
-BaseType == "Coiled Wand" "Crystal Wand" "Engraved Wand" "Heathen Wand" "Omen Wand" "Pagan Wand"
-SetFontSize 35
-SetBackgroundColor 118 118 118 136
+#Show # # %D2 $type->rr $tier->t3wands
+#	ItemLevel >= 68
+#	Rarity Rare
+#	Class == "Wands"
+#	BaseType == "Coiled Wand" "Crystal Wand" "Engraved Wand" "Heathen Wand" "Omen Wand" "Pagan Wand"
+#	SetFontSize 35
+#	SetBackgroundColor 118 118 118 136
 
-Show # %D2 $type->rr $tier->t3foils
-ItemLevel >= 68
-Rarity Rare
-Class == "Thrusting One Hand Swords"
-BaseType == "Fancy Foil" "Harpy Rapier" "Serrated Foil" "Spiraled Foil"
-SetFontSize 35
-SetBackgroundColor 118 118 118 136
+#Show # # %D2 $type->rr $tier->t3foils
+#	ItemLevel >= 68
+#	Rarity Rare
+#	Class == "Thrusting One Hand Swords"
+#	BaseType == "Fancy Foil" "Harpy Rapier" "Serrated Foil" "Spiraled Foil"
+#	SetFontSize 35
+#	SetBackgroundColor 118 118 118 136
 
-Show # %D2 $type->rr $tier->t3swords1h
-ItemLevel >= 68
-Rarity Rare
-Class == "One Hand Swords"
-BaseType == "Corsair Sword" "Eternal Sword" "Midnight Blade"
-SetFontSize 35
-SetBackgroundColor 118 118 118 136
+#Show # # %D2 $type->rr $tier->t3swords1h
+#	ItemLevel >= 68
+#	Rarity Rare
+#	Class == "One Hand Swords"
+#	BaseType == "Corsair Sword" "Eternal Sword" "Midnight Blade"
+#	SetFontSize 35
+#	SetBackgroundColor 118 118 118 136
 
-Show # %D2 $type->rr $tier->t3maces1h
-ItemLevel >= 68
-Rarity Rare
-Class == "One Hand Maces"
-BaseType == "Behemoth Mace" "Legion Hammer" "Nightmare Mace"
-SetFontSize 35
-SetBackgroundColor 118 118 118 136
+#Show # # %D2 $type->rr $tier->t3maces1h
+#	ItemLevel >= 68
+#	Rarity Rare
+#	Class == "One Hand Maces"
+#	BaseType == "Behemoth Mace" "Legion Hammer" "Nightmare Mace"
+#	SetFontSize 35
+#	SetBackgroundColor 118 118 118 136
 
-Show # %D2 $type->rr $tier->t3axes1h
-ItemLevel >= 68
-Rarity Rare
-Class == "One Hand Axes"
-BaseType == "Runic Hatchet" "Siege Axe" "Vaal Hatchet"
-SetFontSize 35
-SetBackgroundColor 118 118 118 136
+#Show # # %D2 $type->rr $tier->t3axes1h
+#	ItemLevel >= 68
+#	Rarity Rare
+#	Class == "One Hand Axes"
+#	BaseType == "Runic Hatchet" "Siege Axe" "Vaal Hatchet"
+#	SetFontSize 35
+#	SetBackgroundColor 118 118 118 136
 
-Show # %D2 $type->rr $tier->t3sceptres
-ItemLevel >= 68
-Rarity Rare
-Class == "Sceptres"
-BaseType == "Abyssal Sceptre" "Carnal Sceptre" "Karui Sceptre" "Platinum Sceptre" "Stag Sceptre" "Tyrant's Sekhem"
-SetFontSize 35
-SetBackgroundColor 118 118 118 136
+#Show # # %D2 $type->rr $tier->t3sceptres
+#	ItemLevel >= 68
+#	Rarity Rare
+#	Class == "Sceptres"
+#	BaseType == "Abyssal Sceptre" "Carnal Sceptre" "Karui Sceptre" "Platinum Sceptre" "Stag Sceptre" "Tyrant's Sekhem"
+#	SetFontSize 35
+#	SetBackgroundColor 118 118 118 136
 
-Show # %D2 $type->rr $tier->t3warstaves
-ItemLevel >= 68
-Rarity Rare
-Class == "Warstaves"
-BaseType == "Judgement Staff" "Maelström Staff"
-SetFontSize 35
-SetBackgroundColor 118 118 118 136
+#Show # # %D2 $type->rr $tier->t3warstaves
+#	ItemLevel >= 68
+#	Rarity Rare
+#	Class == "Warstaves"
+#	BaseType == "Judgement Staff" "Maelström Staff"
+#	SetFontSize 35
+#	SetBackgroundColor 118 118 118 136
 
-Show # %D2 $type->rr $tier->t3staves
-ItemLevel >= 68
-Rarity Rare
-Class == "Staves"
-BaseType == "Lathi"
-SetFontSize 35
-SetBackgroundColor 118 118 118 136
+#Show # # %D2 $type->rr $tier->t3staves
+#	ItemLevel >= 68
+#	Rarity Rare
+#	Class == "Staves"
+#	BaseType == "Lathi"
+#	SetFontSize 35
+#	SetBackgroundColor 118 118 118 136
 
-Show # %D2 $type->rr $tier->t3swords2h
-ItemLevel >= 68
-Rarity Rare
-Class == "Two Hand Swords"
-BaseType == "Exquisite Blade" "Lion Sword"
-SetFontSize 35
-SetBackgroundColor 118 118 118 136
+#Show # # %D2 $type->rr $tier->t3swords2h
+#	ItemLevel >= 68
+#	Rarity Rare
+#	Class == "Two Hand Swords"
+#	BaseType == "Exquisite Blade" "Lion Sword"
+#	SetFontSize 35
+#	SetBackgroundColor 118 118 118 136
 
-Show # %D2 $type->rr $tier->t3axes2h
-ItemLevel >= 68
-Rarity Rare
-Class == "Two Hand Axes"
-BaseType == "Ezomyte Axe" "Fleshripper" "Karui Chopper" "Vaal Axe"
-SetFontSize 35
-SetBackgroundColor 118 118 118 136
+#Show # # %D2 $type->rr $tier->t3axes2h
+#	ItemLevel >= 68
+#	Rarity Rare
+#	Class == "Two Hand Axes"
+#	BaseType == "Ezomyte Axe" "Fleshripper" "Karui Chopper" "Vaal Axe"
+#	SetFontSize 35
+#	SetBackgroundColor 118 118 118 136
 
-Show # %D2 $type->rr $tier->t3maces2h
-ItemLevel >= 68
-Rarity Rare
-Class == "Two Hand Maces"
-BaseType == "Coronal Maul" "Piledriver"
-SetFontSize 35
-SetBackgroundColor 118 118 118 136
+#Show # # %D2 $type->rr $tier->t3maces2h
+#	ItemLevel >= 68
+#	Rarity Rare
+#	Class == "Two Hand Maces"
+#	BaseType == "Coronal Maul" "Piledriver"
+#	SetFontSize 35
+#	SetBackgroundColor 118 118 118 136
 
-Show # %D2 $type->rr $tier->t3bows
-ItemLevel >= 68
-Rarity Rare
-Class == "Bows"
-BaseType == "Assassin Bow" "Grove Bow" "Harbinger Bow" "Ranger Bow"
-SetFontSize 35
-SetBackgroundColor 118 118 118 136
+#Show # # %D2 $type->rr $tier->t3bows
+#	ItemLevel >= 68
+#	Rarity Rare
+#	Class == "Bows"
+#	BaseType == "Assassin Bow" "Grove Bow" "Harbinger Bow" "Ranger Bow"
+#	SetFontSize 35
+#	SetBackgroundColor 118 118 118 136
 
-Show # %D2 $type->rr $tier->t3boots
-ItemLevel >= 68
-Rarity Rare
-Class == "Boots"
-BaseType == "Ambush Boots" "Antique Greaves" "Carnal Boots" "Eelskin Boots" "Ironscale Boots" "Mesh Boots" "Nubuck Boots" "Plated Greaves" "Reinforced Greaves" "Riveted Boots" "Samite Slippers" "Satin Slippers" "Scholar Boots" "Trapper Boots" "Zealot Boots"
-SetFontSize 35
-SetBackgroundColor 118 118 118 136
+#Show # # %D2 $type->rr $tier->t3boots
+#	ItemLevel >= 68
+#	Rarity Rare
+#	Class == "Boots"
+#	BaseType == "Ambush Boots" "Antique Greaves" "Carnal Boots" "Eelskin Boots" "Ironscale Boots" "Mesh Boots" "Nubuck Boots" "Plated Greaves" "Reinforced Greaves" "Riveted Boots" "Samite Slippers" "Satin Slippers" "Scholar Boots" "Trapper Boots" "Zealot Boots"
+#	SetFontSize 35
+#	SetBackgroundColor 118 118 118 136
 
-Show # %D2 $type->rr $tier->t3gloves
-ItemLevel >= 68
-Rarity Rare
-Class == "Gloves"
-BaseType == "Ancient Gauntlets" "Antique Gauntlets" "Bronzescale Gauntlets" "Carnal Mitts" "Conjurer Gloves" "Ironscale Gauntlets" "Samite Gloves" "Shagreen Gloves" "Sharkskin Gloves" "Soldier Gloves" "Zealot Gloves"
-SetFontSize 35
-SetBackgroundColor 118 118 118 136
+#Show # # %D2 $type->rr $tier->t3gloves
+#	ItemLevel >= 68
+#	Rarity Rare
+#	Class == "Gloves"
+#	BaseType == "Ancient Gauntlets" "Antique Gauntlets" "Bronzescale Gauntlets" "Carnal Mitts" "Conjurer Gloves" "Ironscale Gauntlets" "Samite Gloves" "Shagreen Gloves" "Sharkskin Gloves" "Soldier Gloves" "Zealot Gloves"
+#	SetFontSize 35
+#	SetBackgroundColor 118 118 118 136
 
-Show # %D2 $type->rr $tier->t3helmets
-ItemLevel >= 68
-Rarity Rare
-Class == "Helmets"
-BaseType == "Gilded Sallet" "Great Crown" "Harlequin Mask" "Magistrate Crown" "Necromancer Circlet" "Noble Tricorne" "Prophet Crown" "Regicide Mask" "Samnite Helmet" "Secutor Helm" "Siege Helmet" "Solaris Circlet" "Ursine Pelt"
-SetFontSize 35
-SetBackgroundColor 118 118 118 136
+#Show # # %D2 $type->rr $tier->t3helmets
+#	ItemLevel >= 68
+#	Rarity Rare
+#	Class == "Helmets"
+#	BaseType == "Gilded Sallet" "Great Crown" "Harlequin Mask" "Magistrate Crown" "Necromancer Circlet" "Noble Tricorne" "Prophet Crown" "Regicide Mask" "Samnite Helmet" "Secutor Helm" "Siege Helmet" "Solaris Circlet" "Ursine Pelt"
+#	SetFontSize 35
+#	SetBackgroundColor 118 118 118 136
 
-Show # %D2 $type->rr $tier->t3body
-ItemLevel >= 68
-Rarity Rare
-Class == "Body Armours"
-BaseType == "Assassin's Garb" "Astral Plate" "Blood Raiment" "Carnal Armour" "Crusader Plate" "Desert Brigandine" "Dragonscale Doublet" "Elegant Ringmail" "Exquisite Leather" "General's Brigandine" "Gladiator Plate" "Glorious Plate" "Necromancer Silks" "Occultist's Vestment" "Sadist Garb" "Saint's Hauberk" "Savant's Robe" "Widowsilk Robe" "Zodiac Leather"
-SetFontSize 35
-SetBackgroundColor 118 118 118 136
+#Show # # %D2 $type->rr $tier->t3body
+#	ItemLevel >= 68
+#	Rarity Rare
+#	Class == "Body Armours"
+#	BaseType == "Assassin's Garb" "Astral Plate" "Blood Raiment" "Carnal Armour" "Crusader Plate" "Desert Brigandine" "Dragonscale Doublet" "Elegant Ringmail" "Exquisite Leather" "General's Brigandine" "Gladiator Plate" "Glorious Plate" "Necromancer Silks" "Occultist's Vestment" "Sadist Garb" "Saint's Hauberk" "Savant's Robe" "Widowsilk Robe" "Zodiac Leather"
+#	SetFontSize 35
+#	SetBackgroundColor 118 118 118 136
 
-Show # %D2 $type->rr $tier->t3shields
-ItemLevel >= 68
-Rarity Rare
-Class == "Shields"
-BaseType == "Ancient Spirit Shield" "Angelic Kite Shield" "Branded Kite Shield" "Chiming Spirit Shield" "Ebony Tower Shield" "Ezomyte Spiked Shield" "Lacewood Spirit Shield" "Mosaic Kite Shield" "Sovereign Spiked Shield" "Spiked Round Shield" "Spiny Round Shield" "Teak Round Shield" "Thorium Spirit Shield" "Vaal Buckler"
-SetFontSize 35
-SetBackgroundColor 118 118 118 136
+#Show # # %D2 $type->rr $tier->t3shields
+#	ItemLevel >= 68
+#	Rarity Rare
+#	Class == "Shields"
+#	BaseType == "Ancient Spirit Shield" "Angelic Kite Shield" "Branded Kite Shield" "Chiming Spirit Shield" "Ebony Tower Shield" "Ezomyte Spiked Shield" "Lacewood Spirit Shield" "Mosaic Kite Shield" "Sovereign Spiked Shield" "Spiked Round Shield" "Spiny Round Shield" "Teak Round Shield" "Thorium Spirit Shield" "Vaal Buckler"
+#	SetFontSize 35
+#	SetBackgroundColor 118 118 118 136
 
-Show # %D2 $type->rr $tier->t3quivers
-ItemLevel >= 68
-Rarity Rare
-Class == "Quivers"
-BaseType == "Penetrating Arrow Quiver" "Spike-Point Arrow Quiver" "Two-Point Arrow Quiver"
-SetFontSize 35
-SetBackgroundColor 118 118 118 136
+#Show # # %D2 $type->rr $tier->t3quivers
+#	ItemLevel >= 68
+#	Rarity Rare
+#	Class == "Quivers"
+#	BaseType == "Penetrating Arrow Quiver" "Spike-Point Arrow Quiver" "Two-Point Arrow Quiver"
+#	SetFontSize 35
+#	SetBackgroundColor 118 118 118 136
 
 #===============================================================================================================
 # [[2500]] Endgame - Rare - Gear - T4 - rest
@@ -4324,10 +4338,8 @@ Show # %HS2 $type->jewels->abyss $tier->anyrare
 	SetTextColor 220 220 0 255
 	SetBorderColor 220 220 0 255
 	SetBackgroundColor 120 120 0 225
-	PlayEffect Grey
-	MinimapIcon 2 Grey Diamond
 
-Show # %H2 $type->jewels->abyss $tier->anymagic
+Hide # %H2 $type->jewels->abyss $tier->anymagic
 	Rarity Normal Magic
 	Class "Abyss Jewel"
 	SetFontSize 40
@@ -5771,15 +5783,15 @@ Show # %D3 $type->gems-generic $tier->qt3
 	PlayEffect Grey
 	MinimapIcon 1 White Triangle
 
-Show # %D2 $type->gems-generic $tier->lt3
-	GemLevel >= 18
-	Class "Gems"
-	SetFontSize 40
-	SetTextColor 30 190 190 255
-	SetBorderColor 40 130 130 255
+#Show # # %D2 $type->gems-generic $tier->lt3
+#	GemLevel >= 18
+#	Class "Gems"
+#	SetFontSize 40
+#	SetTextColor 30 190 190 255
+#	SetBorderColor 40 130 130 255
 
 Show # %D4 $type->gems-generic $tier->qt4lvl
-	Quality >= 1
+	Quality >= 2
 	Class "Gems"
 	AreaLevel <= 67
 	SetFontSize 45
@@ -5789,12 +5801,12 @@ Show # %D4 $type->gems-generic $tier->qt4lvl
 	PlayEffect Grey
 	MinimapIcon 1 White Triangle
 
-Show # %D2 $type->gems-generic $tier->qt4
-	Quality >= 1
-	Class "Gems"
-	SetFontSize 40
-	SetTextColor 30 190 190 255
-	SetBorderColor 40 130 130 255
+#Show # # %D2 $type->gems-generic $tier->qt4
+#	Quality >= 1
+#	Class "Gems"
+#	SetFontSize 40
+#	SetTextColor 30 190 190 255
+#	SetBorderColor 40 130 130 255
 
 #Show # # %D0 $type->gems-generic $tier->lt4
 #	GemLevel >= 2
@@ -5805,11 +5817,11 @@ Show # %D2 $type->gems-generic $tier->qt4
 
 # !! Waypoint c8.gems.low : "Gem Rules - First Zones, Leveling, Vaal"
 
-Show # $type->gems-generic $tier->firstzone
-	Class "Gems"
-	AreaLevel 1
-	SetFontSize 45
-	SetBorderColor 0 0 0
+Hide # $type->gems-generic $tier->firstzone
+Class "Gems"
+AreaLevel 1
+SetFontSize 45
+SetBorderColor 0 0 0
 
 Show # %H4 $type->gems-generic $tier->levelingvaal
 Class "Gems"
@@ -5820,11 +5832,11 @@ SetBorderColor 0 0 0
 SetBackgroundColor 55 0 0 255
 MinimapIcon 2 White Triangle
 
-Show # %H2 $type->gems-generic $tier->leveling
-	Class "Gems"
-	AreaLevel <= 67
-	SetFontSize 40
-	SetBorderColor 0 0 0
+Hide # %H2 $type->gems-generic $tier->leveling
+Class "Gems"
+AreaLevel <= 67
+SetFontSize 40
+SetBorderColor 0 0 0
 
 Show # %D3 $type->gems-generic $tier->corruptedvaalany
 Class "Gems"
@@ -6841,14 +6853,14 @@ SetTextColor 0 0 0 255
 SetBorderColor 0 0 0 255
 SetBackgroundColor 190 110 111 255
 
-Show # %D2 $type->currency->stackedsupplieshigh $tier->t3
-StackSize >= 3
-Class "Currency"
-BaseType == "Blacksmith's Whetstone" "Orb of Augmentation" "Orb of Transmutation"
-SetFontSize 45
-SetTextColor 0 0 0 255
-SetBorderColor 0 0 0 255
-SetBackgroundColor 190 110 111 255
+#Show # # %D2 $type->currency->stackedsupplieshigh $tier->t3
+#	StackSize >= 3
+#	Class "Currency"
+#	BaseType == "Blacksmith's Whetstone" "Orb of Augmentation" "Orb of Transmutation"
+#	SetFontSize 45
+#	SetTextColor 0 0 0 255
+#	SetBorderColor 0 0 0 255
+#	SetBackgroundColor 190 110 111 255
 
 #------------------------------------
 #   [3602] Supplies: Low Stacking
@@ -6877,14 +6889,14 @@ SetTextColor 0 0 0 255
 SetBorderColor 0 0 0 255
 SetBackgroundColor 190 110 111 255
 
-Show # %D2 $type->currency->stackedsupplieslow $tier->t3
-StackSize >= 3
-Class "Currency"
-BaseType == "Armourer's Scrap"
-SetFontSize 45
-SetTextColor 190 120 90 255
-SetBorderColor 190 120 90 255
-SetBackgroundColor 0 0 0 255
+#Show # # %D2 $type->currency->stackedsupplieslow $tier->t3
+#	StackSize >= 3
+#	Class "Currency"
+#	BaseType == "Armourer's Scrap"
+#	SetFontSize 45
+#	SetTextColor 190 120 90 255
+#	SetBorderColor 190 120 90 255
+#	SetBackgroundColor 0 0 0 255
 
 #------------------------------------
 #   [3603] Supplies: Portal Stacking
@@ -6906,14 +6918,14 @@ SetFontSize 45
 SetBorderColor 60 100 200 255
 SetBackgroundColor 0 0 0 255
 
-Show # %D2 $type->currency->stackedsuppliesportal $tier->t3
-StackSize >= 3
-Class "Currency"
-BaseType == "Portal Scroll"
-SetFontSize 40
-SetTextColor 180 130 90 230
-SetBorderColor 50 0 0 255
-SetBackgroundColor 0 0 0 255
+#Show # # %D2 $type->currency->stackedsuppliesportal $tier->t3
+#	StackSize >= 3
+#	Class "Currency"
+#	BaseType == "Portal Scroll"
+#	SetFontSize 40
+#	SetTextColor 180 130 90 230
+#	SetBorderColor 50 0 0 255
+#	SetBackgroundColor 0 0 0 255
 
 #------------------------------------
 #   [3604] Supplies: Wisdom Stacking
@@ -6935,14 +6947,14 @@ SetFontSize 45
 SetBorderColor 200 100 60 255
 SetBackgroundColor 0 0 0 255
 
-Show # %D2 $type->currency->stackedsupplieswisdom $tier->t3
-StackSize >= 3
-Class "Currency"
-BaseType == "Scroll of Wisdom"
-SetFontSize 40
-SetTextColor 180 130 90 230
-SetBorderColor 50 0 0 255
-SetBackgroundColor 0 0 0 255
+#Show # # %D2 $type->currency->stackedsupplieswisdom $tier->t3
+#	StackSize >= 3
+#	Class "Currency"
+#	BaseType == "Scroll of Wisdom"
+#	SetFontSize 40
+#	SetTextColor 180 130 90 230
+#	SetBorderColor 50 0 0 255
+#	SetBackgroundColor 0 0 0 255
 
 #------------------------------------
 #   [3605] Stacked Currencies: 6x
@@ -7223,13 +7235,13 @@ SetTextColor 0 0 0 255
 SetBorderColor 0 0 0 255
 SetBackgroundColor 190 110 111 255
 
-Show # %H2 $type->currency $tier->t8trans
-Class "Currency"
-BaseType == "Alchemy Shard" "Alteration Shard" "Binding Shard" "Blacksmith's Whetstone" "Chaos Shard" "Harbinger's Shard" "Horizon Shard" "Orb of Augmentation" "Orb of Transmutation" "Regal Shard"
-SetFontSize 45
-SetTextColor 190 120 90 255
-SetBorderColor 190 120 90 255
-SetBackgroundColor 0 0 0 255
+Hide # %H2 $type->currency $tier->t8trans
+	Class "Currency"
+	BaseType == "Alchemy Shard" "Alteration Shard" "Binding Shard" "Blacksmith's Whetstone" "Chaos Shard" "Harbinger's Shard" "Horizon Shard" "Orb of Augmentation" "Orb of Transmutation" "Regal Shard"
+	SetFontSize 45
+	SetTextColor 190 120 90 255
+	SetBorderColor 190 120 90 255
+	SetBackgroundColor 0 0 0 255
 
 Hide # %H1 $type->currency $tier->t9armour
 	Class "Currency"
@@ -7574,13 +7586,13 @@ SetTextColor 0 0 0 255
 SetBorderColor 0 0 0 255
 SetBackgroundColor 190 110 111 255
 
-Show # %H2 $type->currency->essence $tier->t5
-Class "Currency"
-BaseType "Weeping Essence of"
-SetFontSize 45
-SetTextColor 190 120 90 255
-SetBorderColor 190 120 90 255
-SetBackgroundColor 0 0 0 255
+Hide # %H2 $type->currency->essence $tier->t5
+	Class "Currency"
+	BaseType "Weeping Essence of"
+	SetFontSize 45
+	SetTextColor 190 120 90 255
+	SetBorderColor 190 120 90 255
+	SetBackgroundColor 0 0 0 255
 
 Hide # %H1 $type->currency->essence $tier->t6
 	Class "Currency"
@@ -7998,7 +8010,6 @@ SetFontSize 45
 SetTextColor 180 111 111 255
 SetBorderColor 180 111 111 255
 SetBackgroundColor 0 0 0 255
-PlayAlertSound 2 300
 
 Show # %HS3 $type->divination $tier->t4
 Class "Divination"
@@ -8584,18 +8595,19 @@ PlayEffect Grey
 MinimapIcon 1 Yellow Raindrop
 
 Show # $type->leveling->flasks->utility $tier->asortedutility
-BaseType == "Amethyst Flask" "Aquamarine Flask" "Basalt Flask" "Bismuth Flask" "Diamond Flask" "Granite Flask" "Iron Flask" "Jade Flask" "Quartz Flask" "Quicksilver Flask" "Ruby Flask" "Sapphire Flask" "Silver Flask" "Stibnite Flask" "Sulphur Flask" "Topaz Flask"
+BaseType == "Granite Flask" "Jade Flask" "Sulphur Flask"
 SetFontSize 45
 SetBorderColor 50 200 125
 SetBackgroundColor 25 100 75
 PlayEffect Grey Temp
 MinimapIcon 2 Grey Raindrop
 
-Show # %H3 $type->leveling->flasks->utility $tier->any
-	Class "Utility Flask"
-	SetFontSize 40
-	SetBorderColor 0 0 0 255
-	SetBackgroundColor 25 100 75
+Hide # %H3 $type->leveling->flasks->utility $tier->any
+Class "Utility Flask"
+SetFontSize 40
+SetBorderColor 0 0 0 255
+SetBackgroundColor 25 100 75
+Quality < 20
 
 Show # %D3 $type->leveling->flasks->quality $tier->max
 	Quality >= 20
@@ -8607,13 +8619,13 @@ Show # %D3 $type->leveling->flasks->quality $tier->max
 	SetBackgroundColor 66 34 71 255
 	PlayEffect Grey Temp
 
-#Show # # %D1 $type->leveling->flasks->quality $tier->high
-#	Quality >= 15
-#	Rarity Normal
-#	Class "Flask"
-#	SetFontSize 40
-#	SetBorderColor 200 200 200 255
-#	SetBackgroundColor 73 40 73 210
+Show # %D1 $type->leveling->flasks->quality $tier->high
+	Quality >= 15
+	Rarity Normal
+	Class "Flask"
+	SetFontSize 40
+	SetBorderColor 200 200 200 255
+	SetBackgroundColor 73 40 73 210
 
 #Show # # %D0 $type->leveling->flasks->quality $tier->any
 #	Quality >= 1
@@ -8628,42 +8640,42 @@ Show # %D3 $type->leveling->flasks->quality $tier->max
 #------------------------------------
 # !! Waypoint c11.leveling.lifeflasks : "Leveling - Life, Mana, Hybrid flasks"
 
-Show # %H2 $type->leveling->flasks->hybrid $tier->t1
+Hide # %H2 $type->leveling->flasks->hybrid $tier->t1
 Class "Hybrid Flasks"
 BaseType "Small"
 AreaLevel <= 20
 SetFontSize 40
 SetBorderColor 100 0 100
 
-Show # %H2 $type->leveling->flasks->hybrid $tier->t2
+Hide # %H2 $type->leveling->flasks->hybrid $tier->t2
 Class "Hybrid Flasks"
 BaseType "Medium"
 AreaLevel <= 30
 SetFontSize 40
 SetBorderColor 100 0 100
 
-Show # %H2 $type->leveling->flasks->hybrid $tier->t3
+Hide # %H2 $type->leveling->flasks->hybrid $tier->t3
 Class "Hybrid Flasks"
 BaseType "Large"
 AreaLevel <= 40
 SetFontSize 40
 SetBorderColor 100 0 100
 
-Show # %H2 $type->leveling->flasks->hybrid $tier->t4
+Hide # %H2 $type->leveling->flasks->hybrid $tier->t4
 Class "Hybrid Flasks"
 BaseType "Colossal"
 AreaLevel <= 50
 SetFontSize 40
 SetBorderColor 100 0 100
 
-Show # %H2 $type->leveling->flasks->hybrid $tier->t5
+Hide # %H2 $type->leveling->flasks->hybrid $tier->t5
 Class "Hybrid Flasks"
 BaseType "Sacred"
 AreaLevel <= 60
 SetFontSize 40
 SetBorderColor 100 0 100
 
-Show # %H2 $type->leveling->flasks->hybrid $tier->t6
+Hide # %H2 $type->leveling->flasks->hybrid $tier->t6
 Class "Hybrid Flasks"
 BaseType "Hallowed"
 AreaLevel <= 67
@@ -8674,84 +8686,84 @@ SetBorderColor 100 0 100
 #   [4703] Life flasks
 #------------------------------------
 
-Show # $type->leveling->flasks->life $tier->t1
+Hide # $type->leveling->flasks->life $tier->t1
 Class "Life Flasks"
 BaseType "Small"
 AreaLevel <= 5
 SetFontSize 40
 SetBorderColor 120 0 0
 
-Show # $type->leveling->flasks->life $tier->t2
+Hide # $type->leveling->flasks->life $tier->t2
 Class "Life Flasks"
 BaseType "Medium"
 AreaLevel <= 8
 SetFontSize 40
 SetBorderColor 120 0 0
 
-Show # $type->leveling->flasks->life $tier->t3
+Hide # $type->leveling->flasks->life $tier->t3
 Class "Life Flasks"
 BaseType "Large"
 AreaLevel <= 13
 SetFontSize 40
 SetBorderColor 120 0 0
 
-Show # $type->leveling->flasks->life $tier->t4
+Hide # $type->leveling->flasks->life $tier->t4
 Class "Life Flasks"
 BaseType "Greater"
 AreaLevel <= 19
 SetFontSize 40
 SetBorderColor 120 0 0
 
-Show # $type->leveling->flasks->life $tier->t5
+Hide # $type->leveling->flasks->life $tier->t5
 Class "Life Flasks"
 BaseType "Grand"
 AreaLevel <= 25
 SetFontSize 40
 SetBorderColor 120 0 0
 
-Show # $type->leveling->flasks->life $tier->t6
+Hide # $type->leveling->flasks->life $tier->t6
 Class "Life Flasks"
 BaseType "Giant"
 AreaLevel <= 31
 SetFontSize 40
 SetBorderColor 120 0 0
 
-Show # $type->leveling->flasks->life $tier->t7
+Hide # $type->leveling->flasks->life $tier->t7
 Class "Life Flasks"
 BaseType "Colossal"
 AreaLevel <= 37
 SetFontSize 40
 SetBorderColor 120 0 0
 
-Show # $type->leveling->flasks->life $tier->t8
+Hide # $type->leveling->flasks->life $tier->t8
 Class "Life Flasks"
 BaseType "Sacred"
 AreaLevel <= 43
 SetFontSize 40
 SetBorderColor 120 0 0
 
-Show # $type->leveling->flasks->life $tier->t9
+Hide # $type->leveling->flasks->life $tier->t9
 Class "Life Flasks"
 BaseType "Hallowed"
 AreaLevel <= 51
 SetFontSize 40
 SetBorderColor 120 0 0
 
-Show # $type->leveling->flasks->life $tier->t10
+Hide # $type->leveling->flasks->life $tier->t10
 Class "Life Flasks"
 BaseType "Sanctified"
 AreaLevel <= 60
 SetFontSize 40
 SetBorderColor 120 0 0
 
-Show # $type->leveling->flasks->life $tier->t11
+Hide # $type->leveling->flasks->life $tier->t11
 Class "Life Flasks"
 BaseType "Divine"
 AreaLevel <= 68
 SetFontSize 40
 SetBorderColor 120 0 0
 
-Show # $type->leveling->flasks->life $tier->t12
+Hide # $type->leveling->flasks->life $tier->t12
 Class "Life Flasks"
 BaseType "Eternal"
 AreaLevel <= 68
@@ -8762,84 +8774,84 @@ SetBorderColor 120 0 0
 #   [4704] Mana flasks
 #------------------------------------
 
-Show # $type->leveling->flasks->mana $tier->t1
+Hide # $type->leveling->flasks->mana $tier->t1
 Class "Mana Flasks"
 BaseType "Small"
 AreaLevel <= 5
 SetFontSize 40
 SetBorderColor 0 0 120
 
-Show # $type->leveling->flasks->mana $tier->t2
+Hide # $type->leveling->flasks->mana $tier->t2
 Class "Mana Flasks"
 BaseType "Medium"
 AreaLevel <= 8
 SetFontSize 40
 SetBorderColor 0 0 120
 
-Show # $type->leveling->flasks->mana $tier->t3
+Hide # $type->leveling->flasks->mana $tier->t3
 Class "Mana Flasks"
 BaseType "Large"
 AreaLevel <= 13
 SetFontSize 40
 SetBorderColor 0 0 120
 
-Show # $type->leveling->flasks->mana $tier->t4
+Hide # $type->leveling->flasks->mana $tier->t4
 Class "Mana Flasks"
 BaseType "Greater"
 AreaLevel <= 19
 SetFontSize 40
 SetBorderColor 0 0 120
 
-Show # $type->leveling->flasks->mana $tier->t5
+Hide # $type->leveling->flasks->mana $tier->t5
 Class "Mana Flasks"
 BaseType "Grand"
 AreaLevel <= 25
 SetFontSize 40
 SetBorderColor 0 0 120
 
-Show # $type->leveling->flasks->mana $tier->t6
+Hide # $type->leveling->flasks->mana $tier->t6
 Class "Mana Flasks"
 BaseType "Giant"
 AreaLevel <= 31
 SetFontSize 40
 SetBorderColor 0 0 120
 
-Show # $type->leveling->flasks->mana $tier->t7
+Hide # $type->leveling->flasks->mana $tier->t7
 Class "Mana Flasks"
 BaseType "Colossal"
 AreaLevel <= 37
 SetFontSize 40
 SetBorderColor 0 0 120
 
-Show # $type->leveling->flasks->mana $tier->t8
+Hide # $type->leveling->flasks->mana $tier->t8
 Class "Mana Flasks"
 BaseType "Sacred"
 AreaLevel <= 43
 SetFontSize 40
 SetBorderColor 0 0 120
 
-Show # $type->leveling->flasks->mana $tier->t9
+Hide # $type->leveling->flasks->mana $tier->t9
 Class "Mana Flasks"
 BaseType "Hallowed"
 AreaLevel <= 51
 SetFontSize 40
 SetBorderColor 0 0 120
 
-Show # $type->leveling->flasks->mana $tier->t10
+Hide # $type->leveling->flasks->mana $tier->t10
 Class "Mana Flasks"
 BaseType "Sanctified"
 AreaLevel <= 60
 SetFontSize 40
 SetBorderColor 0 0 120
 
-Show # $type->leveling->flasks->mana $tier->t11
+Hide # $type->leveling->flasks->mana $tier->t11
 Class "Mana Flasks"
 BaseType "Divine"
 AreaLevel <= 68
 SetFontSize 40
 SetBorderColor 0 0 120
 
-Show # $type->leveling->flasks->mana $tier->t12
+Hide # $type->leveling->flasks->mana $tier->t12
 Class "Mana Flasks"
 BaseType "Eternal"
 AreaLevel <= 68
@@ -9183,25 +9195,25 @@ Show # %D3 $type->leveling->rare->remaining $tier->chromaticrares
 	SetFontSize 40
 	SetBackgroundColor 118 118 118 136
 
-Show # %D2 $type->leveling->rare->remaining $tier->underlevel68
-	Rarity Rare
-	AreaLevel >= 42
-	SetFontSize 40
-	SetBackgroundColor 118 118 118 136
+#Show # # %D2 $type->leveling->rare->remaining $tier->underlevel68
+#	Rarity Rare
+#	AreaLevel >= 42
+#	SetFontSize 40
+#	SetBackgroundColor 118 118 118 136
 
-Show # %D2 $type->leveling->rare->remaining $tier->underlevel42
-	ItemLevel <= 42
-	Rarity Rare
-	AreaLevel >= 24
-	SetFontSize 40
-	SetBackgroundColor 118 118 118 136
+#Show # # %D2 $type->leveling->rare->remaining $tier->underlevel42
+#	ItemLevel <= 42
+#	Rarity Rare
+#	AreaLevel >= 24
+#	SetFontSize 40
+#	SetBackgroundColor 118 118 118 136
 
-Show # %D2 $type->leveling->rare->remaining $tier->underlevel24
-	ItemLevel <= 24
-	Rarity Rare
-	AreaLevel >= 16
-	SetFontSize 40
-	SetBackgroundColor 118 118 118 136
+#Show # # %D2 $type->leveling->rare->remaining $tier->underlevel24
+#	ItemLevel <= 24
+#	Rarity Rare
+#	AreaLevel >= 16
+#	SetFontSize 40
+#	SetBackgroundColor 118 118 118 136
 
 Show # %D3 $type->leveling->rare->remaining $tier->underlevel16
 	ItemLevel <= 16
@@ -9247,23 +9259,23 @@ Show # %D3 $type->leveling->normalmagic->rgb $tier->rgbsmall2
 	SetBorderColor 200 200 200 255
 	SetBackgroundColor 73 40 73 210
 
-Show # %D2 $type->leveling->normalmagic->rgb $tier->rgblarge
-	Width 2
-	Height 4
-	Rarity Normal Magic
-	SocketGroup "RGB"
-	SetFontSize 40
-	SetBorderColor 0 0 0 255
-	SetBackgroundColor 73 40 73 210
+#Show # # %D2 $type->leveling->normalmagic->rgb $tier->rgblarge
+#	Width 2
+#	Height 4
+#	Rarity Normal Magic
+#	SocketGroup "RGB"
+#	SetFontSize 40
+#	SetBorderColor 0 0 0 255
+#	SetBackgroundColor 73 40 73 210
 
-Show # %D2 $type->leveling->normalmagic->rgb $tier->rgbmedium
-	Width 2
-	Height 3
-	Rarity Normal Magic
-	SocketGroup "RGB"
-	SetFontSize 40
-	SetBorderColor 0 0 0 255
-	SetBackgroundColor 73 40 73 210
+#Show # # %D2 $type->leveling->normalmagic->rgb $tier->rgbmedium
+#	Width 2
+#	Height 3
+#	Rarity Normal Magic
+#	SocketGroup "RGB"
+#	SetFontSize 40
+#	SetBorderColor 0 0 0 255
+#	SetBackgroundColor 73 40 73 210
 
 # !! Waypoint c11.leveling.3linked.all : "Leveling - Linked - 3links"
 
@@ -9276,14 +9288,14 @@ Show # %D3 $type->leveling->normalmagic->3l $tier->earlythreelinks
 	SetBackgroundColor 0 0 0 255
 	PlayEffect Grey Temp
 
-Show # %D2 $type->leveling->normalmagic->3l $tier->general
-	LinkedSockets >= 3
-	Rarity Normal Magic
-	AreaLevel <= 28
-	SetFontSize 35
-	SetBorderColor 0 120 120 255
-	SetBackgroundColor 0 0 0 255
-	PlayEffect Grey Temp
+#Show # # %D2 $type->leveling->normalmagic->3l $tier->general
+#	LinkedSockets >= 3
+#	Rarity Normal Magic
+#	AreaLevel <= 28
+#	SetFontSize 35
+#	SetBorderColor 0 120 120 255
+#	SetBackgroundColor 0 0 0 255
+#	PlayEffect Grey Temp
 
 # !! Waypoint c11.leveling.act12.all : "Leveling - Normal and Magic - Act1, Act2 special gear"
 
@@ -9365,36 +9377,36 @@ SetBackgroundColor 0 0 0 255
 
 # !! Waypoint c11.leveling.actlater.all : "Leveling - Normal and Magic - Later Acts"
 
-Show # %D2 $type->leveling->normalmagic->otheracts $tier->highphysquivers
-Rarity Normal Magic
-BaseType == "Broadhead Arrow Quiver" "Heavy Arrow Quiver"
-SetFontSize 35
-SetBorderColor 100 100 100 150
-SetBackgroundColor 0 0 0 180
+#Show # # %D2 $type->leveling->normalmagic->otheracts $tier->highphysquivers
+#	Rarity Normal Magic
+#	BaseType == "Broadhead Arrow Quiver" "Heavy Arrow Quiver"
+#	SetFontSize 35
+#	SetBorderColor 100 100 100 150
+#	SetBackgroundColor 0 0 0 180
 
-Show # %D2 $type->leveling->normalmagic->otheracts $tier->fireresistgear
-Rarity Normal Magic
-BaseType == "Ruby Ring"
-AreaLevel >= 24
-AreaLevel <= 51
-SetFontSize 35
-SetBorderColor 100 100 100 150
-SetBackgroundColor 0 0 0 180
+#Show # # %D2 $type->leveling->normalmagic->otheracts $tier->fireresistgear
+#	Rarity Normal Magic
+#	BaseType == "Ruby Ring"
+#	AreaLevel >= 24
+#	AreaLevel <= 51
+#	SetFontSize 35
+#	SetBorderColor 100 100 100 150
+#	SetBackgroundColor 0 0 0 180
 
-Show # %D2 $type->leveling->normalmagic->otheracts $tier->generalcrafting
-Rarity Normal Magic
-BaseType == "Leather Belt" "Onyx Amulet" "Prismatic Ring" "Two-Stone Ring"
-AreaLevel >= 34
-SetFontSize 35
-SetBorderColor 100 100 100 150
-SetBackgroundColor 0 0 0 180
+#Show # # %D2 $type->leveling->normalmagic->otheracts $tier->generalcrafting
+#	Rarity Normal Magic
+#	BaseType == "Leather Belt" "Onyx Amulet" "Prismatic Ring" "Two-Stone Ring"
+#	AreaLevel >= 34
+#	SetFontSize 35
+#	SetBorderColor 100 100 100 150
+#	SetBackgroundColor 0 0 0 180
 
-Show # %D2 $type->leveling->normalmagic->minion $tier->miniongear
-Rarity Normal Magic
-BaseType == "Bone Ring" "Calling Wand" "Convening Wand" "Convoking Wand"
-SetFontSize 35
-SetBorderColor 100 100 100 150
-SetBackgroundColor 0 0 0 180
+#Show # # %D2 $type->leveling->normalmagic->minion $tier->miniongear
+#	Rarity Normal Magic
+#	BaseType == "Bone Ring" "Calling Wand" "Convening Wand" "Convoking Wand"
+#	SetFontSize 35
+#	SetBorderColor 100 100 100 150
+#	SetBackgroundColor 0 0 0 180
 
 #Show  # # $type->leveling->normalmagic->minion $tier->minionshields
 #	Rarity Normal Magic
@@ -9408,7 +9420,7 @@ SetBackgroundColor 0 0 0 180
 #------------------------------------
 # !! Waypoint c11.leveling.firstlevels.all : "Leveling - Normal and Magic - First Levels"
 
-Show # %H2 $type->leveling->firstlevels $tier->earlybodyarmours
+Hide # %H2 $type->leveling->firstlevels $tier->earlybodyarmours
 	Rarity Normal
 	Class == "Body Armours"
 	AreaLevel >= 2
@@ -9439,7 +9451,7 @@ Show # %H3 $type->leveling->firstlevels $tier->firstareas
 #------------------------------------
 # !! Waypoint c11.leveling.progression.all : "Leveling - Normal and Magic - Item Progression"
 
-Show # %H2 $type->leveling->weaponprogression $tier->r01
+Hide # %H2 $type->leveling->weaponprogression $tier->r01
 	Sockets >= 3
 	ItemLevel <= 9
 	DropLevel >= 5
@@ -9449,7 +9461,7 @@ Show # %H2 $type->leveling->weaponprogression $tier->r01
 	SetBorderColor 0 0 0
 	SetBackgroundColor 0 0 0 180
 
-Show # %H2 $type->leveling->weaponprogression $tier->r02
+Hide # %H2 $type->leveling->weaponprogression $tier->r02
 	Sockets >= 3
 	ItemLevel <= 15
 	DropLevel >= 11
@@ -9459,7 +9471,7 @@ Show # %H2 $type->leveling->weaponprogression $tier->r02
 	SetBorderColor 0 0 0
 	SetBackgroundColor 0 0 0 180
 
-Show # %H2 $type->leveling->weaponprogression $tier->r03
+Hide # %H2 $type->leveling->weaponprogression $tier->r03
 	Sockets >= 3
 	ItemLevel <= 18
 	DropLevel >= 15
@@ -9469,7 +9481,7 @@ Show # %H2 $type->leveling->weaponprogression $tier->r03
 	SetBorderColor 0 0 0
 	SetBackgroundColor 0 0 0 180
 
-Show # %H2 $type->leveling->weaponprogression $tier->r04
+Hide # %H2 $type->leveling->weaponprogression $tier->r04
 	Sockets >= 3
 	ItemLevel <= 22
 	DropLevel >= 18
@@ -9479,7 +9491,7 @@ Show # %H2 $type->leveling->weaponprogression $tier->r04
 	SetBorderColor 0 0 0
 	SetBackgroundColor 0 0 0 180
 
-Show # %H2 $type->leveling->weaponprogression $tier->r05
+Hide # %H2 $type->leveling->weaponprogression $tier->r05
 	Sockets >= 3
 	ItemLevel <= 26
 	DropLevel >= 22
@@ -9489,7 +9501,7 @@ Show # %H2 $type->leveling->weaponprogression $tier->r05
 	SetBorderColor 0 0 0
 	SetBackgroundColor 0 0 0 180
 
-Show # %H2 $type->leveling->weaponprogression $tier->r06
+Hide # %H2 $type->leveling->weaponprogression $tier->r06
 	Sockets >= 3
 	ItemLevel <= 30
 	DropLevel >= 26
@@ -9499,7 +9511,7 @@ Show # %H2 $type->leveling->weaponprogression $tier->r06
 	SetBorderColor 0 0 0
 	SetBackgroundColor 0 0 0 180
 
-Show # %H2 $type->leveling->weaponprogression $tier->r07
+Hide # %H2 $type->leveling->weaponprogression $tier->r07
 	Sockets >= 3
 	ItemLevel <= 34
 	DropLevel >= 30
@@ -9509,7 +9521,7 @@ Show # %H2 $type->leveling->weaponprogression $tier->r07
 	SetBorderColor 0 0 0
 	SetBackgroundColor 0 0 0 180
 
-Show # %H2 $type->leveling->weaponprogression $tier->r08
+Hide # %H2 $type->leveling->weaponprogression $tier->r08
 	Sockets >= 3
 	ItemLevel <= 40
 	DropLevel >= 34
@@ -9519,7 +9531,7 @@ Show # %H2 $type->leveling->weaponprogression $tier->r08
 	SetBorderColor 0 0 0
 	SetBackgroundColor 0 0 0 180
 
-Show # %H2 $type->leveling->weaponprogression $tier->r09
+Hide # %H2 $type->leveling->weaponprogression $tier->r09
 	Sockets >= 3
 	ItemLevel <= 44
 	DropLevel >= 40
@@ -9529,7 +9541,7 @@ Show # %H2 $type->leveling->weaponprogression $tier->r09
 	SetBorderColor 0 0 0
 	SetBackgroundColor 0 0 0 180
 
-Show # %H2 $type->leveling->weaponprogression $tier->r10
+Hide # %H2 $type->leveling->weaponprogression $tier->r10
 	Sockets >= 3
 	ItemLevel <= 48
 	DropLevel >= 44
@@ -9539,7 +9551,7 @@ Show # %H2 $type->leveling->weaponprogression $tier->r10
 	SetBorderColor 0 0 0
 	SetBackgroundColor 0 0 0 180
 
-Show # %H2 $type->leveling->weaponprogression $tier->r11
+Hide # %H2 $type->leveling->weaponprogression $tier->r11
 	Sockets >= 3
 	ItemLevel <= 52
 	DropLevel >= 48
@@ -9549,7 +9561,7 @@ Show # %H2 $type->leveling->weaponprogression $tier->r11
 	SetBorderColor 0 0 0
 	SetBackgroundColor 0 0 0 180
 
-Show # %H2 $type->leveling->weaponprogression $tier->r12
+Hide # %H2 $type->leveling->weaponprogression $tier->r12
 	Sockets >= 3
 	ItemLevel <= 56
 	DropLevel >= 52
@@ -9559,7 +9571,7 @@ Show # %H2 $type->leveling->weaponprogression $tier->r12
 	SetBorderColor 0 0 0
 	SetBackgroundColor 0 0 0 180
 
-Show # %H2 $type->leveling->weaponprogression $tier->r13
+Hide # %H2 $type->leveling->weaponprogression $tier->r13
 	Sockets >= 3
 	ItemLevel <= 60
 	DropLevel >= 56
@@ -9569,7 +9581,7 @@ Show # %H2 $type->leveling->weaponprogression $tier->r13
 	SetBorderColor 0 0 0
 	SetBackgroundColor 0 0 0 180
 
-Show # %H2 $type->leveling->weaponprogression $tier->r14
+Hide # %H2 $type->leveling->weaponprogression $tier->r14
 	Sockets >= 3
 	ItemLevel <= 64
 	DropLevel >= 60
@@ -9579,7 +9591,7 @@ Show # %H2 $type->leveling->weaponprogression $tier->r14
 	SetBorderColor 0 0 0
 	SetBackgroundColor 0 0 0 180
 
-Show # %H2 $type->leveling->weaponprogression $tier->r15bas
+Hide # %H2 $type->leveling->weaponprogression $tier->r15bas
 	Sockets >= 3
 	ItemLevel <= 68
 	DropLevel >= 64
@@ -9645,7 +9657,7 @@ Hide # %H1 $type->leveling->magic->remaining $tier->rest
 	AreaLevel >= 34
 	AreaLevel <= 67
 
-Show # %H2 $type->leveling->magic->remaining $tier->act2
+Hide # %H2 $type->leveling->magic->remaining $tier->act2
 	Rarity Magic
 	Class "Amulets" "Belts" "Body Armours" "Boots" "Bows" "Claws" "Daggers" "Gloves" "Helmets" "One Hand Axes" "One Hand Maces" "One Hand Swords" "Quivers" "Rings" "Rune Daggers" "Sceptres" "Shields" "Staves" "Thrusting One Hand Swords" "Two Hand Axes" "Two Hand Maces" "Two Hand Swords" "Wands" "Warstaves"
 	AreaLevel >= 16

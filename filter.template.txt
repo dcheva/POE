@@ -1,3 +1,4 @@
+#--------------------------------------------
 #v1.25.necr
 #\2-chaos-sets-------------------------------
 Show # $type->2chaos-a
@@ -124,12 +125,12 @@ Show # $type->2chaos-e
 
 #\Necromancers-------------------------------
 # Minions deal xx% increased Damage
-# Calling Wand, Superior Calling Wand, Convening Wand, Superior Convening Wand, Convoking Wand, Superior Convoking Wand
+# Calling Wand, Convening Wand, Convoking Wand
 # Bone Spirit Shield, Ivory Spirit Shield, Fossilised Spirit Shield
-# Bone Helmet, Superior Bone Helmet 
+# Bone Helmet
 
 Show  # $type->Necromancers-Wands-Shields
-	BaseType == "Calling Wand" "Convening Wand" "Convoking Wand" "Bone Spirit Shield" "Ivory Spirit Shield" "Fossilised Spirit Shield" "Bone Helmet" "Superior Bone Helmet"
+	BaseType == "Calling Wand" "Convening Wand" "Convoking Wand" "Bone Spirit Shield" "Ivory Spirit Shield" "Fossilised Spirit Shield" "Bone Helmet"
 	Rarity Normal Magic Rare
 	SetFontSize 40
 	SetBackgroundColor 20 30 40 255
@@ -141,7 +142,7 @@ Show  # $type->Necromancers-Wands-Shields
 	MinimapIcon 1 White Circle
 
 Show  # $type->Necromancers-Wands-Shields
-	BaseType == "Calling Wand" "Convening Wand" "Convoking Wand" "Bone Spirit Shield" "Ivory Spirit Shield" "Fossilised Spirit Shield" "Bone Helmet" "Superior Bone Helmet"
+	BaseType == "Calling Wand" "Convening Wand" "Convoking Wand" "Bone Spirit Shield" "Ivory Spirit Shield" "Fossilised Spirit Shield" "Bone Helmet"
 	Rarity Unique
 	SetFontSize 40
 	SetBackgroundColor 20 10 40 255
@@ -153,4 +154,5 @@ Show  # $type->Necromancers-Wands-Shields
 	MinimapIcon 1 Purple Circle
 
 #/Necromancers-------------------------------
+
 
