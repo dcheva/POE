@@ -1,6 +1,5 @@
+#v1.25.necr
 #\2-chaos-sets-------------------------------
-#\v.1.23-------------------------------------
-
 Show # $type->2chaos-a
 	Class "Amulets" "Rings"
 	SetBackgroundColor 50 40 30 255
@@ -10,8 +9,8 @@ Show # $type->2chaos-a
 	Corrupted False
 	Mirrored False
 	Rarity Rare
-    ItemLevel >= 60
-    ItemLevel <= 85
+	ItemLevel >= 60
+	ItemLevel <= 85
 	SetFontSize 40
 	CustomAlertSound "Sounds\1maybevaluable.mp3" 300
 	#PlayAlertSound 4 200
@@ -27,8 +26,8 @@ Show # $type->2chaos-b
 	Corrupted False
 	Mirrored False
 	Rarity Rare
-    ItemLevel >= 60
-    ItemLevel <= 85
+	ItemLevel >= 60
+	ItemLevel <= 85
 	SetFontSize 40
 	CustomAlertSound "Sounds\1maybevaluable.mp3" 300
 	#PlayAlertSound 4 200
@@ -44,8 +43,8 @@ Show # $type->2chaos-c
 	Corrupted False
 	Mirrored False
 	Rarity Rare
-    ItemLevel >= 60
-    ItemLevel <= 85
+	ItemLevel >= 60
+	ItemLevel <= 85
 	SetFontSize 40
 	CustomAlertSound "Sounds\02coin.mp3" 300
 	#PlayAlertSound 4 200
@@ -61,8 +60,8 @@ Show # $type->2chaos-d
 	Corrupted False
 	Mirrored False
 	Rarity Rare
-    ItemLevel >= 60
-    ItemLevel <= 85
+	ItemLevel >= 60
+	ItemLevel <= 85
 	SetFontSize 40
 	CustomAlertSound "Sounds\03coinshake.mp3" 300
 	#PlayAlertSound 4 200
@@ -78,8 +77,8 @@ Show # $type->2chaos-d
 	Corrupted False
 	Mirrored False
 	Rarity Rare
-    ItemLevel >= 60
-    ItemLevel <= 85
+	ItemLevel >= 60
+	ItemLevel <= 85
 	SetFontSize 40
 	CustomAlertSound "Sounds\03coinshake.mp3" 300
 	#PlayAlertSound 4 200
@@ -95,8 +94,8 @@ Show # $type->2chaos-d
 	Corrupted False
 	Mirrored False
 	Rarity Rare
-    ItemLevel >= 60
-    ItemLevel <= 85
+	ItemLevel >= 60
+	ItemLevel <= 85
 	SetFontSize 40
 	CustomAlertSound "Sounds\03coinshake.mp3" 300
 	#PlayAlertSound 4 200
@@ -112,8 +111,8 @@ Show # $type->2chaos-e
 	Corrupted False
 	Mirrored False
 	Rarity Rare
-    ItemLevel >= 60
-    ItemLevel <= 74
+	ItemLevel >= 60
+	ItemLevel <= 74
 	SetFontSize 40
 	#PlayAlertSound 4 200
 	CustomAlertSound "Sounds\04cointojar.mp3" 300
@@ -123,13 +122,16 @@ Show # $type->2chaos-e
 #/2-chaos-sets-------------------------------
 
 
-#\Necromancers-Wands------------------------
+#\Necromancers-------------------------------
 # Minions deal xx% increased Damage
 # Calling Wand, Superior Calling Wand, Convening Wand, Superior Convening Wand, Convoking Wand, Superior Convoking Wand
+# Bone Spirit Shield, Ivory Spirit Shield, Fossilised Spirit Shield
+# Bone Helmet, Superior Bone Helmet 
 
-Show  # $type->Necromancers-Wands
-	BaseType == "Calling Wand" "Convening Wand" "Convoking Wand"
-	SetFontSize 45
+Show  # $type->Necromancers-Wands-Shields
+	BaseType == "Calling Wand" "Convening Wand" "Convoking Wand" "Bone Spirit Shield" "Ivory Spirit Shield" "Fossilised Spirit Shield" "Bone Helmet" "Superior Bone Helmet"
+	Rarity Normal Magic Rare
+	SetFontSize 40
 	SetBackgroundColor 20 30 40 255
 	SetBorderColor 100 225 255 255
 	SetTextColor 205 225 255 255
@@ -138,7 +140,17 @@ Show  # $type->Necromancers-Wands
 	PlayEffect White
 	MinimapIcon 1 White Circle
 
-#/Necromancer's-Wands------------------------
+Show  # $type->Necromancers-Wands-Shields
+	BaseType == "Calling Wand" "Convening Wand" "Convoking Wand" "Bone Spirit Shield" "Ivory Spirit Shield" "Fossilised Spirit Shield" "Bone Helmet" "Superior Bone Helmet"
+	Rarity Unique
+	SetFontSize 40
+	SetBackgroundColor 20 10 40 255
+	SetBorderColor 150 85 255 255
+	SetTextColor 225 125 255 255
+	#PlayAlertSound 3 300
+	CustomAlertSound "Sounds\12leveling.mp3" 300
+	PlayEffect Purple
+	MinimapIcon 1 Purple Circle
 
-
+#/Necromancers-------------------------------
 
