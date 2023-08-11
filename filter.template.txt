@@ -13,7 +13,7 @@ Show # $type->2chaos-a
 	ItemLevel >= 60
 	ItemLevel <= 85
 	SetFontSize 40
-	CustomAlertSound "Sounds\1maybevaluable.mp3" 300
+	CustomAlertSound "Sounds\1maybevaluable.mp3" 300 # Sounds\6veryvaluable.mp3
 	#PlayAlertSound 4 200
 	PlayEffect Orange
 	MinimapIcon 1 Orange Circle	
