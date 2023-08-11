@@ -1,3 +1,13 @@
+#Online Item Filter
+#name:Vaal Strict 230810-2c-necr-nf
+#version:3.21.2b
+#realm:pc
+#errors:
+#hash:aeccfffb40e43cdd9925c68773289872
+#filterVersion:8.10.5-230810nV
+#filterType:Normal
+#lastUpdate:2023-08-10T12:37:44Z
+#monthTimeStamp:1484
 #--------------------------------------------
 #v1.25.necr
 #\2-chaos-sets-------------------------------
@@ -9703,4 +9713,3 @@ Show # $type->anyremaining $tier->restex
 	PlayAlertSound 3 300
 	PlayEffect Pink
 	MinimapIcon 0 Pink Circle
-
