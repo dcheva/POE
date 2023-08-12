@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <PathOfBuilding>
 	<Mode mode="BUILD">
-		<Arg string="C:\Users\Dmytro\Documents/Path of Building/Builds/IIIXXII/DeeCovana-progress.xml"/>
-		<Arg string="DeeCovana-progress"/>
+		<Arg string="C:\Users\Dmytro\Documents/Path of Building/Builds/IIIXXII/DeeCovana-progress-a4-40.xml"/>
+		<Arg string="DeeCovana-progress-a4-40"/>
 	</Mode>
 	<Accounts lastAccountName="DeeCovana" lastRealm="PC">
 		<Account accountName="DeeCovana"/>
