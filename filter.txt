@@ -3,14 +3,14 @@
 #version:3.21.2c
 #realm:pc
 #errors:
-#hash:55526ef441097d9de7180e5fd52f69c4
-#filterVersion:8.10.5-816bV
+#hash:cdc32fc66db8045beff6eca4d0881b64
+#filterVersion:8.10.5-816cV
 #filterType:Normal
-#lastUpdate:2023-08-16T14:49:14Z
+#lastUpdate:2023-08-16T15:30:06Z
 #monthTimeStamp:1484
-#--------------------------------------------
-#v1.25.necr
+#\v816---------------------------------------
 #\2-chaos-sets-------------------------------
+
 Show # $type->2chaos-a
 	Class "Amulets" "Rings"
 	SetBackgroundColor 50 40 30 255
@@ -134,10 +134,11 @@ Show # $type->2chaos-e
 
 
 
-#\Berserker-------------------------------
-
+#\Berserker----------------------------------
+# "Copper Tower Shield" "Cedar Tower Shield" "Splintered Tower Shield" "Colossal Tower Shield" "Rawhide Tower Shield" "Ebony Tower Shield" "Girded Tower Shield" "Reinforced Tower Shield" "Heat-attuned Tower Shield" "Ezomyte Tower Shield" "Magmatic Tower Shield" "Shagreen Tower Shield" "Bronze Tower Shield" "Mahogany Tower Shield" "Pinnacle Tower Shield" "Crested Tower Shield" "Buckskin Tower Shield" 
+# "Darkwood Sceptre" "Platinum Sceptre" "Stag Sceptre" "Blood Sceptre" "Quartz Sceptre" "Ochre Sceptre" "Bronze Sceptre" "Iron Sceptre" "Ritual Sceptre" "Abyssal Sceptre" "Grinning Fetish" "Driftwood Sceptre" "Tyrant's Sekhem" "Vaal Sceptre" "Shadow Sceptre" "Karui Sceptre" "Opal Sceptre" "Royal Sceptre" "Void Sceptre" "Crystal Sceptre" "Carnal Sceptre" "Sekhem" "Lead Sceptre"
 Show  # $type->Berserker-Scepters-Shields
-	Class == "Sceptres" "Shields"
+	BaseType == "Copper Tower Shield" "Cedar Tower Shield" "Splintered Tower Shield" "Colossal Tower Shield" "Rawhide Tower Shield" "Ebony Tower Shield" "Girded Tower Shield" "Reinforced Tower Shield" "Heat-attuned Tower Shield" "Ezomyte Tower Shield" "Magmatic Tower Shield" "Shagreen Tower Shield" "Bronze Tower Shield" "Mahogany Tower Shield" "Pinnacle Tower Shield" "Crested Tower Shield" "Buckskin Tower Shield" "Darkwood Sceptre" "Platinum Sceptre" "Stag Sceptre" "Blood Sceptre" "Quartz Sceptre" "Ochre Sceptre" "Bronze Sceptre" "Iron Sceptre" "Ritual Sceptre" "Abyssal Sceptre" "Grinning Fetish" "Driftwood Sceptre" "Tyrant's Sekhem" "Vaal Sceptre" "Shadow Sceptre" "Karui Sceptre" "Opal Sceptre" "Royal Sceptre" "Void Sceptre" "Crystal Sceptre" "Carnal Sceptre" "Sekhem" "Lead Sceptre"
 	Rarity Normal Magic Rare
 	SetFontSize 40
 	SetBackgroundColor 20 30 40 255
@@ -149,9 +150,9 @@ Show  # $type->Berserker-Scepters-Shields
 	MinimapIcon 1 White Circle
 
 Show  # $type->Berserker-Scepters-Shields
-	Class == "Sceptres" "Shields"
+	BaseType == "Copper Tower Shield" "Cedar Tower Shield" "Splintered Tower Shield" "Colossal Tower Shield" "Rawhide Tower Shield" "Ebony Tower Shield" "Girded Tower Shield" "Reinforced Tower Shield" "Heat-attuned Tower Shield" "Ezomyte Tower Shield" "Magmatic Tower Shield" "Shagreen Tower Shield" "Bronze Tower Shield" "Mahogany Tower Shield" "Pinnacle Tower Shield" "Crested Tower Shield" "Buckskin Tower Shield" "Darkwood Sceptre" "Platinum Sceptre" "Stag Sceptre" "Blood Sceptre" "Quartz Sceptre" "Ochre Sceptre" "Bronze Sceptre" "Iron Sceptre" "Ritual Sceptre" "Abyssal Sceptre" "Grinning Fetish" "Driftwood Sceptre" "Tyrant's Sekhem" "Vaal Sceptre" "Shadow Sceptre" "Karui Sceptre" "Opal Sceptre" "Royal Sceptre" "Void Sceptre" "Crystal Sceptre" "Carnal Sceptre" "Sekhem" "Lead Sceptre"
 	Rarity Unique
-	SetFontSize 40
+	SetFontSize 45
 	SetBackgroundColor 20 10 40 255
 	SetBorderColor 150 85 255 255
 	SetTextColor 225 125 255 255
@@ -160,9 +161,11 @@ Show  # $type->Berserker-Scepters-Shields
 	PlayEffect Purple
 	MinimapIcon 1 Purple Circle
 
-#/Berserker-------------------------------
+#/Berserker----------------------------------
 
 
+
+#/v816---------------------------------------
 
 
 
