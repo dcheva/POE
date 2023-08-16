@@ -103,9 +103,9 @@
 	<Import lastAccountHash="65c72c83001ca3cf2188ce710712d604d71f3e1a" lastRealm="PC" exportParty="false" lastCharacterHash="cb592f7a4be224b0a3b5af95aef0c1598d12c2d4"/>
 	<Party destination="All" ShowAdvanceTools="false" append="false"/>
 	<Tree activeSpec="1">
-		<Spec title="94" ascendClassId="2" masteryEffects="{8460,23021},{25031,60034},{38436,35302},{52220,32255},{33823,2987},{4139,34242},{25011,47642}" nodes="57992,49445,66771,24970,50570,14056,40229,29294,12795,18901,35288,64587,57560,66768,6289,63282,66714,47175,16380,65698,44606,55190,65706,46519,61666,44169,32251,65746,65744,2225,65682,50024,42861,66706,50862,34400,14930,31257,65690,25011,49080,33287,65770,65702,37501,4139,36047,24383,39768,65765,38436,10594,61198,14993,5152,65760,48287,63048,65701,63583,26725,20551,22703,26523,30380,3644,59920,5233,29353,10532,34513,22627,66777,15868,33718,15678,65107,40907,37647,2491,43833,62319,63723,53118,50904,15405,23090,8460,52220,50422,53558,33631,65680,33823,9194,66704,55854,26712,63033,58831,26564,57900,65754,58449,12769,28475,59494,59928,65696,23984,65762,224,23760,62429,65766,2355,24528,23036,55676,9995,25031,53987,19261,8592,49178,38538,43374" treeVersion="3_21" classId="1">
+		<Spec title="94" ascendClassId="2" masteryEffects="{8460,23021},{25031,60034},{38436,35302},{52220,32255},{33823,2987},{4139,34242},{25011,47642}" nodes="34400,49445,66771,24970,50570,12795,40229,26712,65107,26523,35288,64587,22627,66768,6289,23090,66714,47175,16380,65698,44606,55190,65706,46519,61666,44169,32251,65746,65744,2225,65682,50024,42861,66706,50862,57992,14930,31257,65690,25011,49080,33287,65770,65702,15405,4139,36047,24383,39768,65765,38436,10594,61198,14993,50422,65760,48287,14056,65701,63583,49178,20551,22703,57560,2355,3644,59920,5233,29353,10532,34513,30380,66777,63282,33718,26725,15868,40907,37647,18901,43833,62319,63723,53118,50904,23036,63048,8460,52220,5152,53558,33631,65680,33823,9194,66704,55854,63033,29294,58831,26564,57900,65754,58449,12769,28475,59494,59928,65696,23984,65762,224,23760,15678,65766,9995,24528,62429,55676,37501,25031,53987,19261,8592,2491,38538,43374" treeVersion="3_22" classId="1">
 			<URL>
-				https://www.pathofexile.com/passive-skill-tree/AAAABgECZ-KIwSVhisWKNuidJTH7SdWJ2PxL4NgYkfcyP_yuPteWtbfw4qyJffsIscNop23GroZgOlJ6GWGzv7iCB5J9ECuMz18_m1iWJCli7w46kRQgvJ_2SPhfaGVQR1ivZ5t2rA486hAUcXKpKSSG0VhjPfyDtj0-_lOfy5MPCburOfNv-OvPfsbYPC1aMiEMy_zE9tE2g1-EHyPq2i5oWPY55c9nxOIs5FEx4W876GbqGF2wAOBc0PPdCTNf0Fn82XwnC2HH0uNLPSGQwBqWiqluFgTTBNAEmgCiAKoA0gDQAJIEkgCaAOoApgDlAOAApQTZAJAEkADaAKAA4gDmB7oaYbOFwhArieaWJFntIQx9_8v8C6uEH-qCYcc=
+				https://www.pathofexile.com/passive-skill-tree/AAAABgECZ4ZgwSVhisWKMfudJWhY_lNnm4nY_EtYYxiRWjI__K4-15a1t_DirIl9-wixw2inbcau4og6UnoZYbO_uIIHPC0QK4zPXz-bWJYkKWLvDjqRxPa8nzbo-F_AGlBHWK_g2AkzDjzqEBRxcqkpJIbRdqz3MoO2aGU9_J_Lkw9J1as582_4689-xthZ_PZIIQzL_BQg0TaDX4QfI-raLvY55c9nxOIs5FEx4W876GbqGF2wAOBc0D0-Jwtf0PPd2XySfWHH0uNLPSGQCbuWiqluFgTTBNAEmgCiAKoA0gDQAJIEkgCaAOoApgDlAOAApQTZAJAEkADaAKAA4gDmB7oaYbOFwhArieaWJFntIQx9_8v8C6uEH-qCYcc=
 			</URL>
 			<Sockets>
 				<Socket nodeId="10532" itemId="6"/>
@@ -123,9 +123,9 @@
 				<Socket nodeId="26725" itemId="5"/>
 			</Sockets>
 		</Spec>
-		<Spec title="100" ascendClassId="2" masteryEffects="{8460,23021},{25031,60034},{38436,35302},{52220,32255},{33823,2987},{4139,34242},{25011,47642}" nodes="24970,40229,64587,6289,63282,16380,65744,7374,66768,42861,66706,15868,57992,39023,44967,65690,25011,49080,33287,65760,4139,65698,24383,39768,50422,48287,14056,63583,20551,59920,29353,34513,66777,33718,37647,18901,62319,63723,53118,46519,63033,49445,65746,50570,28475,65754,58449,59494,23984,65762,44169,61666,65770,25031,53987,66771,49178,3533,23090,65701,44606,55190,32251,2225,50024,14993,14930,37501,36047,65702,10594,61198,5152,12795,63048,57560,2355,3644,5233,10532,22627,26523,59928,40907,9995,2491,43833,65765,11088,35288,66714,56355,22703,8460,52220,65107,53558,29294,65680,50904,9194,66704,55854,65108,23036,58831,26564,62429,15405,50862,12769,57900,33823,33631,65696,26712,30380,224,23760,31257,65766,26725,24528,34400,55676,38436,47175,65682,19261,8592,65706,38538,43374" treeVersion="3_21" classId="1">
+		<Spec title="100" ascendClassId="2" masteryEffects="{8460,23021},{25031,60034},{38436,35302},{52220,32255},{33823,2987},{4139,34242},{25011,47642}" nodes="24970,40229,64587,6289,63282,11088,65744,7374,66768,42861,66706,15868,34400,39023,31257,65690,25011,49080,66714,65760,4139,65698,24383,39768,65706,48287,14056,63583,20551,59920,29353,34513,66777,33718,37647,18901,62319,59928,53118,46519,63033,33823,65746,50570,28475,65754,58449,57900,23984,65762,44169,61666,65770,25031,53987,66771,49178,3533,23090,65701,44606,55190,32251,2225,50024,14993,14930,62429,36047,65702,10594,61198,5152,12795,63048,57560,30380,3644,5233,10532,22627,65682,63723,40907,9995,2491,43833,65765,50422,26725,35288,56355,22703,8460,52220,33287,53558,29294,65680,50904,9194,66704,55854,65108,57992,58831,26564,37501,23036,26523,12769,59494,16380,33631,65696,49445,26712,224,23760,15405,65766,2355,24528,47175,55676,65107,50862,38436,19261,8592,44967,38538,43374" treeVersion="3_22" classId="1">
 			<URL>
-				https://www.pathofexile.com/passive-skill-tree/AAAABgECbWGKnSX8SxiR9zI__BzOp209_OKImG-vp2Gzv7iCBxArXz-bWMT2vJ826PhfUEfqEHKphtGDtpMPSdXzb_jrz361t_Y5wSXFim875FHoZl2wrInw4mHH0uPAGg3NWjKuPteWffsIscNoOpE6UpJ9jM8pYu8OFCAx-_ZI4NgJMw48FHEpJFhjZ5vqGJ_LJwsJu6s5K1CJ2NwjWK8hDMv8_lPRNsbYI-raLv5UWfzlz2fE8908LcauMeHiLIQfg19oWHasAOBc0HoZaGVf0IZg2XyWJEs9IZCWiqluFgDQBNAEkgCaAOAAogTZANIA2gDiAOoE0wClAKYA5QSaAJAEkACgAOYAkgCqB7oaYbOFwhAr6oJhx1ntIQx9_8v8C6uEH4nmliQ=
+				https://www.pathofexile.com/passive-skill-tree/AAAABgECbWGKnSX8SxiR9zIrUBzOp209_IZgmG96GWGzv7gQK18_m1i8nzbo-F9QR-oQcqmG0YO2kw9J1fNv6hjPfrW39jmEH8WKbzvkUeIsXbCsifDiYcfS48AaDc1aMq4-15Z9-wixw2g6kTpS892Mzyli7w4UIDH79kjg2HasDjwUcSkkWGP465_LJwsJu6s5xPZoZYnY3CNYryEMy_yCB9E2xtgj6tou_lTiiOXPZ8SSfVn8Z5sx4ehmP_yDX8ElaFgA4FzQPC0JM1_Q2Xz-U8auliRLPSGQr6eWiqluFgDQBNAEkgCaBJoA4ACiAKoE2QDSANoA4gDqBNMApQCmAJIA5QCQBJAAoADmB7oaYbOFwhArC6uEH-qCYcdZ7SEMff_L_InmliQ=
 			</URL>
 			<Sockets>
 				<Socket nodeId="10532" itemId="6"/>
@@ -141,26 +141,6 @@
 				<Socket nodeId="23984" itemId="2"/>
 				<Socket nodeId="24970" itemId="28"/>
 				<Socket nodeId="44169" itemId="3"/>
-			</Sockets>
-		</Spec>
-		<Spec title="100" ascendClassId="2" masteryEffects="{8460,23021},{25031,60034},{38436,35302},{52220,32255},{33823,2987},{4139,34242},{25011,47642}" nodes="24970,40229,64587,6289,26725,16380,65744,7374,65107,42861,66706,15868,57992,39023,31257,65690,25011,49080,66714,65760,4139,65698,24383,39768,50422,48287,14056,63583,20551,59920,29353,34513,66777,33718,37647,18901,62319,59928,53118,46519,26712,33823,65746,50570,28475,65754,58449,57900,23984,65762,44169,61666,65770,25031,53987,66771,49178,3533,23090,65701,44606,55190,32251,2225,50024,14993,14930,37501,36047,65702,10594,61198,5152,12795,63048,26523,2355,3644,5233,10532,22627,65706,65682,40907,9995,2491,43833,65765,63033,59494,35288,56355,22703,8460,52220,63723,53558,33631,65680,66768,9194,66704,55854,65108,50904,58831,26564,57560,63282,11088,12769,50862,15405,29294,65696,23036,62429,224,23760,49445,65766,30380,24528,34400,55676,47175,44967,38436,19261,8592,33287,38538,43374" treeVersion="3_22" classId="1">
-			<URL>
-				https://www.pathofexile.com/passive-skill-tree/AAAABgECbWGKnSX8SxiRaGU__BzO_lOnbT384oiYb3oZYbO_uBArXz-bWMT2vJ826PhfUEfqEHKphtGDtpMPSdXzb-oYz361t2hYhB_Fim875FHiLF2wrInw4mHH0uPAGg3NWjKuPteWffsIscNoOpE6UpJ9jM8pYu8OFCAx-_ZIZ5sJMw48FHEpJFhjn8snCwm7qzn2OehmidjcI1ivIQzL_Pjr0TaDXyPq2i7-VMbY5c9nxODY9zIrUDHhxq48LVn8890A4FzQwSV2rF_QhmDZfK-nliRLPSGQggeWiqluFgDQBJIAmgSaAOAAogTZANIA2gDiAOoE0wClAKYAqgCSAOUAkATQBJAAoADmB7oaYbOFwhArC6uEH-qCYcdZ7SEMff_L_InmliQ=
-			</URL>
-			<Sockets>
-				<Socket nodeId="10532" itemId="6"/>
-				<Socket nodeId="2491" itemId="11"/>
-				<Socket nodeId="55190" itemId="7"/>
-				<Socket nodeId="46519" itemId="10"/>
-				<Socket nodeId="33631" itemId="29"/>
-				<Socket nodeId="44169" itemId="3"/>
-				<Socket nodeId="14993" itemId="1"/>
-				<Socket nodeId="49080" itemId="27"/>
-				<Socket nodeId="24970" itemId="28"/>
-				<Socket nodeId="61666" itemId="8"/>
-				<Socket nodeId="23984" itemId="2"/>
-				<Socket nodeId="26725" itemId="5"/>
-				<Socket nodeId="28475" itemId="4"/>
 			</Sockets>
 		</Spec>
 	</Tree>
@@ -947,21 +927,21 @@ Modifiers to Chance to Avoid being Shocked apply to all Elemental Ailments
 		<Input name="conditionOnConsecratedGround" boolean="true"/>
 		<Input name="conditionUsingFlask" boolean="true"/>
 		<Input name="conditionEnemyTaunted" boolean="true"/>
-		<Input name="enemyDamageType" string="Spell"/>
-		<Input name="multiplierRage" number="60"/>
-		<Input name="usePowerCharges" boolean="true"/>
-		<Input name="conditionEnemyBlinded" boolean="true"/>
-		<Input name="useFrenzyCharges" boolean="true"/>
-		<Input name="buffFortification" boolean="true"/>
-		<Input name="prideEffect" string="MAX"/>
-		<Input name="conditionBlinded" boolean="true"/>
-		<Input name="useEnduranceCharges" boolean="true"/>
-		<Input name="buffOnslaught" boolean="true"/>
-		<Input name="multiplierWarcryUsedRecently" number="3"/>
-		<Input name="conditionEnemyIntimidated" boolean="true"/>
-		<Input name="conditionUsedWarcryRecently" boolean="true"/>
-		<Input name="overrideFortification" number="20"/>
 		<Input name="armourCalculationMode" string="AVERAGE"/>
+		<Input name="enemyDamageType" string="Spell"/>
+		<Input name="conditionUsedWarcryRecently" boolean="true"/>
+		<Input name="conditionEnemyIntimidated" boolean="true"/>
+		<Input name="buffOnslaught" boolean="true"/>
+		<Input name="useFrenzyCharges" boolean="true"/>
+		<Input name="multiplierWarcryUsedRecently" number="3"/>
+		<Input name="prideEffect" string="MAX"/>
+		<Input name="useEnduranceCharges" boolean="true"/>
+		<Input name="conditionBlinded" boolean="true"/>
+		<Input name="buffFortification" boolean="true"/>
+		<Input name="conditionEnemyBlinded" boolean="true"/>
+		<Input name="usePowerCharges" boolean="true"/>
+		<Input name="multiplierRage" number="60"/>
+		<Input name="overrideFortification" number="20"/>
 		<Placeholder name="enemySpeed" number="700"/>
 		<Placeholder name="enemyChaosResist" number="30"/>
 		<Placeholder name="enemyLightningDamage" number="2241"/>
@@ -974,10 +954,10 @@ Modifiers to Chance to Avoid being Shocked apply to all Elemental Ailments
 		<Placeholder name="enemyLightningPen" number="3"/>
 		<Placeholder name="enemyLightningResist" number="50"/>
 		<Placeholder name="enemyChaosDamage" number="896"/>
-		<Placeholder name="enemyColdPen" number="3"/>
+		<Placeholder name="enemyFirePen" number="3"/>
 		<Placeholder name="enemyDamageRollRange" number="70"/>
 		<Placeholder name="enemyArmour" number="24752"/>
-		<Placeholder name="enemyFirePen" number="3"/>
+		<Placeholder name="enemyColdPen" number="3"/>
 		<Placeholder name="enemyPhysicalDamage" number="2241"/>
 		<Placeholder name="enemyEvasion" number="10143"/>
 		<Placeholder name="enemyCritDamage" number="30"/>

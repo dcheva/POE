@@ -123,7 +123,41 @@ Show # $type->2chaos-e
 #/2-chaos-sets-------------------------------
 
 
+
+#\Berserker-------------------------------
+
+# "Opal Sceptre" "Void Sceptre" "Crystal Sceptre" "Vaal Sceptre" "Abyssal Sceptre" "Royal Sceptre" "Platinum Sceptre" "Karui Sceptre" "Tyrant's Sekhem" "Quartz Sceptre" "Ochre Sceptre" "Driftwood Sceptre" "Sambar Sceptre" "Alternating Sceptre" "Carnal Sceptre" "Stabilising Sceptre"
+# "Colossal Tower Shield" "Ebony Tower Shield" "Ezomyte Tower Shield" "Painted Tower Shield" "Pinnacle Tower Shield" "Bronze Tower Shield" "Crested Tower Shield" "Exothermic Tower Shield" "Girded Tower Shield" "Rawhide Tower Shield" "Cedar Tower Shield" "Crested Tower Shield" "Magmatic Tower Shield" "Heat-attuned Tower Shield" "Mahogany Tower Shield" "Shagreen Tower Shield" 
+Show  # $type->Berserker-Scepters-Shields
+	BaseType == "Opal Sceptre" "Void Sceptre" "Crystal Sceptre" "Vaal Sceptre" "Abyssal Sceptre" "Royal Sceptre" "Platinum Sceptre" "Karui Sceptre" "Tyrant's Sekhem" "Quartz Sceptre" "Ochre Sceptre" "Driftwood Sceptre" "Sambar Sceptre" "Alternating Sceptre" "Carnal Sceptre" "Stabilising Sceptre" "Colossal Tower Shield" "Ebony Tower Shield" "Ezomyte Tower Shield" "Painted Tower Shield" "Pinnacle Tower Shield" "Bronze Tower Shield" "Crested Tower Shield" "Exothermic Tower Shield" "Girded Tower Shield" "Rawhide Tower Shield" "Cedar Tower Shield" "Crested Tower Shield" "Magmatic Tower Shield" "Heat-attuned Tower Shield" "Mahogany Tower Shield" "Shagreen Tower Shield" 
+	Rarity Normal Magic Rare
+	SetFontSize 40
+	SetBackgroundColor 20 30 40 255
+	SetBorderColor 100 225 255 255
+	SetTextColor 205 225 255 255
+	#PlayAlertSound 3 300
+	CustomAlertSound "Sounds\24item.mp3" 300
+	PlayEffect White
+	MinimapIcon 1 White Circle
+
+Show  # $type->Berserker-Scepters-Shields
+	BaseType == "Opal Sceptre" "Void Sceptre" "Crystal Sceptre" "Vaal Sceptre" "Abyssal Sceptre" "Royal Sceptre" "Platinum Sceptre" "Karui Sceptre" "Tyrant's Sekhem" "Quartz Sceptre" "Ochre Sceptre" "Driftwood Sceptre" "Sambar Sceptre" "Alternating Sceptre" "Carnal Sceptre" "Stabilising Sceptre" "Colossal Tower Shield" "Ebony Tower Shield" "Ezomyte Tower Shield" "Painted Tower Shield" "Pinnacle Tower Shield" "Bronze Tower Shield" "Crested Tower Shield" "Exothermic Tower Shield" "Girded Tower Shield" "Rawhide Tower Shield" "Cedar Tower Shield" "Crested Tower Shield" "Magmatic Tower Shield" "Heat-attuned Tower Shield" "Mahogany Tower Shield" "Shagreen Tower Shield" 
+	Rarity Unique
+	SetFontSize 40
+	SetBackgroundColor 20 10 40 255
+	SetBorderColor 150 85 255 255
+	SetTextColor 225 125 255 255
+	#PlayAlertSound 3 300
+	CustomAlertSound "Sounds\12leveling.mp3" 300
+	PlayEffect Purple
+	MinimapIcon 1 Purple Circle
+
+#/Berserker-------------------------------
+
+
+
 #\Necromancers-------------------------------
+
 # Minions deal xx% increased Damage
 # Calling Wand, Convening Wand, Convoking Wand
 # Bone Spirit Shield, Ivory Spirit Shield, Fossilised Spirit Shield
@@ -154,5 +188,6 @@ Show  # $type->Necromancers-Wands-Shields
 	MinimapIcon 1 Purple Circle
 
 #/Necromancers-------------------------------
+
 
 

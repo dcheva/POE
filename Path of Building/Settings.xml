@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <PathOfBuilding>
 	<Mode mode="BUILD">
-		<Arg string="C:\Users\Dmytro\Documents/Path of Building/Builds/Is_Crusher_LK_start.xml"/>
-		<Arg string="Is_Crusher_LK_start"/>
+		<Arg string="C:\Users\Dmytro\Documents/Path of Building/Builds/Is_Crusher_LK_middle.xml"/>
+		<Arg string="Is_Crusher_LK_middle"/>
 	</Mode>
 	<Accounts lastAccountName="dmytro_cheva" lastRealm="PC">
 		<Account accountName="DeeCovana"/>
