@@ -1,6 +1,6 @@
 #--------------------------------------------
-#v1.25.necr
 #\2-chaos-sets-------------------------------
+
 Show # $type->2chaos-a
 	Class "Amulets" "Rings"
 	SetBackgroundColor 50 40 30 255
@@ -124,12 +124,10 @@ Show # $type->2chaos-e
 
 
 
-#\Berserker-------------------------------
+#\Berserker----------------------------------
 
-# "Opal Sceptre" "Void Sceptre" "Crystal Sceptre" "Vaal Sceptre" "Abyssal Sceptre" "Royal Sceptre" "Platinum Sceptre" "Karui Sceptre" "Tyrant's Sekhem" "Quartz Sceptre" "Ochre Sceptre" "Driftwood Sceptre" "Sambar Sceptre" "Alternating Sceptre" "Carnal Sceptre" "Stabilising Sceptre"
-# "Colossal Tower Shield" "Ebony Tower Shield" "Ezomyte Tower Shield" "Painted Tower Shield" "Pinnacle Tower Shield" "Bronze Tower Shield" "Crested Tower Shield" "Exothermic Tower Shield" "Girded Tower Shield" "Rawhide Tower Shield" "Cedar Tower Shield" "Crested Tower Shield" "Magmatic Tower Shield" "Heat-attuned Tower Shield" "Mahogany Tower Shield" "Shagreen Tower Shield" 
 Show  # $type->Berserker-Scepters-Shields
-	BaseType == "Opal Sceptre" "Void Sceptre" "Crystal Sceptre" "Vaal Sceptre" "Abyssal Sceptre" "Royal Sceptre" "Platinum Sceptre" "Karui Sceptre" "Tyrant's Sekhem" "Quartz Sceptre" "Ochre Sceptre" "Driftwood Sceptre" "Sambar Sceptre" "Alternating Sceptre" "Carnal Sceptre" "Stabilising Sceptre" "Colossal Tower Shield" "Ebony Tower Shield" "Ezomyte Tower Shield" "Painted Tower Shield" "Pinnacle Tower Shield" "Bronze Tower Shield" "Crested Tower Shield" "Exothermic Tower Shield" "Girded Tower Shield" "Rawhide Tower Shield" "Cedar Tower Shield" "Crested Tower Shield" "Magmatic Tower Shield" "Heat-attuned Tower Shield" "Mahogany Tower Shield" "Shagreen Tower Shield" 
+	Class == "Sceptres" "Shields"
 	Rarity Normal Magic Rare
 	SetFontSize 40
 	SetBackgroundColor 20 30 40 255
@@ -141,7 +139,7 @@ Show  # $type->Berserker-Scepters-Shields
 	MinimapIcon 1 White Circle
 
 Show  # $type->Berserker-Scepters-Shields
-	BaseType == "Opal Sceptre" "Void Sceptre" "Crystal Sceptre" "Vaal Sceptre" "Abyssal Sceptre" "Royal Sceptre" "Platinum Sceptre" "Karui Sceptre" "Tyrant's Sekhem" "Quartz Sceptre" "Ochre Sceptre" "Driftwood Sceptre" "Sambar Sceptre" "Alternating Sceptre" "Carnal Sceptre" "Stabilising Sceptre" "Colossal Tower Shield" "Ebony Tower Shield" "Ezomyte Tower Shield" "Painted Tower Shield" "Pinnacle Tower Shield" "Bronze Tower Shield" "Crested Tower Shield" "Exothermic Tower Shield" "Girded Tower Shield" "Rawhide Tower Shield" "Cedar Tower Shield" "Crested Tower Shield" "Magmatic Tower Shield" "Heat-attuned Tower Shield" "Mahogany Tower Shield" "Shagreen Tower Shield" 
+	Class == "Sceptres" "Shields"
 	Rarity Unique
 	SetFontSize 40
 	SetBackgroundColor 20 10 40 255
@@ -152,7 +150,7 @@ Show  # $type->Berserker-Scepters-Shields
 	PlayEffect Purple
 	MinimapIcon 1 Purple Circle
 
-#/Berserker-------------------------------
+#/Berserker----------------------------------
 
 
 
