@@ -156,6 +156,7 @@ Show  # $type->Berserker-Scepters-Shields
 
 
 #\Necromancers-------------------------------
+#-------------"b-b-|-b-b|b-.-b|nne|rint|ll g"
 
 # Minions deal xx% increased Damage
 # Calling Wand, Convening Wand, Convoking Wand
