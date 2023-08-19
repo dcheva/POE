@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <PathOfBuilding>
 	<Mode mode="BUILD">
-		<Arg string="C:\Users\Dmytro\Documents/Path of Building/Builds/Is_Crusher_LK_middle.xml"/>
-		<Arg string="Is_Crusher_LK_middle"/>
+		<Arg string="C:\Users\Dmytro\Documents/Path of Building/Builds/Zoomancer-94.xml"/>
+		<Arg string="Zoomancer-94"/>
 	</Mode>
 	<Accounts lastAccountName="dmytro_cheva" lastRealm="PC">
 		<Account accountName="DeeCovana"/>
