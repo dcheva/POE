@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <PathOfBuilding>
 	<Mode mode="BUILD">
-		<Arg string="C:\Users\Dmytro\Documents/Path of Building/Builds/Zoomancer-72plan.xml"/>
-		<Arg string="Zoomancer-72plan"/>
+		<Arg string="C:\Users\Dmytro\Documents/Path of Building/Builds/Zoomancer-79import.xml"/>
+		<Arg string="Zoomancer-79import"/>
 	</Mode>
 	<Accounts lastAccountName="SteamCovan" lastRealm="PC">
 		<Account accountName="DeeCovana"/>
