@@ -1,4 +1,165 @@
-# 20230818 Changed Vaal Strict 230811nf [[3700]] Currency - Regular Currency Tiering -- added CustomAlertSound "Sounds\06money2.mp3" 300
+#\v816---------------------------------------
+#\2-chaos-sets-------------------------------
+
+Show # $type->2chaos-a
+	Class "Amulets" "Rings"
+	SetBackgroundColor 50 40 30 255
+	SetBorderColor 100 255 100 255
+	SetTextColor 255 205 155 255
+	Identified False
+	Corrupted False
+	Mirrored False
+	Rarity Rare
+	ItemLevel >= 60
+	ItemLevel <= 85
+	SetFontSize 40
+	CustomAlertSound "Sounds\1maybevaluable.mp3" 300 # Sounds\6veryvaluable.mp3
+	#PlayAlertSound 4 200
+	PlayEffect Orange
+	MinimapIcon 1 Orange Circle	
+	
+Show # $type->2chaos-b
+	Class "Belts"
+	SetBackgroundColor 50 40 30 255
+	SetBorderColor 100 100 255 255
+	SetTextColor 255 205 155 255
+	Identified False
+	Corrupted False
+	Mirrored False
+	Rarity Rare
+	ItemLevel >= 60
+	ItemLevel <= 85
+	SetFontSize 40
+	CustomAlertSound "Sounds\1maybevaluable.mp3" 300
+	#PlayAlertSound 4 200
+	PlayEffect Orange
+	MinimapIcon 1 Orange Circle
+	
+Show # $type->2chaos-c
+	Class "Daggers" "Rune Dagger" "Wands"
+	SetBackgroundColor 50 40 30 255
+	SetBorderColor 255 100 100 255
+	SetTextColor 255 205 155 255
+	Identified False
+	Corrupted False
+	Mirrored False
+	Rarity Rare
+	ItemLevel >= 60
+	ItemLevel <= 85
+	SetFontSize 40
+	CustomAlertSound "Sounds\02coin.mp3" 300
+	#PlayAlertSound 4 200
+	PlayEffect Orange
+	MinimapIcon 1 Orange Circle	
+	
+Show # $type->2chaos-d
+	Class "Boots"
+	SetBackgroundColor 50 40 30 255
+	SetBorderColor 200 150 100 255
+	SetTextColor 255 205 155 255
+	Identified False
+	Corrupted False
+	Mirrored False
+	Rarity Rare
+	ItemLevel >= 60
+	ItemLevel <= 85
+	SetFontSize 40
+	CustomAlertSound "Sounds\03coinshake.mp3" 300
+	#PlayAlertSound 4 200
+	PlayEffect Orange
+	MinimapIcon 1 Orange Circle
+	
+Show # $type->2chaos-d
+	Class "Gloves"
+	SetBackgroundColor 50 40 30 255
+	SetBorderColor 200 150 100 255
+	SetTextColor 255 205 155 255
+	Identified False
+	Corrupted False
+	Mirrored False
+	Rarity Rare
+	ItemLevel >= 60
+	ItemLevel <= 85
+	SetFontSize 40
+	CustomAlertSound "Sounds\03coinshake.mp3" 300
+	#PlayAlertSound 4 200
+	PlayEffect Orange
+	MinimapIcon 1 Orange Circle
+	
+Show # $type->2chaos-d
+	Class "Helmets"
+	SetBackgroundColor 50 40 30 255
+	SetBorderColor 200 150 100 255
+	SetTextColor 255 205 155 255
+	Identified False
+	Corrupted False
+	Mirrored False
+	Rarity Rare
+	ItemLevel >= 60
+	ItemLevel <= 85
+	SetFontSize 40
+	CustomAlertSound "Sounds\03coinshake.mp3" 300
+	#PlayAlertSound 4 200
+	PlayEffect Orange
+	MinimapIcon 1 Orange Circle
+	
+Show # $type->2chaos-e
+	Class "Body Armours"
+	SetBackgroundColor 50 40 30 255
+	SetBorderColor 255 255 100 255
+	SetTextColor 255 205 155 255
+	Identified False
+	Corrupted False
+	Mirrored False
+	Rarity Rare
+	ItemLevel >= 60
+	ItemLevel <= 74
+	SetFontSize 40
+	#PlayAlertSound 4 200
+	CustomAlertSound "Sounds\04cointojar.mp3" 300
+	PlayEffect Orange
+	MinimapIcon 1 Orange Circle
+	
+#/2-chaos-sets-------------------------------
+
+
+#\v822---------------------------------------
+#\Handy-staff--------------------------------
+
+# xx% increased Elemental Damage
+# xx% increased Spell Damage
+# "Darkwood Sceptre" "Platinum Sceptre" "Stag Sceptre" "Blood Sceptre" "Quartz Sceptre" "Ochre Sceptre" "Bronze Sceptre" "Iron Sceptre" "Ritual Sceptre" "Abyssal Sceptre" "Grinning Fetish" "Driftwood Sceptre" "Tyrant's Sekhem" "Vaal Sceptre" "Shadow Sceptre" "Karui Sceptre" "Opal Sceptre" "Royal Sceptre" "Void Sceptre" "Crystal Sceptre" "Carnal Sceptre" "Sekhem" "Lead Sceptre"
+# "Twig Spirit Shield" "Harmonic Spirit Shield" "Chiming Spirit Shield" "Jingling Spirit Shield" "Ancient Spirit Shield" "Yew Spirit Shield" "Tarnished Spirit Shield" "Vaal Spirit Shield" "Lacewood Spirit Shield" "Walnut Spirit Shield" 
+
+Show  # $type->Handy-staff
+	BaseType == "Darkwood Sceptre" "Platinum Sceptre" "Stag Sceptre" "Blood Sceptre" "Quartz Sceptre" "Ochre Sceptre" "Bronze Sceptre" "Iron Sceptre" "Ritual Sceptre" "Abyssal Sceptre" "Grinning Fetish" "Driftwood Sceptre" "Tyrant's Sekhem" "Vaal Sceptre" "Shadow Sceptre" "Karui Sceptre" "Opal Sceptre" "Royal Sceptre" "Void Sceptre" "Crystal Sceptre" "Carnal Sceptre" "Sekhem" "Lead Sceptre" "Twig Spirit Shield" "Harmonic Spirit Shield" "Chiming Spirit Shield" "Jingling Spirit Shield" "Ancient Spirit Shield" "Yew Spirit Shield" "Tarnished Spirit Shield" "Vaal Spirit Shield" "Lacewood Spirit Shield" "Walnut Spirit Shield" 
+	Rarity Normal Magic Rare
+	SetFontSize 40
+	SetBackgroundColor 20 30 40 255
+	SetBorderColor 100 225 255 255
+	SetTextColor 205 225 255 255
+	#PlayAlertSound 3 300
+	CustomAlertSound "Sounds\24item.mp3" 300
+	PlayEffect White
+	MinimapIcon 1 White Circle
+
+Show  # $type->Handy-staff
+	BaseType == "Darkwood Sceptre" "Platinum Sceptre" "Stag Sceptre" "Blood Sceptre" "Quartz Sceptre" "Ochre Sceptre" "Bronze Sceptre" "Iron Sceptre" "Ritual Sceptre" "Abyssal Sceptre" "Grinning Fetish" "Driftwood Sceptre" "Tyrant's Sekhem" "Vaal Sceptre" "Shadow Sceptre" "Karui Sceptre" "Opal Sceptre" "Royal Sceptre" "Void Sceptre" "Crystal Sceptre" "Carnal Sceptre" "Sekhem" "Lead Sceptre" "Twig Spirit Shield" "Harmonic Spirit Shield" "Chiming Spirit Shield" "Jingling Spirit Shield" "Ancient Spirit Shield" "Yew Spirit Shield" "Tarnished Spirit Shield" "Vaal Spirit Shield" "Lacewood Spirit Shield" "Walnut Spirit Shield" 
+	Rarity Unique
+	SetFontSize 45
+	SetBackgroundColor 20 10 40 255
+	SetBorderColor 150 85 255 255
+	SetTextColor 225 125 255 255
+	#PlayAlertSound 3 300
+	CustomAlertSound "Sounds\12leveling.mp3" 300
+	PlayEffect Purple
+	MinimapIcon 1 Purple Circle
+
+#/Handy-staff--------------------------------
+
+
+
+# Changed [[3700]] Currency - Regular Currency Tiering -- added CustomAlertSound "Sounds\06money2.mp3" 300
 #===============================================================================================================
 # NeverSink's Indepth Loot Filter - for Path of Exile
 #===============================================================================================================
@@ -7060,7 +7221,7 @@ SetFontSize 45
 SetTextColor 0 0 0 255
 SetBorderColor 0 0 0 255
 SetBackgroundColor 180 76 58 255
-PlayAlertSound 2 300
+CustomAlertSound "Sounds\06money2.mp3" 300
 PlayEffect White
 MinimapIcon 2 White Circle
 
@@ -7887,7 +8048,7 @@ MinimapIcon 2 Grey Kite
 
 Show # $type->divination $tier->t1
 Class "Divination"
-BaseType == "A Fate Worse Than Death" "Beauty Through Death" "Brother's Gift" "Brother's Stash" "Choking Guilt" "Desecrated Virtue" "Divine Beauty" "Doryani's Epiphany" "Fire of Unknown Origin" "Home" "House of Mirrors" "Love Through Ice" "Matryoshka" "Seven Years Bad Luck" "Succor of the Sinless" "The Apothecary" "The Artist" "The Cheater" "The Chosen" "The Demon" "The Doctor" "The Dragon's Heart" "The Endless Darkness" "The Enlightened" "The Fiend" "The Garish Power" "The Immortal" "The Insane Cat" "The Last One Standing" "The Nurse" "The Price of Devotion" "The Price of Loyalty" "The Rabbit's Foot" "The Samurai's Eye" "The Sephirot" "The Shieldbearer" "The Soul" "Unrequited Love" "Wealth and Power"
+BaseType == "A Fate Worse Than Death" "Beauty Through Death" "Brother's Gift" "Brother's Stash" "Choking Guilt" "Desecrated Virtue" "Divine Beauty" "Doryani's Epiphany" "Fire Of Unknown Origin" "Home" "House of Mirrors" "Love Through Ice" "Matryoshka" "Seven Years Bad Luck" "Succor of the Sinless" "The Apothecary" "The Artist" "The Cheater" "The Chosen" "The Demon" "The Doctor" "The Dragon's Heart" "The Endless Darkness" "The Enlightened" "The Fiend" "The Garish Power" "The Immortal" "The Insane Cat" "The Last One Standing" "The Nurse" "The Price of Devotion" "The Price of Loyalty" "The Rabbit's Foot" "The Samurai's Eye" "The Sephirot" "The Shieldbearer" "The Soul" "Unrequited Love" "Wealth and Power"
 SetFontSize 45
 SetTextColor 0 0 255 255
 SetBorderColor 0 0 255 255
