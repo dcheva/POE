@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <PathOfBuilding>
 	<Mode mode="BUILD">
-		<Arg string="C:\Users\Dmytro\Documents/Path of Building/Builds/DeeHandy-lvl32-pts38.xml"/>
-		<Arg string="DeeHandy-lvl32-pts38"/>
+		<Arg string="C:\Users\Dmytro\Documents/Path of Building/Builds/DeeHandy-lvl40pts48.xml"/>
+		<Arg string="DeeHandy-lvl40pts48"/>
 	</Mode>
 	<Accounts lastAccountName="SteamCovan" lastRealm="PC">
 		<Account accountName="DeeCovana"/>
