@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <PathOfBuilding>
-	<Mode mode="LIST">
-		<Arg string="DeeHandyStart"/>
-		<Arg string=""/>
+	<Mode mode="BUILD">
+		<Arg string="C:\Users\Dmytro\Documents/Path of Building/Builds/deeHandy-lvl80plan.xml"/>
+		<Arg string="deeHandy-lvl80plan"/>
 	</Mode>
 	<Accounts lastAccountName="SteamCovan" lastRealm="PC">
 		<Account accountName="DeeCovana"/>
