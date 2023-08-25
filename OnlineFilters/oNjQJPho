@@ -1,12 +1,12 @@
 #Online Item Filter
-#name:Handy v822hV
-#version:3.22.0
+#name:Handy v825nV
+#version:3.22.0b
 #realm:pc
 #errors:
-#hash:537054bc20ba244e55c1479bcc903384
-#filterVersion:822hV
+#hash:73bd57577b5b149713f76bd8d1ec7420
+#filterVersion:825nV
 #filterType:Normal
-#lastUpdate:2023-08-21T21:53:02Z
+#lastUpdate:2023-08-25T20:19:26Z
 #monthTimeStamp:1484
 #\v816---------------------------------------
 #\2-chaos-sets-------------------------------
@@ -45,90 +45,89 @@ Show # $type->2chaos-b
 	PlayEffect Orange
 	MinimapIcon 1 Orange Circle
 	
-Show # $type->2chaos-c
-	Class "Daggers" "Rune Dagger" "Wands"
-	SetBackgroundColor 50 40 30 255
-	SetBorderColor 255 100 100 255
-	SetTextColor 255 205 155 255
-	Identified False
-	Corrupted False
-	Mirrored False
-	Rarity Rare
-	ItemLevel >= 60
-	ItemLevel <= 85
-	SetFontSize 40
-	CustomAlertSound "Sounds\02coin.mp3" 300
-	#PlayAlertSound 4 200
-	PlayEffect Orange
-	MinimapIcon 1 Orange Circle	
+#Show # $type->2chaos-c
+#	Class "Daggers" "Rune Dagger" "Wands"
+#	SetBackgroundColor 50 40 30 255
+#	SetBorderColor 255 100 100 255
+#	SetTextColor 255 205 155 255
+#	Identified False
+#	Corrupted False
+#	Mirrored False
+#	ItemLevel >= 60
+#	ItemLevel <= 85
+#	SetFontSize 40
+#	CustomAlertSound "Sounds\02coin.mp3" 300
+#	#PlayAlertSound 4 200
+#	PlayEffect Orange
+#	MinimapIcon 1 Orange Circle	
 	
-Show # $type->2chaos-d
-	Class "Boots"
-	SetBackgroundColor 50 40 30 255
-	SetBorderColor 200 150 100 255
-	SetTextColor 255 205 155 255
-	Identified False
-	Corrupted False
-	Mirrored False
-	Rarity Rare
-	ItemLevel >= 60
-	ItemLevel <= 85
-	SetFontSize 40
-	CustomAlertSound "Sounds\03coinshake.mp3" 300
-	#PlayAlertSound 4 200
-	PlayEffect Orange
-	MinimapIcon 1 Orange Circle
+#Show # $type->2chaos-d
+#	Class "Boots"
+#	SetBackgroundColor 50 40 30 255
+#	SetBorderColor 200 150 100 255
+#	SetTextColor 255 205 155 255
+#	Identified False
+#	Corrupted False
+#	Mirrored False
+#	Rarity Rare
+#	ItemLevel >= 60
+#	ItemLevel <= 85
+#	SetFontSize 40
+#	CustomAlertSound "Sounds\03coinshake.mp3" 300
+#	#PlayAlertSound 4 200
+#	PlayEffect Orange
+#	MinimapIcon 1 Orange Circle
 	
-Show # $type->2chaos-d
-	Class "Gloves"
-	SetBackgroundColor 50 40 30 255
-	SetBorderColor 200 150 100 255
-	SetTextColor 255 205 155 255
-	Identified False
-	Corrupted False
-	Mirrored False
-	Rarity Rare
-	ItemLevel >= 60
-	ItemLevel <= 85
-	SetFontSize 40
-	CustomAlertSound "Sounds\03coinshake.mp3" 300
-	#PlayAlertSound 4 200
-	PlayEffect Orange
-	MinimapIcon 1 Orange Circle
+#Show # $type->2chaos-d
+#	Class "Gloves"
+#   BackgroundColor 50 40 30 255
+#   BorderColor 200 150 100 255
+#   SetTextColor 255 205 155 255
+#	Identified False
+#	Corrupted False
+#	Mirrored False
+#	Rarity Rare
+#	ItemLevel >= 60
+#	ItemLevel <= 85
+#	SetFontSize 40
+#	CustomAlertSound "Sounds\03coinshake.mp3" 300
+#	#PlayAlertSound 4 200
+#	PlayEffect Orange
+#	MinimapIcon 1 Orange Circle
 	
-Show # $type->2chaos-d
-	Class "Helmets"
-	SetBackgroundColor 50 40 30 255
-	SetBorderColor 200 150 100 255
-	SetTextColor 255 205 155 255
-	Identified False
-	Corrupted False
-	Mirrored False
-	Rarity Rare
-	ItemLevel >= 60
-	ItemLevel <= 85
-	SetFontSize 40
-	CustomAlertSound "Sounds\03coinshake.mp3" 300
-	#PlayAlertSound 4 200
-	PlayEffect Orange
-	MinimapIcon 1 Orange Circle
+#Show # $type->2chaos-d
+#	Class "Helmets"
+#	SetBackgroundColor 50 40 30 255
+#	SetBorderColor 200 150 100 255
+#	SetTextColor 255 205 155 255
+#	Identified False
+#	Corrupted False
+#	Mirrored False
+#	Rarity Rare
+#	ItemLevel >= 60
+#	ItemLevel <= 85
+#	SetFontSize 40
+#	CustomAlertSound "Sounds\03coinshake.mp3" 300
+#	#PlayAlertSound 4 200
+#	PlayEffect Orange
+#	MinimapIcon 1 Orange Circle
 	
-Show # $type->2chaos-e
-	Class "Body Armours"
-	SetBackgroundColor 50 40 30 255
-	SetBorderColor 255 255 100 255
-	SetTextColor 255 205 155 255
-	Identified False
-	Corrupted False
-	Mirrored False
-	Rarity Rare
-	ItemLevel >= 60
-	ItemLevel <= 74
-	SetFontSize 40
-	#PlayAlertSound 4 200
-	CustomAlertSound "Sounds\04cointojar.mp3" 300
-	PlayEffect Orange
-	MinimapIcon 1 Orange Circle
+#Show # $type->2chaos-e
+#	Class "Body Armours"
+#	SetBackgroundColor 50 40 30 255
+#	SetBorderColor 255 255 100 255
+#	SetTextColor 255 205 155 255
+#	Identified False
+#	Corrupted False
+#	Mirrored False
+#	Rarity Rare
+#	ItemLevel >= 60
+#	ItemLevel <= 74
+#	SetFontSize 40
+#	#PlayAlertSound 4 200
+#	CustomAlertSound "Sounds\04cointojar.mp3" 300
+#	PlayEffect Orange
+#	MinimapIcon 1 Orange Circle
 	
 #/2-chaos-sets-------------------------------
 
@@ -141,29 +140,29 @@ Show # $type->2chaos-e
 # "Darkwood Sceptre" "Platinum Sceptre" "Stag Sceptre" "Blood Sceptre" "Quartz Sceptre" "Ochre Sceptre" "Bronze Sceptre" "Iron Sceptre" "Ritual Sceptre" "Abyssal Sceptre" "Grinning Fetish" "Driftwood Sceptre" "Tyrant's Sekhem" "Vaal Sceptre" "Shadow Sceptre" "Karui Sceptre" "Opal Sceptre" "Royal Sceptre" "Void Sceptre" "Crystal Sceptre" "Carnal Sceptre" "Sekhem" "Lead Sceptre"
 # "Twig Spirit Shield" "Harmonic Spirit Shield" "Chiming Spirit Shield" "Jingling Spirit Shield" "Ancient Spirit Shield" "Yew Spirit Shield" "Tarnished Spirit Shield" "Vaal Spirit Shield" "Lacewood Spirit Shield" "Walnut Spirit Shield" 
 
-Show  # $type->Handy-staff
-	BaseType == "Darkwood Sceptre" "Platinum Sceptre" "Stag Sceptre" "Blood Sceptre" "Quartz Sceptre" "Ochre Sceptre" "Bronze Sceptre" "Iron Sceptre" "Ritual Sceptre" "Abyssal Sceptre" "Grinning Fetish" "Driftwood Sceptre" "Tyrant's Sekhem" "Vaal Sceptre" "Shadow Sceptre" "Karui Sceptre" "Opal Sceptre" "Royal Sceptre" "Void Sceptre" "Crystal Sceptre" "Carnal Sceptre" "Sekhem" "Lead Sceptre" "Twig Spirit Shield" "Harmonic Spirit Shield" "Chiming Spirit Shield" "Jingling Spirit Shield" "Ancient Spirit Shield" "Yew Spirit Shield" "Tarnished Spirit Shield" "Vaal Spirit Shield" "Lacewood Spirit Shield" "Walnut Spirit Shield" 
-	Rarity Normal Magic Rare
-	SetFontSize 40
-	SetBackgroundColor 20 30 40 255
-	SetBorderColor 100 225 255 255
-	SetTextColor 205 225 255 255
-	#PlayAlertSound 3 300
-	CustomAlertSound "Sounds\24item.mp3" 300
-	PlayEffect White
-	MinimapIcon 1 White Circle
+#Show  # $type->Handy-staff
+#	BaseType == "Darkwood Sceptre" "Platinum Sceptre" "Stag Sceptre" "Blood Sceptre" "Quartz Sceptre" "Ochre Sceptre" "Bronze Sceptre" "Iron Sceptre" "Ritual Sceptre" "Abyssal Sceptre" "Grinning Fetish" "Driftwood Sceptre" "Tyrant's Sekhem" "Vaal Sceptre" "Shadow Sceptre" "Karui Sceptre" "Opal Sceptre" "Royal Sceptre" "Void Sceptre" "Crystal Sceptre" "Carnal Sceptre" "Sekhem" "Lead Sceptre" "Twig Spirit Shield" "Harmonic Spirit Shield" "Chiming Spirit Shield" "Jingling Spirit Shield" "Ancient Spirit Shield" "Yew Spirit Shield" "Tarnished Spirit Shield" "Vaal Spirit Shield" "Lacewood Spirit Shield" "Walnut Spirit Shield" 
+#	Rarity Normal Magic Rare
+#	SetFontSize 40
+#	SetBackgroundColor 20 30 40 255
+#	SetBorderColor 100 225 255 255
+#	SetTextColor 205 225 255 255
+#	#PlayAlertSound 3 300
+#	CustomAlertSound "Sounds\24item.mp3" 300
+#	PlayEffect White
+#	MinimapIcon 1 White Circle
 
-Show  # $type->Handy-staff
-	BaseType == "Darkwood Sceptre" "Platinum Sceptre" "Stag Sceptre" "Blood Sceptre" "Quartz Sceptre" "Ochre Sceptre" "Bronze Sceptre" "Iron Sceptre" "Ritual Sceptre" "Abyssal Sceptre" "Grinning Fetish" "Driftwood Sceptre" "Tyrant's Sekhem" "Vaal Sceptre" "Shadow Sceptre" "Karui Sceptre" "Opal Sceptre" "Royal Sceptre" "Void Sceptre" "Crystal Sceptre" "Carnal Sceptre" "Sekhem" "Lead Sceptre" "Twig Spirit Shield" "Harmonic Spirit Shield" "Chiming Spirit Shield" "Jingling Spirit Shield" "Ancient Spirit Shield" "Yew Spirit Shield" "Tarnished Spirit Shield" "Vaal Spirit Shield" "Lacewood Spirit Shield" "Walnut Spirit Shield" 
-	Rarity Unique
-	SetFontSize 45
-	SetBackgroundColor 20 10 40 255
-	SetBorderColor 150 85 255 255
-	SetTextColor 225 125 255 255
-	#PlayAlertSound 3 300
-	CustomAlertSound "Sounds\12leveling.mp3" 300
-	PlayEffect Purple
-	MinimapIcon 1 Purple Circle
+#Show  # $type->Handy-staff
+#	BaseType == "Darkwood Sceptre" "Platinum Sceptre" "Stag Sceptre" "Blood Sceptre" "Quartz Sceptre" "Ochre Sceptre" "Bronze Sceptre" "Iron Sceptre" "Ritual Sceptre" "Abyssal Sceptre" "Grinning Fetish" "Driftwood Sceptre" "Tyrant's Sekhem" "Vaal Sceptre" "Shadow Sceptre" "Karui Sceptre" "Opal Sceptre" "Royal Sceptre" "Void Sceptre" "Crystal Sceptre" "Carnal Sceptre" "Sekhem" "Lead Sceptre" "Twig Spirit Shield" "Harmonic Spirit Shield" "Chiming Spirit Shield" "Jingling Spirit Shield" "Ancient Spirit Shield" "Yew Spirit Shield" "Tarnished Spirit Shield" "Vaal Spirit Shield" "Lacewood Spirit Shield" "Walnut Spirit Shield" 
+#	Rarity Unique
+#	SetFontSize 45
+#	SetBackgroundColor 20 10 40 255
+#	SetBorderColor 150 85 255 255
+#	SetTextColor 225 125 255 255
+#	#PlayAlertSound 3 300
+#	CustomAlertSound "Sounds\12leveling.mp3" 300
+#	PlayEffect Purple
+#	MinimapIcon 1 Purple Circle
 
 #/Handy-staff--------------------------------
 
