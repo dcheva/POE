@@ -1,3 +1,167 @@
+#\v1015--------------------------------------
+
+#\2-chaos-sets-------------------------------
+
+Show # $type->2chaos-a
+	Class "Amulets" "Rings"
+	SetBackgroundColor 50 40 30 255
+	SetBorderColor 100 255 100 255
+	SetTextColor 255 205 155 255
+	Identified False
+	Corrupted False
+	Mirrored False
+	Rarity Rare
+	ItemLevel >= 60
+	ItemLevel <= 85
+	SetFontSize 40
+	CustomAlertSound "Sounds\1maybevaluable.mp3" 300 # Sounds\6veryvaluable.mp3
+	#PlayAlertSound 4 200
+	PlayEffect Orange
+	MinimapIcon 1 Orange Circle	
+	
+Show # $type->2chaos-b
+	Class "Belts"
+	SetBackgroundColor 50 40 30 255
+	SetBorderColor 100 100 255 255
+	SetTextColor 255 205 155 255
+	Identified False
+	Corrupted False
+	Mirrored False
+	Rarity Rare
+	ItemLevel >= 60
+	ItemLevel <= 85
+	SetFontSize 40
+	CustomAlertSound "Sounds\1maybevaluable.mp3" 300
+	#PlayAlertSound 4 200
+	PlayEffect Orange
+	MinimapIcon 1 Orange Circle
+	
+Show # $type->2chaos-c
+	Class "Daggers" "Rune Dagger" "Wands"
+	SetBackgroundColor 50 40 30 255
+	SetBorderColor 255 100 100 255
+	SetTextColor 255 205 155 255
+	Identified False
+	Corrupted False
+	Mirrored False
+	Rarity Rare
+	ItemLevel >= 60
+	ItemLevel <= 85
+	SetFontSize 40
+	CustomAlertSound "Sounds\02coin.mp3" 300
+	#PlayAlertSound 4 200
+	PlayEffect Orange
+	MinimapIcon 1 Orange Circle	
+	
+Show # $type->2chaos-d
+	Class "Boots"
+	SetBackgroundColor 50 40 30 255
+	SetBorderColor 200 150 100 255
+	SetTextColor 255 205 155 255
+	Identified False
+	Corrupted False
+	Mirrored False
+	Rarity Rare
+	ItemLevel >= 60
+	ItemLevel <= 85
+	SetFontSize 40
+	CustomAlertSound "Sounds\03coinshake.mp3" 300
+	#PlayAlertSound 4 200
+	PlayEffect Orange
+	MinimapIcon 1 Orange Circle
+	
+Show # $type->2chaos-d
+	Class "Gloves"
+	SetBackgroundColor 50 40 30 255
+	SetBorderColor 200 150 100 255
+	SetTextColor 255 205 155 255
+	Identified False
+	Corrupted False
+	Mirrored False
+	Rarity Rare
+	ItemLevel >= 60
+	ItemLevel <= 85
+	SetFontSize 40
+	CustomAlertSound "Sounds\03coinshake.mp3" 300
+	#PlayAlertSound 4 200
+	PlayEffect Orange
+	MinimapIcon 1 Orange Circle
+	
+Show # $type->2chaos-d
+	Class "Helmets"
+	SetBackgroundColor 50 40 30 255
+	SetBorderColor 200 150 100 255
+	SetTextColor 255 205 155 255
+	Identified False
+	Corrupted False
+	Mirrored False
+	Rarity Rare
+	ItemLevel >= 60
+	ItemLevel <= 85
+	SetFontSize 40
+	CustomAlertSound "Sounds\03coinshake.mp3" 300
+	#PlayAlertSound 4 200
+	PlayEffect Orange
+	MinimapIcon 1 Orange Circle
+	
+Show # $type->2chaos-e
+	Class "Body Armours"
+	SetBackgroundColor 50 40 30 255
+	SetBorderColor 255 255 100 255
+	SetTextColor 255 205 155 255
+	Identified False
+	Corrupted False
+	Mirrored False
+	Rarity Rare
+	ItemLevel >= 60
+	ItemLevel <= 74
+	SetFontSize 40
+	#PlayAlertSound 4 200
+	CustomAlertSound "Sounds\04cointojar.mp3" 300
+	PlayEffect Orange
+	MinimapIcon 1 Orange Circle
+	
+#/2-chaos-sets-------------------------------
+
+#\v1015--------------------------------------
+
+#\NecroElemental-gears--------------------------------
+
+# xx% increased Elemental Damage
+# xx% increased Spell Damage
+# "Calling Wand" "Convening Wand" "Convoking Wand" "Bone Spirit Shield" "Ivory Spirit Shield" "Fossilised Spirit Shield" "Bone Helmet"
+# "Darkwood Sceptre" "Platinum Sceptre" "Stag Sceptre" "Blood Sceptre" "Quartz Sceptre" "Ochre Sceptre" "Bronze Sceptre" "Iron Sceptre" "Ritual Sceptre" "Abyssal Sceptre" "Grinning Fetish" "Driftwood Sceptre" "Tyrant's Sekhem" "Vaal Sceptre" "Shadow Sceptre" "Karui Sceptre" "Opal Sceptre" "Royal Sceptre" "Void Sceptre" "Crystal Sceptre" "Carnal Sceptre" "Sekhem" "Lead Sceptre"
+# "Twig Spirit Shield" "Harmonic Spirit Shield" "Chiming Spirit Shield" "Jingling Spirit Shield" "Ancient Spirit Shield" "Yew Spirit Shield" "Tarnished Spirit Shield" "Vaal Spirit Shield" "Lacewood Spirit Shield" "Walnut Spirit Shield" 
+
+Show  # $type->NecroElemental-gears
+	BaseType == "Calling Wand" "Convening Wand" "Convoking Wand" "Bone Spirit Shield" "Ivory Spirit Shield" "Fossilised Spirit Shield" "Bone Helmet" "Darkwood Sceptre" "Platinum Sceptre" "Stag Sceptre" "Blood Sceptre" "Quartz Sceptre" "Ochre Sceptre" "Bronze Sceptre" "Iron Sceptre" "Ritual Sceptre" "Abyssal Sceptre" "Grinning Fetish" "Driftwood Sceptre" "Tyrant's Sekhem" "Vaal Sceptre" "Shadow Sceptre" "Karui Sceptre" "Opal Sceptre" "Royal Sceptre" "Void Sceptre" "Crystal Sceptre" "Carnal Sceptre" "Sekhem" "Lead Sceptre" "Twig Spirit Shield" "Harmonic Spirit Shield" "Chiming Spirit Shield" "Jingling Spirit Shield" "Ancient Spirit Shield" "Yew Spirit Shield" "Tarnished Spirit Shield" "Vaal Spirit Shield" "Lacewood Spirit Shield" "Walnut Spirit Shield" 
+	Rarity Normal Magic Rare
+	SetFontSize 40
+	SetBackgroundColor 20 30 40 255
+	SetBorderColor 100 225 255 255
+	SetTextColor 205 225 255 255
+	#PlayAlertSound 3 300
+	CustomAlertSound "Sounds\24item.mp3" 300
+	PlayEffect White
+	MinimapIcon 1 White Circle
+
+Show  # $type->NecroElemental-gears-Unique
+	BaseType == "Calling Wand" "Convening Wand" "Convoking Wand" "Bone Spirit Shield" "Ivory Spirit Shield" "Fossilised Spirit Shield" "Bone Helmet" "Darkwood Sceptre" "Platinum Sceptre" "Stag Sceptre" "Blood Sceptre" "Quartz Sceptre" "Ochre Sceptre" "Bronze Sceptre" "Iron Sceptre" "Ritual Sceptre" "Abyssal Sceptre" "Grinning Fetish" "Driftwood Sceptre" "Tyrant's Sekhem" "Vaal Sceptre" "Shadow Sceptre" "Karui Sceptre" "Opal Sceptre" "Royal Sceptre" "Void Sceptre" "Crystal Sceptre" "Carnal Sceptre" "Sekhem" "Lead Sceptre" "Twig Spirit Shield" "Harmonic Spirit Shield" "Chiming Spirit Shield" "Jingling Spirit Shield" "Ancient Spirit Shield" "Yew Spirit Shield" "Tarnished Spirit Shield" "Vaal Spirit Shield" "Lacewood Spirit Shield" "Walnut Spirit Shield" 
+	Rarity Unique
+	SetFontSize 45
+	SetBackgroundColor 20 10 40 255
+	SetBorderColor 150 85 255 255
+	SetTextColor 225 125 255 255
+	#PlayAlertSound 3 300
+	CustomAlertSound "Sounds\12leveling.mp3" 300
+	PlayEffect Purple
+	MinimapIcon 1 Purple Circle
+
+#/Handy-staff--------------------------------
+
+# Changed [[3700]] Currency - Regular Currency Tiering 
+# Changed [3809] Trial of the Ancestors
+# -- added CustomAlertSound "Sounds\06money2.mp3" 300
 #===============================================================================================================
 # NeverSink's Indepth Loot Filter - for Path of Exile
 #===============================================================================================================
@@ -7022,7 +7186,7 @@ Show # $type->currency $tier->t1exalted
 	SetBackgroundColor 255 255 255 255
 	PlayEffect Red
 	MinimapIcon 0 Red Star
-CustomAlertSound "Sounds/5highmaps.mp3" 300
+CustomAlertSound "Sounds\06money2.mp3" 300
 
 Show # $type->currency $tier->t2divine
 	Class "Currency"
@@ -7033,7 +7197,7 @@ Show # $type->currency $tier->t2divine
 	SetBackgroundColor 190 30 30 255
 	PlayEffect Red
 	MinimapIcon 0 Red Circle
-CustomAlertSound "Sounds/3uniques.mp3" 300
+CustomAlertSound "Sounds\06money2.mp3" 300
 
 Show # $type->currency $tier->t3annul
 	Class "Currency"
@@ -7044,7 +7208,7 @@ Show # $type->currency $tier->t3annul
 	SetBackgroundColor 190 30 30 255
 	PlayEffect Yellow
 	MinimapIcon 1 Yellow Circle
-CustomAlertSound "Sounds/3uniques.mp3" 300
+CustomAlertSound "Sounds\06money2.mp3" 300
 
 Show # $type->currency $tier->t4chaos
 	Class "Currency"
@@ -7055,7 +7219,7 @@ Show # $type->currency $tier->t4chaos
 	SetBackgroundColor 180 76 58 255
 	PlayEffect White
 	MinimapIcon 2 White Circle
-CustomAlertSound "Sounds/3uniques.mp3" 300
+CustomAlertSound "Sounds\06money2.mp3" 300
 
 Show # %HS4 $type->currency $tier->t5alchemy
 	Class "Currency"
@@ -7066,7 +7230,7 @@ Show # %HS4 $type->currency $tier->t5alchemy
 	SetBackgroundColor 180 76 58 255
 	PlayEffect White
 	MinimapIcon 2 White Circle
-CustomAlertSound "Sounds/3uniques.mp3" 300
+CustomAlertSound "Sounds\06money2.mp3" 300
 
 Show # %HS3 $type->currency $tier->t6chrom
 	Class "Currency"
@@ -7077,7 +7241,7 @@ Show # %HS3 $type->currency $tier->t6chrom
 	SetBackgroundColor 190 110 111 255
 	PlayEffect Grey
 	MinimapIcon 2 Grey Circle
-CustomAlertSound "Sounds/3uniques.mp3" 300
+CustomAlertSound "Sounds\06money2.mp3" 300
 
 Show # %H3 $type->currency $tier->t7chance
 	Class "Currency"
@@ -7086,14 +7250,18 @@ Show # %H3 $type->currency $tier->t7chance
 	SetTextColor 0 0 0 255
 	SetBorderColor 0 0 0 255
 	SetBackgroundColor 190 110 111 255
+	MinimapIcon 2 Grey Circle
+CustomAlertSound "Sounds\06money2.mp3" 300
 
-Hide # %H2 $type->currency $tier->t8trans
+Show # %H2 $type->currency $tier->t8trans
 	Class "Currency"
 	BaseType == "Alchemy Shard" "Alteration Shard" "Binding Shard" "Blacksmith's Whetstone" "Chaos Shard" "Horizon Shard" "Orb of Augmentation" "Orb of Transmutation" "Regal Shard"
 	SetFontSize 45
 	SetTextColor 190 120 90 255
 	SetBorderColor 190 120 90 255
 	SetBackgroundColor 20 20 0 255
+	MinimapIcon 2 Grey Circle
+CustomAlertSound "Sounds\06money2.mp3" 300
 
 Hide # %H1 $type->currency $tier->t9armour
 	Class "Currency"
@@ -7565,7 +7733,7 @@ Show # $type->currency->trial->orblike $tier->t1
 	SetBackgroundColor 255 255 255 255
 	PlayEffect Red
 	MinimapIcon 0 Red Star
-CustomAlertSound "Sounds/5highmaps.mp3" 300
+CustomAlertSound "Sounds\06money2.mp3" 300
 
 Show # $type->currency->trial->orblike $tier->coins
 	Class "Currency"
@@ -7576,7 +7744,7 @@ Show # $type->currency->trial->orblike $tier->coins
 	SetBackgroundColor 180 76 58 255
 	PlayEffect Cyan
 	MinimapIcon 1 Cyan Circle
-CustomAlertSound "Sounds/3uniques.mp3" 300
+CustomAlertSound "Sounds\06money2.mp3" 300
 
 Show # $type->currency->trial->omen $tier->t1
 	Class "Currency"
@@ -7587,7 +7755,7 @@ Show # $type->currency->trial->omen $tier->t1
 	SetBackgroundColor 255 255 255 255
 	PlayEffect Red
 	MinimapIcon 0 Red Star
-CustomAlertSound "Sounds/5highmaps.mp3" 300
+CustomAlertSound "Sounds\06money2.mp3" 300
 
 Show # $type->currency->trial->omen $tier->t2
 	Class "Currency"
@@ -7598,7 +7766,7 @@ Show # $type->currency->trial->omen $tier->t2
 	SetBackgroundColor 190 30 30 255
 	PlayEffect Red
 	MinimapIcon 0 Red Circle
-CustomAlertSound "Sounds/3uniques.mp3" 300
+CustomAlertSound "Sounds\06money2.mp3" 300
 
 Show # $type->currency->trial->omen $tier->t3
 	Class "Currency"
@@ -7609,7 +7777,7 @@ Show # $type->currency->trial->omen $tier->t3
 	SetBackgroundColor 190 30 30 255
 	PlayEffect Yellow
 	MinimapIcon 1 Yellow Circle
-CustomAlertSound "Sounds/3uniques.mp3" 300
+CustomAlertSound "Sounds\06money2.mp3" 300
 
 Show # $type->currency->trial->omen $tier->t4
 	Class "Currency"
@@ -7620,7 +7788,7 @@ Show # $type->currency->trial->omen $tier->t4
 	SetBackgroundColor 180 76 58 255
 	PlayEffect White
 	MinimapIcon 2 White Circle
-CustomAlertSound "Sounds/3uniques.mp3" 300
+CustomAlertSound "Sounds\06money2.mp3" 300
 
 Show # $type->currency->trial->omen $tier->restex
 	Class "Currency"
@@ -7642,7 +7810,7 @@ Show # $type->currency->trial->tattoo $tier->t1
 	SetBackgroundColor 255 255 255 255
 	PlayEffect Red
 	MinimapIcon 0 Red Star
-CustomAlertSound "Sounds/5highmaps.mp3" 300
+CustomAlertSound "Sounds\06money2.mp3" 300
 
 Show # $type->currency->trial->tattoo $tier->t2
 	Class "Currency"
@@ -7653,7 +7821,7 @@ Show # $type->currency->trial->tattoo $tier->t2
 	SetBackgroundColor 190 30 30 255
 	PlayEffect Red
 	MinimapIcon 0 Red Circle
-CustomAlertSound "Sounds/3uniques.mp3" 300
+CustomAlertSound "Sounds\06money2.mp3" 300
 
 Show # $type->currency->trial->tattoo $tier->t3
 	Class "Currency"
@@ -7664,7 +7832,7 @@ Show # $type->currency->trial->tattoo $tier->t3
 	SetBackgroundColor 190 30 30 255
 	PlayEffect Yellow
 	MinimapIcon 1 Yellow Circle
-CustomAlertSound "Sounds/3uniques.mp3" 300
+CustomAlertSound "Sounds\06money2.mp3" 300
 
 Show # $type->currency->trial->tattoo $tier->t4
 	Class "Currency"
@@ -7675,7 +7843,7 @@ Show # $type->currency->trial->tattoo $tier->t4
 	SetBackgroundColor 180 76 58 255
 	PlayEffect White
 	MinimapIcon 2 White Circle
-CustomAlertSound "Sounds/3uniques.mp3" 300
+CustomAlertSound "Sounds\06money2.mp3" 300
 
 Show # $type->currency->trial->tattoo $tier->restex
 	Class "Currency"
@@ -7686,7 +7854,7 @@ Show # $type->currency->trial->tattoo $tier->restex
 	SetBackgroundColor 100 0 100 255
 	PlayEffect Pink
 	MinimapIcon 0 Pink Circle
-CustomAlertSound "Sounds/3uniques.mp3" 300
+CustomAlertSound "Sounds\06money2.mp3" 300
 
 #------------------------------------
 #   [3810] Others
