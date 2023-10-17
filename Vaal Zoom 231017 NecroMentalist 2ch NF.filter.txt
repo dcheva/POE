@@ -1,140 +1,139 @@
-#\v1015--------------------------------------
-
+#\v1017--------------------------------------
 #\2-chaos-sets-------------------------------
 
-Show # $type->2chaos-a
-	Class "Amulets" "Rings"
-	SetBackgroundColor 50 40 30 255
-	SetBorderColor 100 255 100 255
-	SetTextColor 255 205 155 255
-	Identified False
-	Corrupted False
-	Mirrored False
-	Rarity Rare
-	ItemLevel >= 60
-	ItemLevel <= 85
-	SetFontSize 40
-	CustomAlertSound "Sounds\1maybevaluable.mp3" 300 # Sounds\6veryvaluable.mp3
-	#PlayAlertSound 4 200
-	PlayEffect Orange
-	MinimapIcon 1 Orange Circle	
+#Show # $type->2chaos-a
+#	Class "Amulets" "Rings"
+#	SetBackgroundColor 50 40 30 255
+#	SetBorderColor 100 255 100 255
+#	SetTextColor 255 205 155 255
+#	Identified False
+#	Corrupted False
+#	Mirrored False
+#	Rarity Rare
+#	ItemLevel >= 60
+#	ItemLevel <= 85
+#	SetFontSize 40
+#	CustomAlertSound "Sounds\1maybevaluable.mp3" 300 # Sounds\6veryvaluable.mp3
+#	#PlayAlertSound 4 200
+#	PlayEffect Orange
+#	MinimapIcon 1 Orange Circle	
 	
-Show # $type->2chaos-b
-	Class "Belts"
-	SetBackgroundColor 50 40 30 255
-	SetBorderColor 100 100 255 255
-	SetTextColor 255 205 155 255
-	Identified False
-	Corrupted False
-	Mirrored False
-	Rarity Rare
-	ItemLevel >= 60
-	ItemLevel <= 85
-	SetFontSize 40
-	CustomAlertSound "Sounds\1maybevaluable.mp3" 300
-	#PlayAlertSound 4 200
-	PlayEffect Orange
-	MinimapIcon 1 Orange Circle
+#Show # $type->2chaos-b
+#	Class "Belts"
+#	SetBackgroundColor 50 40 30 255
+#	SetBorderColor 100 100 255 255
+#	SetTextColor 255 205 155 255
+#	Identified False
+#	Corrupted False
+#	Mirrored False
+#	Rarity Rare
+#	ItemLevel >= 60
+#	ItemLevel <= 85
+#	SetFontSize 40
+#	CustomAlertSound "Sounds\1maybevaluable.mp3" 300
+#	#PlayAlertSound 4 200
+#	PlayEffect Orange
+#	MinimapIcon 1 Orange Circle
 	
-Show # $type->2chaos-c
-	Class "Daggers" "Rune Dagger" "Wands"
-	SetBackgroundColor 50 40 30 255
-	SetBorderColor 255 100 100 255
-	SetTextColor 255 205 155 255
-	Identified False
-	Corrupted False
-	Mirrored False
-	Rarity Rare
-	ItemLevel >= 60
-	ItemLevel <= 85
-	SetFontSize 40
-	CustomAlertSound "Sounds\02coin.mp3" 300
-	#PlayAlertSound 4 200
-	PlayEffect Orange
-	MinimapIcon 1 Orange Circle	
+#Show # $type->2chaos-c
+#	Class "Daggers" "Rune Dagger" "Wands"
+#	SetBackgroundColor 50 40 30 255
+#	SetBorderColor 255 100 100 255
+#	SetTextColor 255 205 155 255
+#	Identified False
+#	Corrupted False
+#	Mirrored False
+#	Rarity Rare
+#	ItemLevel >= 60
+#	ItemLevel <= 85
+#	SetFontSize 40
+#	CustomAlertSound "Sounds\02coin.mp3" 300
+#	#PlayAlertSound 4 200
+#	PlayEffect Orange
+#	MinimapIcon 1 Orange Circle	
 	
-Show # $type->2chaos-d
-	Class "Boots"
-	SetBackgroundColor 50 40 30 255
-	SetBorderColor 200 150 100 255
-	SetTextColor 255 205 155 255
-	Identified False
-	Corrupted False
-	Mirrored False
-	Rarity Rare
-	ItemLevel >= 60
-	ItemLevel <= 85
-	SetFontSize 40
-	CustomAlertSound "Sounds\03coinshake.mp3" 300
-	#PlayAlertSound 4 200
-	PlayEffect Orange
-	MinimapIcon 1 Orange Circle
+#Show # $type->2chaos-d
+#	Class "Boots"
+#	SetBackgroundColor 50 40 30 255
+#	SetBorderColor 200 150 100 255
+#	SetTextColor 255 205 155 255
+#	Identified False
+#	Corrupted False
+#	Mirrored False
+#	Rarity Rare
+#	ItemLevel >= 60
+#	ItemLevel <= 85
+#	SetFontSize 40
+#	CustomAlertSound "Sounds\03coinshake.mp3" 300
+#	#PlayAlertSound 4 200
+#	PlayEffect Orange
+#	MinimapIcon 1 Orange Circle
 	
-Show # $type->2chaos-d
-	Class "Gloves"
-	SetBackgroundColor 50 40 30 255
-	SetBorderColor 200 150 100 255
-	SetTextColor 255 205 155 255
-	Identified False
-	Corrupted False
-	Mirrored False
-	Rarity Rare
-	ItemLevel >= 60
-	ItemLevel <= 85
-	SetFontSize 40
-	CustomAlertSound "Sounds\03coinshake.mp3" 300
-	#PlayAlertSound 4 200
-	PlayEffect Orange
-	MinimapIcon 1 Orange Circle
+#Show # $type->2chaos-d
+#	Class "Gloves"
+#	SetBackgroundColor 50 40 30 255
+#	SetBorderColor 200 150 100 255
+#	SetTextColor 255 205 155 255
+#	Identified False
+#	Corrupted False
+#	Mirrored False
+#	Rarity Rare
+#	ItemLevel >= 60
+#	ItemLevel <= 85
+#	SetFontSize 40
+#	CustomAlertSound "Sounds\03coinshake.mp3" 300
+#	#PlayAlertSound 4 200
+#	PlayEffect Orange
+#	MinimapIcon 1 Orange Circle
 	
-Show # $type->2chaos-d
-	Class "Helmets"
-	SetBackgroundColor 50 40 30 255
-	SetBorderColor 200 150 100 255
-	SetTextColor 255 205 155 255
-	Identified False
-	Corrupted False
-	Mirrored False
-	Rarity Rare
-	ItemLevel >= 60
-	ItemLevel <= 85
-	SetFontSize 40
-	CustomAlertSound "Sounds\03coinshake.mp3" 300
-	#PlayAlertSound 4 200
-	PlayEffect Orange
-	MinimapIcon 1 Orange Circle
+#Show # $type->2chaos-d
+#	Class "Helmets"
+#	SetBackgroundColor 50 40 30 255
+#	SetBorderColor 200 150 100 255
+#	SetTextColor 255 205 155 255
+#	Identified False
+#	Corrupted False
+#	Mirrored False
+#	Rarity Rare
+#	ItemLevel >= 60
+#	ItemLevel <= 85
+#	SetFontSize 40
+#	CustomAlertSound "Sounds\03coinshake.mp3" 300
+#	#PlayAlertSound 4 200
+#	PlayEffect Orange
+#	MinimapIcon 1 Orange Circle
 	
-Show # $type->2chaos-e
-	Class "Body Armours"
-	SetBackgroundColor 50 40 30 255
-	SetBorderColor 255 255 100 255
-	SetTextColor 255 205 155 255
-	Identified False
-	Corrupted False
-	Mirrored False
-	Rarity Rare
-	ItemLevel >= 60
-	ItemLevel <= 74
-	SetFontSize 40
-	#PlayAlertSound 4 200
-	CustomAlertSound "Sounds\04cointojar.mp3" 300
-	PlayEffect Orange
-	MinimapIcon 1 Orange Circle
+#Show # $type->2chaos-e
+#	Class "Body Armours"
+#	SetBackgroundColor 50 40 30 255
+#	SetBorderColor 255 255 100 255
+#	SetTextColor 255 205 155 255
+#	Identified False
+#	Corrupted False
+#	Mirrored False
+#	Rarity Rare
+#	ItemLevel >= 60
+#	ItemLevel <= 74
+#	SetFontSize 40
+#	#PlayAlertSound 4 200
+#	CustomAlertSound "Sounds\04cointojar.mp3" 300
+#	PlayEffect Orange
+#	MinimapIcon 1 Orange Circle
 	
 #/2-chaos-sets-------------------------------
 
-#\v1015--------------------------------------
-
 #\NecroElemental-gears--------------------------------
+
+# Minions deal xx% increased Damage
+# "Calling Wand" "Convening Wand" "Convoking Wand" "Bone Spirit Shield" "Ivory Spirit Shield" "Fossilised Spirit Shield" "Bone Helmet"
 
 # xx% increased Elemental Damage
 # xx% increased Spell Damage
-# "Calling Wand" "Convening Wand" "Convoking Wand" "Bone Spirit Shield" "Ivory Spirit Shield" "Fossilised Spirit Shield" "Bone Helmet"
 # "Darkwood Sceptre" "Platinum Sceptre" "Stag Sceptre" "Blood Sceptre" "Quartz Sceptre" "Ochre Sceptre" "Bronze Sceptre" "Iron Sceptre" "Ritual Sceptre" "Abyssal Sceptre" "Grinning Fetish" "Driftwood Sceptre" "Tyrant's Sekhem" "Vaal Sceptre" "Shadow Sceptre" "Karui Sceptre" "Opal Sceptre" "Royal Sceptre" "Void Sceptre" "Crystal Sceptre" "Carnal Sceptre" "Sekhem" "Lead Sceptre"
 # "Twig Spirit Shield" "Harmonic Spirit Shield" "Chiming Spirit Shield" "Jingling Spirit Shield" "Ancient Spirit Shield" "Yew Spirit Shield" "Tarnished Spirit Shield" "Vaal Spirit Shield" "Lacewood Spirit Shield" "Walnut Spirit Shield" 
 
 Show  # $type->NecroElemental-gears
-	BaseType == "Calling Wand" "Convening Wand" "Convoking Wand" "Bone Spirit Shield" "Ivory Spirit Shield" "Fossilised Spirit Shield" "Bone Helmet" "Darkwood Sceptre" "Platinum Sceptre" "Stag Sceptre" "Blood Sceptre" "Quartz Sceptre" "Ochre Sceptre" "Bronze Sceptre" "Iron Sceptre" "Ritual Sceptre" "Abyssal Sceptre" "Grinning Fetish" "Driftwood Sceptre" "Tyrant's Sekhem" "Vaal Sceptre" "Shadow Sceptre" "Karui Sceptre" "Opal Sceptre" "Royal Sceptre" "Void Sceptre" "Crystal Sceptre" "Carnal Sceptre" "Sekhem" "Lead Sceptre" "Twig Spirit Shield" "Harmonic Spirit Shield" "Chiming Spirit Shield" "Jingling Spirit Shield" "Ancient Spirit Shield" "Yew Spirit Shield" "Tarnished Spirit Shield" "Vaal Spirit Shield" "Lacewood Spirit Shield" "Walnut Spirit Shield" 
+	BaseType == "Calling Wand" "Convening Wand" "Convoking Wand" "Bone Spirit Shield" "Ivory Spirit Shield" "Fossilised Spirit Shield" "Bone Helmet"
 	Rarity Normal Magic Rare
 	SetFontSize 40
 	SetBackgroundColor 20 30 40 255
@@ -146,7 +145,7 @@ Show  # $type->NecroElemental-gears
 	MinimapIcon 1 White Circle
 
 Show  # $type->NecroElemental-gears-Unique
-	BaseType == "Calling Wand" "Convening Wand" "Convoking Wand" "Bone Spirit Shield" "Ivory Spirit Shield" "Fossilised Spirit Shield" "Bone Helmet" "Darkwood Sceptre" "Platinum Sceptre" "Stag Sceptre" "Blood Sceptre" "Quartz Sceptre" "Ochre Sceptre" "Bronze Sceptre" "Iron Sceptre" "Ritual Sceptre" "Abyssal Sceptre" "Grinning Fetish" "Driftwood Sceptre" "Tyrant's Sekhem" "Vaal Sceptre" "Shadow Sceptre" "Karui Sceptre" "Opal Sceptre" "Royal Sceptre" "Void Sceptre" "Crystal Sceptre" "Carnal Sceptre" "Sekhem" "Lead Sceptre" "Twig Spirit Shield" "Harmonic Spirit Shield" "Chiming Spirit Shield" "Jingling Spirit Shield" "Ancient Spirit Shield" "Yew Spirit Shield" "Tarnished Spirit Shield" "Vaal Spirit Shield" "Lacewood Spirit Shield" "Walnut Spirit Shield" 
+	BaseType == "Calling Wand" "Convening Wand" "Convoking Wand" "Bone Spirit Shield" "Ivory Spirit Shield" "Fossilised Spirit Shield" "Bone Helmet"
 	Rarity Unique
 	SetFontSize 45
 	SetBackgroundColor 20 10 40 255
@@ -157,7 +156,7 @@ Show  # $type->NecroElemental-gears-Unique
 	PlayEffect Purple
 	MinimapIcon 1 Purple Circle
 
-#/Handy-staff--------------------------------
+#/NecroElemental-gears--------------------------------
 
 # Changed [[3700]] Currency - Regular Currency Tiering 
 # Changed [3809] Trial of the Ancestors
