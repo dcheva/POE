@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <PathOfBuilding>
-	<Mode mode="BUILD">
-		<Arg string="D:\Documents/Path of Building/Builds/DeePoir Haste.xml"/>
-		<Arg string="DeePoir Haste"/>
+	<Mode mode="LIST">
+		<Arg string="DeeDeadeye lvl54 planned"/>
+		<Arg string=""/>
 	</Mode>
 	<Accounts lastAccountName="SteamCovan" lastRealm="PC">
 		<Account accountName="SteamCovan"/>
