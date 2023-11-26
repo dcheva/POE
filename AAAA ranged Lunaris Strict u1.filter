@@ -1,5 +1,140 @@
-# imported AAAA ranged changed Lunaris Strict 
-## 1. updated sounds folder
+#\v11.26--------------------------------------
+#\2-chaos-sets-------------------------------
+
+Show # $type->2chaos-a
+	Class "Amulets" "Rings"
+	SetBackgroundColor 50 40 30 255
+	SetBorderColor 100 255 100 255
+	SetTextColor 255 205 155 255
+	Identified False
+	Corrupted False
+	Mirrored False
+	Rarity Rare
+	ItemLevel >= 60
+	ItemLevel <= 85
+	SetFontSize 40
+	CustomAlertSound "Sounds\1maybevaluable.mp3" 300 # Sounds\6veryvaluable.mp3
+	#PlayAlertSound 4 200
+	PlayEffect Orange
+	MinimapIcon 1 Orange Circle	
+	
+Show # $type->2chaos-b
+	Class "Belts"
+	SetBackgroundColor 50 40 30 255
+	SetBorderColor 100 100 255 255
+	SetTextColor 255 205 155 255
+	Identified False
+	Corrupted False
+	Mirrored False
+	Rarity Rare
+	ItemLevel >= 60
+	ItemLevel <= 85
+	SetFontSize 40
+	CustomAlertSound "Sounds\1maybevaluable.mp3" 300
+	#PlayAlertSound 4 200
+	PlayEffect Orange
+	MinimapIcon 1 Orange Circle
+	
+Show # $type->2chaos-c
+	Class "Daggers" "Rune Dagger" "Wands"
+	SetBackgroundColor 50 40 30 255
+	SetBorderColor 255 100 100 255
+	SetTextColor 255 205 155 255
+	Identified False
+	Corrupted False
+	Mirrored False
+	Rarity Rare
+	ItemLevel >= 60
+	ItemLevel <= 85
+	SetFontSize 40
+	CustomAlertSound "Sounds\02coin.mp3" 300
+	#PlayAlertSound 4 200
+	PlayEffect Orange
+	MinimapIcon 1 Orange Circle	
+	
+Show # $type->2chaos-d
+	Class "Boots"
+	SetBackgroundColor 50 40 30 255
+	SetBorderColor 200 150 100 255
+	SetTextColor 255 205 155 255
+	Identified False
+	Corrupted False
+	Mirrored False
+	Rarity Rare
+	ItemLevel >= 60
+	ItemLevel <= 85
+	SetFontSize 40
+	CustomAlertSound "Sounds\04cointojar.mp3" 300
+	#PlayAlertSound 4 200
+	PlayEffect Orange
+	MinimapIcon 1 Orange Circle
+	
+Show # $type->2chaos-d
+	Class "Gloves"
+	SetBackgroundColor 50 40 30 255
+	SetBorderColor 200 150 100 255
+	SetTextColor 255 205 155 255
+	Identified False
+	Corrupted False
+	Mirrored False
+	Rarity Rare
+	ItemLevel >= 60
+	ItemLevel <= 85
+	SetFontSize 40
+	CustomAlertSound "Sounds\04cointojar.mp3" 300
+	#PlayAlertSound 4 200
+	PlayEffect Orange
+	MinimapIcon 1 Orange Circle
+	
+Show # $type->2chaos-d
+	Class "Helmets"
+	SetBackgroundColor 50 40 30 255
+	SetBorderColor 200 150 100 255
+	SetTextColor 255 205 155 255
+	Identified False
+	Corrupted False
+	Mirrored False
+	Rarity Rare
+	ItemLevel >= 60
+	ItemLevel <= 85
+	SetFontSize 40
+	CustomAlertSound "Sounds\04cointojar.mp3" 300
+	#PlayAlertSound 4 200
+	PlayEffect Orange
+	MinimapIcon 1 Orange Circle
+	
+Show # $type->2chaos-e
+	Class "Body Armours"
+	SetBackgroundColor 50 40 30 255
+	SetBorderColor 255 255 100 255
+	SetTextColor 255 205 155 255
+	Identified False
+	Corrupted False
+	Mirrored False
+	Rarity Rare
+	ItemLevel >= 60
+	ItemLevel <= 74
+	SetFontSize 40
+	#PlayAlertSound 4 200
+	CustomAlertSound "Sounds\03coinshake.mp3" 300
+	PlayEffect Orange
+	MinimapIcon 1 Orange Circle
+	
+#/2-chaos-sets-------------------------------
+#/v11.26--------------------------------------
+
+
+
+#Online Item Filter
+#name:AAAA ranged Lunaris Strict u1
+#version:3.22.2
+#realm:pc
+#errors:
+#hash:d9c508301493988d8e829c21624dc5a0
+#filterVersion:8.12.0.u1
+#filterType:Normal
+#lastUpdate:2023-11-21T16:30:16Z
+#monthTimeStamp:1487
 #===============================================================================================================
 # NeverSink's Indepth Loot Filter - for Path of Exile
 #===============================================================================================================
@@ -7085,7 +7220,8 @@ Show # %DS4 $type->currency->stackedsupplieshigh $tier->t1
 	SetTextColor 0 0 0 255
 	SetBorderColor 0 0 0 255
 	SetBackgroundColor 180 76 58 255
-	PlayAlertSound 2 300
+	CustomAlertSound "Sounds\06money2.mp3" 300
+	#PlayAlertSound 2 300
 	PlayEffect White
 	MinimapIcon 2 White Circle
 
@@ -7121,7 +7257,8 @@ Show # %DS4 $type->currency->stackedsupplieslow $tier->t1
 	SetTextColor 0 0 0 255
 	SetBorderColor 0 0 0 255
 	SetBackgroundColor 190 110 111 255
-	PlayAlertSound 2 300
+	CustomAlertSound "Sounds\06money2.mp3" 300
+	#PlayAlertSound 2 300
 	PlayEffect Grey
 	MinimapIcon 2 Grey Circle
 
@@ -7213,7 +7350,8 @@ Show # %D9 $type->currency->stackedsix $tier->t1
 	SetTextColor 255 0 0 255
 	SetBorderColor 255 0 0 255
 	SetBackgroundColor 255 255 255 255
-	PlayAlertSound 6 300
+	CustomAlertSound "Sounds\06money2.mp3" 300
+	#PlayAlertSound 6 300
 	PlayEffect Red
 	MinimapIcon 0 Red Star
 
@@ -7225,7 +7363,8 @@ Show # %D8 $type->currency->stackedsix $tier->t2
 	SetTextColor 255 255 255 255
 	SetBorderColor 255 255 255 255
 	SetBackgroundColor 190 30 30 255
-	PlayAlertSound 1 300
+	CustomAlertSound "Sounds\06money2.mp3" 300
+	#PlayAlertSound 1 300
 	PlayEffect Red
 	MinimapIcon 0 Red Circle
 
@@ -7237,7 +7376,8 @@ Show # %D7 $type->currency->stackedsix $tier->t3
 	SetTextColor 0 0 0 255
 	SetBorderColor 0 0 0 255
 	SetBackgroundColor 190 30 30 255
-	PlayAlertSound 2 300
+	CustomAlertSound "Sounds\06money2.mp3" 300
+	#PlayAlertSound 2 300
 	PlayEffect Yellow
 	MinimapIcon 1 Yellow Circle
 
@@ -7249,7 +7389,8 @@ Show # %D6 $type->currency->stackedsix $tier->t4
 	SetTextColor 0 0 0 255
 	SetBorderColor 0 0 0 255
 	SetBackgroundColor 180 76 58 255
-	PlayAlertSound 2 300
+	CustomAlertSound "Sounds\06money2.mp3" 300
+	#PlayAlertSound 2 300
 	PlayEffect White
 	MinimapIcon 2 White Circle
 
@@ -7261,7 +7402,8 @@ Show # %DS4 $type->currency->stackedsix $tier->t5
 	SetTextColor 0 0 0 255
 	SetBorderColor 0 0 0 255
 	SetBackgroundColor 180 76 58 255
-	PlayAlertSound 2 300
+	CustomAlertSound "Sounds\06money2.mp3" 300
+	#PlayAlertSound 2 300
 	PlayEffect White
 	MinimapIcon 2 White Circle
 
@@ -7297,7 +7439,8 @@ Show # %D9 $type->currency->stackedthree $tier->t1
 	SetTextColor 255 0 0 255
 	SetBorderColor 255 0 0 255
 	SetBackgroundColor 255 255 255 255
-	PlayAlertSound 6 300
+	CustomAlertSound "Sounds\06money2.mp3" 300
+	#PlayAlertSound 6 300
 	PlayEffect Red
 	MinimapIcon 0 Red Star
 
@@ -7309,7 +7452,8 @@ Show # %D8 $type->currency->stackedthree $tier->t2
 	SetTextColor 255 255 255 255
 	SetBorderColor 255 255 255 255
 	SetBackgroundColor 190 30 30 255
-	PlayAlertSound 1 300
+	CustomAlertSound "Sounds\06money2.mp3" 300
+	#PlayAlertSound 1 300
 	PlayEffect Red
 	MinimapIcon 0 Red Circle
 
@@ -7321,7 +7465,8 @@ Show # %D7 $type->currency->stackedthree $tier->t3
 	SetTextColor 0 0 0 255
 	SetBorderColor 0 0 0 255
 	SetBackgroundColor 190 30 30 255
-	PlayAlertSound 2 300
+	CustomAlertSound "Sounds\06money2.mp3" 300
+	#PlayAlertSound 2 300
 	PlayEffect Yellow
 	MinimapIcon 1 Yellow Circle
 
@@ -7333,7 +7478,8 @@ Show # %D6 $type->currency->stackedthree $tier->t4
 	SetTextColor 0 0 0 255
 	SetBorderColor 0 0 0 255
 	SetBackgroundColor 180 76 58 255
-	PlayAlertSound 2 300
+	CustomAlertSound "Sounds\06money2.mp3" 300
+	#PlayAlertSound 2 300
 	PlayEffect White
 	MinimapIcon 2 White Circle
 
@@ -7345,7 +7491,8 @@ Show # %DS4 $type->currency->stackedthree $tier->t5
 	SetTextColor 0 0 0 255
 	SetBorderColor 0 0 0 255
 	SetBackgroundColor 180 76 58 255
-	PlayAlertSound 2 300
+	CustomAlertSound "Sounds\06money2.mp3" 300
+	#PlayAlertSound 2 300
 	PlayEffect White
 	MinimapIcon 2 White Circle
 
@@ -7357,7 +7504,8 @@ Show # %DS3 $type->currency->stackedthree $tier->t6
 	SetTextColor 0 0 0 255
 	SetBorderColor 0 0 0 255
 	SetBackgroundColor 190 110 111 255
-	PlayAlertSound 2 300
+	CustomAlertSound "Sounds\06money2.mp3" 300
+	#PlayAlertSound 2 300
 	PlayEffect Grey
 	MinimapIcon 2 Grey Circle
 
@@ -7522,7 +7670,8 @@ Show # $type->currency $tier->t1exalted
 	SetTextColor 255 0 0 255
 	SetBorderColor 255 0 0 255
 	SetBackgroundColor 255 255 255 255
-	PlayAlertSound 6 300
+	CustomAlertSound "Sounds\06money2.mp3" 300
+	#PlayAlertSound 6 300
 	PlayEffect Red
 	MinimapIcon 0 Red Star
 
@@ -7533,7 +7682,8 @@ Show # $type->currency $tier->t2divine
 	SetTextColor 255 255 255 255
 	SetBorderColor 255 255 255 255
 	SetBackgroundColor 190 30 30 255
-	PlayAlertSound 1 300
+	CustomAlertSound "Sounds\06money2.mp3" 300
+	#PlayAlertSound 1 300
 	PlayEffect Red
 	MinimapIcon 0 Red Circle
 
@@ -7544,7 +7694,8 @@ Show # $type->currency $tier->t3annul
 	SetTextColor 0 0 0 255
 	SetBorderColor 0 0 0 255
 	SetBackgroundColor 190 30 30 255
-	PlayAlertSound 2 300
+	CustomAlertSound "Sounds\06money2.mp3" 300
+	#PlayAlertSound 2 300
 	PlayEffect Yellow
 	MinimapIcon 1 Yellow Circle
 
@@ -7555,7 +7706,8 @@ Show # $type->currency $tier->t4chaos
 	SetTextColor 0 0 0 255
 	SetBorderColor 0 0 0 255
 	SetBackgroundColor 180 76 58 255
-	PlayAlertSound 2 300
+	CustomAlertSound "Sounds\06money2.mp3" 300
+	#PlayAlertSound 2 300
 	PlayEffect White
 	MinimapIcon 2 White Circle
 
@@ -7566,7 +7718,8 @@ Show # %HS4 $type->currency $tier->t5alchemy
 	SetTextColor 0 0 0 255
 	SetBorderColor 0 0 0 255
 	SetBackgroundColor 180 76 58 255
-	PlayAlertSound 2 300
+	CustomAlertSound "Sounds\06money2.mp3" 300
+	#PlayAlertSound 2 300
 	PlayEffect White
 	MinimapIcon 2 White Circle
 
@@ -7577,7 +7730,8 @@ Show # %HS3 $type->currency $tier->t6chrom
 	SetTextColor 0 0 0 255
 	SetBorderColor 0 0 0 255
 	SetBackgroundColor 190 110 111 255
-	PlayAlertSound 2 300
+	CustomAlertSound "Sounds\06money2.mp3" 300
+	#PlayAlertSound 2 300
 
 Show # %H3 $type->currency $tier->t7chance
 	Class "Currency"
@@ -7633,7 +7787,8 @@ Show # $type->vials $tier->t1
 	SetTextColor 255 0 0 255
 	SetBorderColor 255 0 0 255
 	SetBackgroundColor 255 255 255 255
-	PlayAlertSound 6 300
+	CustomAlertSound "Sounds\06money2.mp3" 300
+	#PlayAlertSound 6 300
 	PlayEffect Red
 	MinimapIcon 0 Red Star
 
@@ -7644,7 +7799,8 @@ Show # $type->vials $tier->t2
 	SetTextColor 255 255 255 255
 	SetBorderColor 255 255 255 255
 	SetBackgroundColor 190 30 30 255
-	PlayAlertSound 1 300
+	CustomAlertSound "Sounds\06money2.mp3" 300
+	#PlayAlertSound 1 300
 	PlayEffect Red
 	MinimapIcon 0 Red Circle
 
@@ -7655,7 +7811,8 @@ Show # %HS4 $type->vials $tier->t3
 	SetTextColor 0 0 0 255
 	SetBorderColor 0 0 0 255
 	SetBackgroundColor 180 76 58 255
-	PlayAlertSound 2 300
+	CustomAlertSound "Sounds\06money2.mp3" 300
+	#PlayAlertSound 2 300
 	PlayEffect White
 	MinimapIcon 2 White Circle
 
@@ -7666,7 +7823,8 @@ Show # $type->vials $tier->restex
 	SetTextColor 255 0 255 255
 	SetBorderColor 255 0 255 255
 	SetBackgroundColor 100 0 100 255
-	PlayAlertSound 3 300
+	CustomAlertSound "Sounds\06money2.mp3" 300
+	#PlayAlertSound 3 300
 	PlayEffect Pink
 	MinimapIcon 0 Pink Circle
 
@@ -7692,7 +7850,8 @@ Show # $type->currency->deliriumorbs $tier->t2
 	SetTextColor 255 255 255 255
 	SetBorderColor 255 255 255 255
 	SetBackgroundColor 190 30 30 255
-	PlayAlertSound 1 300
+	CustomAlertSound "Sounds\06money2.mp3" 300
+	#PlayAlertSound 1 300
 	PlayEffect Red
 	MinimapIcon 0 Red Circle
 
@@ -7703,7 +7862,8 @@ Show # $type->currency->deliriumorbs $tier->t3
 	SetTextColor 0 0 0 255
 	SetBorderColor 0 0 0 255
 	SetBackgroundColor 180 76 58 255
-	PlayAlertSound 2 300
+	CustomAlertSound "Sounds\06money2.mp3" 300
+	#PlayAlertSound 2 300
 	PlayEffect White
 	MinimapIcon 2 White Circle
 
@@ -7714,7 +7874,8 @@ Show # $type->currency->deliriumorbs $tier->restex
 	SetTextColor 255 0 255 255
 	SetBorderColor 255 0 255 255
 	SetBackgroundColor 100 0 100 255
-	PlayAlertSound 3 300
+	CustomAlertSound "Sounds\06money2.mp3" 300
+	#PlayAlertSound 3 300
 	PlayEffect Pink
 	MinimapIcon 0 Pink Circle
 
@@ -7730,7 +7891,8 @@ Show # $type->currency->resonator $tier->t1
 	SetTextColor 255 255 255 255
 	SetBorderColor 255 255 255 255
 	SetBackgroundColor 190 30 30 255
-	PlayAlertSound 1 300
+	CustomAlertSound "Sounds\06money2.mp3" 300
+	#PlayAlertSound 1 300
 	PlayEffect Red
 	MinimapIcon 0 Red Circle
 
@@ -7741,7 +7903,8 @@ Show # %H5 $type->currency->resonator $tier->t2
 	SetTextColor 0 0 0 255
 	SetBorderColor 0 0 0 255
 	SetBackgroundColor 180 76 58 255
-	PlayAlertSound 2 300
+	CustomAlertSound "Sounds\06money2.mp3" 300
+	#PlayAlertSound 2 300
 	PlayEffect White
 	MinimapIcon 2 White Circle
 
@@ -7761,7 +7924,8 @@ Show # $type->currency->resonator $tier->restex
 	SetTextColor 255 0 255 255
 	SetBorderColor 255 0 255 255
 	SetBackgroundColor 100 0 100 255
-	PlayAlertSound 3 300
+	CustomAlertSound "Sounds\06money2.mp3" 300
+	#PlayAlertSound 3 300
 	PlayEffect Pink
 	MinimapIcon 0 Pink Circle
 
@@ -7777,7 +7941,8 @@ Show # $type->currency->fossil $tier->t1
 	SetTextColor 255 0 0 255
 	SetBorderColor 255 0 0 255
 	SetBackgroundColor 255 255 255 255
-	PlayAlertSound 6 300
+	CustomAlertSound "Sounds\06money2.mp3" 300
+	#PlayAlertSound 6 300
 	PlayEffect Red
 	MinimapIcon 0 Red Star
 
@@ -7788,7 +7953,8 @@ Show # $type->currency->fossil $tier->t2
 	SetTextColor 255 255 255 255
 	SetBorderColor 255 255 255 255
 	SetBackgroundColor 190 30 30 255
-	PlayAlertSound 1 300
+	CustomAlertSound "Sounds\06money2.mp3" 300
+	#PlayAlertSound 1 300
 	PlayEffect Red
 	MinimapIcon 0 Red Circle
 
@@ -7799,7 +7965,8 @@ Show # %HS5 $type->currency->fossil $tier->t3
 	SetTextColor 0 0 0 255
 	SetBorderColor 0 0 0 255
 	SetBackgroundColor 180 76 58 255
-	PlayAlertSound 2 300
+	CustomAlertSound "Sounds\06money2.mp3" 300
+	#PlayAlertSound 2 300
 	PlayEffect White
 	MinimapIcon 2 White Circle
 
@@ -7810,7 +7977,8 @@ Show # %HS4 $type->currency->fossil $tier->t4
 	SetTextColor 0 0 0 255
 	SetBorderColor 0 0 0 255
 	SetBackgroundColor 190 110 111 255
-	PlayAlertSound 2 300
+	CustomAlertSound "Sounds\06money2.mp3" 300
+	#PlayAlertSound 2 300
 	PlayEffect Grey
 	MinimapIcon 2 Grey Circle
 
@@ -7821,7 +7989,8 @@ Show # $type->currency->fossil $tier->restex
 	SetTextColor 255 0 255 255
 	SetBorderColor 255 0 255 255
 	SetBackgroundColor 100 0 100 255
-	PlayAlertSound 3 300
+	CustomAlertSound "Sounds\06money2.mp3" 300
+	#PlayAlertSound 3 300
 	PlayEffect Pink
 	MinimapIcon 0 Pink Circle
 
@@ -7837,7 +8006,8 @@ Show # $type->currency->oil $tier->t1
 	SetTextColor 255 0 0 255
 	SetBorderColor 255 0 0 255
 	SetBackgroundColor 255 255 255 255
-	PlayAlertSound 6 300
+	CustomAlertSound "Sounds\06money2.mp3" 300
+	#PlayAlertSound 6 300
 	PlayEffect Red
 	MinimapIcon 0 Red Star
 
@@ -7848,7 +8018,8 @@ Show # $type->currency->oil $tier->t2
 	SetTextColor 255 255 255 255
 	SetBorderColor 255 255 255 255
 	SetBackgroundColor 190 30 30 255
-	PlayAlertSound 1 300
+	CustomAlertSound "Sounds\06money2.mp3" 300
+	#PlayAlertSound 1 300
 	PlayEffect Red
 	MinimapIcon 0 Red Circle
 
@@ -7859,7 +8030,8 @@ Show # %HS5 $type->currency->oil $tier->t3
 	SetTextColor 0 0 0 255
 	SetBorderColor 0 0 0 255
 	SetBackgroundColor 180 76 58 255
-	PlayAlertSound 2 300
+	CustomAlertSound "Sounds\06money2.mp3" 300
+	#PlayAlertSound 2 300
 	PlayEffect White
 	MinimapIcon 2 White Circle
 
@@ -7870,7 +8042,8 @@ Show # %HS3 $type->currency->oil $tier->t4
 	SetTextColor 0 0 0 255
 	SetBorderColor 0 0 0 255
 	SetBackgroundColor 190 110 111 255
-	PlayAlertSound 2 300
+	CustomAlertSound "Sounds\06money2.mp3" 300
+	#PlayAlertSound 2 300
 	PlayEffect Grey
 	MinimapIcon 2 Grey Circle
 
@@ -7887,7 +8060,8 @@ Show # $type->currency->oil $tier->restex
 	SetTextColor 255 0 255 255
 	SetBorderColor 255 0 255 255
 	SetBackgroundColor 100 0 100 255
-	PlayAlertSound 3 300
+	CustomAlertSound "Sounds\06money2.mp3" 300
+	#PlayAlertSound 3 300
 	PlayEffect Pink
 	MinimapIcon 0 Pink Circle
 
@@ -7903,7 +8077,8 @@ Show # $type->currency->essence $tier->t1
 	SetTextColor 255 255 255 255
 	SetBorderColor 255 255 255 255
 	SetBackgroundColor 190 30 30 255
-	PlayAlertSound 1 300
+	CustomAlertSound "Sounds\06money2.mp3" 300
+	#PlayAlertSound 1 300
 	PlayEffect Red
 	MinimapIcon 0 Red Circle
 
@@ -7914,7 +8089,8 @@ Show # $type->currency->essence $tier->t2
 	SetTextColor 0 0 0 255
 	SetBorderColor 0 0 0 255
 	SetBackgroundColor 190 30 30 255
-	PlayAlertSound 2 300
+	CustomAlertSound "Sounds\06money2.mp3" 300
+	#PlayAlertSound 2 300
 	PlayEffect Yellow
 	MinimapIcon 1 Yellow Circle
 
@@ -7925,7 +8101,8 @@ Show # %H5 $type->currency->essence $tier->t3
 	SetTextColor 0 0 0 255
 	SetBorderColor 0 0 0 255
 	SetBackgroundColor 180 76 58 255
-	PlayAlertSound 2 300
+	CustomAlertSound "Sounds\06money2.mp3" 300
+	#PlayAlertSound 2 300
 	PlayEffect White
 	MinimapIcon 2 White Circle
 
@@ -7972,7 +8149,8 @@ Show # %D5 $type->currency->incubators $tier->leveledex
 	SetTextColor 0 0 0 255
 	SetBorderColor 0 0 0 255
 	SetBackgroundColor 180 76 58 255
-	PlayAlertSound 2 300
+	CustomAlertSound "Sounds\06money2.mp3" 300
+	#PlayAlertSound 2 300
 	PlayEffect White
 	MinimapIcon 2 White Circle
 
@@ -7983,7 +8161,8 @@ Show # $type->currency->incubators $tier->t2
 	SetTextColor 255 255 255 255
 	SetBorderColor 255 255 255 255
 	SetBackgroundColor 190 30 30 255
-	PlayAlertSound 1 300
+	CustomAlertSound "Sounds\06money2.mp3" 300
+	#PlayAlertSound 1 300
 	PlayEffect Red
 	MinimapIcon 0 Red Circle
 
@@ -7994,7 +8173,8 @@ Show # $type->currency->incubators $tier->t3
 	SetTextColor 0 0 0 255
 	SetBorderColor 0 0 0 255
 	SetBackgroundColor 190 30 30 255
-	PlayAlertSound 2 300
+	CustomAlertSound "Sounds\06money2.mp3" 300
+	#PlayAlertSound 2 300
 	PlayEffect Yellow
 	MinimapIcon 1 Yellow Circle
 
@@ -8005,7 +8185,8 @@ Show # %H5 $type->currency->incubators $tier->t4
 	SetTextColor 0 0 0 255
 	SetBorderColor 0 0 0 255
 	SetBackgroundColor 180 76 58 255
-	PlayAlertSound 2 300
+	CustomAlertSound "Sounds\06money2.mp3" 300
+	#PlayAlertSound 2 300
 	PlayEffect White
 	MinimapIcon 2 White Circle
 
@@ -8029,7 +8210,8 @@ Show # $type->currency->incubators $tier->restex
 	SetTextColor 255 0 255 255
 	SetBorderColor 255 0 255 255
 	SetBackgroundColor 100 0 100 255
-	PlayAlertSound 3 300
+	CustomAlertSound "Sounds\06money2.mp3" 300
+	#PlayAlertSound 3 300
 	PlayEffect Pink
 	MinimapIcon 0 Pink Circle
 
@@ -8045,7 +8227,8 @@ Show # $type->currency->invocations $tier->t2
 	SetTextColor 255 255 255 255
 	SetBorderColor 255 255 255 255
 	SetBackgroundColor 190 30 30 255
-	PlayAlertSound 1 300
+	CustomAlertSound "Sounds\06money2.mp3" 300
+	#PlayAlertSound 1 300
 	PlayEffect Red
 	MinimapIcon 0 Red Circle
 
@@ -8060,7 +8243,8 @@ Show # $type->currency->trial->orblike $tier->t1
 	SetTextColor 255 0 0 255
 	SetBorderColor 255 0 0 255
 	SetBackgroundColor 255 255 255 255
-	PlayAlertSound 6 300
+	CustomAlertSound "Sounds\06money2.mp3" 300
+	#PlayAlertSound 6 300
 	PlayEffect Red
 	MinimapIcon 0 Red Star
 
@@ -8071,7 +8255,8 @@ Show # $type->currency->trial->orblike $tier->coins
 	SetTextColor 0 0 0 255
 	SetBorderColor 0 0 0 255
 	SetBackgroundColor 180 76 58 255
-	PlayAlertSound 2 300
+	CustomAlertSound "Sounds\06money2.mp3" 300
+	#PlayAlertSound 2 300
 	PlayEffect Cyan
 	MinimapIcon 1 Cyan Circle
 
@@ -8082,7 +8267,8 @@ Show # $type->currency->trial->omen $tier->t1
 	SetTextColor 255 0 0 255
 	SetBorderColor 255 0 0 255
 	SetBackgroundColor 255 255 255 255
-	PlayAlertSound 6 300
+	CustomAlertSound "Sounds\06money2.mp3" 300
+	#PlayAlertSound 6 300
 	PlayEffect Red
 	MinimapIcon 0 Red Star
 
@@ -8093,7 +8279,8 @@ Show # $type->currency->trial->omen $tier->t2
 	SetTextColor 255 255 255 255
 	SetBorderColor 255 255 255 255
 	SetBackgroundColor 190 30 30 255
-	PlayAlertSound 1 300
+	CustomAlertSound "Sounds\06money2.mp3" 300
+	#PlayAlertSound 1 300
 	PlayEffect Red
 	MinimapIcon 0 Red Circle
 
@@ -8104,7 +8291,8 @@ Show # $type->currency->trial->omen $tier->t3
 	SetTextColor 0 0 0 255
 	SetBorderColor 0 0 0 255
 	SetBackgroundColor 190 30 30 255
-	PlayAlertSound 2 300
+	CustomAlertSound "Sounds\06money2.mp3" 300
+	#PlayAlertSound 2 300
 	PlayEffect Yellow
 	MinimapIcon 1 Yellow Circle
 
@@ -8115,7 +8303,8 @@ Show # $type->currency->trial->omen $tier->t4
 	SetTextColor 0 0 0 255
 	SetBorderColor 0 0 0 255
 	SetBackgroundColor 180 76 58 255
-	PlayAlertSound 2 300
+	CustomAlertSound "Sounds\06money2.mp3" 300
+	#PlayAlertSound 2 300
 	PlayEffect White
 	MinimapIcon 2 White Circle
 
@@ -8126,7 +8315,8 @@ Show # $type->currency->trial->omen $tier->restex
 	SetTextColor 255 0 255 255
 	SetBorderColor 255 0 255 255
 	SetBackgroundColor 100 0 100 255
-	PlayAlertSound 3 300
+	CustomAlertSound "Sounds\06money2.mp3" 300
+	#PlayAlertSound 3 300
 	PlayEffect Pink
 	MinimapIcon 0 Pink Circle
 
@@ -8137,7 +8327,8 @@ Show # $type->currency->trial->tattoo $tier->t1
 	SetTextColor 255 0 0 255
 	SetBorderColor 255 0 0 255
 	SetBackgroundColor 255 255 255 255
-	PlayAlertSound 6 300
+	CustomAlertSound "Sounds\06money2.mp3" 300
+	#PlayAlertSound 6 300
 	PlayEffect Red
 	MinimapIcon 0 Red Star
 
@@ -8148,7 +8339,8 @@ Show # $type->currency->trial->tattoo $tier->t2
 	SetTextColor 255 255 255 255
 	SetBorderColor 255 255 255 255
 	SetBackgroundColor 190 30 30 255
-	PlayAlertSound 1 300
+	CustomAlertSound "Sounds\06money2.mp3" 300
+	#PlayAlertSound 1 300
 	PlayEffect Red
 	MinimapIcon 0 Red Circle
 
@@ -8159,7 +8351,8 @@ Show # $type->currency->trial->tattoo $tier->t3
 	SetTextColor 0 0 0 255
 	SetBorderColor 0 0 0 255
 	SetBackgroundColor 190 30 30 255
-	PlayAlertSound 2 300
+	CustomAlertSound "Sounds\06money2.mp3" 300
+	#PlayAlertSound 2 300
 	PlayEffect Yellow
 	MinimapIcon 1 Yellow Circle
 
@@ -8170,7 +8363,8 @@ Show # $type->currency->trial->tattoo $tier->t4
 	SetTextColor 0 0 0 255
 	SetBorderColor 0 0 0 255
 	SetBackgroundColor 180 76 58 255
-	PlayAlertSound 2 300
+	CustomAlertSound "Sounds\06money2.mp3" 300
+	#PlayAlertSound 2 300
 	PlayEffect White
 	MinimapIcon 2 White Circle
 
@@ -8181,7 +8375,8 @@ Show # $type->currency->trial->tattoo $tier->restex
 	SetTextColor 255 0 255 255
 	SetBorderColor 255 0 255 255
 	SetBackgroundColor 100 0 100 255
-	PlayAlertSound 3 300
+	CustomAlertSound "Sounds\06money2.mp3" 300
+	#PlayAlertSound 3 300
 	PlayEffect Pink
 	MinimapIcon 0 Pink Circle
 
@@ -8196,7 +8391,8 @@ Show # $type->currency->others $tier->harbinger
 	SetTextColor 255 255 255 255
 	SetBorderColor 255 255 255 255
 	SetBackgroundColor 190 30 30 255
-	PlayAlertSound 1 300
+	CustomAlertSound "Sounds\06money2.mp3" 300
+	#PlayAlertSound 1 300
 	PlayEffect Red
 	MinimapIcon 0 Red Circle
 
@@ -8207,7 +8403,8 @@ Show # $type->currency->others $tier->misc
 	SetTextColor 255 255 255 255
 	SetBorderColor 255 255 255 255
 	SetBackgroundColor 190 30 30 255
-	PlayAlertSound 1 300
+	CustomAlertSound "Sounds\06money2.mp3" 300
+	#PlayAlertSound 1 300
 	PlayEffect Red
 	MinimapIcon 0 Red Circle
 
@@ -8222,7 +8419,8 @@ Show # $type->currency->sentinel $tier->t1
 	SetTextColor 255 255 255 255
 	SetBorderColor 255 255 255 255
 	SetBackgroundColor 190 30 30 255
-	PlayAlertSound 1 300
+	CustomAlertSound "Sounds\06money2.mp3" 300
+	#PlayAlertSound 1 300
 	PlayEffect Red
 	MinimapIcon 0 Red Circle
 
@@ -8233,7 +8431,8 @@ Show # $type->currency->sentinel $tier->t2
 	SetTextColor 0 0 0 255
 	SetBorderColor 0 0 0 255
 	SetBackgroundColor 190 30 30 255
-	PlayAlertSound 2 300
+	CustomAlertSound "Sounds\06money2.mp3" 300
+	#PlayAlertSound 2 300
 	PlayEffect Yellow
 	MinimapIcon 1 Yellow Circle
 
@@ -8244,7 +8443,8 @@ Show # $type->currency->sentinel $tier->t3
 	SetTextColor 0 0 0 255
 	SetBorderColor 0 0 0 255
 	SetBackgroundColor 180 76 58 255
-	PlayAlertSound 2 300
+	CustomAlertSound "Sounds\06money2.mp3" 300
+	#PlayAlertSound 2 300
 	PlayEffect White
 	MinimapIcon 2 White Circle
 
@@ -8264,7 +8464,8 @@ Show # %D6 $type->currency->stackedsplintershigh $tier->t1
 	SetTextColor 0 0 0 255
 	SetBorderColor 0 0 0 255
 	SetBackgroundColor 190 30 30 255
-	PlayAlertSound 2 300
+	CustomAlertSound "Sounds\06money2.mp3" 300
+	#PlayAlertSound 2 300
 	PlayEffect Yellow
 	MinimapIcon 1 Yellow Circle
 
@@ -8276,7 +8477,8 @@ Show # %DS5 $type->currency->stackedsplintershigh $tier->t2
 	SetTextColor 0 0 0 255
 	SetBorderColor 0 0 0 255
 	SetBackgroundColor 180 76 58 255
-	PlayAlertSound 2 300
+	CustomAlertSound "Sounds\06money2.mp3" 300
+	#PlayAlertSound 2 300
 	PlayEffect White
 	MinimapIcon 2 White Circle
 
@@ -8288,7 +8490,8 @@ Show # %DS4 $type->currency->stackedsplintershigh $tier->t3
 	SetTextColor 0 0 0 255
 	SetBorderColor 0 0 0 255
 	SetBackgroundColor 180 76 58 255
-	PlayAlertSound 2 300
+	CustomAlertSound "Sounds\06money2.mp3" 300
+	#PlayAlertSound 2 300
 	PlayEffect White
 	MinimapIcon 2 White Circle
 
@@ -8300,7 +8503,8 @@ Show # %D5 $type->currency->stackedsplinterslow $tier->t1
 	SetTextColor 0 0 0 255
 	SetBorderColor 0 0 0 255
 	SetBackgroundColor 180 76 58 255
-	PlayAlertSound 2 300
+	CustomAlertSound "Sounds\06money2.mp3" 300
+	#PlayAlertSound 2 300
 	PlayEffect White
 	MinimapIcon 2 White Circle
 
@@ -8312,7 +8516,8 @@ Show # %DS4 $type->currency->stackedsplinterslow $tier->t2
 	SetTextColor 0 0 0 255
 	SetBorderColor 0 0 0 255
 	SetBackgroundColor 180 76 58 255
-	PlayAlertSound 2 300
+	CustomAlertSound "Sounds\06money2.mp3" 300
+	#PlayAlertSound 2 300
 	PlayEffect White
 	MinimapIcon 2 White Circle
 
@@ -8324,7 +8529,8 @@ Show # %DS3 $type->currency->stackedsplinterslow $tier->t3
 	SetTextColor 0 0 0 255
 	SetBorderColor 0 0 0 255
 	SetBackgroundColor 180 76 58 255
-	PlayAlertSound 2 300
+	CustomAlertSound "Sounds\06money2.mp3" 300
+	#PlayAlertSound 2 300
 	PlayEffect White
 	MinimapIcon 2 White Circle
 
@@ -8339,7 +8545,8 @@ Show # %HS4 $type->currency->splinter $tier->t1
 	SetTextColor 255 255 255 255
 	SetBorderColor 210 20 210 255
 	SetBackgroundColor 65 20 80
-	PlayAlertSound 2 300
+	CustomAlertSound "Sounds\06money2.mp3" 300
+	#PlayAlertSound 2 300
 	PlayEffect Purple Temp
 	MinimapIcon 1 Grey Kite
 
@@ -8365,7 +8572,8 @@ Show # %D6 $type->currency->splinter->simulacrum $tier->t1
 	SetTextColor 255 0 0 255
 	SetBorderColor 255 0 0 255
 	SetBackgroundColor 255 255 255 255
-	PlayAlertSound 6 300
+	CustomAlertSound "Sounds\06money2.mp3" 300
+	#PlayAlertSound 6 300
 	PlayEffect Red
 	MinimapIcon 0 Red Kite
 
@@ -8377,7 +8585,8 @@ Show # %D6 $type->currency->splinter->simulacrum $tier->t2
 	SetTextColor 255 255 255 255
 	SetBorderColor 255 255 255 255
 	SetBackgroundColor 190 30 30 255
-	PlayAlertSound 1 300
+	CustomAlertSound "Sounds\06money2.mp3" 300
+	#PlayAlertSound 1 300
 	PlayEffect Red
 	MinimapIcon 0 Red Kite
 
@@ -8389,7 +8598,8 @@ Show # %D6 $type->currency->splinter->simulacrum $tier->t3
 	SetTextColor 0 0 0 255
 	SetBorderColor 0 0 0 255
 	SetBackgroundColor 190 30 30 255
-	PlayAlertSound 2 300
+	CustomAlertSound "Sounds\06money2.mp3" 300
+	#PlayAlertSound 2 300
 	PlayEffect Yellow
 	MinimapIcon 1 Yellow Kite
 
@@ -8401,7 +8611,8 @@ Show # %D6 $type->currency->splinter->simulacrum $tier->t4
 	SetTextColor 0 0 0 255
 	SetBorderColor 0 0 0 255
 	SetBackgroundColor 180 76 58 255
-	PlayAlertSound 2 300
+	CustomAlertSound "Sounds\06money2.mp3" 300
+	#PlayAlertSound 2 300
 	PlayEffect White
 	MinimapIcon 2 White Kite
 
@@ -8412,7 +8623,8 @@ Show # %H4 $type->currency->splinter->simulacrum $tier->t5
 	SetTextColor 255 255 255 255
 	SetBorderColor 130 15 255 255
 	SetBackgroundColor 65 20 80
-	PlayAlertSound 2 300
+	CustomAlertSound "Sounds\06money2.mp3" 300
+	#PlayAlertSound 2 300
 	PlayEffect Purple Temp
 	MinimapIcon 2 Grey Kite
 
@@ -8428,7 +8640,8 @@ Show # $type->divination $tier->t1
 	SetTextColor 0 0 255 255
 	SetBorderColor 0 0 255 255
 	SetBackgroundColor 255 255 255 255
-	PlayAlertSound 6 300
+	CustomAlertSound "Sounds\06money2.mp3" 300
+	#PlayAlertSound 6 300
 	PlayEffect Red
 	MinimapIcon 0 Red Star
 
@@ -8439,7 +8652,8 @@ Show # $type->divination $tier->t2
 	SetTextColor 255 255 255 255
 	SetBorderColor 255 255 255 255
 	SetBackgroundColor 190 30 30 255
-	PlayAlertSound 1 300
+	CustomAlertSound "Sounds\06money2.mp3" 300
+	#PlayAlertSound 1 300
 	PlayEffect Red
 	MinimapIcon 0 Red Triangle
 
@@ -8450,7 +8664,8 @@ Show # $type->divination $tier->t3
 	SetTextColor 0 0 0 255
 	SetBorderColor 0 0 0 255
 	SetBackgroundColor 190 30 30 255
-	PlayAlertSound 2 300
+	CustomAlertSound "Sounds\06money2.mp3" 300
+	#PlayAlertSound 2 300
 	PlayEffect Yellow
 	MinimapIcon 1 Yellow Triangle
 
@@ -8473,7 +8688,8 @@ Show # %H5 $type->divination $tier->t4c
 	SetTextColor 0 0 0 255
 	SetBorderColor 0 0 0 255
 	SetBackgroundColor 180 76 58 255
-	PlayAlertSound 2 300
+	CustomAlertSound "Sounds\06money2.mp3" 300
+	#PlayAlertSound 2 300
 	PlayEffect White
 	MinimapIcon 2 White Triangle
 
@@ -8484,7 +8700,8 @@ Show # %D4 $type->divination $tier->exstack
 	SetTextColor 0 0 0 255
 	SetBorderColor 0 0 0 255
 	SetBackgroundColor 180 76 58 255
-	PlayAlertSound 2 300
+	CustomAlertSound "Sounds\06money2.mp3" 300
+	#PlayAlertSound 2 300
 	PlayEffect White
 	MinimapIcon 2 White Triangle
 
@@ -8507,7 +8724,8 @@ SetTextColor 0 0 0 255
 SetBackgroundColor 145 215 230 225
 SetBorderColor 0 100 150 255
 SetFontSize 45
-PlayAlertSound 2 300
+CustomAlertSound "Sounds\06money2.mp3" 300
+#PlayAlertSound 2 300
 BaseType == "The Offering" "The Dapper Prodigy" "Cameria's Cut" "The Undisputed" "Chaotic Disposition" "Lucky Connections" "The Inventor" "The Cartographer" "The Warlord" "Monochrome" "The Throne" "Loyalty" "The Encroaching Darkness" "The Survivalist" "The Void" "The Catalyst" "The Fool" "The Heroic Shot" "Divine Justice"
 
 Show # %HS2 $type->divination $tier->t5c
@@ -8525,7 +8743,8 @@ Show # %HS3 $type->divination $tier->t4
 	SetTextColor 0 0 0 255
 	SetBorderColor 0 0 0 255
 	SetBackgroundColor 180 76 58 255
-	PlayAlertSound 2 300
+	CustomAlertSound "Sounds\06money2.mp3" 300
+	#PlayAlertSound 2 300
 	PlayEffect White
 	MinimapIcon 2 White Triangle
 
@@ -8543,7 +8762,8 @@ Show # $type->divination $tier->restex
 	SetTextColor 255 0 255 255
 	SetBorderColor 255 0 255 255
 	SetBackgroundColor 100 0 100 255
-	PlayAlertSound 3 300
+	CustomAlertSound "Sounds\06money2.mp3" 300
+	#PlayAlertSound 3 300
 	PlayEffect Pink
 	MinimapIcon 0 Pink Circle
 
@@ -8568,7 +8788,8 @@ Show # $type->currency $tier->restex
 	SetTextColor 255 0 255 255
 	SetBorderColor 255 0 255 255
 	SetBackgroundColor 100 0 100 255
-	PlayAlertSound 3 300
+	CustomAlertSound "Sounds\06money2.mp3" 300
+	#PlayAlertSound 3 300
 	PlayEffect Pink
 	MinimapIcon 0 Pink Circle
 
