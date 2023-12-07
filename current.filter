@@ -7615,6 +7615,7 @@ SetBackgroundColor 99 239 53 255
 SetBorderColor 248 238 8 199
 SetFontSize 42
 BaseType == "Chromatic Orb"
+CustomAlertSound "Sounds\06money2.mp3" 300
 
 # FilterBlade: Conditional Entry
 Show
