@@ -7099,6 +7099,7 @@ Show # %D4 $type->currency->levelingstacked $tier->trans
 	SetBorderColor 0 0 0 255
 	SetBackgroundColor 190 110 111 255
 	MinimapIcon 2 Grey Circle
+	CustomAlertSound "Sounds\06money2.mp3" 300
 
 Show # %D4 $type->currency->levelingstacked $tier->aug
 	StackSize >= 3
@@ -7107,6 +7108,7 @@ Show # %D4 $type->currency->levelingstacked $tier->aug
 	AreaLevel <= 67
 	SetFontSize 45
 	SetBorderColor 0 0 0
+	CustomAlertSound "Sounds\06money2.mp3" 300
 
 Show # %D4 $type->currency->levelingstacked $tier->portal
 	StackSize >= 3
@@ -7138,7 +7140,8 @@ SetBorderColor 213 159 100 200
 SetFontSize 42
 BaseType "Scroll of Wisdom"
 AreaLevel <= 11
-CustomAlertSound "TytySounds/wisdom.mp3"
+CustomAlertSound "Sounds\06money2.mp3" 300
+#CustomAlertSound "TytySounds/wisdom.mp3"
 
 Show # %D5 $type->currency->leveling $tier->binding
 	Class "Currency"
@@ -7151,6 +7154,7 @@ Show # %D5 $type->currency->leveling $tier->binding
 	PlayAlertSound 2 300
 	PlayEffect White
 	MinimapIcon 2 Grey Circle
+	CustomAlertSound "Sounds\06money2.mp3" 300
 
 Show # %D4 $type->currency->leveling $tier->essences
 	Class "Currency"
@@ -7163,6 +7167,7 @@ Show # %D4 $type->currency->leveling $tier->essences
 	PlayAlertSound 2 300
 	PlayEffect White
 	MinimapIcon 2 Grey Circle
+	CustomAlertSound "Sounds\06money2.mp3" 300
 
 Show # %D4 $type->currency->leveling $tier->trans
 	Class "Currency"
@@ -7173,7 +7178,8 @@ Show # %D4 $type->currency->leveling $tier->trans
 	SetBorderColor 190 120 90 255
 	SetBackgroundColor 20 20 0 255
 	MinimapIcon 2 Grey Circle
-CustomAlertSound "TytySounds/Whetstone.mp3"
+	CustomAlertSound "Sounds\06money2.mp3" 300
+	#CustomAlertSound "TytySounds/Whetstone.mp3"
 
 Show # %D4 $type->currency->leveling $tier->aug
 	Class "Currency"
@@ -7183,7 +7189,8 @@ Show # %D4 $type->currency->leveling $tier->aug
 	SetTextColor 180 130 90 230
 	SetBorderColor 50 0 0 255
 	SetBackgroundColor 20 20 0 255
-CustomAlertSound "TytySounds/Transmute.mp3"
+	CustomAlertSound "Sounds\06money2.mp3" 300
+	#CustomAlertSound "TytySounds/Transmute.mp3"
 
 Show # %D3 $type->currency->leveling $tier->portal
 	Class "Currency"
@@ -7193,7 +7200,8 @@ Show # %D3 $type->currency->leveling $tier->portal
 	SetTextColor 180 130 90 230
 	SetBorderColor 50 0 0 255
 	SetBackgroundColor 20 20 0 255
-CustomAlertSound "TytySounds/Alteration.mp3"
+	CustomAlertSound "Sounds\06money2.mp3" 300
+	#CustomAlertSound "TytySounds/Alteration.mp3"
 
 Show # %D3 $type->currency->leveling $tier->wisdom
 	Class "Currency"
@@ -7203,7 +7211,7 @@ Show # %D3 $type->currency->leveling $tier->wisdom
 	SetTextColor 180 130 90 230
 	SetBorderColor 50 0 0 255
 	SetBackgroundColor 20 20 0 255
-AreaLevel <= 69
+	#AreaLevel <= 69
 
 #===============================================================================================================
 # [[3700]] Currency - Exceptions - Stacked Currency
