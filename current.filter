@@ -7616,7 +7616,7 @@ SetBackgroundColor 0 0 0 255
 SetBorderColor 213 159 100 200
 SetFontSize 42
 CustomAlertSound "Sounds\06money2.mp3" 300
-;CustomAlertSound "TytySounds/Chance.mp3"
+#CustomAlertSound "TytySounds/Chance.mp3"
 BaseType == "Orb of Chance"
 
 # FilterBlade: Conditional Entry
@@ -7630,7 +7630,7 @@ BaseType == "Orb of Fusing"
 MinimapIcon 2 White Circle
 PlayEffect White
 CustomAlertSound "Sounds\06money2.mp3" 300
-;CustomAlertSound "TytySounds/Fusing.mp3"
+#CustomAlertSound "TytySounds/Fusing.mp3"
 
 # FilterBlade: Conditional Entry
 Show
@@ -7641,7 +7641,7 @@ SetBorderColor 0 0 0
 SetFontSize 42
 BaseType == "Cartographer's Chisel"
 CustomAlertSound "Sounds\06money2.mp3" 300
-;CustomAlertSound "TytySounds/Chisel.mp3"
+#CustomAlertSound "TytySounds/Chisel.mp3"
 MinimapIcon 2 White Circle
 PlayEffect White
 
@@ -7654,7 +7654,7 @@ SetBorderColor 0 0 0
 SetFontSize 42
 BaseType == "Orb of Alchemy"
 CustomAlertSound "Sounds\06money2.mp3" 300
-;CustomAlertSound "TytySounds/Alchemy.mp3"
+#CustomAlertSound "TytySounds/Alchemy.mp3"
 MinimapIcon 2 White Circle
 PlayEffect White
 
@@ -7667,7 +7667,7 @@ SetBorderColor 0 0 0
 SetFontSize 42
 BaseType == "Regal Orb"
 CustomAlertSound "Sounds\06money2.mp3" 300
-;CustomAlertSound "TytySounds/Regal.mp3"
+#CustomAlertSound "TytySounds/Regal.mp3"
 MinimapIcon 2 White Circle
 PlayEffect White
 
