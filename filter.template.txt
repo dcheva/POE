@@ -1,4 +1,4 @@
-#\v11.25--------------------------------------
+#\v11.26--------------------------------------
 #\2-chaos-sets-------------------------------
 
 Show # $type->2chaos-a
@@ -64,7 +64,7 @@ Show # $type->2chaos-d
 	ItemLevel >= 60
 	ItemLevel <= 85
 	SetFontSize 40
-	CustomAlertSound "Sounds\03coinshake.mp3" 300
+	CustomAlertSound "Sounds\04cointojar.mp3" 300
 	#PlayAlertSound 4 200
 	PlayEffect Orange
 	MinimapIcon 1 Orange Circle
@@ -81,7 +81,7 @@ Show # $type->2chaos-d
 	ItemLevel >= 60
 	ItemLevel <= 85
 	SetFontSize 40
-	CustomAlertSound "Sounds\03coinshake.mp3" 300
+	CustomAlertSound "Sounds\04cointojar.mp3" 300
 	#PlayAlertSound 4 200
 	PlayEffect Orange
 	MinimapIcon 1 Orange Circle
@@ -98,7 +98,7 @@ Show # $type->2chaos-d
 	ItemLevel >= 60
 	ItemLevel <= 85
 	SetFontSize 40
-	CustomAlertSound "Sounds\03coinshake.mp3" 300
+	CustomAlertSound "Sounds\04cointojar.mp3" 300
 	#PlayAlertSound 4 200
 	PlayEffect Orange
 	MinimapIcon 1 Orange Circle
@@ -116,12 +116,12 @@ Show # $type->2chaos-e
 	ItemLevel <= 74
 	SetFontSize 40
 	#PlayAlertSound 4 200
-	CustomAlertSound "Sounds\04cointojar.mp3" 300
+	CustomAlertSound "Sounds\03coinshake.mp3" 300
 	PlayEffect Orange
 	MinimapIcon 1 Orange Circle
 	
 #/2-chaos-sets-------------------------------
-#/v11.25--------------------------------------
+#/v11.26--------------------------------------
 
 
 
@@ -274,6 +274,7 @@ Show  # $type->Berserker-Scepters-Shields
 #\v11.25--------------------------------------
 # Changed [[3700]] Currency - Regular Currency Tiering -- added CustomAlertSound "Sounds\06money2.mp3" 300
 # Changed [3809] Trial of the Ancestors
+# ...till [[4300]]
 # -- added CustomAlertSound "Sounds\06money2.mp3" 300
 #/v11.25--------------------------------------
 

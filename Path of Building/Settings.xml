@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <PathOfBuilding>
 	<Mode mode="LIST">
-		<Arg string="DeeDeadeye lvl54 planned"/>
+		<Arg string="DeeDeadeye lvl12 kill Izuver"/>
 		<Arg string=""/>
 	</Mode>
 	<Accounts lastAccountName="SteamCovan" lastRealm="PC">
 		<Account accountName="SteamCovan"/>
 	</Accounts>
 	<SharedItems/>
-	<Misc betaTest="false" connectionProtocol="nil" thousandsSeparator="," showThousandsSeparators="true" colorPositive="^x33FF77" buildSortMode="NAME" invertSliderScrollDirection="false" showTitlebarName="true" disableDevAutoSave="false" POESESSID="" slotOnlyTooltips="true" defaultCharLevel="1" showWarnings="true" decimalSeparator="." nodePowerTheme="RED/BLUE" defaultItemAffixQuality="0.5" defaultGemQuality="0" colorNegative="^xDD0022"/>
+	<Misc betaTest="false" connectionProtocol="nil" colorNegative="^xDD0022" thousandsSeparator="," showThousandsSeparators="true" colorPositive="^x33FF77" buildSortMode="NAME" invertSliderScrollDirection="false" showTitlebarName="true" POESESSID="" disableDevAutoSave="false" colorHighlight="^xFF0000" slotOnlyTooltips="true" defaultCharLevel="1" showWarnings="true" decimalSeparator="." defaultItemAffixQuality="0.5" nodePowerTheme="RED/BLUE" defaultGemQuality="0"/>
 </PathOfBuilding>
