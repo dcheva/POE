@@ -6967,7 +6967,7 @@ SetBorderColor 213 159 100 200
 SetFontSize 42
 BaseType "Scroll of Wisdom"
 AreaLevel <= 11
-CustomAlertSound "TytySounds/wisdom.mp3"
+CustomAlertSound  "Sounds\06money2.mp3" # "TytySounds/wisdom.mp3"
 
 Show # %D5 $type->currency->leveling $tier->binding
 	Class == "Stackable Currency"
@@ -7002,7 +7002,7 @@ Show # %D4 $type->currency->leveling $tier->trans
 	SetBorderColor 190 120 90 255
 	SetBackgroundColor 20 20 0 255
 	MinimapIcon 2 Grey Circle
-CustomAlertSound "TytySounds/Whetstone.mp3"
+CustomAlertSound "Sounds\06money2.mp3" #  "TytySounds/Whetstone.mp3"
 
 Show # %D4 $type->currency->leveling $tier->aug
 	Class == "Stackable Currency"
@@ -7012,7 +7012,7 @@ Show # %D4 $type->currency->leveling $tier->aug
 	SetTextColor 180 130 90 230
 	SetBorderColor 50 0 0 255
 	SetBackgroundColor 20 20 0 255
-CustomAlertSound "TytySounds/Transmute.mp3"
+CustomAlertSound "Sounds\06money2.mp3" #  "TytySounds/Transmute.mp3"
 
 Show # %D3 $type->currency->leveling $tier->portal
 	Class == "Stackable Currency"
@@ -7022,7 +7022,7 @@ Show # %D3 $type->currency->leveling $tier->portal
 	SetTextColor 180 130 90 230
 	SetBorderColor 50 0 0 255
 	SetBackgroundColor 20 20 0 255
-CustomAlertSound "TytySounds/Alteration.mp3"
+CustomAlertSound "Sounds\06money2.mp3" #  "TytySounds/Alteration.mp3"
 
 Show # %D3 $type->currency->leveling $tier->wisdom
 	Class == "Stackable Currency"
@@ -7380,7 +7380,7 @@ SetBackgroundColor 249 150 25 255
 SetBorderColor 0 0 0 255
 SetFontSize 45
 BaseType == "Chaos Orb"
-CustomAlertSound "TytySounds/chaos.mp3"
+CustomAlertSound "Sounds\06money2.mp3" #  "TytySounds/chaos.mp3"
 MinimapIcon 0 White Circle
 PlayEffect White
 
@@ -7402,7 +7402,7 @@ SetFontSize 42
 MinimapIcon 0 White Circle
 PlayEffect White
 BaseType == "Orb of Scouring"
-CustomAlertSound "TytySounds/Scour.mp3"
+CustomAlertSound "Sounds\06money2.mp3" #  "TytySounds/Scour.mp3"
 
 # FilterBlade: Conditional Entry
 Show
@@ -7411,7 +7411,7 @@ SetTextColor 0 0 0 255
 SetBackgroundColor 213 159 0 255
 SetBorderColor 0 0 0 255
 SetFontSize 42
-CustomAlertSound "TytySounds/Regret.mp3"
+CustomAlertSound "Sounds\06money2.mp3" #  "TytySounds/Regret.mp3"
 BaseType == "Orb of Regret"
 MinimapIcon 0 White Circle
 PlayEffect White
@@ -7424,6 +7424,7 @@ SetBackgroundColor 99 239 53 255
 SetBorderColor 248 238 8 199
 SetFontSize 42
 BaseType == "Chromatic Orb"
+CustomAlertSound "Sounds\06money2.mp3" # 
 
 # FilterBlade: Conditional Entry
 Show
@@ -7434,6 +7435,7 @@ SetBorderColor 213 159 100 200
 SetFontSize 42
 CustomAlertSound "TytySounds/Chance.mp3"
 BaseType == "Orb of Chance"
+CustomAlertSound "Sounds\06money2.mp3" # 
 
 # FilterBlade: Conditional Entry
 Show
@@ -7445,7 +7447,7 @@ SetFontSize 42
 BaseType == "Orb of Fusing"
 MinimapIcon 2 White Circle
 PlayEffect White
-CustomAlertSound "TytySounds/Fusing.mp3"
+CustomAlertSound "Sounds\06money2.mp3" # CustomAlertSound "TytySounds/Fusing.mp3"
 
 # FilterBlade: Conditional Entry
 Show
@@ -7455,7 +7457,7 @@ SetBackgroundColor 213 159 0 255
 SetBorderColor 0 0 0
 SetFontSize 42
 BaseType == "Cartographer's Chisel"
-CustomAlertSound "TytySounds/Chisel.mp3"
+CustomAlertSound "Sounds\06money2.mp3" # CustomAlertSound "TytySounds/Chisel.mp3"
 MinimapIcon 2 White Circle
 PlayEffect White
 
@@ -7467,7 +7469,7 @@ SetBackgroundColor 213 159 0 255
 SetBorderColor 0 0 0
 SetFontSize 42
 BaseType == "Orb of Alchemy"
-CustomAlertSound "TytySounds/Alchemy.mp3"
+CustomAlertSound "Sounds\06money2.mp3" # CustomAlertSound "TytySounds/Alchemy.mp3"
 MinimapIcon 2 White Circle
 PlayEffect White
 
@@ -7479,7 +7481,7 @@ SetBackgroundColor 213 159 0 255
 SetBorderColor 0 0 0
 SetFontSize 42
 BaseType == "Regal Orb"
-CustomAlertSound "TytySounds/Regal.mp3"
+CustomAlertSound "Sounds\06money2.mp3" # CustomAlertSound "TytySounds/Regal.mp3"
 MinimapIcon 2 White Circle
 PlayEffect White
 
@@ -8633,7 +8635,7 @@ Show # $type->uniques $tier->t2
 	SetBackgroundColor 175 96 37 255
 	PlayEffect Red
 	MinimapIcon 0 Yellow Star
-CustomAlertSound "TytySounds/unique.mp3"
+CustomAlertSound "Sounds\24item.mp3" # CustomAlertSound "TytySounds/unique.mp3"
 
 #------------------------------------
 #   [4303] Exceptions #2
@@ -8713,7 +8715,7 @@ Show # $type->uniques $tier->multispecial
 	SetBackgroundColor 175 96 37 255
 	PlayEffect Blue
 	MinimapIcon 1 Blue Star
-CustomAlertSound "TytySounds/unique.mp3"
+CustomAlertSound "Sounds\24item.mp3" # CustomAlertSound "TytySounds/unique.mp3"
 
 # For those 6 sockets	
 
@@ -8766,7 +8768,7 @@ Show # $type->uniques $tier->exjewels
 	SetBackgroundColor 175 96 37 255
 	PlayEffect Blue
 	MinimapIcon 0 Blue Star
-CustomAlertSound "TytySounds/unique.mp3"
+CustomAlertSound "Sounds\24item.mp3" # CustomAlertSound "TytySounds/unique.mp3"
 
 #Show  # # $type->uniques $tier->highvinktar
 #	ItemLevel >= 82
@@ -8817,7 +8819,7 @@ Show # $type->uniques $tier->t3boss
 	SetBackgroundColor 53 13 13 255
 	PlayEffect Blue
 	MinimapIcon 2 Blue Star
-CustomAlertSound "TytySounds/unique.mp3"
+CustomAlertSound "Sounds\24item.mp3" # CustomAlertSound "TytySounds/unique.mp3"
 
 Show # %H4 $type->uniques $tier->t3
 	Rarity Unique
@@ -8828,7 +8830,7 @@ Show # %H4 $type->uniques $tier->t3
 	SetBackgroundColor 53 13 13 255
 	PlayEffect Brown
 	MinimapIcon 2 Brown Star
-CustomAlertSound "TytySounds/unique.mp3"
+CustomAlertSound "Sounds\24item.mp3" # CustomAlertSound "TytySounds/unique.mp3"
 
 #------------------------------------
 #   [4307] Tier 4 uniques
@@ -8854,7 +8856,7 @@ Show # %H3 $type->uniques $tier->hideable
 	SetBackgroundColor 20 20 0 255
 	PlayEffect Brown
 	MinimapIcon 2 Brown Star
-CustomAlertSound "TytySounds/unique.mp3"
+CustomAlertSound "Sounds\24item.mp3" # CustomAlertSound "TytySounds/unique.mp3"
 
 Show # $type->uniques $tier->restex
 	Rarity Unique
