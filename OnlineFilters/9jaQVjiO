@@ -8,17 +8,11 @@
 #filterType:Normal
 #lastUpdate:2023-12-09T07:05:58Z
 #monthTimeStamp:1488
-
-## Changed Portal scroll and some Shards view
-## Added 2-chaos sets
-## Changed currency sounds 
+### Changed sounds 
 ### Download sounds from https://t.ly/Q32aP and unzip to your "Documents\My Games\Path of Exile" folder
-### Dee 2ch-sets with sounds 8.12
-### Tytykiller's AAAA Ranged filter
-### NeverSink's Indepth Loot Filter - for Path of Exile
-### VERSION: 8.13.0 TYPE: 3-STRICT STYLE: VAAL
 
-#\8.12---------------------------------------
+
+#\8.12-------------------------------------
 #\2-chaos-sets-------------------------------
 
 Show # $type->2chaos-a
@@ -141,7 +135,7 @@ Show # $type->2chaos-e
 	MinimapIcon 1 Orange Circle
 	
 #/2-chaos-sets-------------------------------
-#/8.12---------------------------------------
+#/8.12-------------------------------------
 
 
 #===============================================================================================================
