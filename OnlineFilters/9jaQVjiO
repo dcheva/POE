@@ -1,12 +1,12 @@
 #Online Item Filter
-#name:AAAA Ranged Vaal 3-strict 2-chaos 8.12.1
+#name:AAAA Ranged Vaal 3-strict 2-chaos sets
 #version:3.23.0
 #realm:pc
 #errors:
-#hash:268c2ecc1ca170588c20cf6a6438a4d3
-#filterVersion:8.12.1
+#hash:359dfe133111eab340f3c3ecafd04923
+#filterVersion:8.12.11
 #filterType:Normal
-#lastUpdate:2023-12-09T07:05:58Z
+#lastUpdate:2023-12-09T07:47:48Z
 #monthTimeStamp:1488
 ### Changed sounds 
 ### Download sounds from https://t.ly/Q32aP and unzip to your "Documents\My Games\Path of Exile" folder
@@ -7589,10 +7589,10 @@ Show # %H1 $type->currency $tier->t9armour
 Show # %H1 $type->currency $tier->tportal
 	Class == "Stackable Currency"
 	BaseType == "Portal Scroll"
-	SetFontSize 45
-	SetTextColor 0 0 0 220
-	SetBorderColor 0 255 255 255
-	SetBackgroundColor 0 255 255 255
+	SetFontSize 43
+	SetTextColor 180 130 90 230
+	SetBorderColor 50 0 0 255
+	SetBackgroundColor 20 20 0 255
 
 #Hide # # %H1 $type->currency $tier->twisdom
 #	Class == "Stackable Currency"

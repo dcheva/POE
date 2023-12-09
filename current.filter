@@ -7495,7 +7495,8 @@ Show # $type->currency $tier->t1exalted
 	SetTextColor 255 0 0 255
 	SetBorderColor 255 0 0 255
 	SetBackgroundColor 255 255 255 255
-	PlayAlertSound 6 300
+	CustomAlertSound "Sounds\06money2.mp3"
+	# PlayAlertSound 6 300
 	PlayEffect Red
 	MinimapIcon 0 Red Star
 
@@ -7506,7 +7507,8 @@ Show # $type->currency $tier->t2divine
 	SetTextColor 255 255 255 255
 	SetBorderColor 255 255 255 255
 	SetBackgroundColor 190 30 30 255
-	PlayAlertSound 1 300
+	CustomAlertSound "Sounds\06money2.mp3"
+	# PlayAlertSound 1 300
 	PlayEffect Red
 	MinimapIcon 0 Red Circle
 
@@ -7517,7 +7519,8 @@ Show # $type->currency $tier->t3annul
 	SetTextColor 0 0 0 255
 	SetBorderColor 0 0 0 255
 	SetBackgroundColor 190 30 30 255
-	PlayAlertSound 2 300
+	CustomAlertSound "Sounds\06money2.mp3"
+	#PlayAlertSound 2 300
 	PlayEffect Yellow
 	MinimapIcon 1 Yellow Circle
 
@@ -7528,7 +7531,8 @@ Show # $type->currency $tier->t4chaos
 	SetTextColor 0 0 0 255
 	SetBorderColor 0 0 0 255
 	SetBackgroundColor 180 76 58 255
-	PlayAlertSound 2 300
+	CustomAlertSound "Sounds\06money2.mp3"
+	#PlayAlertSound 2 300
 	PlayEffect White
 	MinimapIcon 2 White Circle
 
@@ -7539,7 +7543,8 @@ Show # %HS4 $type->currency $tier->t5alchemy
 	SetTextColor 0 0 0 255
 	SetBorderColor 0 0 0 255
 	SetBackgroundColor 180 76 58 255
-	PlayAlertSound 2 300
+	CustomAlertSound "Sounds\06money2.mp3"
+	#PlayAlertSound 2 300
 	PlayEffect White
 	MinimapIcon 2 White Circle
 
@@ -7550,7 +7555,8 @@ Show # %HS3 $type->currency $tier->t6chrom
 	SetTextColor 0 0 0 255
 	SetBorderColor 0 0 0 255
 	SetBackgroundColor 190 110 111 255
-	PlayAlertSound 2 300
+	CustomAlertSound "Sounds\06money2.mp3"
+	#PlayAlertSound 2 300
 
 Show # %H3 $type->currency $tier->t7chance
 	Class == "Stackable Currency"
@@ -7559,6 +7565,8 @@ Show # %H3 $type->currency $tier->t7chance
 	SetTextColor 0 0 0 255
 	SetBorderColor 0 0 0 255
 	SetBackgroundColor 190 110 111 255
+	CustomAlertSound "Sounds\06money2.mp3"
+	#
 
 Show # %H2 $type->currency $tier->t8trans
 	Class == "Stackable Currency"
@@ -7567,6 +7575,8 @@ Show # %H2 $type->currency $tier->t8trans
 	SetTextColor 190 120 90 255
 	SetBorderColor 190 120 90 255
 	SetBackgroundColor 20 20 0 255
+	CustomAlertSound "Sounds\06money2.mp3"
+	#
 
 Show # %H1 $type->currency $tier->t9armour
 	Class == "Stackable Currency"
