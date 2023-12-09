@@ -7579,9 +7579,9 @@ Show # %H1 $type->currency $tier->t9armour
 Show # %H1 $type->currency $tier->tportal
 	Class == "Stackable Currency"
 	BaseType == "Portal Scroll"
-	SetFontSize 45
-	SetTextColor 0 0 0 220
-	SetBorderColor 0 255 255 255
+	SetFontSize 43
+	SetTextColor 180 130 90 230
+	SetBorderColor 50 0 0 255
 	SetBackgroundColor 20 20 0 255
 
 #Hide # # %H1 $type->currency $tier->twisdom
