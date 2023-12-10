@@ -115,8 +115,9 @@ $+^A::
   Reload ; to refresh variables
 return
 
-; Speed up!
-$Capslock::5
+;; Speed up!
+; Swap bows
+$Capslock::X
 
 ; Jump! Than T
 $Space::
