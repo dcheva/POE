@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <PathOfBuilding>
 	<Mode mode="BUILD">
-		<Arg string="D:\Documents/Path of Building/Builds/DeeFlictiona 86.xml"/>
-		<Arg string="DeeFlictiona 86"/>
+		<Arg string="D:\Documents/Path of Building/Builds/TemplaRSprimalist-100.xml"/>
+		<Arg string="TemplaRSprimalist-100"/>
 	</Mode>
 	<Accounts lastAccountName="SteamCovan" lastRealm="PC">
 		<Account accountName="SteamCovan"/>
