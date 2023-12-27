@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <PathOfBuilding>
 	<Mode mode="BUILD">
-		<Arg string="D:\Documents/Path of Building/Builds/TemplaRSprimalist-100.xml"/>
-		<Arg string="TemplaRSprimalist-100"/>
+		<Arg boolean="false"/>
+		<Arg string="Unnamed build"/>
 	</Mode>
 	<Accounts lastAccountName="SteamCovan" lastRealm="PC">
 		<Account accountName="SteamCovan"/>
