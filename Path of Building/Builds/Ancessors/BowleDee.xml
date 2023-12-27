@@ -1,0 +1,2022 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PathOfBuilding>
+	<Build level="92" targetVersion="3_0" pantheonMajorGod="Lunaris" bandit="None" className="Witch" ascendClassName="Elementalist" characterLevelAutoMode="false" mainSocketGroup="4" viewMode="TREE" pantheonMinorGod="Ryslatha">
+		<PlayerStat stat="AverageDamage" value="350375.001741"/>
+		<PlayerStat stat="AverageBurstDamage" value="350375.001741"/>
+		<PlayerStat stat="Speed" value="2.9893"/>
+		<PlayerStat stat="HitSpeed" value="0.74626865671642"/>
+		<PlayerStat stat="TotemPlacementTime" value="0.17948717948718"/>
+		<PlayerStat stat="PreEffectiveCritChance" value="6.1"/>
+		<PlayerStat stat="CritChance" value="5.673"/>
+		<PlayerStat stat="CritMultiplier" value="1"/>
+		<PlayerStat stat="HitChance" value="93"/>
+		<PlayerStat stat="TotalDPS" value="261473.88189627"/>
+		<PlayerStat stat="TotalDot" value="0"/>
+		<PlayerStat stat="IgniteDPS" value="35791394"/>
+		<PlayerStat stat="IgniteDamage" value="81705606.50505"/>
+		<PlayerStat stat="TotalDotDPS" value="35791394"/>
+		<PlayerStat stat="CullingDPS" value="0"/>
+		<PlayerStat stat="ReservationDPS" value="0"/>
+		<PlayerStat stat="CombinedAvg" value="82055981.506792"/>
+		<PlayerStat stat="AreaOfEffectRadiusMetres" value="2.8"/>
+		<PlayerStat stat="ManaCost" value="0"/>
+		<PlayerStat stat="ManaPercentCost" value="0"/>
+		<PlayerStat stat="ManaPerSecondCost" value="0"/>
+		<PlayerStat stat="ManaPercentPerSecondCost" value="0"/>
+		<PlayerStat stat="LifeCost" value="93"/>
+		<PlayerStat stat="LifePercentCost" value="0"/>
+		<PlayerStat stat="LifePerSecondCost" value="518.14285714286"/>
+		<PlayerStat stat="LifePercentPerSecondCost" value="0"/>
+		<PlayerStat stat="ESCost" value="0"/>
+		<PlayerStat stat="ESPerSecondCost" value="0"/>
+		<PlayerStat stat="ESPercentPerSecondCost" value="0"/>
+		<PlayerStat stat="RageCost" value="0"/>
+		<PlayerStat stat="SoulCost" value="0"/>
+		<PlayerStat stat="Str" value="188"/>
+		<PlayerStat stat="ReqStr" value="155"/>
+		<PlayerStat stat="Dex" value="233"/>
+		<PlayerStat stat="ReqDex" value="179"/>
+		<PlayerStat stat="Int" value="172"/>
+		<PlayerStat stat="ReqInt" value="155"/>
+		<PlayerStat stat="Devotion" value="0"/>
+		<PlayerStat stat="TotalEHP" value="110151.37441501"/>
+		<PlayerStat stat="PhysicalMaximumHitTaken" value="10210"/>
+		<PlayerStat stat="LightningMaximumHitTaken" value="28361"/>
+		<PlayerStat stat="FireMaximumHitTaken" value="28361"/>
+		<PlayerStat stat="ColdMaximumHitTaken" value="28361"/>
+		<PlayerStat stat="ChaosMaximumHitTaken" value="12727"/>
+		<PlayerStat stat="Life" value="3856"/>
+		<PlayerStat stat="Spec:LifeInc" value="85"/>
+		<PlayerStat stat="LifeUnreserved" value="3856"/>
+		<PlayerStat stat="LifeRecoverable" value="3856"/>
+		<PlayerStat stat="LifeUnreservedPercent" value="100"/>
+		<PlayerStat stat="LifeRegenRecovery" value="357.8"/>
+		<PlayerStat stat="LifeLeechGainPerHit" value="0"/>
+		<PlayerStat stat="Mana" value="771"/>
+		<PlayerStat stat="Spec:ManaInc" value="0"/>
+		<PlayerStat stat="ManaUnreserved" value="48"/>
+		<PlayerStat stat="ManaUnreservedPercent" value="6.2256809338521"/>
+		<PlayerStat stat="ManaRegenRecovery" value="29.7"/>
+		<PlayerStat stat="ManaLeechGainPerHit" value="0"/>
+		<PlayerStat stat="EnergyShield" value="91"/>
+		<PlayerStat stat="EnergyShieldRecoveryCap" value="91"/>
+		<PlayerStat stat="Spec:EnergyShieldInc" value="12"/>
+		<PlayerStat stat="EnergyShieldRegenRecovery" value="0"/>
+		<PlayerStat stat="EnergyShieldLeechGainPerHit" value="0"/>
+		<PlayerStat stat="Ward" value="0"/>
+		<PlayerStat stat="RageRegenRecovery" value="0"/>
+		<PlayerStat stat="TotalDegen" value="128.19856"/>
+		<PlayerStat stat="TotalNetRegen" value="259.30144"/>
+		<PlayerStat stat="NetLifeRegen" value="229.60144"/>
+		<PlayerStat stat="NetManaRegen" value="29.7"/>
+		<PlayerStat stat="NetEnergyShieldRegen" value="0"/>
+		<PlayerStat stat="Evasion" value="23980"/>
+		<PlayerStat stat="Spec:EvasionInc" value="156"/>
+		<PlayerStat stat="MeleeEvadeChance" value="74"/>
+		<PlayerStat stat="ProjectileEvadeChance" value="74"/>
+		<PlayerStat stat="Armour" value="17440"/>
+		<PlayerStat stat="Spec:ArmourInc" value="84"/>
+		<PlayerStat stat="PhysicalDamageReduction" value="79.8"/>
+		<PlayerStat stat="BlockChance" value="0"/>
+		<PlayerStat stat="SpellBlockChance" value="0"/>
+		<PlayerStat stat="AttackDodgeChance" value="0"/>
+		<PlayerStat stat="SpellDodgeChance" value="0"/>
+		<PlayerStat stat="EffectiveSpellSuppressionChance" value="100"/>
+		<PlayerStat stat="FireResist" value="75"/>
+		<PlayerStat stat="FireResistOverCap" value="52"/>
+		<PlayerStat stat="ColdResist" value="75"/>
+		<PlayerStat stat="ColdResistOverCap" value="30"/>
+		<PlayerStat stat="LightningResist" value="75"/>
+		<PlayerStat stat="LightningResistOverCap" value="43"/>
+		<PlayerStat stat="ChaosResist" value="56"/>
+		<PlayerStat stat="ChaosResistOverCap" value="0"/>
+		<PlayerStat stat="EffectiveMovementSpeedMod" value="2.86"/>
+		<PlayerStat stat="FullDPS" value="36052867.881896"/>
+		<PlayerStat stat="FullDotDPS" value="35791394"/>
+		<FullDPSSkill skillPart="" source="Explosive Arrow" stat="Best Ignite DPS" value="35791394"/>
+		<FullDPSSkill skillPart="Explosion (# of fuses)" source="" stat="Explosive Arrow" value="261473.88189627"/>
+		<PlayerStat stat="PowerCharges" value="0"/>
+		<PlayerStat stat="PowerChargesMax" value="3"/>
+		<PlayerStat stat="FrenzyCharges" value="3"/>
+		<PlayerStat stat="FrenzyChargesMax" value="3"/>
+		<PlayerStat stat="EnduranceCharges" value="4"/>
+		<PlayerStat stat="EnduranceChargesMax" value="4"/>
+		<PlayerStat stat="ActiveTotemLimit" value="6"/>
+		<TimelessData devotionVariant2="1" searchListFallback="" searchList="" socketFilterDistance="0" devotionVariant1="1"/>
+	</Build>
+	<Import lastAccountHash="daaa977a76365c9e94aa2dc66b6bc3eb2b9b0a9b" lastRealm="PC" exportParty="false" lastCharacterHash="c64ee51af292bc31b4db95afee6a3ba7620b9108"/>
+	<Party destination="All" ShowAdvanceTools="false" append="false"/>
+	<Tree activeSpec="13">
+		<Spec masteryEffects="" title="Act 1" ascendClassId="2" nodes="34661,4184,16023,18866,54447,27203,11420,44983,57264,12852,33296,1957,739,48362" secondaryAscendClassId="nil" treeVersion="3_21" classId="3">
+			<URL>
+				https://www.pathofexile.com/passive-skill-tree/AAAABgMCDIdlEFhJsmpDLJyvt9-wMjSCEAelAuO86gAA
+			</URL>
+			<Sockets/>
+			<Overrides/>
+		</Spec>
+		<Spec masteryEffects="{12125,47642}" title="Act 2" ascendClassId="2" nodes="4184,7938,14021,21958,18866,54447,11420,9432,739,48362,27203,1957,16023,44983,1031,14936,55332,33296,54657,22088,57264,12852,34157,33755,12125,34661" secondaryAscendClassId="nil" treeVersion="3_21" classId="3">
+			<URL>
+				https://www.pathofexile.com/passive-skill-tree/AAAABgMCGBBYHwI2xVXGSbIsnCTYAuO86mpDB6WvtwQHOljYJIIQ1YFWSN-wMjSFbYPbL12HZQABuhovXQ==
+			</URL>
+			<Sockets/>
+			<Overrides/>
+		</Spec>
+		<Spec masteryEffects="{12125,47642}" title="Act 3" ascendClassId="2" nodes="10893,7938,7444,18866,54447,61804,9432,44184,48362,27203,1031,42760,57264,12125,36678,14021,21958,64210,11420,18715,60501,55332,34661,1957,16023,44983,34157,12852,5743,58218,14936,33755,22088,14040,33296,54657,739,4184" secondaryAscendClassId="nil" treeVersion="3_21" classId="3">
+			<URL>
+				https://www.pathofexile.com/passive-skill-tree/AAAABgMCJCqNHwIdFEmy8Wwk2KyYvOpqQwQHpwjfsC9dj0Y2xVXG-tIsnEkb7FXYJIdlB6Wvt4VtMjQWb-NqOliD21ZINtiCENWBAuMQWAABuhovXQ==
+			</URL>
+			<Sockets/>
+			<Overrides/>
+		</Spec>
+		<Spec masteryEffects="{47197,34383},{12125,47642},{34487,53005}" title="Act 4" ascendClassId="2" nodes="60501,7938,7444,18866,31520,65159,61804,55332,44184,48362,27203,34487,14936,42760,5935,14021,12125,53123,33755,32932,36678,63635,21958,58218,64210,34157,54657,12852,21974,739,9432,25831,18715,4184,34661,1957,16023,44983,5743,57264,12738,10893,4300,11420,22088,14040,33296,1031,47197,54447" secondaryAscendClassId="nil" treeVersion="3_21" classId="3">
+			<URL>
+				https://www.pathofexile.com/passive-skill-tree/AAAABgMCMOxVHwIdFEmyeyD-h_Fs2CSsmLzqakOGtzpYpwgXLzbFL13Pg4PbgKSPRviTVcbjavrShW3VgTI0VdYC4yTYZOdJGxBYh2UHpa-3Fm_fsDHCKo0QzCycVkg22IIQBAe4XQADzw2Gt7oaL12GT7hd
+			</URL>
+			<Sockets/>
+			<Overrides/>
+		</Spec>
+		<Spec masteryEffects="{11505,24180},{2828,34420},{47197,34383},{12125,47642},{34487,53005}" title="Act 5" ascendClassId="2" nodes="7388,60501,7938,7444,44983,65159,61804,55332,63635,44184,48362,27203,36542,34423,34487,47197,14936,1031,42760,29049,14040,5935,33755,10893,4184,12125,53123,64210,32932,36678,2828,21974,58218,21958,5916,11420,47251,41970,18715,4713,48118,12738,25970,34661,25831,16023,5743,37569,4397,46340,14021,4300,54447,22088,12852,57264,11505,60398,31520" secondaryAscendClassId="nil" treeVersion="3_21" classId="3">
+			<URL>
+				https://www.pathofexile.com/passive-skill-tree/AAAABgMCORzc7FUfAh0Ur7f-h_Fs2CT4k6yYvOpqQ46-hneGt7hdOlgEB6cIcXk22Bcvg9sqjRBYL13Pg_rSgKSPRgsMVdbjalXGFxwsnLiTo_JJGxJpu_YxwmVyh2Vk5xZvksERLbUENsUQzFZIMjTfsCzx6-57IAAFzw2Gt4ZPuF26Gi9dhnQLDF50LPE=
+			</URL>
+			<Sockets/>
+			<Overrides/>
+		</Spec>
+		<Spec masteryEffects="{11505,24180},{34487,53005},{5348,30502},{47197,34383},{12125,47642},{2828,34420}" title="Act 6" ascendClassId="2" nodes="7388,60501,7938,7444,5743,44983,65159,61804,55332,60398,12125,45317,5348,44184,63976,14936,36542,34423,34487,57264,33755,4300,42760,12852,54447,5935,10893,37569,47312,4397,53123,64210,32932,36678,2828,21974,4713,34661,5916,21958,47251,25831,33479,18715,48118,25970,31520,12738,58218,16023,63635,41970,14021,46340,1031,10490,55866,22088,14040,11505,4184,47197,29049" secondaryAscendClassId="nil" treeVersion="3_21" classId="3">
+			<URL>
+				https://www.pathofexile.com/passive-skill-tree/AAAABgMCPRzc7FUfAh0UFm-vt_6H8WzYJOvuL12xBRTkrJj56DpYjr6Gd4a337CD2xDMpwgyNBcvKo2SwbjQES3Pg_rSgKSPRgsMVdYSaYdlFxxVxriTZOeCx0kbu_ZlcnsgMcLjaviTo_I2xbUEBAco-to6Vkg22CzxEFi4XXF5AAa6Gi9ddyYU5M8NhreGdAsMXnQs8YZPuF0=
+			</URL>
+			<Sockets/>
+			<Overrides/>
+		</Spec>
+		<Spec masteryEffects="{11505,24180},{34487,53005},{2828,34420},{47197,34383},{12125,47642},{5348,30502}" title="Act 7" ascendClassId="2" nodes="7388,60501,7444,16775,65159,61804,63976,46578,34423,34487,13714,42760,5935,28330,12125,53123,32932,2828,21958,46910,47251,33479,48118,37569,46340,4300,22088,14040,47197,7938,31520,55332,65034,11505,33755,57264,4397,10893,45317,4184,36678,47312,21974,4713,14936,5916,12852,58218,54447,18715,36542,25831,1031,55485,34661,14021,16023,5743,41970,25970,29049,12738,10490,55866,44983,5348,64210,63635,60398,44184" secondaryAscendClassId="nil" treeVersion="3_21" classId="3">
+			<URL>
+				https://www.pathofexile.com/passive-skill-tree/AAAABgMCRBzc7FUdFEGH_ofxbPnotfKGd4a3NZKnCBcvbqovXc-DgKQLDFXGtz64k4LHu_aSwbUEEMxWSDbYuF0fAnsg2CT-Cizxg9vfsBEtKo2xBRBYj0a40FXWEmk6WBccMjTjakkbjr5k5wQH2L2HZTbFFm-j8mVycXkxwij62jqvtxTk-tL4k-vurJgABs8Nhre6Gi9dhnQLDIZPuF1edCzxdyYU5A==
+			</URL>
+			<Sockets/>
+			<Overrides/>
+		</Spec>
+		<Spec masteryEffects="{11505,24180},{34487,53005},{2828,34420},{47197,34383},{12125,47642},{5348,30502}" title="Act 8" ascendClassId="2" nodes="7388,60501,10829,7444,16775,65159,61804,63976,46578,34423,25970,13714,42760,5935,28330,12125,53123,39085,32932,2828,21958,46910,19144,47251,33479,48118,37569,46340,4300,22088,14040,47197,7938,44983,5408,55332,44184,36542,1031,29049,11497,57264,63635,16167,238,4397,4713,5348,5743,36678,47312,21974,64210,4184,5916,65034,14936,37114,18715,55485,25831,31520,61259,12738,34661,16023,54447,41970,11505,33755,10893,10490,55866,14021,12852,58218,45317,60398,34487" secondaryAscendClassId="nil" treeVersion="3_21" classId="3">
+			<URL>
+				https://www.pathofexile.com/passive-skill-tree/AAAABgMCTRzc7FUqTR0UQYf-h_Fs-ei18oZ3ZXI1kqcIFy9uqi9dz4OYrYCkCwxVxrc-Ssi4k4LHu_aSwbUEEMxWSDbYuF0fAq-3FSDYJKyYjr4EB3F5LOnfsPiTPycA7hEtEmkU5BZvj0a40FXW-tIQWBcc_go6WJD6SRvYvWTneyDvSzHCh2Wj8izxg9sqjSj62jo2xTI042qxBevuhrcABroaL12GdAsMhk-4XXcmFORedCzxzw2Gtw==
+			</URL>
+			<Sockets/>
+			<Overrides/>
+		</Spec>
+		<Spec masteryEffects="{11505,24180},{5348,30502},{34487,53005},{47197,34383},{12125,47642},{2828,34420}" title="Act 9" ascendClassId="2" nodes="7388,60501,10829,7444,5743,65159,61804,63976,11497,34423,25970,13714,42760,5935,28330,12125,53123,39085,32932,14021,21958,46910,19144,47251,33479,48118,36687,46340,4300,22088,14040,47197,7938,48807,44983,5408,930,55332,46578,65034,45317,4713,6580,33755,12852,238,14936,63933,2828,11651,4184,57264,37569,36542,55485,4397,1031,25732,34661,36678,47312,21974,58218,64210,5916,56855,31520,37114,18715,29049,25831,16167,61259,12738,54447,16023,13231,41970,1696,44184,34487,10490,55866,16775,5348,11505,63635,60398,10893" secondaryAscendClassId="nil" treeVersion="3_21" classId="3">
+			<URL>
+				https://www.pathofexile.com/passive-skill-tree/AAAABgMCVxzc7FUqTR0UFm_-h_Fs-egs6YZ3ZXI1kqcIFy9uqi9dz4OYrYCkNsVVxrc-Ssi4k4LHu_aPT7UEEMxWSDbYuF0fAr6nr7cVIAOi2CS18v4KsQUSaRm0g9syNADuOlj5vQsMLYMQWN-wksGOvti9ES0EB2SEh2WPRrjQVdbjavrSFxzeF3sgkPpJG3F5ZOc_J-9LMcIzr6PyBqCsmIa3KPraOkGHFOQs8fiT6-4qjQAGuhovXYZPuF2GdAsMzw2Gt3cmFORedCzx
+			</URL>
+			<Sockets/>
+			<Overrides/>
+		</Spec>
+		<Spec masteryEffects="{11505,24180},{5348,30502},{34487,53005},{47197,34383},{12125,47642},{2828,34420}" title="Act 10" ascendClassId="2" nodes="7388,60501,10829,7444,5743,65159,61804,63976,11497,34423,34487,57197,42760,5935,28330,19595,12125,53123,39085,32932,2828,21958,46910,19144,47251,48438,33479,48118,36687,46340,4300,55485,14040,47197,7938,29049,25970,48807,31520,13231,930,55332,46578,1031,12852,17201,44184,55866,65034,6580,5348,10893,37569,33755,13714,11505,11651,56001,57264,12738,44983,54447,4397,16775,25732,56855,36678,47312,21974,58218,64210,5916,16167,4713,37114,18715,19711,25831,45317,61259,34661,22088,16023,5408,41970,1696,14936,36542,10490,63933,63635,238,4184,14021,60398,25933" secondaryAscendClassId="nil" treeVersion="3_21" classId="3">
+			<URL>
+				https://www.pathofexile.com/passive-skill-tree/AAAABgMCXhzc7FUqTR0UFm_-h_Fs-egs6YZ3hrffbacIFy9uqkyLL13Pg5itgKQLDFXGtz5KyLiTvTaCx7v2j0-1BBDM2L022LhdHwJxeWVyvqd7IDOvA6LYJLXyBAcyNEMxrJjaOv4KGbQU5CqNksGD2zWSLPEtg9rB37Axwq-3ES1Bh2SE3hePRrjQVdbjavrSFxw_JxJpkPpJG0z_ZOexBe9Lh2VWSBUgo_IGoDpYjr4o-vm9-JMA7hBYNsXr7mVNAAbPDYa3uhovXYZ0CwyGT7hddyYU5F50LPE=
+			</URL>
+			<Sockets/>
+			<Overrides/>
+		</Spec>
+		<Spec masteryEffects="{11505,24180},{5348,30502},{12382,47642},{34487,53005},{47197,34383},{2828,34420}" title="Maps - Early" ascendClassId="2" nodes="7388,32117,10829,7444,63150,54447,65159,36221,61306,50338,46291,34423,34487,13714,42760,19140,25933,5935,28330,25970,19595,1325,53123,39085,32932,57197,2828,41866,238,46910,544,19144,47251,48438,33479,55866,65210,37569,63139,42964,4917,4300,22088,36687,19858,46340,41970,31875,61039,55485,48118,37504,11497,29933,55648,16775,63618,54142,4750,31471,48807,56001,48099,930,65224,55332,47197,24083,12412,65034,29049,5408,36542,63976,15842,31520,17201,903,4713,11651,21974,57264,58218,12382,3187,4397,63635,25732,6580,36678,47312,15290,16167,64210,5916,5743,11505,37114,56855,19711,25831,9206,61259,12738,45317,58288,6052,30894,1696,2715,7786,10490,63933,16023,5348,46578,13231,60398,34031" secondaryAscendClassId="nil" treeVersion="3_21" classId="3">
+			<URL>
+				https://www.pathofexile.com/passive-skill-tree/AAAABgMCdRzcfXUqTR0U9q7-h41973rEorTThneGtzWSpwhKxGVNFy9uqmVyTIsFLc-DmK2ApN9tCwyjigDutz4CIErIuJO9NoLH2jr-upLB9qOn1BM1EMxWSI9PTZK1BKPyfIPub9i9u_aSgCzpdO3ZYEGH-ILTfhKOeu--p9rBu-MDov7I2CS4XV4TMHz-CnF5FSCOvvnoPeJ7IEMxA4cSaS2DVdbfsONqMF4McxEt-JNkhBm0j0a40Du6Pyf60hccFm8s8ZD63hdM_2TnI_bvSzHCsQXjsBekeK4GoAqbHmoo-vm9FOS18jOv6-6E7wAGzw2Gt4Z0CwyGT7hduhowXl50LPF3JhTk
+			</URL>
+			<Sockets>
+				<Socket nodeId="60735" itemId="3"/>
+			</Sockets>
+			<Overrides/>
+		</Spec>
+		<Spec masteryEffects="{50757,57074},{11505,24180},{46665,29214},{32241,47642},{47197,61097}" title="End-Game" ascendClassId="2" nodes="7388,34510,50041,10829,7444,63150,54447,65159,20987,59766,36634,34483,63976,50757,46291,34423,25970,57197,55648,8930,19140,32091,5935,28330,6052,19595,4917,53123,39085,7960,52502,63635,17201,9408,46910,65540,19144,47251,48438,33479,66576,48118,65538,65570,544,65568,66582,25933,37569,17566,46340,65578,31875,61039,55485,46578,8544,29049,29933,42041,1325,42760,13714,66579,22088,48807,56001,5408,32932,55332,34031,29712,47197,65536,65034,31520,36542,11505,4833,31683,11497,56116,11859,43684,11651,36881,57264,18402,11364,48823,4397,4713,25732,16167,36678,58218,21974,64210,16544,5916,35503,6580,37114,44103,19711,25831,7786,61259,12738,21435,16023,32241,41970,1696,4300,16775,10490,63933,46665,238,5743,24083,60398,31471" secondaryAscendClassId="nil" treeVersion="3_21" classId="3">
+			<URL>
+				https://www.pathofexile.com/passive-skill-tree/AAAABgMCcRzchs7DeSpNHRT2rv6HUfvpdo8ahrP56MZFtNOGd2Vy323ZYCLiSsR9WxcvbqoXpEyLEzXPg5itHxjNFviTQzEkwLc-Ssi4k702gse79gIgZU2SwUSetQR8g-5v2L218iFgcXl07aQ5BS2nCDWSVki-p9rBFSCApNgkhO90ELhd_gp7II6-LPES4XvDLOnbNC5TqqQtg5AR37BH4ixkvrcRLRJpZIQ_J49G42pV1vrSQKAXHIqvGbSQ-qxHTP9k5x5q70sxwlO7ffGj8gagEMxBhyj6-b22SQDuFm9eE-vueu8JAAQEEAACACIAIAQWACoEEwAABd7yxkXuqbhdXnQs8boaffFyHrZJ
+			</URL>
+			<Sockets>
+				<Socket nodeId="2311" itemId="1"/>
+				<Socket nodeId="9408" itemId="39"/>
+				<Socket nodeId="36634" itemId="6"/>
+				<Socket nodeId="7960" itemId="4"/>
+				<Socket nodeId="31683" itemId="1"/>
+				<Socket nodeId="34483" itemId="5"/>
+				<Socket nodeId="29712" itemId="41"/>
+			</Sockets>
+			<Overrides/>
+		</Spec>
+		<Spec masteryEffects="{50757,57074},{11505,24180},{46665,29214},{32241,47642},{47197,61097}" title="End-Game" ascendClassId="2" nodes="7388,34510,50041,10829,7444,63150,54447,65159,20987,59766,36634,34483,63976,50757,46291,34423,25970,57197,65034,8930,19140,32091,5935,28330,21435,19595,4300,53123,39085,32932,24083,63635,17201,66582,46910,65568,19144,47251,48438,33479,66576,48118,65538,65570,544,65540,9408,31471,37569,7960,46340,65578,31875,61039,22088,5743,238,16023,47197,42041,29049,46578,16775,66579,1325,48807,56001,5408,25933,55332,52502,29712,55648,65536,17566,7786,25831,36542,11505,31683,44103,37114,11859,6580,11651,36881,57264,18402,35503,4713,4397,16167,25732,64210,36678,58218,21974,48823,16544,5916,11364,11497,43684,56116,19711,4833,31520,61259,12738,29933,6052,32241,41970,1696,55485,4917,10490,63933,46665,8544,42760,13714,60398,34031" secondaryAscendClassId="nil" treeVersion="3_23" classId="3">
+			<URL>
+				https://www.pathofexile.com/passive-skill-tree/AAAABgMCcRzchs7DeSpNHRT2rv6HUfvpdo8ahrP56MZFtNOGd2Vy323-CiLiSsR9WxcvbqpTu0yLEMzPg5itgKReE_iTQzG3PkrIuJO9NoLHu_YCICTAeu-SwR8YtQR8g-5vVkgWbwDuuF2kOXF5tfJBhwUtvqfawRUgZU3YJM0WdBDZYESeHmpk546-LPF7w6xHkPouUxm0LYOQEd-wR-KKrxJpES0_J2SE-tKPRuNqVda-t0CgFxwsZCzpqqTbNEz_EuF7IO9LMcJ07RekffGj8gag2L0TNSj6-b22SSFgpwg1kuvuhO8JBBYAIAQQAAIAIgAEACoEEwAABd7yxkXuqbhdXnQs8boaffFyHrZJ
+			</URL>
+			<Sockets>
+				<Socket nodeId="2311" itemId="1"/>
+				<Socket nodeId="9408" itemId="39"/>
+				<Socket nodeId="36634" itemId="6"/>
+				<Socket nodeId="29712" itemId="41"/>
+				<Socket nodeId="34483" itemId="5"/>
+				<Socket nodeId="7960" itemId="4"/>
+				<Socket nodeId="31683" itemId="1"/>
+			</Sockets>
+			<Overrides/>
+		</Spec>
+	</Tree>
+	<Notes>
+		^xD02090
+^xFFFF77Level 1-3^7
+^x7070FFFreezing Pulse^7^7 + Momentum
+
+^xFFFF77Level 4-28^7
+1) ^x3F6DB3^x8888FF^x3F6DB3^x7070FFPurifying Flame^7^7^7^7 (replace with ^x7070FFWave of Conviction^xC8C8C8 at Level 16)^7
+   +^x7070FFArcane Surge Support^7
+   +^x7070FFCombustion Support^7 (swap with ^x7070FFElemental Focus^7 at level 18)
+
+2)^x7070FF ^xE05030Holy Flame Totem^7
+   + ^x8888FF^x7070FFSummon Phantasm Support^7^7
+   + ^x7070FFCombustion Support^7 (swap with ^x7070FFFaster Casting ^xC8C8C8at level 18)^7
+   + ^x7070FFElemental Focus^7
+
+3) ^x7070FFFlame Wall^7
+    + ^x7070FFEfficacy ^7
+    + ^x7070FFElemental Focus^7
+
+^xFFFF77Level 16^7
+^xE05030Herald of Purirty
+Herald of Ash^7
+
+^xFFFF77Level 24^7
+^x7070FFFlammability^7
+
+^xFFFF77Level 28 - Fixture of Fate - Buy these gems to level^7
+^x70FF70Explosive Arrow^7^7
+^xE05030Ballista Totem Support^7
+2x ^x70FF70Faster Attacks Support^7 (you can start levelling this from level 8 if you want to buy earlier)
+^x70FF70Grace^7 
+^xE05030Determination^7
+^xE05030Defiance Banner^7
+^x7070FFLightning Spire Trap^7
+^x70FF70Frenzy^7
+^x70FF70Precision (from Vendor)^7
+
+
+^xFFFF77******** LEVEL 38 TRANSITION POINT **********^7
+
+Buy a ^xAF6025Storm Cloud^7^7 and a ^xAF6025Skirmish^7
+
+^xFFFF77Level 38^7
+^x70FF70^xC8C8C8^xC8C8C81)^7 ^x70FF70Explosive Arrow^7^7^7^7
+   +^xE05030Ballista Support^7
+   +^x70FF70Faster Attacks^7
+   +^xE05030^x7070FFIgnite Proliferation^7  
+
+2) ^x70FF70Frenzy^7^7
+   +^x70FF70Faster Attacks^7
+   +^x7070FFHextouch Support^7
+   +^x7070FFFlammability^7
+
+3) ^x7070FFLightning Spire Trap^7
+   +^x7070FFCombustion^7
+
+4) ^x7070FFPurity of Elements^7, ^x70FF70Precision^7
+
+5) ^x7070FFLightning Golem^7
+
+^x7070FF^xFFFF77Later^7
+^xE05030Determination^7 + ^x70FF70Grace^7 + ^xE05030Defiance Banner^7 when you need it. 
+
+
+^xFFFF77******** OTHER **********^7^7
+
+^xFFFF77Ascendancy Order^7:
+
+1) Shaper of Flames
+2) Mastermind of Discord
+3) Heart of Destruction
+4) Bastion of Elements (can swap to Shaper of Storms in late game when Atlas is complete and you feel tanky enough)
+
+
+^xFFFF77Good Leveling Uniques^7 (3.20 prices): 
+
+- ^xAF6025Storm Cloud^7 - 3c
+- ^xAF6025Skirmish ^7- 1c
+- ^xAF6025Ondar&apos;s Clasp^7 - 1c
+- ^xAF6025Tabula Rasa^7 - 10c
+- ^xAF6025Goldrim^7 - 2c
+- ^xAF6025Quill Rain^7 - 7c
+- ^xAF6025Carnage Heart^7 - 2c
+- ^xAF6025Le Heup of All^7 - 3c
+
+
+^xFFFF77Stay updated:^7
+Forum Guide / Discussion: https://www.pathofexile.com/forum/view-thread/3229979
+Subscribe to my YouTube for updates: https://www.youtube.com/channel/UC0UHiZPF7vB6N6o4eGs8mPA
+Follow me on Twitch to watch me play through: https://www.twitch.tv/brunowa_
+
+Have fun!
+	</Notes>
+	<Skills sortGemsByDPSField="CombinedDPS" activeSkillSet="1" sortGemsByDPS="false" defaultGemQuality="2" defaultGemLevel="normalMaximum" showSupportGemTypes="ALL" showAltQualityGems="false">
+		<SkillSet id="1">
+			<Skill mainActiveSkillCalcs="1" includeInFullDPS="false" label="" enabled="true" slot="Helmet" mainActiveSkill="1">
+				<Gem enableGlobal2="false" level="20" gemId="Metadata/Items/Gems/SkillGemEnduringCry" variantId="EnduringCry" skillId="EnduringCry" quality="20" qualityId="Default" enableGlobal1="true" enabled="true" count="1" nameSpec="Enduring Cry"/>
+				<Gem enableGlobal2="false" level="20" gemId="Metadata/Items/Gems/SupportGemLifetap" variantId="LifetapSupport" skillId="SupportLifetap" quality="20" qualityId="Default" enableGlobal1="true" enabled="true" count="1" nameSpec="Lifetap"/>
+				<Gem enableGlobal2="false" level="20" gemId="Metadata/Items/Gems/SkillGemMoltenShell" variantId="MoltenShell" skillId="MoltenShell" quality="20" qualityId="Default" enableGlobal1="true" enabled="true" count="1" nameSpec="Molten Shell"/>
+				<Gem enableGlobal2="false" level="20" gemId="Metadata/Items/Gems/SkillGemFlameDash" variantId="FlameDash" skillId="FlameDash" quality="20" qualityId="Default" enableGlobal1="true" enabled="true" count="1" nameSpec="Flame Dash"/>
+			</Skill>
+			<Skill mainActiveSkillCalcs="1" includeInFullDPS="false" label="" enabled="true" slot="Body Armour" mainActiveSkill="1">
+				<Gem enableGlobal2="false" level="21" gemId="Metadata/Items/Gems/SkillGemLightningTowerTrap" variantId="LightningTowerTrap" skillId="LightningTowerTrap" quality="20" skillPart="1" qualityId="Default" enableGlobal1="true" enabled="true" count="1" nameSpec="Lightning Spire Trap"/>
+				<Gem enableGlobal2="false" level="21" gemId="Metadata/Items/Gems/SkillGemFrenzy" variantId="Frenzy" skillId="Frenzy" quality="20" qualityId="Default" enableGlobal1="true" enabled="true" count="1" nameSpec="Frenzy"/>
+				<Gem enableGlobal2="false" level="20" gemId="Metadata/Items/Gems/SupportGemChanceToIgnite" variantId="ChanceToIgniteSupport" skillId="SupportChanceToIgnite" quality="20" qualityId="Alternate1" enableGlobal1="true" enabled="true" count="1" nameSpec="Combustion"/>
+				<Gem enableGlobal2="false" level="20" gemId="Metadata/Items/Gems/SupportGemLifetap" variantId="LifetapSupport" skillId="SupportLifetap" quality="20" qualityId="Default" enableGlobal1="true" enabled="true" count="1" nameSpec="Lifetap"/>
+				<Gem enableGlobal2="false" level="20" gemId="Metadata/Items/Gems/SupportGemCullingStrike" variantId="CullingStrikeSupport" skillId="SupportCullingStrike" quality="20" qualityId="Default" enableGlobal1="true" enabled="true" count="1" nameSpec="Culling Strike"/>
+				<Gem enableGlobal2="false" level="20" gemId="Metadata/Items/Gems/SupportGemTrapCooldown" variantId="TrapCooldownSupport" skillId="SupportTrapCooldown" quality="20" qualityId="Default" enableGlobal1="true" enabled="true" count="1" nameSpec="Advanced Traps"/>
+			</Skill>
+			<Skill mainActiveSkillCalcs="1" includeInFullDPS="false" label="" enabled="true" slot="Boots" mainActiveSkill="1">
+				<Gem enableGlobal2="true" level="20" gemId="Metadata/Items/Gems/SkillGemDamageOverTimeAura" variantId="DamageOverTimeAura" skillId="DamageOverTimeAura" quality="20" qualityId="Alternate2" enableGlobal1="true" enabled="true" count="1" nameSpec="Malevolence"/>
+				<Gem enableGlobal2="false" level="4" gemId="Metadata/Items/Gems/SupportGemAdditionalXP" variantId="AdditionalXPSupport" skillId="SupportAdditionalXP" quality="20" qualityId="Default" enableGlobal1="true" enabled="true" count="1" nameSpec="Enlighten"/>
+				<Gem enableGlobal2="false" level="20" gemId="Metadata/Items/Gems/SkillGemDefianceBanner" variantId="DefianceBanner" skillId="DefianceBanner" quality="20" qualityId="Default" enableGlobal1="true" enabled="true" count="1" nameSpec="Defiance Banner"/>
+				<Gem enableGlobal2="false" level="20" gemId="Metadata/Items/Gems/SkillGemGrace" variantId="Grace" skillId="Grace" quality="20" qualityId="Default" enableGlobal1="true" enabled="true" count="1" nameSpec="Grace"/>
+			</Skill>
+			<Skill mainActiveSkillCalcs="1" includeInFullDPS="true" label="" enabled="true" slot="Weapon 1" mainActiveSkill="1">
+				<Gem enableGlobal2="false" skillPartCalcs="1" skillStageCount="20" level="21" gemId="Metadata/Items/Gems/SkillGemExplosiveArrow" variantId="ExplosiveArrow" skillId="ExplosiveArrow" quality="20" skillPart="1" qualityId="Default" enableGlobal1="true" enabled="true" count="1" nameSpec="Explosive Arrow"/>
+				<Gem enableGlobal2="false" level="21" gemId="Metadata/Items/Gems/SupportGemLifetap" variantId="LifetapSupport" skillId="SupportLifetap" quality="20" qualityId="Default" enableGlobal1="true" enabled="true" count="1" nameSpec="Lifetap"/>
+				<Gem enableGlobal2="false" skillMinionSkillCalcs="1" level="6" gemId="Metadata/Items/Gems/SupportGemWeaponElementalDamagePlus" variantId="WeaponElementalDamagePlusSupport" skillId="SupportWeaponElementalDamagePlus" skillMinionSkill="1" skillMinionItemSet="1" quality="20" skillPart="1" qualityId="Default" enableGlobal1="true" enabled="true" count="1" nameSpec="Awakened Elemental Damage with Attacks" skillMinion="AbsolutionTemplarJudge"/>
+				<Gem enableGlobal2="false" level="5" gemId="Metadata/Items/Gems/SupportGemBurningDamagePlus" variantId="BurningDamagePlusSupport" skillId="SupportBurningDamagePlus" quality="20" qualityId="Default" enableGlobal1="true" enabled="true" count="1" nameSpec="Awakened Burning Damage"/>
+				<Gem enableGlobal2="false" level="20" gemId="Metadata/Items/Gems/SupportGemRangedAttackTotem" variantId="RangedAttackTotemSupport" skillId="SupportRangedAttackTotem" quality="20" qualityId="Alternate2" enableGlobal1="true" enabled="true" count="1" nameSpec="Ballista Totem"/>
+				<Gem enableGlobal2="false" skillMinionSkillCalcs="1" level="6" gemId="Metadata/Items/Gems/SupportGemDeadlyAilmentsPlus" variantId="DeadlyAilmentsPlusSupport" skillId="SupportDeadlyAilmentsPlus" skillMinionSkill="1" skillMinionItemSet="1" quality="20" skillPart="1" qualityId="Default" enableGlobal1="true" enabled="true" count="1" nameSpec="Awakened Deadly Ailments" skillMinion="AbsolutionTemplarJudge"/>
+			</Skill>
+			<Skill mainActiveSkillCalcs="1" includeInFullDPS="false" label="" enabled="true" slot="Gloves" mainActiveSkill="1">
+				<Gem enableGlobal2="false" level="20" gemId="Metadata/Items/Gems/SkillGemDetermination" variantId="Determination" skillId="Determination" quality="20" qualityId="Default" enableGlobal1="true" enabled="true" count="1" nameSpec="Determination"/>
+				<Gem enableGlobal2="false" level="3" gemId="Metadata/Items/Gems/SupportGemAdditionalXP" variantId="AdditionalXPSupport" skillId="SupportAdditionalXP" quality="20" qualityId="Default" enableGlobal1="true" enabled="true" count="1" nameSpec="Enlighten"/>
+			</Skill>
+			<Skill mainActiveSkillCalcs="1" includeInFullDPS="false" label="" enabled="true" slot="Gloves" mainActiveSkill="1">
+				<Gem enableGlobal2="false" level="20" gemId="Metadata/Items/Gems/SkillGemBloodRage" variantId="BloodRage" skillId="BloodRage" quality="20" qualityId="Default" enableGlobal1="true" enabled="true" count="1" nameSpec="Blood Rage"/>
+				<Gem enableGlobal2="false" level="20" gemId="Metadata/Items/Gems/SupportGemLifetap" variantId="LifetapSupport" skillId="SupportLifetap" quality="20" qualityId="Default" enableGlobal1="true" enabled="true" count="1" nameSpec="Lifetap"/>
+			</Skill>
+			<Skill mainActiveSkillCalcs="1" includeInFullDPS="false" label="" source="Item:32:Horror Gyre, Two-Stone Ring" enabled="true" slot="Ring 2" mainActiveSkill="1">
+				<Gem enableGlobal2="false" level="1" skillId="Flammability" quality="0" qualityId="Default" enableGlobal1="true" enabled="true" count="1" nameSpec="Flammability"/>
+			</Skill>
+			<Skill mainActiveSkillCalcs="1" includeInFullDPS="false" label="" source="Tree:4917" enabled="true" mainActiveSkill="1">
+				<Gem enableGlobal2="false" level="20" skillId="PrimalAegis" quality="0" qualityId="Default" enableGlobal1="true" enabled="true" count="1" nameSpec="Primal Aegis"/>
+			</Skill>
+		</SkillSet>
+	</Skills>
+	<Calcs>
+		<Input name="misc_buffMode" string="EFFECTIVE"/>
+		<Input name="skill_number" number="4"/>
+		<Section subsection="ViewSkillDetails" collapsed="false" id="SkillSelect"/>
+		<Section subsection="SkillHitDamage" collapsed="false" id="HitDamage"/>
+		<Section subsection="ExertingWarcries" collapsed="false" id="Warcries"/>
+		<Section subsection="SkillDamageoverTime" collapsed="false" id="Dot"/>
+		<Section subsection="AttackCastRate" collapsed="false" id="Speed"/>
+		<Section subsection="Crits" collapsed="false" id="Crit"/>
+		<Section subsection="Impale" collapsed="false" id="Impale"/>
+		<Section subsection="SkilltypespecificStats" collapsed="false" id="SkillTypeStats"/>
+		<Section subsection="Accuracy" collapsed="false" id="HitChance"/>
+		<Section subsection="Bleed" collapsed="false" id="Bleed"/>
+		<Section subsection="Poison" collapsed="false" id="Poison"/>
+		<Section subsection="Ignite" collapsed="false" id="Ignite"/>
+		<Section subsection="Decay" collapsed="false" id="Decay"/>
+		<Section subsection="LeechGainonHit" collapsed="false" id="LeechGain"/>
+		<Section subsection="NonDamagingAilments" collapsed="false" id="EleAilments"/>
+		<Section subsection="OtherEffects" collapsed="false" id="MiscEffects"/>
+		<Section subsection="Attributes" collapsed="false" id="Attributes"/>
+		<Section subsection="Life" collapsed="false" id="Life"/>
+		<Section subsection="Mana" collapsed="false" id="Mana"/>
+		<Section subsection="EnergyShield" collapsed="false" id="EnergyShield"/>
+		<Section subsection="Ward" collapsed="false" id="Ward"/>
+		<Section subsection="Resists" collapsed="false" id="Resist"/>
+		<Section subsection="Armour" collapsed="false" id="Armour"/>
+		<Section subsection="Evasion" collapsed="false" id="Evasion"/>
+		<Section subsection="DamageAvoidance" collapsed="false" id="DamageAvoidance"/>
+		<Section subsection="Block" collapsed="false" id="DamageAvoidance"/>
+		<Section subsection="Dodge" collapsed="false" id="DamageAvoidance"/>
+		<Section subsection="SpellSuppression" collapsed="false" id="DamageAvoidance"/>
+		<Section subsection="Flasks" collapsed="false" id="Flasks"/>
+		<Section subsection="UtilityFlasks" collapsed="true" id="Flasks"/>
+		<Section subsection="LifeFlasks" collapsed="true" id="Flasks"/>
+		<Section subsection="ManaFlasks" collapsed="true" id="Flasks"/>
+		<Section subsection="Rage" collapsed="true" id="Rage"/>
+		<Section subsection="OtherDefences" collapsed="false" id="MiscDefences"/>
+		<Section subsection="StunDuration" collapsed="false" id="MiscDefences"/>
+		<Section subsection="OtherAvoidance" collapsed="true" id="MiscDefences"/>
+		<Section subsection="OtherAilmentDefences" collapsed="true" id="MiscDefences"/>
+		<Section subsection="DamageTaken" collapsed="false" id="DamageTaken"/>
+		<Section subsection="DamagingHits" collapsed="false" id="DamageTaken"/>
+		<Section subsection="EffectiveHealthPool" collapsed="false" id="DamageTaken"/>
+		<Section subsection="MaximumHitTaken" collapsed="false" id="DamageTaken"/>
+		<Section subsection="DotsandDegens" collapsed="false" id="DamageTaken"/>
+		<Section subsection="RecoupandHitTakenOverTime" collapsed="true" id="DamageTaken"/>
+	</Calcs>
+	<TreeView searchStr="" zoomY="157.50433127572" zoomLevel="2" showStatDifferences="true" zoomX="-122.45742798353"/>
+	<Items activeItemSet="1" useSecondWeaponSet="false">
+		<Item id="11">
+			Rarity: RARE
+Pain Thunder
+Thicket Bow
+Unique ID: 7ae7b816dc464a803c00f2abfc5d4b67255a1c28ef513f8ec520d8204382bb04
+Item Level: 87
+Quality: 20
+Sockets: G-G-R-R-R-R
+LevelReq: 56
+Implicits: 3
+{crafted}Quality does not increase Physical Damage
+{crafted}1% increased Attack Speed per 8% Quality
++11 to Dexterity
++1 to Level of Socketed Gems
++2 to Level of Socketed Bow Gems
+17% increased Attack Speed
+{crafted}Can have up to 3 Crafted Modifiers
+{crafted}+20% to Fire Damage over Time Multiplier
+{crafted}Gain 16% of Fire Damage as Extra Chaos Damage
+			<ModRange range="0.5" id="1"/>
+			<ModRange range="0.5" id="2"/>
+			<ModRange range="0.5" id="3"/>
+			<ModRange range="0.5" id="4"/>
+			<ModRange range="0.5" id="5"/>
+			<ModRange range="0.5" id="6"/>
+			<ModRange range="0.5" id="8"/>
+			<ModRange range="0.5" id="9"/>
+		</Item>
+		<Item id="1">
+			Rarity: UNIQUE
+Watcher&apos;s Eye
+Prismatic Jewel
+Unique ID: 5c46f9bd7662df5a80190f4aeb915a9e35ac3d5348de678bb0d27962a5defbab
+Item Level: 85
+Limited to: 1
+Implicits: 0
+6% increased maximum Energy Shield
+6% increased maximum Life
+6% increased maximum Mana
++22% to Damage over Time Multiplier while affected by Malevolence
+Damaging Ailments you inflict deal Damage 14% faster while affected by Malevolence
+			<ModRange range="0.5" id="1"/>
+			<ModRange range="0.5" id="2"/>
+			<ModRange range="0.5" id="3"/>
+			<ModRange range="0.5" id="4"/>
+			<ModRange range="0.5" id="5"/>
+		</Item>
+		<Item id="4">
+			Rarity: RARE
+Luminous Star
+Large Cluster Jewel
+Unique ID: 703064dfc2c04bbe0e1dba03ede125e6565e00f655d59e61a4a8fa338ff75b02
+Item Level: 83
+LevelReq: 40
+Implicits: 3
+{crafted}Adds 8 Passive Skills
+{crafted}2 Added Passive Skills are Jewel Sockets
+{crafted}Added Small Passive Skills grant: 12% increased Fire Damage
+Added Small Passive Skills also grant: Regenerate 0.1% of Life per Second
+1 Added Passive Skill is Burning Bright
+1 Added Passive Skill is Cremator
+1 Added Passive Skill is Widespread Destruction
+			<ModRange range="0.5" id="1"/>
+			<ModRange range="0.5" id="2"/>
+			<ModRange range="0.5" id="3"/>
+			<ModRange range="0.5" id="4"/>
+			<ModRange range="0.5" id="5"/>
+			<ModRange range="0.5" id="6"/>
+			<ModRange range="0.5" id="7"/>
+		</Item>
+		<Item id="5">
+			Rarity: UNIQUE
+Unnatural Instinct
+Viridian Jewel
+Unique ID: 68db7af3b1d72e37e15849a4c1cb414763b36b167109329bd5f68ef25954a839
+Item Level: 80
+Radius: Small
+Limited to: 1
+Implicits: 2
+Damage Penetrates 1% Elemental Resistances
+20% chance to Avoid Bleeding
+Allocated Small Passive Skills in Radius grant nothing
+Grants all bonuses of Unallocated Small Passive Skills in Radius
+Corrupted
+			<ModRange range="0.5" id="1"/>
+			<ModRange range="0.5" id="2"/>
+			<ModRange range="0.5" id="3"/>
+			<ModRange range="0.5" id="4"/>
+		</Item>
+		<Item id="6">
+			Rarity: RARE
+Luminous Glimmer
+Viridian Jewel
+Unique ID: 10b58f015dea9c75a93944e328a82e619c44114bc1ad442d24db7df13430c73b
+Item Level: 80
+LevelReq: 26
+Implicits: 1
+Corrupted Blood cannot be inflicted on you
++8% to Fire Damage over Time Multiplier
+7% increased Attack Speed with Bows
+20% increased Burning Damage
+Corrupted
+			<ModRange range="0.5" id="2"/>
+			<ModRange range="0.5" id="3"/>
+			<ModRange range="0.5" id="4"/>
+		</Item>
+		<Item id="7">
+			Rarity: RARE
+Phoenix Bloom
+Viridian Jewel
+Unique ID: 41c29130cf78d1a965096b2556596afc53a25bbd3eb85a7c8980ab87ad9cfb91
+Item Level: 84
+Implicits: 0
+{fractured}+7% to Fire Damage over Time Multiplier
+7% increased Attack Speed with Bows
+7% increased maximum Life
+19% increased Burning Damage
+			<ModRange range="0.5" id="1"/>
+			<ModRange range="0.5" id="2"/>
+			<ModRange range="0.5" id="3"/>
+			<ModRange range="0.5" id="4"/>
+		</Item>
+		<Item id="10">
+			Rarity: RARE
+Blight Dome
+Blizzard Crown
+Evasion: 280
+EvasionBasePercentile: 0
+Energy Shield: 60
+EnergyShieldBasePercentile: 0.0192
+Unique ID: a70a84e60629672baf9a7479d6abb349dabe2aaed9135ebbfe747189a8659105
+Warlord Item
+Redeemer Item
+Item Level: 86
+Quality: 20
+Sockets: R-R-R-B
+LevelReq: 75
+Implicits: 3
+{crafted}Explosive Arrow has 15% increased Attack Speed
+Adds 80 to 122 Cold Damage
+Your Hits treat Cold Resistance as 10% higher than actual value
+11% increased Global Accuracy Rating
++7 to Evasion Rating
+26% increased Evasion and Energy Shield
++3 to maximum Energy Shield
++19 to maximum Life
+12% chance to Ignite
+5% increased Light Radius
+Ignites you inflict deal Damage 14% faster
+Nearby Enemies have -12% to Fire Resistance
+{crafted}+70 to maximum Life
+			<ModRange range="0.5" id="1"/>
+			<ModRange range="0.5" id="2"/>
+			<ModRange range="0.5" id="3"/>
+			<ModRange range="0.5" id="4"/>
+			<ModRange range="0.5" id="5"/>
+			<ModRange range="0.5" id="6"/>
+			<ModRange range="0.5" id="7"/>
+			<ModRange range="0.5" id="8"/>
+			<ModRange range="0.5" id="9"/>
+			<ModRange range="0.5" id="10"/>
+			<ModRange range="0.5" id="11"/>
+			<ModRange range="0.5" id="12"/>
+			<ModRange range="0.5" id="13"/>
+		</Item>
+		<Item id="12">
+			Rarity: UNIQUE
+Polaric Devastation
+Opal Ring
+Unique ID: 1bd91dd33fd4f9d6b828373370c81291f99070c0b410eec2a4d4590d40386977
+Item Level: 85
+LevelReq: 80
+Implicits: 1
+25% increased Elemental Damage
+22% increased Global Critical Strike Chance
++48% to Fire Resistance
++48% to Cold Resistance
+13% increased Duration of Ailments on Enemies
+Left Ring slot: Cover Enemies in Ash for 5 seconds when you Ignite them
+Right Ring slot: Cover Enemies in Frost for 5 seconds when you Freeze them
+			<ModRange range="0.5" id="1"/>
+			<ModRange range="0.5" id="2"/>
+			<ModRange range="0.5" id="3"/>
+			<ModRange range="0.5" id="4"/>
+			<ModRange range="0.5" id="5"/>
+			<ModRange range="0.5" id="6"/>
+			<ModRange range="0.5" id="7"/>
+		</Item>
+		<Item id="13">
+			Rarity: MAGIC
+Sinner&apos;s Eternal Life Flask of Allaying
+Unique ID: 4bf99b9e03370712bb8d2151aff1bf7191f62bb1c866cc39a3ace461d86da434
+Item Level: 70
+Quality: 20
+LevelReq: 65
+Implicits: 0
+Gain 5 Charges when you are Hit by an Enemy
+Grants Immunity to Bleeding for 12 seconds if used while Bleeding
+Grants Immunity to Corrupted Blood for 12 seconds if used while affected by Corrupted Blood
+			<ModRange range="0.5" id="1"/>
+			<ModRange range="0.5" id="2"/>
+		</Item>
+		<Item id="14">
+			Rarity: RARE
+Damnation Coat
+Sharkskin Tunic
+Evasion: 1202
+EvasionBasePercentile: 0.1919
+Unique ID: b3da994c041e0fbc438ed349de39b0e91ace969ac17d33fa5e4677a26ad49a8e
+Item Level: 93
+Quality: 20
+Sockets: W-G-W-R-W-W
+LevelReq: 56
+Implicits: 2
+While a Unique Enemy is in your Presence, Malevolence has 37% increased Aura Effect
+14% increased effect of Non-Curse Auras from your Skills
++32% chance to Suppress Spell Damage
++53 to Dexterity
+89% increased Evasion Rating
++110 to maximum Life
+10% increased maximum Life
++48% to Lightning Resistance
+{crafted}8% increased maximum Life
+{crafted}6% increased maximum Mana
+			<ModRange range="0.5" id="1"/>
+			<ModRange range="0.5" id="2"/>
+			<ModRange range="0.5" id="3"/>
+			<ModRange range="0.5" id="4"/>
+			<ModRange range="0.5" id="5"/>
+			<ModRange range="0.5" id="6"/>
+			<ModRange range="0.5" id="7"/>
+			<ModRange range="0.5" id="8"/>
+			<ModRange range="0.5" id="9"/>
+			<ModRange range="0.5" id="10"/>
+		</Item>
+		<Item id="15">
+			Rarity: RARE
+Hate Skewer
+Royal Skean
+Unique ID: 037a3bc970a5bc2163415eeeb596d754180730ddead7325ec41fc1bccaf6cae7
+Item Level: 75
+Quality: 0
+Sockets: G B G
+LevelReq: 50
+Implicits: 1
+30% increased Global Critical Strike Chance
++25 to Dexterity
+Adds 2 to 28 Lightning Damage
++1 to Level of all Cold Spell Skill Gems
++2 Mana gained on Kill
+			<ModRange range="0.5" id="1"/>
+			<ModRange range="0.5" id="2"/>
+			<ModRange range="0.5" id="3"/>
+			<ModRange range="0.5" id="4"/>
+			<ModRange range="0.5" id="5"/>
+		</Item>
+		<Item id="18">
+			Rarity: RARE
+Sorrow Mangler
+Infernal Axe
+Unique ID: a148c78a1f43cf380faf54a1359ef5fb9f37179c6c56d0ff3cd74a6e62031c47
+Item Level: 74
+Quality: 0
+Sockets: R-G G
+LevelReq: 69
+Implicits: 0
+22% increased Physical Damage
+Adds 8 to 173 Lightning Damage
+11% increased Global Accuracy Rating
++5 Life gained for each Enemy hit by Attacks
++42 to Accuracy Rating
+5% increased Light Radius
+			<ModRange range="0.5" id="1"/>
+			<ModRange range="0.5" id="2"/>
+			<ModRange range="0.5" id="3"/>
+			<ModRange range="0.5" id="4"/>
+			<ModRange range="0.5" id="5"/>
+			<ModRange range="0.5" id="6"/>
+		</Item>
+		<Item id="19">
+			Rarity: RARE
+Dusk Tread
+Shagreen Boots
+Evasion: 216
+EvasionBasePercentile: 1
+Unique ID: c680909ef081b1a3c78c08899ab1a2056af7ae4fa904d4c80f7d61e0e81e3f6e
+Item Level: 85
+Quality: 0
+Sockets: B-B-R-G
+LevelReq: 55
+Implicits: 3
+{crafted}Adds 1 to 160 Lightning Damage if you haven&apos;t Killed Recently
+While a Unique Enemy is in your Presence, Ignites you inflict deal Damage 10% faster
+While a Unique Enemy is in your Presence, 10% increased Movement Speed
++10% chance to Suppress Spell Damage
++55 to Dexterity
++46% to Lightning Resistance
+30% increased Movement Speed
+11% increased Movement Speed if you haven&apos;t been Hit Recently
+{crafted}+70 to maximum Life
+			<ModRange range="0.5" id="1"/>
+			<ModRange range="0.5" id="3"/>
+			<ModRange range="0.5" id="4"/>
+			<ModRange range="0.5" id="5"/>
+			<ModRange range="0.5" id="6"/>
+			<ModRange range="0.5" id="7"/>
+			<ModRange range="0.5" id="8"/>
+			<ModRange range="0.5" id="9"/>
+		</Item>
+		<Item id="24">
+			Rarity: RARE
+Brood Charm
+Marble Amulet
+Unique ID: 163ba7548bd3980b98a9f5e0cc67f3aa6e3cf90aef8eadbac26d296f0b6d110b
+Item Level: 82
+LevelReq: 74
+Implicits: 2
+{crafted}Allocates Watchtowers
+Regenerate 1.58% of Life per second
++54 to Strength
++23% to Damage over Time Multiplier
+0.61% of Physical Attack Damage Leeched as Mana
++1 to Level of all Skill Gems
++1 to Level of all Fire Skill Gems
+{crafted}+16% to Fire and Lightning Resistances
+			<ModRange range="0.5" id="1"/>
+			<ModRange range="0.5" id="2"/>
+			<ModRange range="0.5" id="3"/>
+			<ModRange range="0.5" id="4"/>
+			<ModRange range="0.5" id="5"/>
+			<ModRange range="0.5" id="6"/>
+			<ModRange range="0.5" id="7"/>
+			<ModRange range="0.5" id="8"/>
+		</Item>
+		<Item id="28">
+			Rarity: RARE
+Loath Claw
+Slink Gloves
+Evasion: 435
+EvasionBasePercentile: 0.783
+Unique ID: 38cb6d30fd7908990511515acf6d8c2045d1ade3935852c31dd7b9cdf1dfad18
+Item Level: 86
+Quality: 20
+Sockets: W-B R-G
+LevelReq: 70
+Implicits: 2
+14% increased Global Accuracy Rating
+While a Unique Enemy is in your Presence, +21% to Fire Damage over Time Multiplier
++19% chance to Suppress Spell Damage
+Adds 6 to 9 Physical Damage to Attacks
+16% increased Attack Speed
++570 to Accuracy Rating
+41% increased Evasion Rating
+16% increased Stun and Block Recovery
+{crafted}+70 to maximum Life
+			<ModRange range="0.5" id="1"/>
+			<ModRange range="0.5" id="2"/>
+			<ModRange range="0.5" id="3"/>
+			<ModRange range="0.5" id="4"/>
+			<ModRange range="0.5" id="5"/>
+			<ModRange range="0.5" id="6"/>
+			<ModRange range="0.5" id="7"/>
+			<ModRange range="0.5" id="8"/>
+			<ModRange range="0.5" id="9"/>
+		</Item>
+		<Item id="32">
+			Rarity: RARE
+Horror Gyre
+Two-Stone Ring
+Unique ID: 36207e6daef6a79d4761f37c91e4a50991508ee959ab62bf406ce7b72108b55b
+Warlord Item
+Item Level: 85
+LevelReq: 64
+Implicits: 2
+{crafted}Your Empowering Towers have 25% increased Range
++19% to Fire and Cold Resistances
+Adds 5 to 11 Cold Damage to Attacks
++456 to Accuracy Rating
++43 to maximum Life
++30% to Chaos Resistance
+Curse Enemies with Flammability on Hit, with 32% increased Effect
+{crafted}23% increased Elemental Damage with Attack Skills
+			<ModRange range="0.5" id="2"/>
+			<ModRange range="0.5" id="3"/>
+			<ModRange range="0.5" id="4"/>
+			<ModRange range="0.5" id="5"/>
+			<ModRange range="0.5" id="6"/>
+			<ModRange range="0.5" id="7"/>
+			<ModRange range="0.5" id="8"/>
+		</Item>
+		<Item id="33">
+			Rarity: MAGIC
+Alchemist&apos;s Amethyst Flask of the Deer
+Unique ID: e063feb2171299b14b122015b56a3412bb116725e9cddc949910e76117fb691b
+Item Level: 85
+Quality: 20
+LevelReq: 64
+Implicits: 2
+{crafted}69% increased effect
+{crafted}Gains no Charges during Flask Effect
+23% reduced Duration
+46% less Duration
+25% increased effect
+Immunity to Freeze and Chill during Flask Effect
+			<ModRange range="0.5" id="2"/>
+			<ModRange range="0.5" id="4"/>
+			<ModRange range="0.5" id="5"/>
+			<ModRange range="0.5" id="6"/>
+			<ModRange range="0.5" id="7"/>
+		</Item>
+		<Item id="34">
+			Rarity: RARE
+Damnation Spear
+Broadhead Arrow Quiver
+Unique ID: 292ed39150e2286434159945585a34323dcd2200c4caf7aef02c2baa60184506
+Hunter Item
+Item Level: 86
+LevelReq: 65
+Implicits: 1
+10% increased Attack Speed
++26% to Damage over Time Multiplier with Attack Skills
++25% to Fire Damage over Time Multiplier with Attack Skills
++79 to maximum Life
+5% increased Movement Speed
+33% increased Damage with Bow Skills
+{crafted}12% increased Attack Speed
+			<ModRange range="0.5" id="1"/>
+			<ModRange range="0.5" id="2"/>
+			<ModRange range="0.5" id="3"/>
+			<ModRange range="0.5" id="4"/>
+			<ModRange range="0.5" id="5"/>
+			<ModRange range="0.5" id="6"/>
+			<ModRange range="0.5" id="7"/>
+		</Item>
+		<Item id="35">
+			Rarity: UNIQUE
+Mageblood
+Heavy Belt
+Unique ID: 4eda5f7e311151681e1397eedbb6e82700ee3654228c45b8296df9546646c2b9
+Item Level: 80
+LevelReq: 66
+Implicits: 2
+{crafted}30% increased Accuracy Rating while you have Onslaught
++35 to Strength
++42 to Dexterity
++26% to Fire Resistance
++27% to Cold Resistance
+Magic Utility Flasks cannot be Used
+Leftmost 4 Magic Utility Flasks constantly apply their Flask Effects to you
+Magic Utility Flask Effects cannot be removed
+			<ModRange range="0.5" id="1"/>
+			<ModRange range="0.5" id="2"/>
+			<ModRange range="0.5" id="3"/>
+			<ModRange range="0.5" id="4"/>
+			<ModRange range="0.5" id="5"/>
+			<ModRange range="0.5" id="7"/>
+		</Item>
+		<Item id="37">
+			Rarity: MAGIC
+Dabbler&apos;s Quicksilver Flask of the Cheetah
+Unique ID: 2c9157ddea19ec0397644981ee61512b8aaf27de4e11ef9451fc9b29f11a8323
+Item Level: 85
+Quality: 26
+LevelReq: 68
+Implicits: 2
+{crafted}69% increased effect
+{crafted}Gains no Charges during Flask Effect
+28% reduced Duration
+25% increased effect
+14% increased Movement Speed during Flask effect
+			<ModRange range="0.5" id="2"/>
+			<ModRange range="0.5" id="4"/>
+			<ModRange range="0.5" id="5"/>
+			<ModRange range="0.5" id="6"/>
+		</Item>
+		<Item id="38">
+			Rarity: MAGIC
+Dabbler&apos;s Sulphur Flask of the Dove
+Unique ID: 47e96c9cf81bdf94c55b9307b7ce8920144fa7b5f7ba56c0ec457b5f14c6fe78
+Item Level: 85
+Quality: 0
+LevelReq: 65
+Implicits: 3
+{crafted}69% increased effect
+{crafted}Gains no Charges during Flask Effect
+Creates Consecrated Ground on Use
+31% reduced Duration
+25% increased effect
+17% increased Attack Speed during Flask effect
+			<ModRange range="0.5" id="2"/>
+			<ModRange range="0.5" id="4"/>
+			<ModRange range="0.5" id="5"/>
+			<ModRange range="0.5" id="6"/>
+			<ModRange range="0.5" id="7"/>
+		</Item>
+		<Item variant="121" variantAlt="8" id="39" variantAlt2="264">
+			Rarity: UNIQUE
+Megalomaniac
+Medium Cluster Jewel
+League: Delirium
+Variant: Adrenaline
+Variant: Advance Guard
+Variant: Aerialist
+Variant: Aerodynamics
+Variant: Agent of Destruction
+Variant: Aggressive Defence
+Variant: Alchemist
+Variant: Ancestral Echo
+Variant: Ancestral Guidance
+Variant: Ancestral Inspiration
+Variant: Ancestral Might
+Variant: Ancestral Preservation
+Variant: Ancestral Reach
+Variant: Antifreeze
+Variant: Antivenom
+Variant: Arcane Adept
+Variant: Arcane Heroism
+Variant: Arcane Pyrotechnics
+Variant: Arcing Shot
+Variant: Assert Dominance
+Variant: Astonishing Affliction
+Variant: Basics of Pain
+Variant: Battle-Hardened
+Variant: Battlefield Dominator
+Variant: Blacksmith
+Variant: Blanketed Snow
+Variant: Blast-Freeze
+Variant: Blessed
+Variant: Blessed Rebirth
+Variant: Blizzard Caller
+Variant: Blood Artist
+Variant: Bloodscent
+Variant: Blowback
+Variant: Bodyguards
+Variant: Born of Chaos
+Variant: Brand Loyalty
+Variant: Brewed for Potency
+Variant: Broadside
+Variant: Brush with Death
+Variant: Brutal Infamy
+Variant: Burden Projection
+Variant: Burning Bright
+Variant: Calamitous
+Variant: Call to the Slaughter
+Variant: Capacitor
+Variant: Careful Handling
+Variant: Chilling Presence
+Variant: Chip Away
+Variant: Circling Oblivion
+Variant: Clarity of Purpose
+Variant: Cold Conduction
+Variant: Cold to the Core
+Variant: Cold-Blooded Killer
+Variant: Combat Rhythm
+Variant: Compound Injury
+Variant: Confident Combatant
+Variant: Conjured Wall
+Variant: Conservation of Energy
+Variant: Cooked Alive
+Variant: Corrosive Elements
+Variant: Cremator
+Variant: Cry Wolf
+Variant: Cult-Leader
+Variant: Daring Ideas
+Variant: Dark Ideation
+Variant: Dark Messenger
+Variant: Darting Movements
+Variant: Deadly Repartee
+Variant: Deep Chill
+Variant: Deep Cuts
+Variant: Destructive Aspect
+Variant: Devastator
+Variant: Disciples
+Variant: Disease Vector
+Variant: Disorienting Display
+Variant: Disorienting Wounds
+Variant: Distilled Perfection
+Variant: Doedre&apos;s Apathy
+Variant: Doedre&apos;s Gluttony
+Variant: Doedre&apos;s Spite
+Variant: Doryani&apos;s Lesson
+Variant: Dragon Hunter
+Variant: Dread March
+Variant: Drive the Destruction
+Variant: Eldritch Inspiration
+Variant: Electric Presence
+Variant: Elegant Form
+Variant: Empowered Envoy
+Variant: Endbringer
+Variant: Enduring Composure
+Variant: Enduring Focus
+Variant: Enduring Ward
+Variant: Energy From Naught
+Variant: Essence Rush
+Variant: Eternal Suffering
+Variant: Evil Eye
+Variant: Expansive Might
+Variant: Expendability
+Variant: Expert Sabotage
+Variant: Exploit Weakness
+Variant: Explosive Force
+Variant: Exposure Therapy
+Variant: Eye of the Storm
+Variant: Eye to Eye
+Variant: Fan of Blades
+Variant: Fan the Flames
+Variant: Fasting
+Variant: Fearsome Warrior
+Variant: Feast of Flesh
+Variant: Feasting Fiends
+Variant: Feed the Fury
+Variant: Fettle
+Variant: Fire Attunement
+Variant: Flexible Sentry
+Variant: Flow of Life
+Variant: Follow-Through
+Variant: Forbidden Words
+Variant: Force Multiplier
+Variant: Frantic Aspect
+Variant: Fuel the Fight
+Variant: Furious Assault
+Variant: Genius
+Variant: Gladiator&apos;s Fortitude
+Variant: Gladiatorial Combat
+Variant: Graceful Execution
+Variant: Grand Design
+Variant: Grim Oath
+Variant: Guerilla Tactics
+Variant: Haemorrhage
+Variant: Haunting Shout
+Variant: Heart of Iron
+Variant: Heavy Hitter
+Variant: Heraldry
+Variant: Hex Breaker
+Variant: Hibernator
+Variant: Hit and Run
+Variant: Holistic Health
+Variant: Holy Conquest
+Variant: Hound&apos;s Mark
+Variant: Hulking Corpses
+Variant: Improvisor
+Variant: Inevitable Doom
+Variant: Insatiable Killer
+Variant: Inspired Oppression
+Variant: Insulated
+Variant: Intensity
+Variant: Introspection
+Variant: Invigorating Portents
+Variant: Iron Breaker
+Variant: Lasting Impression
+Variant: Lead By Example
+Variant: Life from Death
+Variant: Liquid Inspiration
+Variant: Lord of Drought
+Variant: Low Tolerance
+Variant: Mage Bane
+Variant: Mage Hunter
+Variant: Magnifier
+Variant: Martial Mastery
+Variant: Martial Momentum
+Variant: Martial Prowess
+Variant: Master of Command
+Variant: Master of Fear
+Variant: Master of Fire
+Variant: Master of the Maelstrom
+Variant: Master the Fundamentals
+Variant: Mender&apos;s Wellspring
+Variant: Militarism
+Variant: Mindfulness
+Variant: Misery Everlasting
+Variant: Mob Mentality
+Variant: Molten One&apos;s Mark
+Variant: Mortifying Aspect
+Variant: Mystical Ward
+Variant: Natural Vigour
+Variant: No Witnesses
+Variant: Non-Flammable
+Variant: Numbing Elixir
+Variant: One with the Shield
+Variant: Openness
+Variant: Opportunistic Fusilade
+Variant: Overlord
+Variant: Overshock
+Variant: Overwhelming Malice
+Variant: Paralysis
+Variant: Peace Amidst Chaos
+Variant: Peak Vigour
+Variant: Phlebotomist
+Variant: Powerful Assault
+Variant: Powerful Ward
+Variant: Practiced Caster
+Variant: Precise Focus
+Variant: Precise Retaliation
+Variant: Pressure Points
+Variant: Primordial Bond
+Variant: Prismatic Carapace
+Variant: Prismatic Dance
+Variant: Prismatic Heart
+Variant: Prodigious Defence
+Variant: Provocateur
+Variant: Pure Agony
+Variant: Pure Aptitude
+Variant: Pure Guile
+Variant: Pure Might
+Variant: Purposeful Harbinger
+Variant: Quick Getaway
+Variant: Quick and Deadly
+Variant: Rapid Infusion
+Variant: Rattling Bellow
+Variant: Raze and Pillage
+Variant: Readiness
+Variant: Remarkable
+Variant: Rend
+Variant: Renewal
+Variant: Repeater
+Variant: Replenishing Presence
+Variant: Righteous Path
+Variant: Riot Queller
+Variant: Rot-Resistant
+Variant: Rote Reinforcement
+Variant: Rotten Claws
+Variant: Run Through
+Variant: Sadist
+Variant: Sage
+Variant: Sap Psyche
+Variant: Savage Response
+Variant: Savour the Moment
+Variant: Scintillating Idea
+Variant: Seal Mender
+Variant: Second Skin
+Variant: Seeker Runes
+Variant: Self-Control
+Variant: Self-Fulfilling Prophecy
+Variant: Septic Spells
+Variant: Set and Forget
+Variant: Shifting Shadow
+Variant: Shrieking Bolts
+Variant: Skeletal Atrophy
+Variant: Skullbreaker
+Variant: Sleepless Sentries
+Variant: Smite the Weak
+Variant: Smoking Remains
+Variant: Snaring Spirits
+Variant: Snowstorm
+Variant: Special Reserve
+Variant: Spiked Concoction
+Variant: Spiteful Presence
+Variant: Spring Back
+Variant: Steady Torment
+Variant: Stoic Focus
+Variant: Storm Drinker
+Variant: Storm&apos;s Hand
+Variant: Stormrider
+Variant: Streamlined
+Variant: Strike Leader
+Variant: Stubborn Student
+Variant: Student of Decay
+Variant: Sublime Form
+Variant: Sublime Sensation
+Variant: Supercharge
+Variant: Surefooted Striker
+Variant: Surging Vitality
+Variant: Surprise Sabotage
+Variant: Tempered Arrowheads
+Variant: Tempt the Storm
+Variant: Thaumophage
+Variant: Thunderstruck
+Variant: Titanic Swings
+Variant: Touch of Cruelty
+Variant: Towering Threat
+Variant: Uncompromising
+Variant: Unholy Grace
+Variant: Unspeakable Gifts
+Variant: Untouchable
+Variant: Unwavering Focus
+Variant: Unwaveringly Evil
+Variant: Vast Power
+Variant: Veteran Defender
+Variant: Vicious Bite
+Variant: Vicious Guard
+Variant: Vicious Skewering
+Variant: Victim Maker
+Variant: Vile Reinvigoration
+Variant: Vital Focus
+Variant: Vivid Hues
+Variant: Volatile Presence
+Variant: Wall of Muscle
+Variant: Warning Call
+Variant: Wasting Affliction
+Variant: Weight Advantage
+Variant: Wicked Pall
+Variant: Widespread Destruction
+Variant: Will Shaper
+Variant: Wind-up
+Variant: Winter Prowler
+Variant: Wish for Death
+Variant: Wizardry
+Variant: Wound Aggravation
+Variant: Wrapped in Flame
+Selected Variant: 121
+Has Alt Variant: true
+Selected Alt Variant: 8
+Has Alt Variant Two: true
+Selected Alt Variant Two: 264
+Implicits: 0
+Adds 4 Passive Skills
+Added Small Passive Skills grant Nothing
+{variant:1}1 Added Passive Skill is Adrenaline
+{variant:2}1 Added Passive Skill is Advance Guard
+{variant:3}1 Added Passive Skill is Aerialist
+{variant:4}1 Added Passive Skill is Aerodynamics
+{variant:5}1 Added Passive Skill is Agent of Destruction
+{variant:6}1 Added Passive Skill is Aggressive Defence
+{variant:7}1 Added Passive Skill is Alchemist
+{variant:8}1 Added Passive Skill is Ancestral Echo
+{variant:9}1 Added Passive Skill is Ancestral Guidance
+{variant:10}1 Added Passive Skill is Ancestral Inspiration
+{variant:11}1 Added Passive Skill is Ancestral Might
+{variant:12}1 Added Passive Skill is Ancestral Preservation
+{variant:13}1 Added Passive Skill is Ancestral Reach
+{variant:14}1 Added Passive Skill is Antifreeze
+{variant:15}1 Added Passive Skill is Antivenom
+{variant:16}1 Added Passive Skill is Arcane Adept
+{variant:17}1 Added Passive Skill is Arcane Heroism
+{variant:18}1 Added Passive Skill is Arcane Pyrotechnics
+{variant:19}1 Added Passive Skill is Arcing Shot
+{variant:20}1 Added Passive Skill is Assert Dominance
+{variant:21}1 Added Passive Skill is Astonishing Affliction
+{variant:22}1 Added Passive Skill is Basics of Pain
+{variant:23}1 Added Passive Skill is Battle-Hardened
+{variant:24}1 Added Passive Skill is Battlefield Dominator
+{variant:25}1 Added Passive Skill is Blacksmith
+{variant:26}1 Added Passive Skill is Blanketed Snow
+{variant:27}1 Added Passive Skill is Blast-Freeze
+{variant:28}1 Added Passive Skill is Blessed
+{variant:29}1 Added Passive Skill is Blessed Rebirth
+{variant:30}1 Added Passive Skill is Blizzard Caller
+{variant:31}1 Added Passive Skill is Blood Artist
+{variant:32}1 Added Passive Skill is Bloodscent
+{variant:33}1 Added Passive Skill is Blowback
+{variant:34}1 Added Passive Skill is Bodyguards
+{variant:35}1 Added Passive Skill is Born of Chaos
+{variant:36}1 Added Passive Skill is Brand Loyalty
+{variant:37}1 Added Passive Skill is Brewed for Potency
+{variant:38}1 Added Passive Skill is Broadside
+{variant:39}1 Added Passive Skill is Brush with Death
+{variant:40}1 Added Passive Skill is Brutal Infamy
+{variant:41}1 Added Passive Skill is Burden Projection
+{variant:42}1 Added Passive Skill is Burning Bright
+{variant:43}1 Added Passive Skill is Calamitous
+{variant:44}1 Added Passive Skill is Call to the Slaughter
+{variant:45}1 Added Passive Skill is Capacitor
+{variant:46}1 Added Passive Skill is Careful Handling
+{variant:47}1 Added Passive Skill is Chilling Presence
+{variant:48}1 Added Passive Skill is Chip Away
+{variant:49}1 Added Passive Skill is Circling Oblivion
+{variant:50}1 Added Passive Skill is Clarity of Purpose
+{variant:51}1 Added Passive Skill is Cold Conduction
+{variant:52}1 Added Passive Skill is Cold to the Core
+{variant:53}1 Added Passive Skill is Cold-Blooded Killer
+{variant:54}1 Added Passive Skill is Combat Rhythm
+{variant:55}1 Added Passive Skill is Compound Injury
+{variant:56}1 Added Passive Skill is Confident Combatant
+{variant:57}1 Added Passive Skill is Conjured Wall
+{variant:58}1 Added Passive Skill is Conservation of Energy
+{variant:59}1 Added Passive Skill is Cooked Alive
+{variant:60}1 Added Passive Skill is Corrosive Elements
+{variant:61}1 Added Passive Skill is Cremator
+{variant:62}1 Added Passive Skill is Cry Wolf
+{variant:63}1 Added Passive Skill is Cult-Leader
+{variant:64}1 Added Passive Skill is Daring Ideas
+{variant:65}1 Added Passive Skill is Dark Ideation
+{variant:66}1 Added Passive Skill is Dark Messenger
+{variant:67}1 Added Passive Skill is Darting Movements
+{variant:68}1 Added Passive Skill is Deadly Repartee
+{variant:69}1 Added Passive Skill is Deep Chill
+{variant:70}1 Added Passive Skill is Deep Cuts
+{variant:71}1 Added Passive Skill is Destructive Aspect
+{variant:72}1 Added Passive Skill is Devastator
+{variant:73}1 Added Passive Skill is Disciples
+{variant:74}1 Added Passive Skill is Disease Vector
+{variant:75}1 Added Passive Skill is Disorienting Display
+{variant:76}1 Added Passive Skill is Disorienting Wounds
+{variant:77}1 Added Passive Skill is Distilled Perfection
+{variant:78}1 Added Passive Skill is Doedre&apos;s Apathy
+{variant:79}1 Added Passive Skill is Doedre&apos;s Gluttony
+{variant:80}1 Added Passive Skill is Doedre&apos;s Spite
+{variant:81}1 Added Passive Skill is Doryani&apos;s Lesson
+{variant:82}1 Added Passive Skill is Dragon Hunter
+{variant:83}1 Added Passive Skill is Dread March
+{variant:84}1 Added Passive Skill is Drive the Destruction
+{variant:85}1 Added Passive Skill is Eldritch Inspiration
+{variant:86}1 Added Passive Skill is Electric Presence
+{variant:87}1 Added Passive Skill is Elegant Form
+{variant:88}1 Added Passive Skill is Empowered Envoy
+{variant:89}1 Added Passive Skill is Endbringer
+{variant:90}1 Added Passive Skill is Enduring Composure
+{variant:91}1 Added Passive Skill is Enduring Focus
+{variant:92}1 Added Passive Skill is Enduring Ward
+{variant:93}1 Added Passive Skill is Energy From Naught
+{variant:94}1 Added Passive Skill is Essence Rush
+{variant:95}1 Added Passive Skill is Eternal Suffering
+{variant:96}1 Added Passive Skill is Evil Eye
+{variant:97}1 Added Passive Skill is Expansive Might
+{variant:98}1 Added Passive Skill is Expendability
+{variant:99}1 Added Passive Skill is Expert Sabotage
+{variant:100}1 Added Passive Skill is Exploit Weakness
+{variant:101}1 Added Passive Skill is Explosive Force
+{variant:102}1 Added Passive Skill is Exposure Therapy
+{variant:103}1 Added Passive Skill is Eye of the Storm
+{variant:104}1 Added Passive Skill is Eye to Eye
+{variant:105}1 Added Passive Skill is Fan of Blades
+{variant:106}1 Added Passive Skill is Fan the Flames
+{variant:107}1 Added Passive Skill is Fasting
+{variant:108}1 Added Passive Skill is Fearsome Warrior
+{variant:109}1 Added Passive Skill is Feast of Flesh
+{variant:110}1 Added Passive Skill is Feasting Fiends
+{variant:111}1 Added Passive Skill is Feed the Fury
+{variant:112}1 Added Passive Skill is Fettle
+{variant:113}1 Added Passive Skill is Fire Attunement
+{variant:114}1 Added Passive Skill is Flexible Sentry
+{variant:115}1 Added Passive Skill is Flow of Life
+{variant:116}1 Added Passive Skill is Follow-Through
+{variant:117}1 Added Passive Skill is Forbidden Words
+{variant:118}1 Added Passive Skill is Force Multiplier
+{variant:119}1 Added Passive Skill is Frantic Aspect
+{variant:120}1 Added Passive Skill is Fuel the Fight
+{variant:121}1 Added Passive Skill is Furious Assault
+{variant:122}1 Added Passive Skill is Genius
+{variant:123}1 Added Passive Skill is Gladiator&apos;s Fortitude
+{variant:124}1 Added Passive Skill is Gladiatorial Combat
+{variant:125}1 Added Passive Skill is Graceful Execution
+{variant:126}1 Added Passive Skill is Grand Design
+{variant:127}1 Added Passive Skill is Grim Oath
+{variant:128}1 Added Passive Skill is Guerilla Tactics
+{variant:129}1 Added Passive Skill is Haemorrhage
+{variant:130}1 Added Passive Skill is Haunting Shout
+{variant:131}1 Added Passive Skill is Heart of Iron
+{variant:132}1 Added Passive Skill is Heavy Hitter
+{variant:133}1 Added Passive Skill is Heraldry
+{variant:134}1 Added Passive Skill is Hex Breaker
+{variant:135}1 Added Passive Skill is Hibernator
+{variant:136}1 Added Passive Skill is Hit and Run
+{variant:137}1 Added Passive Skill is Holistic Health
+{variant:138}1 Added Passive Skill is Holy Conquest
+{variant:139}1 Added Passive Skill is Hound&apos;s Mark
+{variant:140}1 Added Passive Skill is Hulking Corpses
+{variant:141}1 Added Passive Skill is Improvisor
+{variant:142}1 Added Passive Skill is Inevitable Doom
+{variant:143}1 Added Passive Skill is Insatiable Killer
+{variant:144}1 Added Passive Skill is Inspired Oppression
+{variant:145}1 Added Passive Skill is Insulated
+{variant:146}1 Added Passive Skill is Intensity
+{variant:147}1 Added Passive Skill is Introspection
+{variant:148}1 Added Passive Skill is Invigorating Portents
+{variant:149}1 Added Passive Skill is Iron Breaker
+{variant:150}1 Added Passive Skill is Lasting Impression
+{variant:151}1 Added Passive Skill is Lead By Example
+{variant:152}1 Added Passive Skill is Life from Death
+{variant:153}1 Added Passive Skill is Liquid Inspiration
+{variant:154}1 Added Passive Skill is Lord of Drought
+{variant:155}1 Added Passive Skill is Low Tolerance
+{variant:156}1 Added Passive Skill is Mage Bane
+{variant:157}1 Added Passive Skill is Mage Hunter
+{variant:158}1 Added Passive Skill is Magnifier
+{variant:159}1 Added Passive Skill is Martial Mastery
+{variant:160}1 Added Passive Skill is Martial Momentum
+{variant:161}1 Added Passive Skill is Martial Prowess
+{variant:162}1 Added Passive Skill is Master of Command
+{variant:163}1 Added Passive Skill is Master of Fear
+{variant:164}1 Added Passive Skill is Master of Fire
+{variant:165}1 Added Passive Skill is Master of the Maelstrom
+{variant:166}1 Added Passive Skill is Master the Fundamentals
+{variant:167}1 Added Passive Skill is Mender&apos;s Wellspring
+{variant:168}1 Added Passive Skill is Militarism
+{variant:169}1 Added Passive Skill is Mindfulness
+{variant:170}1 Added Passive Skill is Misery Everlasting
+{variant:171}1 Added Passive Skill is Mob Mentality
+{variant:172}1 Added Passive Skill is Molten One&apos;s Mark
+{variant:173}1 Added Passive Skill is Mortifying Aspect
+{variant:174}1 Added Passive Skill is Mystical Ward
+{variant:175}1 Added Passive Skill is Natural Vigour
+{variant:176}1 Added Passive Skill is No Witnesses
+{variant:177}1 Added Passive Skill is Non-Flammable
+{variant:178}1 Added Passive Skill is Numbing Elixir
+{variant:179}1 Added Passive Skill is One with the Shield
+{variant:180}1 Added Passive Skill is Openness
+{variant:181}1 Added Passive Skill is Opportunistic Fusilade
+{variant:182}1 Added Passive Skill is Overlord
+{variant:183}1 Added Passive Skill is Overshock
+{variant:184}1 Added Passive Skill is Overwhelming Malice
+{variant:185}1 Added Passive Skill is Paralysis
+{variant:186}1 Added Passive Skill is Peace Amidst Chaos
+{variant:187}1 Added Passive Skill is Peak Vigour
+{variant:188}1 Added Passive Skill is Phlebotomist
+{variant:189}1 Added Passive Skill is Powerful Assault
+{variant:190}1 Added Passive Skill is Powerful Ward
+{variant:191}1 Added Passive Skill is Practiced Caster
+{variant:192}1 Added Passive Skill is Precise Focus
+{variant:193}1 Added Passive Skill is Precise Retaliation
+{variant:194}1 Added Passive Skill is Pressure Points
+{variant:195}1 Added Passive Skill is Primordial Bond
+{variant:196}1 Added Passive Skill is Prismatic Carapace
+{variant:197}1 Added Passive Skill is Prismatic Dance
+{variant:198}1 Added Passive Skill is Prismatic Heart
+{variant:199}1 Added Passive Skill is Prodigious Defence
+{variant:200}1 Added Passive Skill is Provocateur
+{variant:201}1 Added Passive Skill is Pure Agony
+{variant:202}1 Added Passive Skill is Pure Aptitude
+{variant:203}1 Added Passive Skill is Pure Guile
+{variant:204}1 Added Passive Skill is Pure Might
+{variant:205}1 Added Passive Skill is Purposeful Harbinger
+{variant:206}1 Added Passive Skill is Quick Getaway
+{variant:207}1 Added Passive Skill is Quick and Deadly
+{variant:208}1 Added Passive Skill is Rapid Infusion
+{variant:209}1 Added Passive Skill is Rattling Bellow
+{variant:210}1 Added Passive Skill is Raze and Pillage
+{variant:211}1 Added Passive Skill is Readiness
+{variant:212}1 Added Passive Skill is Remarkable
+{variant:213}1 Added Passive Skill is Rend
+{variant:214}1 Added Passive Skill is Renewal
+{variant:215}1 Added Passive Skill is Repeater
+{variant:216}1 Added Passive Skill is Replenishing Presence
+{variant:217}1 Added Passive Skill is Righteous Path
+{variant:218}1 Added Passive Skill is Riot Queller
+{variant:219}1 Added Passive Skill is Rot-Resistant
+{variant:220}1 Added Passive Skill is Rote Reinforcement
+{variant:221}1 Added Passive Skill is Rotten Claws
+{variant:222}1 Added Passive Skill is Run Through
+{variant:223}1 Added Passive Skill is Sadist
+{variant:224}1 Added Passive Skill is Sage
+{variant:225}1 Added Passive Skill is Sap Psyche
+{variant:226}1 Added Passive Skill is Savage Response
+{variant:227}1 Added Passive Skill is Savour the Moment
+{variant:228}1 Added Passive Skill is Scintillating Idea
+{variant:229}1 Added Passive Skill is Seal Mender
+{variant:230}1 Added Passive Skill is Second Skin
+{variant:231}1 Added Passive Skill is Seeker Runes
+{variant:232}1 Added Passive Skill is Self-Control
+{variant:233}1 Added Passive Skill is Self-Fulfilling Prophecy
+{variant:234}1 Added Passive Skill is Septic Spells
+{variant:235}1 Added Passive Skill is Set and Forget
+{variant:236}1 Added Passive Skill is Shifting Shadow
+{variant:237}1 Added Passive Skill is Shrieking Bolts
+{variant:238}1 Added Passive Skill is Skeletal Atrophy
+{variant:239}1 Added Passive Skill is Skullbreaker
+{variant:240}1 Added Passive Skill is Sleepless Sentries
+{variant:241}1 Added Passive Skill is Smite the Weak
+{variant:242}1 Added Passive Skill is Smoking Remains
+{variant:243}1 Added Passive Skill is Snaring Spirits
+{variant:244}1 Added Passive Skill is Snowstorm
+{variant:245}1 Added Passive Skill is Special Reserve
+{variant:246}1 Added Passive Skill is Spiked Concoction
+{variant:247}1 Added Passive Skill is Spiteful Presence
+{variant:248}1 Added Passive Skill is Spring Back
+{variant:249}1 Added Passive Skill is Steady Torment
+{variant:250}1 Added Passive Skill is Stoic Focus
+{variant:251}1 Added Passive Skill is Storm Drinker
+{variant:252}1 Added Passive Skill is Storm&apos;s Hand
+{variant:253}1 Added Passive Skill is Stormrider
+{variant:254}1 Added Passive Skill is Streamlined
+{variant:255}1 Added Passive Skill is Strike Leader
+{variant:256}1 Added Passive Skill is Stubborn Student
+{variant:257}1 Added Passive Skill is Student of Decay
+{variant:258}1 Added Passive Skill is Sublime Form
+{variant:259}1 Added Passive Skill is Sublime Sensation
+{variant:260}1 Added Passive Skill is Supercharge
+{variant:261}1 Added Passive Skill is Surefooted Striker
+{variant:262}1 Added Passive Skill is Surging Vitality
+{variant:263}1 Added Passive Skill is Surprise Sabotage
+{variant:264}1 Added Passive Skill is Tempered Arrowheads
+{variant:265}1 Added Passive Skill is Tempt the Storm
+{variant:266}1 Added Passive Skill is Thaumophage
+{variant:267}1 Added Passive Skill is Thunderstruck
+{variant:268}1 Added Passive Skill is Titanic Swings
+{variant:269}1 Added Passive Skill is Touch of Cruelty
+{variant:270}1 Added Passive Skill is Towering Threat
+{variant:271}1 Added Passive Skill is Uncompromising
+{variant:272}1 Added Passive Skill is Unholy Grace
+{variant:273}1 Added Passive Skill is Unspeakable Gifts
+{variant:274}1 Added Passive Skill is Untouchable
+{variant:275}1 Added Passive Skill is Unwavering Focus
+{variant:276}1 Added Passive Skill is Unwaveringly Evil
+{variant:277}1 Added Passive Skill is Vast Power
+{variant:278}1 Added Passive Skill is Veteran Defender
+{variant:279}1 Added Passive Skill is Vicious Bite
+{variant:280}1 Added Passive Skill is Vicious Guard
+{variant:281}1 Added Passive Skill is Vicious Skewering
+{variant:282}1 Added Passive Skill is Victim Maker
+{variant:283}1 Added Passive Skill is Vile Reinvigoration
+{variant:284}1 Added Passive Skill is Vital Focus
+{variant:285}1 Added Passive Skill is Vivid Hues
+{variant:286}1 Added Passive Skill is Volatile Presence
+{variant:287}1 Added Passive Skill is Wall of Muscle
+{variant:288}1 Added Passive Skill is Warning Call
+{variant:289}1 Added Passive Skill is Wasting Affliction
+{variant:290}1 Added Passive Skill is Weight Advantage
+{variant:291}1 Added Passive Skill is Wicked Pall
+{variant:292}1 Added Passive Skill is Widespread Destruction
+{variant:293}1 Added Passive Skill is Will Shaper
+{variant:294}1 Added Passive Skill is Wind-up
+{variant:295}1 Added Passive Skill is Winter Prowler
+{variant:296}1 Added Passive Skill is Wish for Death
+{variant:297}1 Added Passive Skill is Wizardry
+{variant:298}1 Added Passive Skill is Wound Aggravation
+{variant:299}1 Added Passive Skill is Wrapped in Flame
+			<ModRange range="0.5" id="1"/>
+			<ModRange range="0.5" id="2"/>
+			<ModRange range="0.5" id="3"/>
+			<ModRange range="0.5" id="4"/>
+			<ModRange range="0.5" id="5"/>
+			<ModRange range="0.5" id="6"/>
+			<ModRange range="0.5" id="7"/>
+			<ModRange range="0.5" id="8"/>
+			<ModRange range="0.5" id="9"/>
+			<ModRange range="0.5" id="10"/>
+			<ModRange range="0.5" id="11"/>
+			<ModRange range="0.5" id="12"/>
+			<ModRange range="0.5" id="13"/>
+			<ModRange range="0.5" id="14"/>
+			<ModRange range="0.5" id="15"/>
+			<ModRange range="0.5" id="16"/>
+			<ModRange range="0.5" id="17"/>
+			<ModRange range="0.5" id="18"/>
+			<ModRange range="0.5" id="19"/>
+			<ModRange range="0.5" id="20"/>
+			<ModRange range="0.5" id="21"/>
+			<ModRange range="0.5" id="22"/>
+			<ModRange range="0.5" id="23"/>
+			<ModRange range="0.5" id="24"/>
+			<ModRange range="0.5" id="25"/>
+			<ModRange range="0.5" id="26"/>
+			<ModRange range="0.5" id="27"/>
+			<ModRange range="0.5" id="28"/>
+			<ModRange range="0.5" id="29"/>
+			<ModRange range="0.5" id="30"/>
+			<ModRange range="0.5" id="31"/>
+			<ModRange range="0.5" id="32"/>
+			<ModRange range="0.5" id="33"/>
+			<ModRange range="0.5" id="34"/>
+			<ModRange range="0.5" id="35"/>
+			<ModRange range="0.5" id="36"/>
+			<ModRange range="0.5" id="37"/>
+			<ModRange range="0.5" id="38"/>
+			<ModRange range="0.5" id="39"/>
+			<ModRange range="0.5" id="40"/>
+			<ModRange range="0.5" id="41"/>
+			<ModRange range="0.5" id="42"/>
+			<ModRange range="0.5" id="43"/>
+			<ModRange range="0.5" id="44"/>
+			<ModRange range="0.5" id="45"/>
+			<ModRange range="0.5" id="46"/>
+			<ModRange range="0.5" id="47"/>
+			<ModRange range="0.5" id="48"/>
+			<ModRange range="0.5" id="49"/>
+			<ModRange range="0.5" id="50"/>
+			<ModRange range="0.5" id="51"/>
+			<ModRange range="0.5" id="52"/>
+			<ModRange range="0.5" id="53"/>
+			<ModRange range="0.5" id="54"/>
+			<ModRange range="0.5" id="55"/>
+			<ModRange range="0.5" id="56"/>
+			<ModRange range="0.5" id="57"/>
+			<ModRange range="0.5" id="58"/>
+			<ModRange range="0.5" id="59"/>
+			<ModRange range="0.5" id="60"/>
+			<ModRange range="0.5" id="61"/>
+			<ModRange range="0.5" id="62"/>
+			<ModRange range="0.5" id="63"/>
+			<ModRange range="0.5" id="64"/>
+			<ModRange range="0.5" id="65"/>
+			<ModRange range="0.5" id="66"/>
+			<ModRange range="0.5" id="67"/>
+			<ModRange range="0.5" id="68"/>
+			<ModRange range="0.5" id="69"/>
+			<ModRange range="0.5" id="70"/>
+			<ModRange range="0.5" id="71"/>
+			<ModRange range="0.5" id="72"/>
+			<ModRange range="0.5" id="73"/>
+			<ModRange range="0.5" id="74"/>
+			<ModRange range="0.5" id="75"/>
+			<ModRange range="0.5" id="76"/>
+			<ModRange range="0.5" id="77"/>
+			<ModRange range="0.5" id="78"/>
+			<ModRange range="0.5" id="79"/>
+			<ModRange range="0.5" id="80"/>
+			<ModRange range="0.5" id="81"/>
+			<ModRange range="0.5" id="82"/>
+			<ModRange range="0.5" id="83"/>
+			<ModRange range="0.5" id="84"/>
+			<ModRange range="0.5" id="85"/>
+			<ModRange range="0.5" id="86"/>
+			<ModRange range="0.5" id="87"/>
+			<ModRange range="0.5" id="88"/>
+			<ModRange range="0.5" id="89"/>
+			<ModRange range="0.5" id="90"/>
+			<ModRange range="0.5" id="91"/>
+			<ModRange range="0.5" id="92"/>
+			<ModRange range="0.5" id="93"/>
+			<ModRange range="0.5" id="94"/>
+			<ModRange range="0.5" id="95"/>
+			<ModRange range="0.5" id="96"/>
+			<ModRange range="0.5" id="97"/>
+			<ModRange range="0.5" id="98"/>
+			<ModRange range="0.5" id="99"/>
+			<ModRange range="0.5" id="100"/>
+			<ModRange range="0.5" id="101"/>
+			<ModRange range="0.5" id="102"/>
+			<ModRange range="0.5" id="103"/>
+			<ModRange range="0.5" id="104"/>
+			<ModRange range="0.5" id="105"/>
+			<ModRange range="0.5" id="106"/>
+			<ModRange range="0.5" id="107"/>
+			<ModRange range="0.5" id="108"/>
+			<ModRange range="0.5" id="109"/>
+			<ModRange range="0.5" id="110"/>
+			<ModRange range="0.5" id="111"/>
+			<ModRange range="0.5" id="112"/>
+			<ModRange range="0.5" id="113"/>
+			<ModRange range="0.5" id="114"/>
+			<ModRange range="0.5" id="115"/>
+			<ModRange range="0.5" id="116"/>
+			<ModRange range="0.5" id="117"/>
+			<ModRange range="0.5" id="118"/>
+			<ModRange range="0.5" id="119"/>
+			<ModRange range="0.5" id="120"/>
+			<ModRange range="0.5" id="121"/>
+			<ModRange range="0.5" id="122"/>
+			<ModRange range="0.5" id="123"/>
+			<ModRange range="0.5" id="124"/>
+			<ModRange range="0.5" id="125"/>
+			<ModRange range="0.5" id="126"/>
+			<ModRange range="0.5" id="127"/>
+			<ModRange range="0.5" id="128"/>
+			<ModRange range="0.5" id="129"/>
+			<ModRange range="0.5" id="130"/>
+			<ModRange range="0.5" id="131"/>
+			<ModRange range="0.5" id="132"/>
+			<ModRange range="0.5" id="133"/>
+			<ModRange range="0.5" id="134"/>
+			<ModRange range="0.5" id="135"/>
+			<ModRange range="0.5" id="136"/>
+			<ModRange range="0.5" id="137"/>
+			<ModRange range="0.5" id="138"/>
+			<ModRange range="0.5" id="139"/>
+			<ModRange range="0.5" id="140"/>
+			<ModRange range="0.5" id="141"/>
+			<ModRange range="0.5" id="142"/>
+			<ModRange range="0.5" id="143"/>
+			<ModRange range="0.5" id="144"/>
+			<ModRange range="0.5" id="145"/>
+			<ModRange range="0.5" id="146"/>
+			<ModRange range="0.5" id="147"/>
+			<ModRange range="0.5" id="148"/>
+			<ModRange range="0.5" id="149"/>
+			<ModRange range="0.5" id="150"/>
+			<ModRange range="0.5" id="151"/>
+			<ModRange range="0.5" id="152"/>
+			<ModRange range="0.5" id="153"/>
+			<ModRange range="0.5" id="154"/>
+			<ModRange range="0.5" id="155"/>
+			<ModRange range="0.5" id="156"/>
+			<ModRange range="0.5" id="157"/>
+			<ModRange range="0.5" id="158"/>
+			<ModRange range="0.5" id="159"/>
+			<ModRange range="0.5" id="160"/>
+			<ModRange range="0.5" id="161"/>
+			<ModRange range="0.5" id="162"/>
+			<ModRange range="0.5" id="163"/>
+			<ModRange range="0.5" id="164"/>
+			<ModRange range="0.5" id="165"/>
+			<ModRange range="0.5" id="166"/>
+			<ModRange range="0.5" id="167"/>
+			<ModRange range="0.5" id="168"/>
+			<ModRange range="0.5" id="169"/>
+			<ModRange range="0.5" id="170"/>
+			<ModRange range="0.5" id="171"/>
+			<ModRange range="0.5" id="172"/>
+			<ModRange range="0.5" id="173"/>
+			<ModRange range="0.5" id="174"/>
+			<ModRange range="0.5" id="175"/>
+			<ModRange range="0.5" id="176"/>
+			<ModRange range="0.5" id="177"/>
+			<ModRange range="0.5" id="178"/>
+			<ModRange range="0.5" id="179"/>
+			<ModRange range="0.5" id="180"/>
+			<ModRange range="0.5" id="181"/>
+			<ModRange range="0.5" id="182"/>
+			<ModRange range="0.5" id="183"/>
+			<ModRange range="0.5" id="184"/>
+			<ModRange range="0.5" id="185"/>
+			<ModRange range="0.5" id="186"/>
+			<ModRange range="0.5" id="187"/>
+			<ModRange range="0.5" id="188"/>
+			<ModRange range="0.5" id="189"/>
+			<ModRange range="0.5" id="190"/>
+			<ModRange range="0.5" id="191"/>
+			<ModRange range="0.5" id="192"/>
+			<ModRange range="0.5" id="193"/>
+			<ModRange range="0.5" id="194"/>
+			<ModRange range="0.5" id="195"/>
+			<ModRange range="0.5" id="196"/>
+			<ModRange range="0.5" id="197"/>
+			<ModRange range="0.5" id="198"/>
+			<ModRange range="0.5" id="199"/>
+			<ModRange range="0.5" id="200"/>
+			<ModRange range="0.5" id="201"/>
+			<ModRange range="0.5" id="202"/>
+			<ModRange range="0.5" id="203"/>
+			<ModRange range="0.5" id="204"/>
+			<ModRange range="0.5" id="205"/>
+			<ModRange range="0.5" id="206"/>
+			<ModRange range="0.5" id="207"/>
+			<ModRange range="0.5" id="208"/>
+			<ModRange range="0.5" id="209"/>
+			<ModRange range="0.5" id="210"/>
+			<ModRange range="0.5" id="211"/>
+			<ModRange range="0.5" id="212"/>
+			<ModRange range="0.5" id="213"/>
+			<ModRange range="0.5" id="214"/>
+			<ModRange range="0.5" id="215"/>
+			<ModRange range="0.5" id="216"/>
+			<ModRange range="0.5" id="217"/>
+			<ModRange range="0.5" id="218"/>
+			<ModRange range="0.5" id="219"/>
+			<ModRange range="0.5" id="220"/>
+			<ModRange range="0.5" id="221"/>
+			<ModRange range="0.5" id="222"/>
+			<ModRange range="0.5" id="223"/>
+			<ModRange range="0.5" id="224"/>
+			<ModRange range="0.5" id="225"/>
+			<ModRange range="0.5" id="226"/>
+			<ModRange range="0.5" id="227"/>
+			<ModRange range="0.5" id="228"/>
+			<ModRange range="0.5" id="229"/>
+			<ModRange range="0.5" id="230"/>
+			<ModRange range="0.5" id="231"/>
+			<ModRange range="0.5" id="232"/>
+			<ModRange range="0.5" id="233"/>
+			<ModRange range="0.5" id="234"/>
+			<ModRange range="0.5" id="235"/>
+			<ModRange range="0.5" id="236"/>
+			<ModRange range="0.5" id="237"/>
+			<ModRange range="0.5" id="238"/>
+			<ModRange range="0.5" id="239"/>
+			<ModRange range="0.5" id="240"/>
+			<ModRange range="0.5" id="241"/>
+			<ModRange range="0.5" id="242"/>
+			<ModRange range="0.5" id="243"/>
+			<ModRange range="0.5" id="244"/>
+			<ModRange range="0.5" id="245"/>
+			<ModRange range="0.5" id="246"/>
+			<ModRange range="0.5" id="247"/>
+			<ModRange range="0.5" id="248"/>
+			<ModRange range="0.5" id="249"/>
+			<ModRange range="0.5" id="250"/>
+			<ModRange range="0.5" id="251"/>
+			<ModRange range="0.5" id="252"/>
+			<ModRange range="0.5" id="253"/>
+			<ModRange range="0.5" id="254"/>
+			<ModRange range="0.5" id="255"/>
+			<ModRange range="0.5" id="256"/>
+			<ModRange range="0.5" id="257"/>
+			<ModRange range="0.5" id="258"/>
+			<ModRange range="0.5" id="259"/>
+			<ModRange range="0.5" id="260"/>
+			<ModRange range="0.5" id="261"/>
+			<ModRange range="0.5" id="262"/>
+			<ModRange range="0.5" id="263"/>
+			<ModRange range="0.5" id="264"/>
+			<ModRange range="0.5" id="265"/>
+			<ModRange range="0.5" id="266"/>
+			<ModRange range="0.5" id="267"/>
+			<ModRange range="0.5" id="268"/>
+			<ModRange range="0.5" id="269"/>
+			<ModRange range="0.5" id="270"/>
+			<ModRange range="0.5" id="271"/>
+			<ModRange range="0.5" id="272"/>
+			<ModRange range="0.5" id="273"/>
+			<ModRange range="0.5" id="274"/>
+			<ModRange range="0.5" id="275"/>
+			<ModRange range="0.5" id="276"/>
+			<ModRange range="0.5" id="277"/>
+			<ModRange range="0.5" id="278"/>
+			<ModRange range="0.5" id="279"/>
+			<ModRange range="0.5" id="280"/>
+			<ModRange range="0.5" id="281"/>
+			<ModRange range="0.5" id="282"/>
+			<ModRange range="0.5" id="283"/>
+			<ModRange range="0.5" id="284"/>
+			<ModRange range="0.5" id="285"/>
+			<ModRange range="0.5" id="286"/>
+			<ModRange range="0.5" id="287"/>
+			<ModRange range="0.5" id="288"/>
+			<ModRange range="0.5" id="289"/>
+			<ModRange range="0.5" id="290"/>
+			<ModRange range="0.5" id="291"/>
+			<ModRange range="0.5" id="292"/>
+			<ModRange range="0.5" id="293"/>
+			<ModRange range="0.5" id="294"/>
+			<ModRange range="0.5" id="295"/>
+			<ModRange range="0.5" id="296"/>
+			<ModRange range="0.5" id="297"/>
+			<ModRange range="0.5" id="298"/>
+			<ModRange range="0.5" id="299"/>
+			<ModRange range="0.5" id="300"/>
+			<ModRange range="0.5" id="301"/>
+		</Item>
+		<Item id="40">
+			Rarity: MAGIC
+Silver Flask
+Crafted: true
+Prefix: None
+Suffix: None
+Quality: 20
+LevelReq: 40
+Implicits: 0
+		</Item>
+		<Item id="41">
+			Rarity: RARE
+New Item
+Small Cluster Jewel
+Crafted: true
+Prefix: {range:0.5}AfflictionNotableSummerCommander
+Prefix: None
+Suffix: None
+Suffix: None
+Cluster Jewel Skill: affliction_reservation_efficiency_small
+Cluster Jewel Node Count: 3
+Quality: 0
+LevelReq: 54
+Implicits: 2
+{crafted}Adds 3 Passive Skills
+{crafted}Added Small Passive Skills grant: 6% increased Mana Reservation Efficiency of Skills
+1 Added Passive Skill is Mortifying Aspect
+			<ModRange range="0.5" id="1"/>
+			<ModRange range="0.5" id="2"/>
+			<ModRange range="0.5" id="3"/>
+		</Item>
+		<Item variant="2" id="2">
+			Rarity: UNIQUE
+Dyadian Dawn
+Heavy Belt
+Variant: Pre 2.6.0
+Variant: Current
+Selected Variant: 2
+LevelReq: 52
+Implicits: 2
+{crafted}30% increased Accuracy Rating while you have Onslaught
+{tags:jewellery_attribute}{range:0.5}+(25-35) to Strength
+{tags:life}{range:0.5}+(70-85) to maximum Life
+{tags:jewellery_resistance}{range:0.5}+(20-40)% to Fire Resistance
+{tags:jewellery_resistance}{range:0.5}+(20-40)% to Cold Resistance
+{tags:attack,life}{variant:1}0.6% of Attack Damage Leeched as Life against Chilled enemies
+{tags:attack,life}{variant:2}1% of Attack Damage Leeched as Life against Chilled enemies
+{tags:jewellery_elemental,attack}{variant:1}Ignites you inflict with Attacks deal Damage 20% faster
+{tags:jewellery_elemental,attack}{variant:2}Ignites you inflict with Attacks deal Damage 35% faster
+Deal no Physical Damage
+			<ModRange range="0.5" id="1"/>
+			<ModRange range="0.5" id="2"/>
+			<ModRange range="0.5" id="3"/>
+			<ModRange range="0.5" id="4"/>
+			<ModRange range="0.5" id="5"/>
+			<ModRange range="0.5" id="6"/>
+			<ModRange range="0.5" id="7"/>
+			<ModRange range="0.5" id="8"/>
+			<ModRange range="0.5" id="9"/>
+			<ModRange range="0.5" id="10"/>
+		</Item>
+		<Item variant="3" id="3">
+			Rarity: UNIQUE
+Thread of Hope
+Crimson Jewel
+Variant: Small Ring
+Variant: Medium Ring
+Variant: Large Ring
+Variant: Very Large Ring
+Variant: Massive Ring (Uber)
+Selected Variant: 3
+Radius: Variable
+Implicits: 0
+{variant:1}Only affects Passives in Small Ring
+{variant:2}Only affects Passives in Medium Ring
+{variant:3}Only affects Passives in Large Ring
+{variant:4}Only affects Passives in Very Large Ring
+{variant:5}Only affects Passives in Massive Ring
+Passives in Radius can be Allocated without being connected to your tree
+{range:0.5}-(20-10)% to all Elemental Resistances
+			<ModRange range="0.5" id="1"/>
+			<ModRange range="0.5" id="2"/>
+			<ModRange range="0.5" id="3"/>
+			<ModRange range="0.5" id="4"/>
+			<ModRange range="0.5" id="5"/>
+			<ModRange range="0.5" id="6"/>
+			<ModRange range="0.5" id="7"/>
+		</Item>
+		<ItemSet useSecondWeaponSet="false" title="3.21 EA Ballista Guide" id="1">
+			<Slot itemPbURL="" name="Weapon 1" itemId="11"/>
+			<Slot itemPbURL="" name="Belt Abyssal Socket 2" itemId="0"/>
+			<Slot itemPbURL="" name="Weapon 1 Abyssal Socket 5" itemId="0"/>
+			<Slot itemPbURL="" name="Weapon 2 Abyssal Socket 5" itemId="0"/>
+			<Slot itemPbURL="" name="Weapon 1 Swap Abyssal Socket 6" itemId="0"/>
+			<Slot itemPbURL="" name="Weapon 1 Abyssal Socket 6" itemId="0"/>
+			<Slot itemPbURL="" name="Weapon 2 Abyssal Socket 6" itemId="0"/>
+			<Slot itemPbURL="" name="Boots Abyssal Socket 3" itemId="0"/>
+			<Slot itemPbURL="" name="Helmet Abyssal Socket 1" itemId="0"/>
+			<Slot itemPbURL="" name="Belt Abyssal Socket 6" itemId="0"/>
+			<Slot itemPbURL="" name="Weapon 2 Swap Abyssal Socket 5" itemId="0"/>
+			<Slot itemPbURL="" name="Weapon 1 Abyssal Socket 1" itemId="0"/>
+			<Slot itemPbURL="" name="Weapon 1 Abyssal Socket 4" itemId="0"/>
+			<Slot itemPbURL="" name="Belt" itemId="2"/>
+			<Slot itemPbURL="" name="Weapon 1 Swap Abyssal Socket 2" itemId="0"/>
+			<Slot itemPbURL="" name="Weapon 1 Abyssal Socket 2" itemId="0"/>
+			<Slot itemPbURL="" active="true" name="Flask 5" itemId="38"/>
+			<Slot itemPbURL="" name="Boots Abyssal Socket 2" itemId="0"/>
+			<Slot itemPbURL="" name="Belt Abyssal Socket 3" itemId="0"/>
+			<Slot itemPbURL="" active="true" name="Flask 4" itemId="33"/>
+			<Slot itemPbURL="" name="Gloves Abyssal Socket 1" itemId="0"/>
+			<Slot itemPbURL="" name="Helmet Abyssal Socket 6" itemId="0"/>
+			<Slot itemPbURL="" name="Helmet" itemId="10"/>
+			<Slot itemPbURL="" active="true" name="Flask 1" itemId="13"/>
+			<Slot itemPbURL="" name="Gloves Abyssal Socket 5" itemId="0"/>
+			<Slot itemPbURL="" name="Amulet" itemId="24"/>
+			<Slot itemPbURL="" name="Weapon 1 Abyssal Socket 3" itemId="0"/>
+			<Slot itemPbURL="" name="Weapon 2 Abyssal Socket 3" itemId="0"/>
+			<SocketIdURL nodeId="36634" name="Jewel 36634" itemPbURL=""/>
+			<SocketIdURL nodeId="29712" name="Jewel 29712" itemPbURL=""/>
+			<Slot itemPbURL="" name="Gloves Abyssal Socket 4" itemId="0"/>
+			<Slot itemPbURL="" active="true" name="Flask 2" itemId="40"/>
+			<Slot itemPbURL="" name="Ring 2" itemId="32"/>
+			<Slot itemPbURL="" name="Weapon 2 Swap" itemId="15"/>
+			<Slot itemPbURL="" name="Gloves" itemId="28"/>
+			<Slot itemPbURL="" name="Boots Abyssal Socket 5" itemId="0"/>
+			<Slot itemPbURL="" active="true" name="Flask 3" itemId="37"/>
+			<Slot itemPbURL="" name="Helmet Abyssal Socket 2" itemId="0"/>
+			<Slot itemPbURL="" name="Helmet Abyssal Socket 3" itemId="0"/>
+			<Slot itemPbURL="" name="Helmet Abyssal Socket 4" itemId="0"/>
+			<Slot itemPbURL="" name="Boots Abyssal Socket 4" itemId="0"/>
+			<Slot itemPbURL="" name="Weapon 1 Swap Abyssal Socket 3" itemId="0"/>
+			<Slot itemPbURL="" name="Body Armour Abyssal Socket 1" itemId="0"/>
+			<Slot itemPbURL="" name="Helmet Abyssal Socket 5" itemId="0"/>
+			<Slot itemPbURL="" name="Weapon 2 Swap Abyssal Socket 1" itemId="0"/>
+			<SocketIdURL nodeId="34483" name="Jewel 34483" itemPbURL=""/>
+			<SocketIdURL nodeId="9408" name="Jewel 9408" itemPbURL=""/>
+			<Slot itemPbURL="" name="Body Armour Abyssal Socket 2" itemId="0"/>
+			<Slot itemPbURL="" name="Boots Abyssal Socket 6" itemId="0"/>
+			<Slot itemPbURL="" name="Boots" itemId="19"/>
+			<Slot itemPbURL="" name="Gloves Abyssal Socket 6" itemId="0"/>
+			<Slot itemPbURL="" name="Body Armour Abyssal Socket 5" itemId="0"/>
+			<Slot itemPbURL="" name="Gloves Abyssal Socket 3" itemId="0"/>
+			<Slot itemPbURL="" name="Ring 1" itemId="12"/>
+			<Slot itemPbURL="" name="Boots Abyssal Socket 1" itemId="0"/>
+			<Slot itemPbURL="" name="Weapon 2 Abyssal Socket 4" itemId="0"/>
+			<Slot itemPbURL="" name="Weapon 1 Swap Abyssal Socket 5" itemId="0"/>
+			<Slot itemPbURL="" name="Body Armour Abyssal Socket 6" itemId="0"/>
+			<Slot itemPbURL="" name="Belt Abyssal Socket 4" itemId="0"/>
+			<Slot itemPbURL="" name="Gloves Abyssal Socket 2" itemId="0"/>
+			<Slot itemPbURL="" name="Belt Abyssal Socket 1" itemId="0"/>
+			<Slot itemPbURL="" name="Body Armour Abyssal Socket 3" itemId="0"/>
+			<SocketIdURL nodeId="31683" name="Jewel 31683" itemPbURL=""/>
+			<Slot itemPbURL="" name="Weapon 2 Swap Abyssal Socket 3" itemId="0"/>
+			<Slot itemPbURL="" name="Weapon 2 Swap Abyssal Socket 6" itemId="0"/>
+			<Slot itemPbURL="" name="Weapon 2" itemId="34"/>
+			<Slot itemPbURL="" name="Body Armour" itemId="14"/>
+			<Slot itemPbURL="" name="Weapon 1 Swap Abyssal Socket 1" itemId="0"/>
+			<Slot itemPbURL="" name="Body Armour Abyssal Socket 4" itemId="0"/>
+			<Slot itemPbURL="" name="Weapon 1 Swap" itemId="18"/>
+			<SocketIdURL nodeId="7960" name="Jewel 7960" itemPbURL=""/>
+			<Slot itemPbURL="" name="Belt Abyssal Socket 5" itemId="0"/>
+			<Slot itemPbURL="" name="Weapon 2 Swap Abyssal Socket 2" itemId="0"/>
+			<Slot itemPbURL="" name="Weapon 2 Abyssal Socket 2" itemId="0"/>
+			<Slot itemPbURL="" name="Weapon 2 Abyssal Socket 1" itemId="0"/>
+			<Slot itemPbURL="" name="Weapon 2 Swap Abyssal Socket 4" itemId="0"/>
+			<Slot itemPbURL="" name="Weapon 1 Swap Abyssal Socket 4" itemId="0"/>
+		</ItemSet>
+		<TradeSearchWeights/>
+	</Items>
+	<Config>
+		<Input name="enemyDamageType" string="Melee"/>
+		<Input name="enemyIsBoss" string="Pinnacle"/>
+		<Input name="pantheonMajorGod" string="Lunaris"/>
+		<Input name="conditionSummonedTotemRecently" boolean="true"/>
+		<Input name="useEnduranceCharges" boolean="true"/>
+		<Input name="useFrenzyCharges" boolean="true"/>
+		<Input name="enemyConditionHitByColdDamage" boolean="true"/>
+		<Input name="buffLifetap" boolean="true"/>
+		<Input name="conditionConvergence" boolean="true"/>
+		<Input name="conditionOnConsecratedGround" boolean="true"/>
+		<Input name="conditionEnemyOnConsecratedGround" boolean="true"/>
+		<Input name="pantheonMinorGod" string="Ryslatha"/>
+		<Input name="conditionEnemyIgnited" boolean="true"/>
+		<Input name="conditionEnemyShocked" boolean="true"/>
+		<Placeholder name="enemySpeed" number="700"/>
+		<Placeholder name="enemyChaosResist" number="30"/>
+		<Placeholder name="enemyLightningDamage" number="2241"/>
+		<Placeholder name="enemyCritChance" number="5"/>
+		<Placeholder name="enemyFireResist" number="50"/>
+		<Placeholder name="enemyColdDamage" number="2241"/>
+		<Placeholder name="enemyFireDamage" number="2241"/>
+		<Placeholder name="enemyLevel" number="84"/>
+		<Placeholder name="multiplierWitheredStackCountSelf" number="15"/>
+		<Placeholder name="enemyColdResist" number="50"/>
+		<Placeholder name="enemyLightningPen" number="3"/>
+		<Placeholder name="enemyLightningResist" number="50"/>
+		<Placeholder name="enemyChaosDamage" number="896"/>
+		<Placeholder name="enemyFirePen" number="3"/>
+		<Placeholder name="enemyColdPen" number="3"/>
+		<Placeholder name="enemyDamageRollRange" number="70"/>
+		<Placeholder name="enemyArmour" number="24752"/>
+		<Placeholder name="enemyCritDamage" number="30"/>
+		<Placeholder name="enemyPhysicalDamage" number="2241"/>
+		<Placeholder name="enemyEvasion" number="10143"/>
+		<Placeholder name="sigilOfPowerStages" number="1"/>
+	</Config>
+</PathOfBuilding>
