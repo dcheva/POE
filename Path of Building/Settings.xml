@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <PathOfBuilding>
 	<Mode mode="BUILD">
-		<Arg boolean="false"/>
-		<Arg string="Unnamed build"/>
+		<Arg string="D:\Documents/Path of Building/Builds/Ancessors/BowleDee.xml"/>
+		<Arg string="BowleDee"/>
 	</Mode>
 	<Accounts lastAccountName="SteamCovan" lastRealm="PC">
 		<Account accountName="SteamCovan"/>
