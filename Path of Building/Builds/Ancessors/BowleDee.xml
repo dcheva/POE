@@ -1,31 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <PathOfBuilding>
 	<Build level="92" targetVersion="3_0" pantheonMajorGod="Lunaris" bandit="None" className="Witch" ascendClassName="Elementalist" characterLevelAutoMode="false" mainSocketGroup="4" viewMode="TREE" pantheonMinorGod="Ryslatha">
-		<PlayerStat stat="AverageDamage" value="350375.001741"/>
-		<PlayerStat stat="AverageBurstDamage" value="350375.001741"/>
-		<PlayerStat stat="Speed" value="2.9893"/>
-		<PlayerStat stat="HitSpeed" value="0.74626865671642"/>
-		<PlayerStat stat="TotemPlacementTime" value="0.17948717948718"/>
-		<PlayerStat stat="PreEffectiveCritChance" value="6.1"/>
-		<PlayerStat stat="CritChance" value="5.673"/>
+		<PlayerStat stat="AverageDamage" value="414104.80356"/>
+		<PlayerStat stat="AverageBurstDamage" value="414104.80356"/>
+		<PlayerStat stat="Speed" value="2.9535"/>
+		<PlayerStat stat="HitSpeed" value="0.68027210884354"/>
+		<PlayerStat stat="TotemPlacementTime" value="0.17073170731707"/>
+		<PlayerStat stat="PreEffectiveCritChance" value="7.3"/>
+		<PlayerStat stat="CritChance" value="7.154"/>
 		<PlayerStat stat="CritMultiplier" value="1"/>
-		<PlayerStat stat="HitChance" value="93"/>
-		<PlayerStat stat="TotalDPS" value="261473.88189627"/>
+		<PlayerStat stat="HitChance" value="98"/>
+		<PlayerStat stat="TotalDPS" value="281703.948"/>
 		<PlayerStat stat="TotalDot" value="0"/>
-		<PlayerStat stat="IgniteDPS" value="35791394"/>
-		<PlayerStat stat="IgniteDamage" value="81705606.50505"/>
-		<PlayerStat stat="TotalDotDPS" value="35791394"/>
+		<PlayerStat stat="IgniteDPS" value="25255917.590437"/>
+		<PlayerStat stat="IgniteDamage" value="86785434.941635"/>
+		<PlayerStat stat="TotalDotDPS" value="25255917.590437"/>
 		<PlayerStat stat="CullingDPS" value="0"/>
 		<PlayerStat stat="ReservationDPS" value="0"/>
-		<PlayerStat stat="CombinedAvg" value="82055981.506792"/>
-		<PlayerStat stat="AreaOfEffectRadiusMetres" value="2.8"/>
+		<PlayerStat stat="CombinedAvg" value="87199539.745195"/>
+		<PlayerStat stat="AreaOfEffectRadiusMetres" value="2.7"/>
 		<PlayerStat stat="ManaCost" value="0"/>
 		<PlayerStat stat="ManaPercentCost" value="0"/>
 		<PlayerStat stat="ManaPerSecondCost" value="0"/>
 		<PlayerStat stat="ManaPercentPerSecondCost" value="0"/>
 		<PlayerStat stat="LifeCost" value="93"/>
 		<PlayerStat stat="LifePercentCost" value="0"/>
-		<PlayerStat stat="LifePerSecondCost" value="518.14285714286"/>
+		<PlayerStat stat="LifePerSecondCost" value="544.71428571429"/>
 		<PlayerStat stat="LifePercentPerSecondCost" value="0"/>
 		<PlayerStat stat="ESCost" value="0"/>
 		<PlayerStat stat="ESPerSecondCost" value="0"/>
@@ -34,79 +34,79 @@
 		<PlayerStat stat="SoulCost" value="0"/>
 		<PlayerStat stat="Str" value="188"/>
 		<PlayerStat stat="ReqStr" value="155"/>
-		<PlayerStat stat="Dex" value="233"/>
+		<PlayerStat stat="Dex" value="303"/>
 		<PlayerStat stat="ReqDex" value="179"/>
-		<PlayerStat stat="Int" value="172"/>
+		<PlayerStat stat="Int" value="182"/>
 		<PlayerStat stat="ReqInt" value="155"/>
 		<PlayerStat stat="Devotion" value="0"/>
-		<PlayerStat stat="TotalEHP" value="110151.37441501"/>
-		<PlayerStat stat="PhysicalMaximumHitTaken" value="10210"/>
-		<PlayerStat stat="LightningMaximumHitTaken" value="28361"/>
-		<PlayerStat stat="FireMaximumHitTaken" value="28361"/>
-		<PlayerStat stat="ColdMaximumHitTaken" value="28361"/>
-		<PlayerStat stat="ChaosMaximumHitTaken" value="12727"/>
-		<PlayerStat stat="Life" value="3856"/>
-		<PlayerStat stat="Spec:LifeInc" value="85"/>
-		<PlayerStat stat="LifeUnreserved" value="3856"/>
-		<PlayerStat stat="LifeRecoverable" value="3856"/>
+		<PlayerStat stat="TotalEHP" value="87269.247908139"/>
+		<PlayerStat stat="PhysicalMaximumHitTaken" value="9035"/>
+		<PlayerStat stat="LightningMaximumHitTaken" value="28320"/>
+		<PlayerStat stat="FireMaximumHitTaken" value="28320"/>
+		<PlayerStat stat="ColdMaximumHitTaken" value="28320"/>
+		<PlayerStat stat="ChaosMaximumHitTaken" value="10165"/>
+		<PlayerStat stat="Life" value="4262"/>
+		<PlayerStat stat="Spec:LifeInc" value="113"/>
+		<PlayerStat stat="LifeUnreserved" value="4262"/>
+		<PlayerStat stat="LifeRecoverable" value="4262"/>
 		<PlayerStat stat="LifeUnreservedPercent" value="100"/>
-		<PlayerStat stat="LifeRegenRecovery" value="357.8"/>
+		<PlayerStat stat="LifeRegenRecovery" value="476.5"/>
 		<PlayerStat stat="LifeLeechGainPerHit" value="0"/>
-		<PlayerStat stat="Mana" value="771"/>
+		<PlayerStat stat="Mana" value="735"/>
 		<PlayerStat stat="Spec:ManaInc" value="0"/>
-		<PlayerStat stat="ManaUnreserved" value="48"/>
-		<PlayerStat stat="ManaUnreservedPercent" value="6.2256809338521"/>
-		<PlayerStat stat="ManaRegenRecovery" value="29.7"/>
+		<PlayerStat stat="ManaUnreserved" value="-86"/>
+		<PlayerStat stat="ManaUnreservedPercent" value="-11.700680272109"/>
+		<PlayerStat stat="ManaRegenRecovery" value="28.3"/>
 		<PlayerStat stat="ManaLeechGainPerHit" value="0"/>
-		<PlayerStat stat="EnergyShield" value="91"/>
-		<PlayerStat stat="EnergyShieldRecoveryCap" value="91"/>
+		<PlayerStat stat="EnergyShield" value="89"/>
+		<PlayerStat stat="EnergyShieldRecoveryCap" value="89"/>
 		<PlayerStat stat="Spec:EnergyShieldInc" value="12"/>
 		<PlayerStat stat="EnergyShieldRegenRecovery" value="0"/>
 		<PlayerStat stat="EnergyShieldLeechGainPerHit" value="0"/>
 		<PlayerStat stat="Ward" value="0"/>
 		<PlayerStat stat="RageRegenRecovery" value="0"/>
-		<PlayerStat stat="TotalDegen" value="128.19856"/>
-		<PlayerStat stat="TotalNetRegen" value="259.30144"/>
-		<PlayerStat stat="NetLifeRegen" value="229.60144"/>
-		<PlayerStat stat="NetManaRegen" value="29.7"/>
+		<PlayerStat stat="TotalDegen" value="148.952134"/>
+		<PlayerStat stat="TotalNetRegen" value="355.847866"/>
+		<PlayerStat stat="NetLifeRegen" value="327.547866"/>
+		<PlayerStat stat="NetManaRegen" value="28.3"/>
 		<PlayerStat stat="NetEnergyShieldRegen" value="0"/>
-		<PlayerStat stat="Evasion" value="23980"/>
-		<PlayerStat stat="Spec:EvasionInc" value="156"/>
-		<PlayerStat stat="MeleeEvadeChance" value="74"/>
-		<PlayerStat stat="ProjectileEvadeChance" value="74"/>
-		<PlayerStat stat="Armour" value="17440"/>
-		<PlayerStat stat="Spec:ArmourInc" value="84"/>
-		<PlayerStat stat="PhysicalDamageReduction" value="79.8"/>
+		<PlayerStat stat="Evasion" value="19977"/>
+		<PlayerStat stat="Spec:EvasionInc" value="63"/>
+		<PlayerStat stat="MeleeEvadeChance" value="71"/>
+		<PlayerStat stat="ProjectileEvadeChance" value="71"/>
+		<PlayerStat stat="Armour" value="13286"/>
+		<PlayerStat stat="Spec:ArmourInc" value="48"/>
+		<PlayerStat stat="PhysicalDamageReduction" value="68.415"/>
 		<PlayerStat stat="BlockChance" value="0"/>
 		<PlayerStat stat="SpellBlockChance" value="0"/>
 		<PlayerStat stat="AttackDodgeChance" value="0"/>
 		<PlayerStat stat="SpellDodgeChance" value="0"/>
-		<PlayerStat stat="EffectiveSpellSuppressionChance" value="100"/>
+		<PlayerStat stat="EffectiveSpellSuppressionChance" value="85"/>
 		<PlayerStat stat="FireResist" value="75"/>
-		<PlayerStat stat="FireResistOverCap" value="52"/>
+		<PlayerStat stat="FireResistOverCap" value="46"/>
 		<PlayerStat stat="ColdResist" value="75"/>
-		<PlayerStat stat="ColdResistOverCap" value="30"/>
+		<PlayerStat stat="ColdResistOverCap" value="6"/>
 		<PlayerStat stat="LightningResist" value="75"/>
-		<PlayerStat stat="LightningResistOverCap" value="43"/>
-		<PlayerStat stat="ChaosResist" value="56"/>
+		<PlayerStat stat="LightningResistOverCap" value="19"/>
+		<PlayerStat stat="ChaosResist" value="45"/>
 		<PlayerStat stat="ChaosResistOverCap" value="0"/>
-		<PlayerStat stat="EffectiveMovementSpeedMod" value="2.86"/>
-		<PlayerStat stat="FullDPS" value="36052867.881896"/>
-		<PlayerStat stat="FullDotDPS" value="35791394"/>
-		<FullDPSSkill skillPart="" source="Explosive Arrow" stat="Best Ignite DPS" value="35791394"/>
-		<FullDPSSkill skillPart="Explosion (# of fuses)" source="" stat="Explosive Arrow" value="261473.88189627"/>
+		<PlayerStat stat="EffectiveMovementSpeedMod" value="3.04"/>
+		<PlayerStat stat="FullDPS" value="25510311.959057"/>
+		<PlayerStat stat="FullDotDPS" value="25228608.011057"/>
+		<FullDPSSkill skillPart="" source="Explosive Arrow" stat="Best Ignite DPS" value="25228608.011057"/>
+		<FullDPSSkill skillPart="Explosion (# of fuses)" source="" stat="Explosive Arrow" value="281703.948"/>
 		<PlayerStat stat="PowerCharges" value="0"/>
 		<PlayerStat stat="PowerChargesMax" value="3"/>
 		<PlayerStat stat="FrenzyCharges" value="3"/>
 		<PlayerStat stat="FrenzyChargesMax" value="3"/>
-		<PlayerStat stat="EnduranceCharges" value="4"/>
-		<PlayerStat stat="EnduranceChargesMax" value="4"/>
+		<PlayerStat stat="EnduranceCharges" value="3"/>
+		<PlayerStat stat="EnduranceChargesMax" value="3"/>
 		<PlayerStat stat="ActiveTotemLimit" value="6"/>
 		<TimelessData devotionVariant2="1" searchListFallback="" searchList="" socketFilterDistance="0" devotionVariant1="1"/>
 	</Build>
 	<Import lastAccountHash="daaa977a76365c9e94aa2dc66b6bc3eb2b9b0a9b" lastRealm="PC" exportParty="false" lastCharacterHash="c64ee51af292bc31b4db95afee6a3ba7620b9108"/>
 	<Party destination="All" ShowAdvanceTools="false" append="false"/>
-	<Tree activeSpec="24">
+	<Tree activeSpec="22">
 		<Spec masteryEffects="" title="Act 1" ascendClassId="2" nodes="34661,4184,16023,18866,54447,44983,11420,27203,57264,739,33296,1957,12852,48362" secondaryAscendClassId="nil" treeVersion="3_21" classId="3">
 			<URL>
 				https://www.pathofexile.com/passive-skill-tree/AAAABgMCDIdlEFhJsq-3LJxqQ9-wAuOCEAelMjS86gAA
@@ -482,7 +482,7 @@ Have fun!
 		<Section subsection="DotsandDegens" collapsed="false" id="DamageTaken"/>
 		<Section subsection="RecoupandHitTakenOverTime" collapsed="true" id="DamageTaken"/>
 	</Calcs>
-	<TreeView searchStr="" zoomY="66.45386831275" zoomLevel="2" showStatDifferences="true" zoomX="-131.40350823044"/>
+	<TreeView searchStr="" zoomY="-31.54613168725" zoomLevel="2" showStatDifferences="true" zoomX="-92.403508230444"/>
 	<Items activeItemSet="1" useSecondWeaponSet="false">
 		<Item id="11">
 			Rarity: RARE
@@ -2009,8 +2009,6 @@ Passives in Radius can be Allocated without being connected to your tree
 			<Slot itemPbURL="" name="Amulet" itemId="24"/>
 			<Slot itemPbURL="" name="Weapon 1 Abyssal Socket 3" itemId="0"/>
 			<Slot itemPbURL="" name="Weapon 2 Abyssal Socket 3" itemId="0"/>
-			<SocketIdURL nodeId="36634" name="Jewel 36634" itemPbURL=""/>
-			<SocketIdURL nodeId="29712" name="Jewel 29712" itemPbURL=""/>
 			<Slot itemPbURL="" name="Gloves Abyssal Socket 4" itemId="0"/>
 			<Slot itemPbURL="" active="true" name="Flask 2" itemId="40"/>
 			<Slot itemPbURL="" name="Ring 2" itemId="32"/>
@@ -2026,8 +2024,6 @@ Passives in Radius can be Allocated without being connected to your tree
 			<Slot itemPbURL="" name="Body Armour Abyssal Socket 1" itemId="0"/>
 			<Slot itemPbURL="" name="Helmet Abyssal Socket 5" itemId="0"/>
 			<Slot itemPbURL="" name="Weapon 2 Swap Abyssal Socket 1" itemId="0"/>
-			<SocketIdURL nodeId="34483" name="Jewel 34483" itemPbURL=""/>
-			<SocketIdURL nodeId="9408" name="Jewel 9408" itemPbURL=""/>
 			<Slot itemPbURL="" name="Body Armour Abyssal Socket 2" itemId="0"/>
 			<Slot itemPbURL="" name="Boots Abyssal Socket 6" itemId="0"/>
 			<Slot itemPbURL="" name="Boots" itemId="19"/>
@@ -2043,7 +2039,6 @@ Passives in Radius can be Allocated without being connected to your tree
 			<Slot itemPbURL="" name="Gloves Abyssal Socket 2" itemId="0"/>
 			<Slot itemPbURL="" name="Belt Abyssal Socket 1" itemId="0"/>
 			<Slot itemPbURL="" name="Body Armour Abyssal Socket 3" itemId="0"/>
-			<SocketIdURL nodeId="31683" name="Jewel 31683" itemPbURL=""/>
 			<Slot itemPbURL="" name="Weapon 2 Swap Abyssal Socket 3" itemId="0"/>
 			<Slot itemPbURL="" name="Weapon 2 Swap Abyssal Socket 6" itemId="0"/>
 			<Slot itemPbURL="" name="Weapon 2" itemId="34"/>
@@ -2051,7 +2046,6 @@ Passives in Radius can be Allocated without being connected to your tree
 			<Slot itemPbURL="" name="Weapon 1 Swap Abyssal Socket 1" itemId="0"/>
 			<Slot itemPbURL="" name="Body Armour Abyssal Socket 4" itemId="0"/>
 			<Slot itemPbURL="" name="Weapon 1 Swap" itemId="18"/>
-			<SocketIdURL nodeId="7960" name="Jewel 7960" itemPbURL=""/>
 			<Slot itemPbURL="" name="Belt Abyssal Socket 5" itemId="0"/>
 			<Slot itemPbURL="" name="Weapon 2 Swap Abyssal Socket 2" itemId="0"/>
 			<Slot itemPbURL="" name="Weapon 2 Abyssal Socket 2" itemId="0"/>
