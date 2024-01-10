@@ -14,7 +14,7 @@ Show # $type->2chaos-a
 	ItemLevel <= 85
 	SetFontSize 40
 	CustomAlertSound "Sounds\1maybevaluable.mp3" 300 # Sounds\6veryvaluable.mp3
-	#PlayAlertSound 4 200
+	# PlayAlertSound 4 200
 	PlayEffect Orange
 	MinimapIcon 1 Orange Circle	
 	
@@ -31,7 +31,7 @@ Show # $type->2chaos-b
 	ItemLevel <= 85
 	SetFontSize 40
 	CustomAlertSound "Sounds\1maybevaluable.mp3" 300
-	#PlayAlertSound 4 200
+	# PlayAlertSound 4 200
 	PlayEffect Orange
 	MinimapIcon 1 Orange Circle
 	
@@ -48,7 +48,7 @@ Show # $type->2chaos-c
 	ItemLevel <= 85
 	SetFontSize 40
 	CustomAlertSound "Sounds\02coin.mp3" 300
-	#PlayAlertSound 4 200
+	# PlayAlertSound 4 200
 	PlayEffect Orange
 	MinimapIcon 1 Orange Circle	
 	
@@ -65,7 +65,7 @@ Show # $type->2chaos-d
 	ItemLevel <= 85
 	SetFontSize 40
 	CustomAlertSound "Sounds\04cointojar.mp3" 300
-	#PlayAlertSound 4 200
+	# PlayAlertSound 4 200
 	PlayEffect Orange
 	MinimapIcon 1 Orange Circle
 	
@@ -82,7 +82,7 @@ Show # $type->2chaos-d
 	ItemLevel <= 85
 	SetFontSize 40
 	CustomAlertSound "Sounds\04cointojar.mp3" 300
-	#PlayAlertSound 4 200
+	# PlayAlertSound 4 200
 	PlayEffect Orange
 	MinimapIcon 1 Orange Circle
 	
@@ -99,7 +99,7 @@ Show # $type->2chaos-d
 	ItemLevel <= 85
 	SetFontSize 40
 	CustomAlertSound "Sounds\04cointojar.mp3" 300
-	#PlayAlertSound 4 200
+	# PlayAlertSound 4 200
 	PlayEffect Orange
 	MinimapIcon 1 Orange Circle
 	
@@ -115,13 +115,50 @@ Show # $type->2chaos-e
 	ItemLevel >= 60
 	ItemLevel <= 74
 	SetFontSize 40
-	#PlayAlertSound 4 200
+	# PlayAlertSound 4 200
 	CustomAlertSound "Sounds\03coinshake.mp3" 300
 	PlayEffect Orange
 	MinimapIcon 1 Orange Circle
 	
 #/2-chaos-sets-------------------------------
 #/8.12---------------------------------------
+
+
+
+#\v1101---------------------------------------
+#\Elemental-gears--------------------------------
+
+# xx% increased Elemental Damage
+# xx% increased Spell Damage
+# "Darkwood Sceptre" "Platinum Sceptre" "Stag Sceptre" "Blood Sceptre" "Quartz Sceptre" "Ochre Sceptre" "Bronze Sceptre" "Iron Sceptre" "Ritual Sceptre" "Abyssal Sceptre" "Grinning Fetish" "Driftwood Sceptre" "Tyrant's Sekhem" "Vaal Sceptre" "Shadow Sceptre" "Karui Sceptre" "Opal Sceptre" "Royal Sceptre" "Void Sceptre" "Crystal Sceptre" "Carnal Sceptre" "Sekhem" "Lead Sceptre"
+
+Show  # $type->Elemental-gears
+	BaseType == "Darkwood Sceptre" "Platinum Sceptre" "Stag Sceptre" "Blood Sceptre" "Quartz Sceptre" "Ochre Sceptre" "Bronze Sceptre" "Iron Sceptre" "Ritual Sceptre" "Abyssal Sceptre" "Grinning Fetish" "Driftwood Sceptre" "Tyrant's Sekhem" "Vaal Sceptre" "Shadow Sceptre" "Karui Sceptre" "Opal Sceptre" "Royal Sceptre" "Void Sceptre" "Crystal Sceptre" "Carnal Sceptre" "Sekhem" "Lead Sceptre"
+	Rarity Rare 
+	SetFontSize 40
+	SetBackgroundColor 20 30 40 255
+	SetBorderColor 100 225 255 255
+	SetTextColor 205 225 255 255
+	# PlayAlertSound 3 300
+	CustomAlertSound "Sounds\24item.mp3" 300
+	PlayEffect White
+	MinimapIcon 1 White Circle
+
+Show  # $type->Elemental-gears-Unique
+	BaseType == "Darkwood Sceptre" "Platinum Sceptre" "Stag Sceptre" "Blood Sceptre" "Quartz Sceptre" "Ochre Sceptre" "Bronze Sceptre" "Iron Sceptre" "Ritual Sceptre" "Abyssal Sceptre" "Grinning Fetish" "Driftwood Sceptre" "Tyrant's Sekhem" "Vaal Sceptre" "Shadow Sceptre" "Karui Sceptre" "Opal Sceptre" "Royal Sceptre" "Void Sceptre" "Crystal Sceptre" "Carnal Sceptre" "Sekhem" "Lead Sceptre"
+	Rarity Unique
+	SetFontSize 45
+	SetBackgroundColor 20 10 40 255
+	SetBorderColor 150 85 255 255
+	SetTextColor 225 125 255 255
+	# PlayAlertSound 3 300
+	CustomAlertSound "Sounds\12leveling.mp3" 300
+	PlayEffect Purple
+	MinimapIcon 1 Purple Circle
+
+#/Elemental-gears--------------------------------
+#/v1101---------------------------------------
+
 
 
 
@@ -143,7 +180,7 @@ Show  # $type->SRS-gears
 	SetBorderColor 0 240 190 255
 	SetBackgroundColor 47 0 74 255
 	CustomAlertSound "Sounds\24item.mp3" 300
-	#PlayAlertSound 3 300
+	# PlayAlertSound 3 300
 	PlayEffect Orange
 	MinimapIcon 1 Orange Diamond
 
@@ -155,7 +192,7 @@ Show  # $type->SRS-gears-Unique
 	SetBorderColor 0 240 190 255
 	SetBackgroundColor 47 0 74 255
 	CustomAlertSound "Sounds\12leveling.mp3"
-	#PlayAlertSound 3 300
+	# PlayAlertSound 3 300
 	PlayEffect Purple
 	MinimapIcon 1 Purple Diamond
 
@@ -189,7 +226,7 @@ Show  # $type->Handy-staff
 	SetBackgroundColor 20 30 40 255
 	SetBorderColor 100 225 255 255
 	SetTextColor 205 225 255 255
-	#PlayAlertSound 3 300
+	# PlayAlertSound 3 300
 	CustomAlertSound "Sounds\24item.mp3" 300
 	PlayEffect White
 	MinimapIcon 1 White Circle
@@ -201,7 +238,7 @@ Show  # $type->Handy-staff
 	SetBackgroundColor 20 10 40 255
 	SetBorderColor 150 85 255 255
 	SetTextColor 225 125 255 255
-	#PlayAlertSound 3 300
+	# PlayAlertSound 3 300
 	CustomAlertSound "Sounds\12leveling.mp3" 300
 	PlayEffect Purple
 	MinimapIcon 1 Purple Circle
@@ -226,7 +263,7 @@ Show  # $type->Necromancers-Wands-Shields
 	SetBackgroundColor 20 30 40 255
 	SetBorderColor 100 225 255 255
 	SetTextColor 205 225 255 255
-	#PlayAlertSound 3 300
+	# PlayAlertSound 3 300
 	CustomAlertSound "Sounds\24item.mp3" 300
 	PlayEffect White
 	MinimapIcon 1 White Circle
@@ -238,7 +275,7 @@ Show  # $type->Necromancers-Wands-Shields
 	SetBackgroundColor 20 10 40 255
 	SetBorderColor 150 85 255 255
 	SetTextColor 225 125 255 255
-	#PlayAlertSound 3 300
+	# PlayAlertSound 3 300
 	CustomAlertSound "Sounds\12leveling.mp3" 300
 	PlayEffect Purple
 	MinimapIcon 1 Purple Circle
@@ -266,7 +303,7 @@ Show  # $type->NecroElemental-gears
 	SetBackgroundColor 20 30 40 255
 	SetBorderColor 100 225 255 255
 	SetTextColor 205 225 255 255
-	#PlayAlertSound 3 300
+	# PlayAlertSound 3 300
 	CustomAlertSound "Sounds\24item.mp3" 300
 	PlayEffect White
 	MinimapIcon 1 White Circle
@@ -278,7 +315,7 @@ Show  # $type->NecroElemental-gears-Unique
 	SetBackgroundColor 20 10 40 255
 	SetBorderColor 150 85 255 255
 	SetTextColor 225 125 255 255
-	#PlayAlertSound 3 300
+	# PlayAlertSound 3 300
 	CustomAlertSound "Sounds\12leveling.mp3" 300
 	PlayEffect Purple
 	MinimapIcon 1 Purple Circle
@@ -298,7 +335,7 @@ Show  # $type->Berserker-Scepters-Shields
 	SetBackgroundColor 20 30 40 255
 	SetBorderColor 100 225 255 255
 	SetTextColor 205 225 255 255
-	#PlayAlertSound 3 300
+	# PlayAlertSound 3 300
 	CustomAlertSound "Sounds\24item.mp3" 300
 	PlayEffect White
 	MinimapIcon 1 White Circle
@@ -310,7 +347,7 @@ Show  # $type->Berserker-Scepters-Shields
 	SetBackgroundColor 20 10 40 255
 	SetBorderColor 150 85 255 255
 	SetTextColor 225 125 255 255
-	#PlayAlertSound 3 300
+	# PlayAlertSound 3 300
 	CustomAlertSound "Sounds\12leveling.mp3" 300
 	PlayEffect Purple
 	MinimapIcon 1 Purple Circle
