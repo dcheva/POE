@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <PathOfBuilding>
 	<Mode mode="BUILD">
-		<Arg string="D:\Documents/Path of Building/Builds/Affliction/UtkaPodgorayet-93.xml"/>
-		<Arg string="UtkaPodgorayet-93"/>
+		<Arg string="D:\Documents/Path of Building/Builds/Affliction/DeePoD-96-plan.xml"/>
+		<Arg string="DeePoD-96-plan"/>
 	</Mode>
 	<Accounts lastAccountName="SteamCovan" lastRealm="PC">
 		<Account accountName="SteamCovan"/>
