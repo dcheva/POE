@@ -129,17 +129,17 @@ Show # $type->2chaos-e
 #\Staff-gears--------------------------------
 
 # Class == "Warstaves" "Staves"
-Show  # $type->Elemental-gears
-	Class == "Warstaves" "Staves"
-	Rarity Normal Magic Rare
-	SetFontSize 40
-	SetBackgroundColor 20 30 40 255
-	SetBorderColor 100 225 255 255
-	SetTextColor 205 225 255 255
-	# PlayAlertSound 3 300
-	CustomAlertSound "Sounds\24item.mp3" 300
-	PlayEffect White
-	MinimapIcon 1 White Circle
+# Show  # $type->Elemental-gears
+# 	Class == "Warstaves" "Staves"
+# 	Rarity Normal Magic Rare
+# 	SetFontSize 40
+# 	SetBackgroundColor 20 30 40 255
+# 	SetBorderColor 100 225 255 255
+# 	SetTextColor 205 225 255 255
+# 	# PlayAlertSound 3 300
+# 	CustomAlertSound "Sounds\24item.mp3" 300
+# 	PlayEffect White
+# 	MinimapIcon 1 White Circle
 
 Show  # $type->Elemental-gears-Unique
 	Class == "Warstaves" "Staves"
