@@ -126,6 +126,39 @@ Show # $type->2chaos-e
 
 
 
+#\v3001---------------------------------------
+#\MaceSceptres-gears--------------------------------
+
+# Class == "One Hand Maces" "Sceptres"
+Show  # $type->Elemental-gears
+	Class == "Warstaves" "Staves"
+	Rarity Normal Magic Rare
+	SetFontSize 40
+	SetBackgroundColor 20 30 40 255
+	SetBorderColor 100 225 255 255
+	SetTextColor 205 225 255 255
+	# PlayAlertSound 3 300
+	CustomAlertSound "Sounds\24item.mp3" 300
+	PlayEffect White
+	MinimapIcon 1 White Circle
+
+Show  # $type->Elemental-gears-Unique
+	Class == "One Hand Maces" "Sceptres"
+	Rarity Unique
+	SetFontSize 45
+	SetBackgroundColor 20 10 40 255
+	SetBorderColor 150 85 255 255
+	SetTextColor 225 125 255 255
+	# PlayAlertSound 3 300
+	CustomAlertSound "Sounds\12leveling.mp3" 300
+	PlayEffect Purple
+	MinimapIcon 1 Purple Circle
+
+#/MaceSceptres-gears--------------------------------
+#/v3001---------------------------------------
+
+
+
 #\v1801---------------------------------------
 #\Staff-gears--------------------------------
 
