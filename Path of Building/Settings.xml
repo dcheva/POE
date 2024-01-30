@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <PathOfBuilding>
 	<Mode mode="BUILD">
-		<Arg string="D:\Documents/Path of Building/Builds/Affliction/SSF-DeeHeir-100-Shockwave.xml"/>
-		<Arg string="SSF-DeeHeir-100-Shockwave"/>
+		<Arg string="D:\Documents/Path of Building/Builds/Affliction/SSF-DeeHeir-test-78.xml"/>
+		<Arg string="SSF-DeeHeir-test-78"/>
 	</Mode>
 	<Accounts lastAccountName="SteamCovan" lastRealm="PC">
 		<Account accountName="SteamCovan"/>
