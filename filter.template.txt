@@ -131,7 +131,7 @@ Show # $type->2chaos-e
 
 # Class == "One Hand Maces" "Sceptres"
 Show  # $type->Elemental-gears
-	Class == "Warstaves" "Staves"
+	Class == "One Hand Maces" "Sceptres"
 	Rarity Normal Magic Rare
 	SetFontSize 40
 	SetBackgroundColor 20 30 40 255
