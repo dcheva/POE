@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <PathOfBuilding>
 	<Mode mode="BUILD">
-		<Arg string="D:\Documents/Path of Building/Builds/Affliction/DeeBerMace-18-.xml"/>
-		<Arg string="DeeBerMace-18-"/>
+		<Arg string="D:\Documents/Path of Building/Builds/Affliction/DeeBerMace-66-.xml"/>
+		<Arg string="DeeBerMace-66-"/>
 	</Mode>
 	<Accounts lastAccountName="SteamCovan" lastRealm="PC">
 		<Account accountName="SteamCovan"/>
