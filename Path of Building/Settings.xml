@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <PathOfBuilding>
 	<Mode mode="BUILD">
-		<Arg boolean="false"/>
-		<Arg string="Imported Build"/>
+		<Arg string="D:\Documents/Path of Building/Builds/DeeToto-98.xml"/>
+		<Arg string="DeeToto-98"/>
 	</Mode>
 	<Accounts lastAccountName="SteamCovan" lastRealm="PC">
 		<Account accountName="SteamCovan"/>
