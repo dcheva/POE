@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <PathOfBuilding>
 	<Mode mode="BUILD">
-		<Arg string="D:\Documents/Path of Building/Builds/DeeToto-98.xml"/>
-		<Arg string="DeeToto-98"/>
+		<Arg string="D:\Documents/Path of Building/Builds/Affliction/DeeToto-32.xml"/>
+		<Arg string="DeeToto-32"/>
 	</Mode>
 	<Accounts lastAccountName="SteamCovan" lastRealm="PC">
 		<Account accountName="SteamCovan"/>
