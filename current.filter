@@ -126,12 +126,12 @@ Show # $type->2chaos-e
 
 
 
-#\v3001---------------------------------------
-#\MaceSceptres-gears--------------------------------
+#\v3002---------------------------------------
+#\Wands-gears--------------------------------
 
-# Class == "One Hand Maces" "Sceptres"
-Show  # $type->Elemental-gears
-	Class == "One Hand Maces" "Sceptres"
+# Class == "Wands"
+Show  # $type->Wands-gears
+	Class == "Wands"
 	Rarity Normal Magic Rare
 	SetFontSize 40
 	SetBackgroundColor 20 30 40 255
@@ -142,8 +142,8 @@ Show  # $type->Elemental-gears
 	PlayEffect White
 	MinimapIcon 1 White Circle
 
-Show  # $type->Elemental-gears-Unique
-	Class == "One Hand Maces" "Sceptres"
+Show  # $type->Wands-gears-Unique
+	Class == "Wands"
 	Rarity Unique
 	SetFontSize 45
 	SetBackgroundColor 20 10 40 255
@@ -154,8 +154,8 @@ Show  # $type->Elemental-gears-Unique
 	PlayEffect Purple
 	MinimapIcon 1 Purple Circle
 
-#/MaceSceptres-gears--------------------------------
-#/v3001---------------------------------------
+#/Wands-gears--------------------------------
+#/v3002---------------------------------------
 
 
 
