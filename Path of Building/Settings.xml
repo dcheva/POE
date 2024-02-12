@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <PathOfBuilding>
 	<Mode mode="BUILD">
-		<Arg string="D:\Documents/Path of Building/Builds/Affliction/PoeCoachIV-54-plan-.xml"/>
-		<Arg string="PoeCoachIV-54-plan-"/>
+		<Arg string="D:\Documents/Path of Building/Builds/Coach/PoeCoachIV-56-plan-.xml"/>
+		<Arg string="PoeCoachIV-56-plan-"/>
 	</Mode>
 	<Accounts lastAccountName="DeeCovana" lastRealm="PC">
 		<Account accountName="DeeCovana"/>
