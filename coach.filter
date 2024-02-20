@@ -137,7 +137,7 @@ SetFontSize 40
 Class == "One Hand Axes" "One Hand Swords"
 Rarity Normal Magic
 SetBackgroundColor 0 0 0 202
-CustomAlertSound "Sounds\08metal.mp3" 300
+CustomAlertSound "Sounds\08metal.mp3" 200
 SetTextColor 230 122 255 200
 
 Show
@@ -148,7 +148,7 @@ SetFontSize 40
 Class == "One Hand Axes" "One Hand Swords"
 Rarity Normal Magic
 SetBackgroundColor 0 0 0 202
-CustomAlertSound "Sounds\07knock.mp3" 300
+CustomAlertSound "Sounds\07knock.mp3" 200
 SetTextColor 230 122 255 200
 
 Show
@@ -160,7 +160,7 @@ Class == "Body Armours" "Boots" "Gloves" "Helmets" "Shields"
 Rarity Normal Magic
 SetBackgroundColor 93 17 111 202
 LinkedSockets >= 3
-CustomAlertSound "Sounds\23item.mp3" 300
+CustomAlertSound "Sounds\24item.mp3" 200
 SetTextColor 255 255 255 202
 
 Show
@@ -172,7 +172,7 @@ Class == "Body Armours" "Boots" "Gloves" "Helmets" "Shields"
 Rarity Normal Magic
 SetBackgroundColor 93 17 111 147
 LinkedSockets >= 2
-CustomAlertSound "Sounds\24item.mp3" 300
+CustomAlertSound "Sounds\23item.mp3" 300
 SetTextColor 255 255 255 200
 
 #/coach-23L-RG-0220 FilterBlade: Conditional Entry
@@ -192,7 +192,7 @@ Show  # $type->Berserker-Shields
 	SetBorderColor 100 225 255 255
 	SetTextColor 205 225 255 255
 	# PlayAlertSound 3 300
-	CustomAlertSound "Sounds\24item.mp3" 300
+	CustomAlertSound "Sounds\24item.mp3" 200
 	PlayEffect White
 	MinimapIcon 1 White Circle
 
@@ -204,7 +204,7 @@ Show  # $type->Berserker-Shields
 	SetBorderColor 150 85 255 255
 	SetTextColor 225 125 255 255
 	# PlayAlertSound 3 300
-	CustomAlertSound "Sounds\12leveling.mp3" 300
+	CustomAlertSound "Sounds\12leveling.mp3" 200
 	PlayEffect Purple
 	MinimapIcon 1 Purple Circle
 
