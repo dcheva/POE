@@ -126,8 +126,50 @@ Show # $type->2chaos-e
 
 
 
+#\v1816--------------------------------------
+#\Berserker-Shields--------------------------
+# "Copper Tower Shield" "Cedar Tower Shield" "Splintered Tower Shield" "Colossal Tower Shield" "Rawhide Tower Shield" "Ebony Tower Shield" "Girded Tower Shield" "Reinforced Tower Shield" "Heat-attuned Tower Shield" "Ezomyte Tower Shield" "Magmatic Tower Shield" "Shagreen Tower Shield" "Bronze Tower Shield" "Mahogany Tower Shield" "Pinnacle Tower Shield" "Crested Tower Shield" "Buckskin Tower Shield" 
+Show  # $type->Berserker-Shields
+	BaseType == "Copper Tower Shield" "Cedar Tower Shield" "Splintered Tower Shield" "Colossal Tower Shield" "Rawhide Tower Shield" "Ebony Tower Shield" "Girded Tower Shield" "Reinforced Tower Shield" "Heat-attuned Tower Shield" "Ezomyte Tower Shield" "Magmatic Tower Shield" "Shagreen Tower Shield" "Bronze Tower Shield" "Mahogany Tower Shield" "Pinnacle Tower Shield" "Crested Tower Shield" "Buckskin Tower Shield" 
+	Rarity Normal Magic Rare
+	SetFontSize 40
+	SetBackgroundColor 20 30 40 255
+	SetBorderColor 100 225 255 255
+	SetTextColor 205 225 255 255
+	# PlayAlertSound 3 300
+	CustomAlertSound "Sounds\24item.mp3" 300
+	PlayEffect White
+	MinimapIcon 1 White Circle
+
+Show  # $type->Berserker-Shields
+	BaseType == "Copper Tower Shield" "Cedar Tower Shield" "Splintered Tower Shield" "Colossal Tower Shield" "Rawhide Tower Shield" "Ebony Tower Shield" "Girded Tower Shield" "Reinforced Tower Shield" "Heat-attuned Tower Shield" "Ezomyte Tower Shield" "Magmatic Tower Shield" "Shagreen Tower Shield" "Bronze Tower Shield" "Mahogany Tower Shield" "Pinnacle Tower Shield" "Crested Tower Shield" "Buckskin Tower Shield" 
+	Rarity Unique
+	SetFontSize 45
+	SetBackgroundColor 20 10 40 255
+	SetBorderColor 150 85 255 255
+	SetTextColor 225 125 255 255
+	# PlayAlertSound 3 300
+	CustomAlertSound "Sounds\12leveling.mp3" 300
+	PlayEffect Purple
+	MinimapIcon 1 Purple Circle
+
+#/Berserker-Shields--------------------------
+#/v1816--------------------------------------
+
+
+
+#\v11.25--------------------------------------
+# Changed [[3700]] Currency - Regular Currency Tiering -- added CustomAlertSound "Sounds\06money2.mp3" 300
+# Changed [3809] Trial of the Ancestors
+# ...till [[4300]]
+# -- added CustomAlertSound "Sounds\06money2.mp3" 300
+#/v11.25--------------------------------------
+
+
+
+
 #\v3002---------------------------------------
-#\Wands-gears--------------------------------
+#\Wands-gears---------------------------------
 
 # Class == "Wands"
 Show  # $type->Wands-gears
@@ -154,14 +196,14 @@ Show  # $type->Wands-gears-Unique
 	PlayEffect Purple
 	MinimapIcon 1 Purple Circle
 
-#/Wands-gears--------------------------------
+#/Wands-gears---------------------------------
 #/v3002---------------------------------------
 
 
 
 
 #\v3001---------------------------------------
-#\MaceSceptres-gears--------------------------------
+#\MaceSceptres-gears--------------------------
 
 # Class == "One Hand Maces" "Sceptres"
 Show  # $type->Elemental-gears
@@ -188,13 +230,13 @@ Show  # $type->Elemental-gears-Unique
 	PlayEffect Purple
 	MinimapIcon 1 Purple Circle
 
-#/MaceSceptres-gears--------------------------------
+#/MaceSceptres-gears--------------------------
 #/v3001---------------------------------------
 
 
 
 #\v1801---------------------------------------
-#\Staff-gears--------------------------------
+#\Staff-gears---------------------------------
 
 # Class == "Warstaves" "Staves"
 Show  # $type->Elemental-gears
@@ -221,14 +263,14 @@ Show  # $type->Elemental-gears-Unique
 	PlayEffect Purple
 	MinimapIcon 1 Purple Circle
 
-#/Staff-gears--------------------------------
+#/Staff-gears---------------------------------
 #/v1801---------------------------------------
 
 
 
 
 #\v1101---------------------------------------
-#\Elemental-gears--------------------------------
+#\Elemental-gears-----------------------------
 
 # xx% increased Elemental Damage
 # xx% increased Spell Damage
@@ -258,7 +300,7 @@ Show  # $type->Elemental-gears-Unique
 	PlayEffect Purple
 	MinimapIcon 1 Purple Circle
 
-#/Elemental-gears--------------------------------
+#/Elemental-gears-----------------------------
 #/v1101---------------------------------------
 
 
@@ -300,15 +342,6 @@ Show  # $type->SRS-gears-Unique
 
 #/SRS-gears-----------------------------------
 #/v1223---------------------------------------
-
-
-################################################################################################################
-#!!! Changed blocks contains "CustomAlertSound "Sounds/..."
-################################################################################################################
-#
-#
-
-
 
 
 
@@ -388,7 +421,7 @@ Show  # $type->Necromancers-Wands-Shields
 
 
 #\v817---------------------------------------
-#\NecroElemental-gears--------------------------------
+#\NecroElemental-gears-----------------------
 
 # Minions deal xx% increased Damage
 # "Calling Wand" "Convening Wand" "Convoking Wand" "Bone Spirit Shield" "Ivory Spirit Shield" "Fossilised Spirit Shield" "Bone Helmet"
@@ -422,7 +455,7 @@ Show  # $type->NecroElemental-gears-Unique
 	PlayEffect Purple
 	MinimapIcon 1 Purple Circle
 
-#/NecroElemental-gears--------------------------------
+#/NecroElemental-gears-----------------------
 #/v817---------------------------------------
 
 
@@ -459,12 +492,13 @@ Show  # $type->Berserker-Scepters-Shields
 
 
 
-#\v11.25--------------------------------------
+
+#\v11.25-------------------------------------
 # Changed [[3700]] Currency - Regular Currency Tiering -- added CustomAlertSound "Sounds\06money2.mp3" 300
 # Changed [3809] Trial of the Ancestors
 # ...till [[4300]]
 # -- added CustomAlertSound "Sounds\06money2.mp3" 300
-#/v11.25--------------------------------------
+#/v11.25-------------------------------------
 
 
 
