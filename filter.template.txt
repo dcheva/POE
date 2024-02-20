@@ -132,8 +132,10 @@ Show # $type->2chaos-e
 
 #\v0220--------------------------------------------
 #\coach-23L-RG-0220 FilterBlade: Conditional Entry
+
 Show
-SocketGroup "RRR" "GGG" "RGB" "RR" "GG" "R" "G"
+AreaLevel >= 1
+SocketGroup "RRR" "GGG" "RGB"
 SetBorderColor 255 190 0 202
 SetFontSize 40
 Class == "One Hand Axes" "One Hand Swords"
@@ -143,6 +145,18 @@ CustomAlertSound "Sounds\24item.mp3" 300
 SetTextColor 230 122 255 200
 
 Show
+AreaLevel <= 12
+SocketGroup "RR" "GG" "R" "G"
+SetBorderColor 255 190 0 202
+SetFontSize 40
+Class == "One Hand Axes" "One Hand Swords"
+Rarity Normal Magic
+SetBackgroundColor 0 0 0 202
+CustomAlertSound "Sounds\24item.mp3" 300
+SetTextColor 230 122 255 200
+
+Show
+AreaLevel >= 1
 Sockets >= "3GGG" "3RRR"
 SetBorderColor 255 190 0
 SetFontSize 40
@@ -154,6 +168,7 @@ CustomAlertSound "Sounds\24item.mp3" 300
 SetTextColor 255 255 255 202
 
 Show
+AreaLevel <= 12
 Sockets >= "2GG" "2RR" "2BB"
 SetBorderColor 255 190 0 147
 SetFontSize 40
