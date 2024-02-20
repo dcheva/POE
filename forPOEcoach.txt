@@ -12,4 +12,6 @@ r-r-|-r-r|r-.-r|g-g-|-g-g|g-.-g|rint|s:.+(ax|sw)
 3L+|speed+15%|Physical Damage|Axes|Swords
 r-r-|-r-r|r-.-r|g-g-|-g-g|g-.-g|rint|Glint|Heav
 
-# FilterBlade: filterblade.xyz 
+# FilterBlade: filterblade.xyz coach-23L-RG-0220.filter.txt
+#\v0220--------------------------------------------
+#\coach-23L-RG-0220 FilterBlade: Conditional Entry
