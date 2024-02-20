@@ -126,6 +126,49 @@ Show # $type->2chaos-e
 
 
 
+
+
+
+
+#\v0220--------------------------------------------
+#\coach-23L-RG-0220 FilterBlade: Conditional Entry
+Show
+SocketGroup "RRR" "GGG" "RGB" "RR" "GG" "R" "G"
+SetBorderColor 255 190 0 202
+SetFontSize 40
+Class == "One Hand Axes" "One Hand Swords"
+Rarity Normal Magic
+SetBackgroundColor 0 0 0 202
+CustomAlertSound "Sounds\24item.mp3" 300
+SetTextColor 230 122 255 200
+
+Show
+Sockets >= "3GGG" "3RRR"
+SetBorderColor 255 190 0
+SetFontSize 40
+Class == "Body Armours" "Boots" "Gloves" "Helmets" "Shields"
+Rarity Normal Magic
+SetBackgroundColor 93 17 111 202
+LinkedSockets >= 3
+CustomAlertSound "Sounds\24item.mp3" 300
+SetTextColor 255 255 255 202
+
+Show
+Sockets >= "2GG" "2RR" "2BB"
+SetBorderColor 255 190 0 147
+SetFontSize 40
+Class == "Body Armours" "Boots" "Gloves" "Helmets" "Shields"
+Rarity Normal Magic
+SetBackgroundColor 93 17 111 147
+LinkedSockets >= 2
+CustomAlertSound "Sounds\24item.mp3" 300
+SetTextColor 255 255 255 200
+#/coach-23L-RG-0220 FilterBlade: Conditional Entry
+#/v0220--------------------------------------------
+    
+
+
+
 #\v1816--------------------------------------
 #\Berserker-Shields--------------------------
 # "Copper Tower Shield" "Cedar Tower Shield" "Splintered Tower Shield" "Colossal Tower Shield" "Rawhide Tower Shield" "Ebony Tower Shield" "Girded Tower Shield" "Reinforced Tower Shield" "Heat-attuned Tower Shield" "Ezomyte Tower Shield" "Magmatic Tower Shield" "Shagreen Tower Shield" "Bronze Tower Shield" "Mahogany Tower Shield" "Pinnacle Tower Shield" "Crested Tower Shield" "Buckskin Tower Shield" 
@@ -155,6 +198,10 @@ Show  # $type->Berserker-Shields
 
 #/Berserker-Shields--------------------------
 #/v1816--------------------------------------
+
+
+
+
 
 
 

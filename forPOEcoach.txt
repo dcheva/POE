@@ -1,1 +1,15 @@
-Loot filter: 
+# Stash/Trader filter: poe.re
+
+2L+|speed+10%|Axes|Swords
+r-r|g-g|nne|s:.+(ax|sw)
+
+2L+|speed+10%|Physical Damage|Axes|Swords
+r-r|g-g|nne|Glint|Heav|s:.+(ax|sw)
+
+3L+|speed+15%|Axes|Swords
+r-r-|-r-r|r-.-r|g-g-|-g-g|g-.-g|rint|s:.+(ax|sw)
+
+3L+|speed+15%|Physical Damage|Axes|Swords
+r-r-|-r-r|r-.-r|g-g-|-g-g|g-.-g|rint|Glint|Heav
+
+# FilterBlade: filterblade.xyz 
