@@ -141,7 +141,7 @@ SetFontSize 40
 Class == "One Hand Axes" "One Hand Swords"
 Rarity Normal Magic
 SetBackgroundColor 0 0 0 202
-CustomAlertSound "Sounds\24item.mp3" 300
+CustomAlertSound "Sounds\08metal.mp3" 300
 SetTextColor 230 122 255 200
 
 Show
@@ -152,7 +152,7 @@ SetFontSize 40
 Class == "One Hand Axes" "One Hand Swords"
 Rarity Normal Magic
 SetBackgroundColor 0 0 0 202
-CustomAlertSound "Sounds\24item.mp3" 300
+CustomAlertSound "Sounds\07knock.mp3" 300
 SetTextColor 230 122 255 200
 
 Show
@@ -164,7 +164,7 @@ Class == "Body Armours" "Boots" "Gloves" "Helmets" "Shields"
 Rarity Normal Magic
 SetBackgroundColor 93 17 111 202
 LinkedSockets >= 3
-CustomAlertSound "Sounds\24item.mp3" 300
+CustomAlertSound "Sounds\23item.mp3" 300
 SetTextColor 255 255 255 202
 
 Show
@@ -178,6 +178,7 @@ SetBackgroundColor 93 17 111 147
 LinkedSockets >= 2
 CustomAlertSound "Sounds\24item.mp3" 300
 SetTextColor 255 255 255 200
+
 #/coach-23L-RG-0220 FilterBlade: Conditional Entry
 #/v0220--------------------------------------------
     
