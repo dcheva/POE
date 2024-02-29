@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <PathOfBuilding>
 	<Mode mode="BUILD">
-		<Arg string="D:\Documents/Path of Building/Builds/Level 100 LL Crit CoC Ice Spear Inquisitor.xml"/>
-		<Arg string="Level 100 LL Crit CoC Ice Spear Inquisitor"/>
+		<Arg string="D:\Documents/Path of Building/Builds/IceSpearTotem.xml"/>
+		<Arg string="IceSpearTotem"/>
 	</Mode>
 	<Accounts lastAccountName="DeeCovana" lastRealm="PC">
 		<Account accountName="DeeCovana"/>
