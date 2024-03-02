@@ -1,4 +1,13 @@
-#\8.12---------------------------------------
+#\v0303--------------------------------------
+# Changed in [3500] .. [4000]
+# -- added CustomAlertSound "Sounds\12leveling.mp3" 300 # PlayAlertSound 1
+# -- added CustomAlertSound "Sounds\24item.mp3" 300 # PlayAlertSound 2
+# -- added CustomAlertSound "Sounds\06money2.mp3" 300 # PlayAlertSound 6
+#/v0303--------------------------------------
+
+
+
+#\03.03--------------------------------------
 #\2-chaos-sets-------------------------------
 
 Show # $type->2chaos-a
@@ -121,11 +130,7 @@ Show # $type->2chaos-e
 	MinimapIcon 1 Orange Circle
 	
 #/2-chaos-sets-------------------------------
-#/8.12---------------------------------------
-
-
-
-
+#/03.03--------------------------------------
 
 
 
@@ -553,16 +558,6 @@ Show  # $type->Berserker-Scepters-Shields
 #/Berserker----------------------------------
 #/v816---------------------------------------
 
-
-
-
-#\v0220--------------------------------------
-# Changed from [3605] Stacked Currencies ...
-# Changed [[3700]] Currency - Regular Currency Tiering -- added CustomAlertSound "Sounds\06money2.mp3" 300
-# Changed [3809] Trial of the Ancestors
-# ...till [[4300]]
-# -- added CustomAlertSound "Sounds\06money2.mp3" 300
-#\v0220--------------------------------------
 
 
 
