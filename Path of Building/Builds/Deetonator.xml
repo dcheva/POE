@@ -101,9 +101,9 @@
 	<Import exportParty="false"/>
 	<Party destination="All" ShowAdvanceTools="false" append="false"/>
 	<Tree activeSpec="1">
-		<Spec masteryEffects="{44948,64875},{53188,64642},{41415,47642},{32241,34242},{32278,57179},{62506,18130},{44298,17942}" ascendClassId="3" nodes="23572,4184,39841,22577,2292,20987,23027,37999,48362,51108,53652,26481,34171,63447,49254,26196,30693,739,3554,44298,61419,41263,13164,1203,36371,35894,56158,60791,16954,18866,18174,48778,43670,26270,11730,33435,11128,1031,12783,57264,50826,24362,60547,36949,20528,64210,18715,34661,1957,29914,32241,40126,6109,33296,18060,37671,60501,7444,19103,5743,60472,52502,27137,32278,63623,57226,11200,27203,4177,10622,48719,27659,5935,34173,8135,32932,37175,21958,11420,54139,20546,60554,21929,29061,22472,55993,18574,14040,35958,19635,44948,35260,4245,46897,44184,38836,10893,12536,14936,41472,41415,44799,15064,40927,61804,54447,27929,25439,9261,44202,41190,8302,21974,27415,18309,33755,24462,53188,60388,58218,36678,25831,10031,53279,61308,11490,27611,57167,22174,6712,6770,38989,8948,21301,62506,12246,23509,7960,8198,12888" secondaryAscendClassId="3" treeVersion="3_23" classId="3">
+		<Spec masteryEffects="{44948,64875},{53188,64642},{41415,47642},{32241,34242},{32278,57179},{62506,18130},{44298,17942}" ascendClassId="3" nodes="23572,4184,39841,22577,2292,20987,23027,37999,48362,51108,53652,26481,34171,63447,49254,26196,30693,739,3554,44298,61419,41263,13164,1203,36371,35894,56158,60791,16954,18866,18174,48778,43670,26270,6712,33435,11128,1031,57167,57264,50826,24362,60547,38989,20528,64210,18715,34661,1957,29914,32241,40126,6109,33296,18060,37671,60501,7444,19103,5743,60472,52502,27137,32278,63623,57226,11200,27203,4177,10622,48719,27659,5935,34173,8135,32932,37175,21958,11420,54139,20546,60554,21929,29061,22472,55993,18574,14040,35958,19635,44948,35260,4245,46897,44184,38836,61308,33755,12536,27929,44799,11490,61804,15064,23509,11730,12783,25439,14936,9261,41190,8302,21974,27415,18309,10893,36949,54447,60388,6770,44202,25831,24462,53279,10031,58218,27611,36678,53188,12888,40927,8198,7960,21301,62506,12246,41472,41415,8948,22174" secondaryAscendClassId="nil" treeVersion="3_23" classId="3">
 			<URL>
-				https://www.pathofexile.com/passive-skill-tree/AAAABgMPiVwUEFiboVgxCPRR-1nzlG-86sek0ZRncYV799fAZmZUd-UC4w3irQrv66EvM2wEs44TjDbbXkI6SbJG_r6KqpZmni3SgpsreAQHMe_fsMaKXyrsg5BVUDD60kkbh2UHpXTaffGcvhfdghBGjJMn7FUdFEqfFm_sOM0WagF-FviH34orwGpDEFG-T2wLFy-FfR_HgKSRN1XGLJzTe1BC7IpVqXGFV8jauUiONtiMdkyzr5SJvBCVtzGsmJe0Ko0w-DpYogChx67_Otif3_FsbRljXyQtrKqg5iBuVdZrF0eFg9tfjs_E6-Tjao9GZOcnL9Af73ws4mvb309Wnho4GnKYTSL0UzX0Ki_WW9UfGCAGMlgAB0YWrQqFwn3x31t-Fv1rr5S6GqHH_ILPxEbS9Co=
+				https://www.pathofexile.com/passive-skill-tree/AAAABgMDiVwUEFiboVgxCPRR-1nzlG-86sek0ZRncYV799fAZmZUd-UC4w3irQrv66EvM2wEs44TjDbbXkI6SbJG_r6KqpZmnho4gpsreAQH30_fsMaKXyrsg5hNUDD60kkbh2UHpXTaffGcvhfdghBGjJMn7FUdFEqfFm_sOM0WagF-FviH34orwGpDEFG-T2wLFy-FfR_HgKSRN1XGLJzTe1BC7IpVqXGFV8jauUiONtiMdkyzr5SJvBCVtzGsmJe073yD2zD4bRmu_yzi8Ww62FvVLdIx72NfOlgkLaDmIG5V1msXR4UqjZBV6-QacqyqZOdfjtAfJy_jamvbj0bPxDJYn98gBh8YUzX0Ki_WogChxyL0Vp4AB0YWrQqFwn3x31t-Fv1rr5T8gs_ERtL0Kroaocc=
 			</URL>
 			<Sockets>
 				<Socket nodeId="43670" itemId="21"/>
@@ -141,7 +141,7 @@
 			<Skill mainActiveSkillCalcs="1" includeInFullDPS="true" enabled="true" slot="Body Armour" mainActiveSkill="1">
 				<Gem enableGlobal2="true" level="21" gemId="Metadata/Items/Gems/SkillGemBoneLance" variantId="BoneLance" skillId="BoneLance" quality="20" qualityId="Default" enableGlobal1="true" enabled="true" count="1" nameSpec="Unearth"/>
 				<Gem enableGlobal2="true" level="4" gemId="Metadata/Items/Gems/SupportGemAdditionalLevel" variantId="AdditionalLevelSupport" skillId="SupportAdditionalLevel" quality="0" qualityId="Default" enableGlobal1="true" enabled="true" count="1" nameSpec="Empower"/>
-				<Gem enableGlobal2="true" level="20" gemId="Metadata/Items/Gems/SupportGemArchmage" variantId="ArchmageSupport" skillId="SupportArchmage" quality="0" qualityId="Default" enableGlobal1="true" enabled="true" count="1" nameSpec="Archmage"/>
+				<Gem enableGlobal2="true" level="20" gemId="Metadata/Items/Gems/SupportGemArchmage" variantId="ArchmageSupport" skillId="SupportArchmage" quality="0" qualityId="Default" enableGlobal1="true" enabled="true" count="1" nameSpec="Archmage" skillMinion="AxisEliteSoldierHeraldOfLight"/>
 				<Gem enableGlobal2="true" level="20" gemId="Metadata/Items/Gems/SupportGemGreaterMultipleProjectiles" variantId="GreaterMultipleProjectilesSupport" skillId="SupportGreaterMultipleProjectiles" quality="0" qualityId="Default" enableGlobal1="true" enabled="true" count="1" nameSpec="Greater Multiple Projectiles"/>
 				<Gem enableGlobal2="true" level="20" gemId="Metadata/Items/Gems/SupportGemGreaterVolley" variantId="GreaterVolleySupport" skillId="SupportGreaterVolley" quality="0" qualityId="Default" enableGlobal1="true" enabled="true" count="1" nameSpec="Greater Volley"/>
 				<Gem enableGlobal2="true" level="4" gemId="Metadata/Items/Gems/SupportGemAdditionalQuality" variantId="AdditionalQualitySupport" skillId="SupportAdditionalQuality" quality="20" qualityId="Default" enableGlobal1="true" enabled="true" count="1" nameSpec="Enhance"/>
@@ -217,7 +217,7 @@
 		<Section subsection="DotsandDegens" collapsed="false" id="DamageTaken"/>
 		<Section subsection="RecoupandHitTakenOverTime" collapsed="true" id="DamageTaken"/>
 	</Calcs>
-	<TreeView searchStr="" zoomY="389" zoomLevel="3" showStatDifferences="true" zoomX="14"/>
+	<TreeView searchStr="" zoomY="954.9688" zoomLevel="7" showStatDifferences="true" zoomX="15.9264"/>
 	<Items activeItemSet="1" useSecondWeaponSet="false">
 		<Item id="1">
 			Rarity: UNIQUE
@@ -705,11 +705,11 @@ Your Offerings have 30% increased Effect on you
 	</Items>
 	<Config>
 		<Input name="enemyIsBoss" string="Pinnacle"/>
-		<Input name="conditionEnemyIgnited" boolean="true"/>
+		<Input name="conditionEnemyBleeding" boolean="true"/>
 		<Input name="conditionEnemyChilled" boolean="true"/>
 		<Input name="conditionCritRecently" boolean="true"/>
 		<Input name="brandAttachedToEnemy" boolean="true"/>
-		<Input name="conditionEnemyBleeding" boolean="true"/>
+		<Input name="conditionEnemyIgnited" boolean="true"/>
 		<Placeholder name="enemySpeed" number="700"/>
 		<Placeholder name="enemyChaosResist" number="30"/>
 		<Placeholder name="enemyLightningDamage" number="2241"/>
@@ -723,8 +723,8 @@ Your Offerings have 30% increased Effect on you
 		<Placeholder name="enemyLightningPen" number="3"/>
 		<Placeholder name="enemyLightningResist" number="50"/>
 		<Placeholder name="enemyChaosDamage" number="896"/>
-		<Placeholder name="enemyColdPen" number="3"/>
 		<Placeholder name="enemyFirePen" number="3"/>
+		<Placeholder name="enemyColdPen" number="3"/>
 		<Placeholder name="enemyDamageRollRange" number="70"/>
 		<Placeholder name="enemyArmour" number="62891"/>
 		<Placeholder name="enemyCritDamage" number="30"/>
