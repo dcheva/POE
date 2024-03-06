@@ -1,28 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <PathOfBuilding>
-	<Build level="78" targetVersion="3_0" pantheonMajorGod="None" bandit="None" className="Witch" ascendClassName="Necromancer" characterLevelAutoMode="true" mainSocketGroup="3" viewMode="TREE" pantheonMinorGod="None">
-		<PlayerStat stat="AverageHit" value="17050.732864575"/>
-		<PlayerStat stat="AverageBurstDamage" value="17050.732864575"/>
-		<PlayerStat stat="Speed" value="2.1125"/>
-		<PlayerStat stat="HitSpeed" value="1.1"/>
-		<PlayerStat stat="PreEffectiveCritChance" value="34.79"/>
-		<PlayerStat stat="CritChance" value="34.79"/>
-		<PlayerStat stat="CritMultiplier" value="3.25"/>
+	<Build level="78" targetVersion="3_0" pantheonMajorGod="None" bandit="None" className="Witch" ascendClassName="Necromancer" characterLevelAutoMode="true" mainSocketGroup="1" viewMode="TREE" pantheonMinorGod="None">
+		<PlayerStat stat="AverageHit" value="10650.000948992"/>
+		<PlayerStat stat="AverageBurstDamage" value="10650.000948992"/>
+		<PlayerStat stat="Speed" value="5.3666666666667"/>
+		<PlayerStat stat="PreEffectiveCritChance" value="22.14"/>
+		<PlayerStat stat="CritChance" value="22.14"/>
+		<PlayerStat stat="CritMultiplier" value="1.86"/>
 		<PlayerStat stat="HitChance" value="100"/>
-		<PlayerStat stat="TotalDPS" value="18755.806151033"/>
+		<PlayerStat stat="TotalDPS" value="57155.005092924"/>
 		<PlayerStat stat="TotalDot" value="0"/>
-		<PlayerStat stat="WithBleedDPS" value="18755.806151033"/>
-		<PlayerStat stat="IgniteDPS" value="6183.687345489"/>
-		<PlayerStat stat="WithIgniteDPS" value="24939.493496522"/>
-		<PlayerStat stat="WithPoisonDPS" value="18755.806151033"/>
-		<PlayerStat stat="TotalDotDPS" value="6183.687345489"/>
+		<PlayerStat stat="WithBleedDPS" value="57155.005092924"/>
+		<PlayerStat stat="IgniteDPS" value="3825.338671342"/>
+		<PlayerStat stat="WithIgniteDPS" value="60980.343764266"/>
+		<PlayerStat stat="WithPoisonDPS" value="57155.005092924"/>
+		<PlayerStat stat="TotalDotDPS" value="3825.338671342"/>
 		<PlayerStat stat="CullingDPS" value="0"/>
 		<PlayerStat stat="ReservationDPS" value="0"/>
-		<PlayerStat stat="CombinedDPS" value="24939.493496522"/>
-		<PlayerStat stat="AreaOfEffectRadiusMetres" value="2.1"/>
-		<PlayerStat stat="ManaCost" value="52"/>
+		<PlayerStat stat="CombinedDPS" value="60980.343764266"/>
+		<PlayerStat stat="ManaCost" value="27"/>
 		<PlayerStat stat="ManaPercentCost" value="0"/>
-		<PlayerStat stat="ManaPerSecondCost" value="109.85"/>
+		<PlayerStat stat="ManaPerSecondCost" value="144.9"/>
 		<PlayerStat stat="ManaPercentPerSecondCost" value="0"/>
 		<PlayerStat stat="LifeCost" value="0"/>
 		<PlayerStat stat="LifePercentCost" value="0"/>
@@ -103,9 +101,9 @@
 	<Import lastAccountHash="c6bbc6269d7238cf4aee89dd0c4fdf1c10094ede" lastRealm="PC" exportParty="false" lastCharacterHash="d0ffe1ecc2be15fcaaf499b9bb6d6402ebad0636"/>
 	<Party destination="All" ShowAdvanceTools="false" append="false"/>
 	<Tree activeSpec="1">
-		<Spec masteryEffects="{13862,64875},{24481,6630},{39836,28638},{12125,47642},{34723,29652},{34927,6216},{44298,48385}" ascendClassId="3" nodes="4184,19103,54447,60472,61804,63623,4105,44955,22174,27203,4432,10622,127,26481,11659,27659,12888,42795,12125,49254,60501,8198,4177,12783,21958,4367,8948,26196,11420,12536,61320,739,60554,3554,18866,44298,15365,29061,54694,15064,22472,13164,55993,7503,15711,18574,24481,14040,14936,19635,21075,56158,41263,13862,61308,60791,16954,4245,27611,18174,1203,38900,11784,48778,37999,35233,44184,11490,26270,8135,4397,33435,11128,60989,20528,30225,44799,57167,57264,50826,24362,31875,60547,29199,13009,38989,41190,34171,33755,12913,34927,18309,63039,34173,60388,18715,10893,34723,24462,27929,34661,1957,29914,39836,43670,17735,9261,48719,35260,1031,51108,41472,33296,48362,60398,37671" secondaryAscendClassId="3" treeVersion="3_23" classId="3">
+		<Spec masteryEffects="{13862,64875},{24481,6630},{39836,28638},{12125,47642},{34723,29652},{34927,6216},{44298,48385}" ascendClassId="3" nodes="4184,19103,54447,60472,61804,63623,4105,44955,22174,27203,4432,10622,127,26481,11659,27659,12888,42795,12125,49254,61308,8198,60501,48362,21958,33296,41472,8948,13862,12536,61320,739,60554,3554,51108,44298,1031,41263,54694,35260,22472,13164,55993,1203,15711,18574,24481,14040,48719,19635,9261,56158,4367,43670,39836,60791,16954,4245,29914,18174,11490,26270,27929,48778,24462,35233,44184,60989,38900,10893,31875,33435,11128,14936,60547,30225,44799,12783,57264,50826,24362,34173,4397,29199,13009,38989,20528,34171,18309,12913,34927,33755,63039,41190,60388,18715,57167,34723,15365,8135,34661,1957,27611,37999,4177,17735,21075,7503,15064,29061,18866,11420,11784,26196,60398,37671" secondaryAscendClassId="3" treeVersion="3_23" classId="3">
 			<URL>
-				https://www.pathofexile.com/passive-skill-tree/AAAABgMPcRBYSp_sOPFs-IcQCa-bVp5qQxFQAH9ncS2LbAsyWKcrL13AZuxVIAYQUTHvVcYRDyL0ZlQsnDD474gC4-yKDeJJsq0KPAVxhdWmOthXyDNs2rkdTz1fSI5foTbYOlhMs1JT216hLzYm73xCOhCVa9tG_gSzl_QuCL6KlG-JoayYLOJmnh_HES2Cmyt47j1QMHYRrv_fT9-wxopfKnyD7INyDzLRmE2g5oV7g9sycYhvR4X2P4V96-RJGyqNh6Nfjm0Zh2UHpXTam5yqlkVHJC2-T4m8BAfHpKIAghC86uvukycAB7oaL129Aa0KGeZfof1rNiYYSIhvc9SHo2_em5w=
+				https://www.pathofexile.com/passive-skill-tree/AAAABgMPcRBYSp_sOPFs-IcQCa-bVp5qQxFQAH9ncS2LbAsyWKcrL13AZu98IAbsVbzqVcaCEKIAIvQ2JjD474gC4-yKDeLHpK0KBAehL9WmibxXyDNs2rkEsz1fSI5foTbYvk9MsyQt214RD6qWm5xCOhCVdNpG_iziZp5tGb6KX46JoayY7j2X9CqNfIOCmyt4Oljsg3YRrv8x79-wxopfKoV9ES1yDzLRmE1QMIV7R4UycYhvg9v2P6Dm6-RJG99Ph6M8BR_Hh2UHpWvblG8QUUVHUlMdTzrYcYVJsiycLghmVOvukycAB7oaL139azYmvQGtChnmX6Fv3pucGEiIb3PUh6M=
 			</URL>
 			<Sockets>
 				<Socket nodeId="43670" itemId="21"/>
@@ -732,12 +730,12 @@ Grants Immunity to Freeze for 7 seconds if used while Frozen
 	<Config>
 		<Placeholder name="enemySpeed" number="700"/>
 		<Placeholder name="enemyCritChance" number="5"/>
-		<Placeholder name="enemyArmour" number="26117"/>
+		<Placeholder name="enemyPhysicalDamage" number="921"/>
 		<Placeholder name="enemyCritDamage" number="30"/>
 		<Placeholder name="enemyDamageRollRange" number="70"/>
 		<Placeholder name="multiplierWitheredStackCountSelf" number="15"/>
-		<Placeholder name="sigilOfPowerStages" number="1"/>
+		<Placeholder name="enemyArmour" number="26117"/>
 		<Placeholder name="enemyEvasion" number="6667"/>
-		<Placeholder name="enemyPhysicalDamage" number="921"/>
+		<Placeholder name="sigilOfPowerStages" number="1"/>
 	</Config>
 </PathOfBuilding>
