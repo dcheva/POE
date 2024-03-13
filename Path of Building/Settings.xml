@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <PathOfBuilding>
-	<Mode mode="BUILD">
-		<Arg string="D:\Documents/Path of Building/Builds/Deetonator 78.xml"/>
-		<Arg string="Deetonator 78"/>
+	<Mode mode="LIST">
+		<Arg boolean="false"/>
+		<Arg string=""/>
 	</Mode>
 	<Accounts lastAccountName="SteamCovan" lastRealm="PC">
 		<Account accountName="DeeCovana"/>
