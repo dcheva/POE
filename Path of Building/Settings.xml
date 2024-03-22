@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <PathOfBuilding>
-	<Mode mode="LIST">
-		<Arg boolean="false"/>
-		<Arg string=""/>
+	<Mode mode="BUILD">
+		<Arg string="D:\Documents/Path of Building/Builds/EleIIIXXIVproto73.xml"/>
+		<Arg string="EleIIIXXIVproto73"/>
 	</Mode>
 	<Accounts lastAccountName="SteamCovan" lastRealm="PC">
 		<Account accountName="DeeCovana"/>
