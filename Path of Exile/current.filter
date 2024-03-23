@@ -13,7 +13,7 @@ SocketGroup "BBR"
 SetBorderColor 255 56 0 255
 SetFontSize 35
 Class == "Helmets" "Gloves" "Boots" "Body Armours" "Shields" "Wands"
-Rarity Normal Magic
+Rarity Normal Magic Rare
 SetTextColor 255 255 255 255
 SetBackgroundColor 0 0 128 255
 PlayAlertSound 10 300
@@ -28,7 +28,7 @@ SocketGroup "BBB"
 SetBorderColor 113 189 255 255
 SetFontSize 35
 Class == "Helmets" "Gloves" "Boots" "Body Armours" "Shields" "Wands"
-Rarity Normal Magic
+Rarity Normal Magic Rare
 SetTextColor 255 255 255 255
 SetBackgroundColor 0 0 128 255
 MinimapIcon 0 Blue Triangle
@@ -38,7 +38,6 @@ LinkedSockets = 3
 AreaLevel <= 22
 
 
-
 # Act 3+
 # FilterBlade: Conditional Entry
 Show
@@ -46,7 +45,7 @@ SocketGroup "BBBR"
 SetBorderColor 255 56 0 255
 SetFontSize 35
 Class == "Helmets" "Gloves" "Boots" "Body Armours" "Shields" "Wands"
-Rarity Normal Magic
+Rarity Normal Magic Rare
 SetTextColor 255 255 255 255
 SetBackgroundColor 0 0 128 255
 PlayAlertSound 10 300
@@ -60,7 +59,7 @@ SocketGroup "BBRR"
 SetBorderColor 255 56 0 255
 SetFontSize 35
 Class == "Helmets" "Gloves" "Boots" "Body Armours" "Shields" "Wands"
-Rarity Normal Magic
+Rarity Normal Magic Rare
 SetTextColor 255 255 255 255
 SetBackgroundColor 0 0 128 255
 PlayAlertSound 10 300
@@ -74,7 +73,7 @@ SocketGroup "BBRR"
 SetBorderColor 255 56 0 255
 SetFontSize 35
 Class == "Helmets" "Gloves" "Boots" "Body Armours" "Shields" "Wands"
-Rarity Normal Magic
+Rarity Normal Magic Rare
 SetTextColor 255 255 255 255
 SetBackgroundColor 0 0 128 255
 PlayAlertSound 10 300
@@ -88,7 +87,7 @@ SocketGroup "BBBB"
 SetBorderColor 113 189 255 255
 SetFontSize 35
 Class == "Helmets" "Gloves" "Boots" "Body Armours" "Shields" "Wands"
-Rarity Normal Magic
+Rarity Normal Magic Rare
 SetTextColor 255 255 255 255
 SetBackgroundColor 0 0 128 255
 MinimapIcon 0 Blue Triangle
@@ -105,7 +104,7 @@ SocketGroup "BBBRR"
 SetBorderColor 255 56 0 255
 SetFontSize 35
 Class == "Body Armours"
-Rarity Normal Magic
+Rarity Normal Magic Rare
 SetTextColor 255 255 255 255
 SetBackgroundColor 0 0 128 255
 PlayAlertSound 10 300
@@ -119,7 +118,7 @@ SocketGroup "BBBBRR"
 SetBorderColor 255 56 0 255
 SetFontSize 35
 Class == "Body Armours"
-Rarity Normal Magic
+Rarity Normal Magic Rare
 SetTextColor 255 255 255 255
 SetBackgroundColor 0 0 128 255
 PlayAlertSound 10 300
