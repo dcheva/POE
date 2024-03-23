@@ -10029,4 +10029,3 @@ Show # $type->anyremaining $tier->restex
 	PlayAlertSound 3 300
 	PlayEffect Pink
 	MinimapIcon 0 Pink Circle
-
