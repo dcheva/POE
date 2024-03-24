@@ -4,11 +4,11 @@
 		<Arg string="D:\Documents/Path of Building/Builds/EleIIIXXIVproto73.xml"/>
 		<Arg string="EleIIIXXIVproto73"/>
 	</Mode>
-	<Accounts lastAccountName="SteamCovan" lastRealm="PC">
-		<Account accountName="DeeCovana"/>
+	<Accounts lastRealm="PC" lastAccountName="SteamCovan">
 		<Account accountName="SteamCovan"/>
+		<Account accountName="DeeCovana"/>
 		<Account accountName="alpen46"/>
 	</Accounts>
 	<SharedItems/>
-	<Misc betaTest="false" connectionProtocol="nil" colorNegative="^xDD0022" thousandsSeparator="," showThousandsSeparators="true" colorPositive="^x33FF77" buildSortMode="NAME" invertSliderScrollDirection="false" showTitlebarName="true" POESESSID="b5eba6e9f3a4977be9fa7b5752fe3807" disableDevAutoSave="false" colorHighlight="^xFF0000" slotOnlyTooltips="true" defaultCharLevel="1" showWarnings="true" decimalSeparator="." defaultItemAffixQuality="0.5" nodePowerTheme="RED/BLUE" defaultGemQuality="0"/>
+	<Misc decimalSeparator="." defaultItemAffixQuality="0.5" showTitlebarName="true" showWarnings="true" slotOnlyTooltips="true" POESESSID="b5eba6e9f3a4977be9fa7b5752fe3807" connectionProtocol="nil" buildSortMode="NAME" nodePowerTheme="RED/BLUE" colorHighlight="^xFF0000" colorPositive="^x33FF77" invertSliderScrollDirection="false" colorNegative="^xDD0022" betaTest="false" defaultGemQuality="0" defaultCharLevel="1" showThousandsSeparators="true" thousandsSeparator="," disableDevAutoSave="false"/>
 </PathOfBuilding>
