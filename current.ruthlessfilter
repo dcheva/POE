@@ -9562,12 +9562,12 @@ Show # %D4 $type->leveling->normalmagic->act1 $tier->boots
 	SetBackgroundColor 20 20 0 255
 
 Show # %D4 $type->leveling->normalmagic->act1 $tier->quivers
-	Rarity Normal Magic
+	Rarity Magic
 	Class == "Quivers"
 	AreaLevel <= 16
 	SetFontSize 40
 	SetBorderColor 0 150 0 255
-	SetBackgroundColor 4 67 4 210
+	SetBackgroundColor 20 20 0 255
 
 Show # %D4 $type->leveling->normalmagic->act1 $tier->physical
 	Rarity Normal Magic
@@ -9606,7 +9606,7 @@ Show # %D4 $type->leveling->normalmagic->act1 $tier->jewellery
 # !! Waypoint c11.leveling.actlater.all : "Leveling - Normal and Magic - Later Acts"
 
 Show # %D2 $type->leveling->normalmagic->otheracts $tier->highphysquivers
-	Rarity Normal Magic
+	Rarity Magic
 	BaseType == "Broadhead Arrow Quiver" "Heavy Arrow Quiver"
 	SetFontSize 35
 	SetBorderColor 100 100 100 150
