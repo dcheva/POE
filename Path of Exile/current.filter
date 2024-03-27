@@ -41,6 +41,34 @@ AreaLevel <= 22
 # Act 3+
 # FilterBlade: Conditional Entry
 Show
+SocketGroup "BBR"
+SetBorderColor 255 56 0 255
+SetFontSize 35
+Class == "Shields" "Wands"
+Rarity Normal Magic Rare
+SetTextColor 255 255 255 255
+SetBackgroundColor 0 0 128 255
+PlayAlertSound 10 300
+MinimapIcon 0 Blue Triangle
+PlayEffect Blue Temp
+LinkedSockets = 3
+
+# FilterBlade: Conditional Entry
+Show
+SocketGroup "BBB"
+SetBorderColor 113 189 255 255
+SetFontSize 35
+Class == "Shields" "Wands"
+Rarity Normal Magic Rare
+SetTextColor 255 255 255 255
+SetBackgroundColor 0 0 128 255
+MinimapIcon 0 Blue Triangle
+PlayEffect Blue Temp
+PlayAlertSound 10 300
+LinkedSockets = 3
+
+# FilterBlade: Conditional Entry
+Show
 SocketGroup "BBBR"
 SetBorderColor 255 56 0 255
 SetFontSize 35
