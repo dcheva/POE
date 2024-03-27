@@ -4,11 +4,11 @@
 		<Arg string="D:\Documents/Path of Building/Builds/Purifying Flame of Revelations 71.xml"/>
 		<Arg string="Purifying Flame of Revelations 71"/>
 	</Mode>
-	<Accounts lastAccountName="SteamCovan" lastRealm="PC">
-		<Account accountName="DeeCovana"/>
-		<Account accountName="SteamCovan"/>
+	<Accounts lastRealm="PC" lastAccountName="SteamCovan">
 		<Account accountName="alpen46"/>
+		<Account accountName="SteamCovan"/>
+		<Account accountName="DeeCovana"/>
 	</Accounts>
 	<SharedItems/>
-	<Misc defaultItemAffixQuality="0.5" showTitlebarName="true" showWarnings="true" slotOnlyTooltips="true" POESESSID="b5eba6e9f3a4977be9fa7b5752fe3807" buildSortMode="NAME" invertSliderScrollDirection="false" nodePowerTheme="RED/BLUE" betaTest="false" connectionProtocol="nil" defaultCharLevel="1" colorNegative="^xDD0022" disableDevAutoSave="false" colorHighlight="^xFF0000" showThousandsSeparators="true" thousandsSeparator="," colorPositive="^x33FF77" decimalSeparator="." defaultGemQuality="0"/>
+	<Misc nodePowerTheme="RED/BLUE" colorPositive="^x33FF77" connectionProtocol="nil" colorNegative="^xDD0022" colorHighlight="^xFF0000" showThousandsSeparators="true" thousandsSeparator="," betaTest="false" defaultGemQuality="0" defaultCharLevel="1" defaultItemAffixQuality="0.5" showTitlebarName="true" showWarnings="true" slotOnlyTooltips="true" POESESSID="b5eba6e9f3a4977be9fa7b5752fe3807" disableDevAutoSave="false" invertSliderScrollDirection="false" decimalSeparator="." buildSortMode="NAME"/>
 </PathOfBuilding>
