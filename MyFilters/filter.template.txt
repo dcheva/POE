@@ -1,4 +1,168 @@
-#\8.12---------------------------------------
+#\v0324--------------------------------------
+# Changed in [3500] .. [4000]
+# -- added CustomAlertSound "Sounds\12leveling.mp3" 300 # PlayAlertSound 1
+# -- added CustomAlertSound "Sounds\24item.mp3" 300 # PlayAlertSound 2
+# -- added CustomAlertSound "Sounds\06money2.mp3" 300 # PlayAlertSound 6
+#/v0324--------------------------------------
+
+
+#\\v0324 Witch Burn--------------------------------------
+
+
+# Act 1-2
+# FilterBlade: Conditional Entry
+Show
+SocketGroup "BBR"
+SetBorderColor 255 56 0 255
+SetFontSize 35
+Class == "Helmets" "Gloves" "Boots" "Body Armours" "Shields" "Wands"
+Rarity Normal Magic Rare
+SetTextColor 255 255 255 255
+SetBackgroundColor 0 0 128 255
+PlayAlertSound 10 300
+MinimapIcon 0 Blue Triangle
+PlayEffect Blue Temp
+LinkedSockets = 3
+AreaLevel <= 22
+
+# FilterBlade: Conditional Entry
+Show
+SocketGroup "BBB"
+SetBorderColor 113 189 255 255
+SetFontSize 35
+Class == "Helmets" "Gloves" "Boots" "Body Armours" "Shields" "Wands"
+Rarity Normal Magic Rare
+SetTextColor 255 255 255 255
+SetBackgroundColor 0 0 128 255
+MinimapIcon 0 Blue Triangle
+PlayEffect Blue Temp
+PlayAlertSound 10 300
+LinkedSockets = 3
+AreaLevel <= 22
+
+
+# Act 3+
+# FilterBlade: Conditional Entry
+Show
+SocketGroup "BBR"
+SetBorderColor 255 56 0 255
+SetFontSize 35
+Class == "Shields" "Wands"
+Rarity Normal Magic Rare
+SetTextColor 255 255 255 255
+SetBackgroundColor 0 0 128 255
+PlayAlertSound 10 300
+MinimapIcon 0 Blue Triangle
+PlayEffect Blue Temp
+LinkedSockets = 3
+
+# FilterBlade: Conditional Entry
+Show
+SocketGroup "BBB"
+SetBorderColor 113 189 255 255
+SetFontSize 35
+Class == "Shields" "Wands"
+Rarity Normal Magic Rare
+SetTextColor 255 255 255 255
+SetBackgroundColor 0 0 128 255
+MinimapIcon 0 Blue Triangle
+PlayEffect Blue Temp
+PlayAlertSound 10 300
+LinkedSockets = 3
+
+# FilterBlade: Conditional Entry
+Show
+SocketGroup "BBBR"
+SetBorderColor 255 56 0 255
+SetFontSize 35
+Class == "Helmets" "Gloves" "Boots" "Body Armours" "Shields" "Wands"
+Rarity Normal Magic Rare
+SetTextColor 255 255 255 255
+SetBackgroundColor 0 0 128 255
+PlayAlertSound 10 300
+MinimapIcon 0 Blue Triangle
+PlayEffect Blue Temp
+LinkedSockets = 4
+
+# FilterBlade: Conditional Entry
+Show
+SocketGroup "BBRR"
+SetBorderColor 255 56 0 255
+SetFontSize 35
+Class == "Helmets" "Gloves" "Boots" "Body Armours" "Shields" "Wands"
+Rarity Normal Magic Rare
+SetTextColor 255 255 255 255
+SetBackgroundColor 0 0 128 255
+PlayAlertSound 10 300
+MinimapIcon 0 Blue Triangle
+PlayEffect Blue Temp
+LinkedSockets = 4
+
+# FilterBlade: Conditional Entry
+Show
+SocketGroup "BBRR"
+SetBorderColor 255 56 0 255
+SetFontSize 35
+Class == "Helmets" "Gloves" "Boots" "Body Armours" "Shields" "Wands"
+Rarity Normal Magic Rare
+SetTextColor 255 255 255 255
+SetBackgroundColor 0 0 128 255
+PlayAlertSound 10 300
+MinimapIcon 0 Blue Triangle
+PlayEffect Blue Temp
+LinkedSockets = 4
+
+# FilterBlade: Conditional Entry
+Show
+SocketGroup "BBBB"
+SetBorderColor 113 189 255 255
+SetFontSize 35
+Class == "Helmets" "Gloves" "Boots" "Body Armours" "Shields" "Wands"
+Rarity Normal Magic Rare
+SetTextColor 255 255 255 255
+SetBackgroundColor 0 0 128 255
+MinimapIcon 0 Blue Triangle
+PlayEffect Blue Temp
+PlayAlertSound 10 300
+LinkedSockets = 4
+
+
+
+# Main gear
+# FilterBlade: Conditional Entry
+Show
+SocketGroup "BBBRR"
+SetBorderColor 255 56 0 255
+SetFontSize 35
+Class == "Body Armours"
+Rarity Normal Magic Rare
+SetTextColor 255 255 255 255
+SetBackgroundColor 0 0 128 255
+PlayAlertSound 10 300
+MinimapIcon 0 Blue Triangle
+PlayEffect Blue Temp
+LinkedSockets >= 5
+
+# FilterBlade: Conditional Entry
+Show
+SocketGroup "BBBBRR"
+SetBorderColor 255 56 0 255
+SetFontSize 35
+Class == "Body Armours"
+Rarity Normal Magic Rare
+SetTextColor 255 255 255 255
+SetBackgroundColor 0 0 128 255
+PlayAlertSound 10 300
+MinimapIcon 0 Blue Triangle
+PlayEffect Blue Temp
+LinkedSockets >= 5
+
+
+#//v0324 Witch Burn--------------------------------------
+
+
+
+#\03.03--------------------------------------
 #\2-chaos-sets-------------------------------
 
 Show # $type->2chaos-a
@@ -14,7 +178,7 @@ Show # $type->2chaos-a
 	ItemLevel <= 85
 	SetFontSize 40
 	CustomAlertSound "Sounds\1maybevaluable.mp3" 300 # Sounds\6veryvaluable.mp3
-	#PlayAlertSound 4 200
+	# PlayAlertSound 4 200
 	PlayEffect Orange
 	MinimapIcon 1 Orange Circle	
 	
@@ -31,7 +195,7 @@ Show # $type->2chaos-b
 	ItemLevel <= 85
 	SetFontSize 40
 	CustomAlertSound "Sounds\1maybevaluable.mp3" 300
-	#PlayAlertSound 4 200
+	# PlayAlertSound 4 200
 	PlayEffect Orange
 	MinimapIcon 1 Orange Circle
 	
@@ -48,7 +212,7 @@ Show # $type->2chaos-c
 	ItemLevel <= 85
 	SetFontSize 40
 	CustomAlertSound "Sounds\02coin.mp3" 300
-	#PlayAlertSound 4 200
+	# PlayAlertSound 4 200
 	PlayEffect Orange
 	MinimapIcon 1 Orange Circle	
 	
@@ -65,7 +229,7 @@ Show # $type->2chaos-d
 	ItemLevel <= 85
 	SetFontSize 40
 	CustomAlertSound "Sounds\04cointojar.mp3" 300
-	#PlayAlertSound 4 200
+	# PlayAlertSound 4 200
 	PlayEffect Orange
 	MinimapIcon 1 Orange Circle
 	
@@ -82,7 +246,7 @@ Show # $type->2chaos-d
 	ItemLevel <= 85
 	SetFontSize 40
 	CustomAlertSound "Sounds\04cointojar.mp3" 300
-	#PlayAlertSound 4 200
+	# PlayAlertSound 4 200
 	PlayEffect Orange
 	MinimapIcon 1 Orange Circle
 	
@@ -99,7 +263,7 @@ Show # $type->2chaos-d
 	ItemLevel <= 85
 	SetFontSize 40
 	CustomAlertSound "Sounds\04cointojar.mp3" 300
-	#PlayAlertSound 4 200
+	# PlayAlertSound 4 200
 	PlayEffect Orange
 	MinimapIcon 1 Orange Circle
 	
@@ -115,13 +279,253 @@ Show # $type->2chaos-e
 	ItemLevel >= 60
 	ItemLevel <= 74
 	SetFontSize 40
-	#PlayAlertSound 4 200
+	# PlayAlertSound 4 200
 	CustomAlertSound "Sounds\03coinshake.mp3" 300
 	PlayEffect Orange
 	MinimapIcon 1 Orange Circle
 	
 #/2-chaos-sets-------------------------------
-#/8.12---------------------------------------
+#/03.03--------------------------------------
+
+
+
+
+#\v0220--------------------------------------------
+#\coach-23L-RG-0220 FilterBlade: Conditional Entry
+
+Show
+AreaLevel >= 1
+SocketGroup "RRR" "GGG" "RGB"
+SetBorderColor 255 190 0 202
+SetFontSize 40
+Class == "One Hand Axes" "One Hand Swords"
+Rarity Normal Magic
+SetBackgroundColor 0 0 0 202
+CustomAlertSound "Sounds\08metal.mp3" 300
+SetTextColor 230 122 255 200
+
+Show
+AreaLevel <= 12
+SocketGroup "RR" "GG" "R" "G"
+SetBorderColor 255 190 0 202
+SetFontSize 40
+Class == "One Hand Axes" "One Hand Swords"
+Rarity Normal Magic
+SetBackgroundColor 0 0 0 202
+CustomAlertSound "Sounds\07knock.mp3" 300
+SetTextColor 230 122 255 200
+
+Show
+AreaLevel >= 1
+Sockets >= "3GGG" "3RRR"
+SetBorderColor 255 190 0
+SetFontSize 40
+Class == "Body Armours" "Boots" "Gloves" "Helmets" "Shields"
+Rarity Normal Magic
+SetBackgroundColor 93 17 111 202
+LinkedSockets >= 3
+CustomAlertSound "Sounds\24item.mp3" 300
+SetTextColor 255 255 255 202
+
+Show
+AreaLevel <= 12
+Sockets >= "2GG" "2RR" "2BB"
+SetBorderColor 255 190 0 147
+SetFontSize 40
+Class == "Body Armours" "Boots" "Gloves" "Helmets" "Shields"
+Rarity Normal Magic
+SetBackgroundColor 93 17 111 147
+LinkedSockets >= 2
+CustomAlertSound "Sounds\23item.mp3" 300
+SetTextColor 255 255 255 200
+
+#/coach-23L-RG-0220 FilterBlade: Conditional Entry
+#/v0220--------------------------------------------
+    
+
+
+
+#\v1816--------------------------------------
+#\Berserker-Shields--------------------------
+# "Copper Tower Shield" "Cedar Tower Shield" "Splintered Tower Shield" "Colossal Tower Shield" "Rawhide Tower Shield" "Ebony Tower Shield" "Girded Tower Shield" "Reinforced Tower Shield" "Heat-attuned Tower Shield" "Ezomyte Tower Shield" "Magmatic Tower Shield" "Shagreen Tower Shield" "Bronze Tower Shield" "Mahogany Tower Shield" "Pinnacle Tower Shield" "Crested Tower Shield" "Buckskin Tower Shield" 
+Show  # $type->Berserker-Shields
+	BaseType == "Copper Tower Shield" "Cedar Tower Shield" "Splintered Tower Shield" "Colossal Tower Shield" "Rawhide Tower Shield" "Ebony Tower Shield" "Girded Tower Shield" "Reinforced Tower Shield" "Heat-attuned Tower Shield" "Ezomyte Tower Shield" "Magmatic Tower Shield" "Shagreen Tower Shield" "Bronze Tower Shield" "Mahogany Tower Shield" "Pinnacle Tower Shield" "Crested Tower Shield" "Buckskin Tower Shield" 
+	Rarity Normal Magic Rare
+	SetFontSize 40
+	SetBackgroundColor 20 30 40 255
+	SetBorderColor 100 225 255 255
+	SetTextColor 205 225 255 255
+	# PlayAlertSound 3 300
+	CustomAlertSound "Sounds\24item.mp3" 300
+	PlayEffect White
+	MinimapIcon 1 White Circle
+
+Show  # $type->Berserker-Shields
+	BaseType == "Copper Tower Shield" "Cedar Tower Shield" "Splintered Tower Shield" "Colossal Tower Shield" "Rawhide Tower Shield" "Ebony Tower Shield" "Girded Tower Shield" "Reinforced Tower Shield" "Heat-attuned Tower Shield" "Ezomyte Tower Shield" "Magmatic Tower Shield" "Shagreen Tower Shield" "Bronze Tower Shield" "Mahogany Tower Shield" "Pinnacle Tower Shield" "Crested Tower Shield" "Buckskin Tower Shield" 
+	Rarity Unique
+	SetFontSize 45
+	SetBackgroundColor 20 10 40 255
+	SetBorderColor 150 85 255 255
+	SetTextColor 225 125 255 255
+	# PlayAlertSound 3 300
+	CustomAlertSound "Sounds\12leveling.mp3" 300
+	PlayEffect Purple
+	MinimapIcon 1 Purple Circle
+
+#/Berserker-Shields--------------------------
+#/v1816--------------------------------------
+
+
+
+
+
+
+
+#\v11.25--------------------------------------
+# Changed [[3700]] Currency - Regular Currency Tiering -- added CustomAlertSound "Sounds\06money2.mp3" 300
+# Changed [3809] Trial of the Ancestors
+# ...till [[4300]]
+# -- added CustomAlertSound "Sounds\06money2.mp3" 300
+#/v11.25--------------------------------------
+
+
+
+
+#\v3002---------------------------------------
+#\Wands-gears---------------------------------
+
+# Class == "Wands"
+Show  # $type->Wands-gears
+	Class == "Wands"
+	Rarity Normal Magic Rare
+	SetFontSize 40
+	SetBackgroundColor 20 30 40 255
+	SetBorderColor 100 225 255 255
+	SetTextColor 205 225 255 255
+	# PlayAlertSound 3 300
+	CustomAlertSound "Sounds\24item.mp3" 300
+	PlayEffect White
+	MinimapIcon 1 White Circle
+
+Show  # $type->Wands-gears-Unique
+	Class == "Wands"
+	Rarity Unique
+	SetFontSize 45
+	SetBackgroundColor 20 10 40 255
+	SetBorderColor 150 85 255 255
+	SetTextColor 225 125 255 255
+	# PlayAlertSound 3 300
+	CustomAlertSound "Sounds\12leveling.mp3" 300
+	PlayEffect Purple
+	MinimapIcon 1 Purple Circle
+
+#/Wands-gears---------------------------------
+#/v3002---------------------------------------
+
+
+
+
+#\v3001---------------------------------------
+#\MaceSceptres-gears--------------------------
+
+# Class == "One Hand Maces" "Sceptres"
+Show  # $type->Elemental-gears
+	Class == "One Hand Maces" "Sceptres"
+	Rarity Normal Magic Rare
+	SetFontSize 40
+	SetBackgroundColor 20 30 40 255
+	SetBorderColor 100 225 255 255
+	SetTextColor 205 225 255 255
+	# PlayAlertSound 3 300
+	CustomAlertSound "Sounds\24item.mp3" 300
+	PlayEffect White
+	MinimapIcon 1 White Circle
+
+Show  # $type->Elemental-gears-Unique
+	Class == "One Hand Maces" "Sceptres"
+	Rarity Unique
+	SetFontSize 45
+	SetBackgroundColor 20 10 40 255
+	SetBorderColor 150 85 255 255
+	SetTextColor 225 125 255 255
+	# PlayAlertSound 3 300
+	CustomAlertSound "Sounds\12leveling.mp3" 300
+	PlayEffect Purple
+	MinimapIcon 1 Purple Circle
+
+#/MaceSceptres-gears--------------------------
+#/v3001---------------------------------------
+
+
+
+#\v1801---------------------------------------
+#\Staff-gears---------------------------------
+
+# Class == "Warstaves" "Staves"
+Show  # $type->Elemental-gears
+	Class == "Warstaves" "Staves"
+	Rarity Normal Magic Rare
+	SetFontSize 40
+	SetBackgroundColor 20 30 40 255
+	SetBorderColor 100 225 255 255
+	SetTextColor 205 225 255 255
+	# PlayAlertSound 3 300
+	CustomAlertSound "Sounds\24item.mp3" 300
+	PlayEffect White
+	MinimapIcon 1 White Circle
+
+Show  # $type->Elemental-gears-Unique
+	Class == "Warstaves" "Staves"
+	Rarity Unique
+	SetFontSize 45
+	SetBackgroundColor 20 10 40 255
+	SetBorderColor 150 85 255 255
+	SetTextColor 225 125 255 255
+	# PlayAlertSound 3 300
+	CustomAlertSound "Sounds\12leveling.mp3" 300
+	PlayEffect Purple
+	MinimapIcon 1 Purple Circle
+
+#/Staff-gears---------------------------------
+#/v1801---------------------------------------
+
+
+
+
+#\v1101---------------------------------------
+#\Elemental-gears-----------------------------
+
+# xx% increased Elemental Damage
+# xx% increased Spell Damage
+# "Darkwood Sceptre" "Platinum Sceptre" "Stag Sceptre" "Blood Sceptre" "Quartz Sceptre" "Ochre Sceptre" "Bronze Sceptre" "Iron Sceptre" "Ritual Sceptre" "Abyssal Sceptre" "Grinning Fetish" "Driftwood Sceptre" "Tyrant's Sekhem" "Vaal Sceptre" "Shadow Sceptre" "Karui Sceptre" "Opal Sceptre" "Royal Sceptre" "Void Sceptre" "Crystal Sceptre" "Carnal Sceptre" "Sekhem" "Lead Sceptre"
+
+Show  # $type->Elemental-gears
+	BaseType == "Darkwood Sceptre" "Platinum Sceptre" "Stag Sceptre" "Blood Sceptre" "Quartz Sceptre" "Ochre Sceptre" "Bronze Sceptre" "Iron Sceptre" "Ritual Sceptre" "Abyssal Sceptre" "Grinning Fetish" "Driftwood Sceptre" "Tyrant's Sekhem" "Vaal Sceptre" "Shadow Sceptre" "Karui Sceptre" "Opal Sceptre" "Royal Sceptre" "Void Sceptre" "Crystal Sceptre" "Carnal Sceptre" "Sekhem" "Lead Sceptre"
+	Rarity Rare 
+	SetFontSize 40
+	SetBackgroundColor 20 30 40 255
+	SetBorderColor 100 225 255 255
+	SetTextColor 205 225 255 255
+	# PlayAlertSound 3 300
+	CustomAlertSound "Sounds\24item.mp3" 300
+	PlayEffect White
+	MinimapIcon 1 White Circle
+
+Show  # $type->Elemental-gears-Unique
+	BaseType == "Darkwood Sceptre" "Platinum Sceptre" "Stag Sceptre" "Blood Sceptre" "Quartz Sceptre" "Ochre Sceptre" "Bronze Sceptre" "Iron Sceptre" "Ritual Sceptre" "Abyssal Sceptre" "Grinning Fetish" "Driftwood Sceptre" "Tyrant's Sekhem" "Vaal Sceptre" "Shadow Sceptre" "Karui Sceptre" "Opal Sceptre" "Royal Sceptre" "Void Sceptre" "Crystal Sceptre" "Carnal Sceptre" "Sekhem" "Lead Sceptre"
+	Rarity Unique
+	SetFontSize 45
+	SetBackgroundColor 20 10 40 255
+	SetBorderColor 150 85 255 255
+	SetTextColor 225 125 255 255
+	# PlayAlertSound 3 300
+	CustomAlertSound "Sounds\12leveling.mp3" 300
+	PlayEffect Purple
+	MinimapIcon 1 Purple Circle
+
+#/Elemental-gears-----------------------------
+#/v1101---------------------------------------
+
 
 
 
@@ -143,7 +547,7 @@ Show  # $type->SRS-gears
 	SetBorderColor 0 240 190 255
 	SetBackgroundColor 47 0 74 255
 	CustomAlertSound "Sounds\24item.mp3" 300
-	#PlayAlertSound 3 300
+	# PlayAlertSound 3 300
 	PlayEffect Orange
 	MinimapIcon 1 Orange Diamond
 
@@ -155,21 +559,12 @@ Show  # $type->SRS-gears-Unique
 	SetBorderColor 0 240 190 255
 	SetBackgroundColor 47 0 74 255
 	CustomAlertSound "Sounds\12leveling.mp3"
-	#PlayAlertSound 3 300
+	# PlayAlertSound 3 300
 	PlayEffect Purple
 	MinimapIcon 1 Purple Diamond
 
 #/SRS-gears-----------------------------------
 #/v1223---------------------------------------
-
-
-################################################################################################################
-#!!! Changed blocks contains "CustomAlertSound "Sounds/..."
-################################################################################################################
-#
-#
-
-
 
 
 
@@ -189,7 +584,7 @@ Show  # $type->Handy-staff
 	SetBackgroundColor 20 30 40 255
 	SetBorderColor 100 225 255 255
 	SetTextColor 205 225 255 255
-	#PlayAlertSound 3 300
+	# PlayAlertSound 3 300
 	CustomAlertSound "Sounds\24item.mp3" 300
 	PlayEffect White
 	MinimapIcon 1 White Circle
@@ -201,7 +596,7 @@ Show  # $type->Handy-staff
 	SetBackgroundColor 20 10 40 255
 	SetBorderColor 150 85 255 255
 	SetTextColor 225 125 255 255
-	#PlayAlertSound 3 300
+	# PlayAlertSound 3 300
 	CustomAlertSound "Sounds\12leveling.mp3" 300
 	PlayEffect Purple
 	MinimapIcon 1 Purple Circle
@@ -226,7 +621,7 @@ Show  # $type->Necromancers-Wands-Shields
 	SetBackgroundColor 20 30 40 255
 	SetBorderColor 100 225 255 255
 	SetTextColor 205 225 255 255
-	#PlayAlertSound 3 300
+	# PlayAlertSound 3 300
 	CustomAlertSound "Sounds\24item.mp3" 300
 	PlayEffect White
 	MinimapIcon 1 White Circle
@@ -238,7 +633,7 @@ Show  # $type->Necromancers-Wands-Shields
 	SetBackgroundColor 20 10 40 255
 	SetBorderColor 150 85 255 255
 	SetTextColor 225 125 255 255
-	#PlayAlertSound 3 300
+	# PlayAlertSound 3 300
 	CustomAlertSound "Sounds\12leveling.mp3" 300
 	PlayEffect Purple
 	MinimapIcon 1 Purple Circle
@@ -249,7 +644,7 @@ Show  # $type->Necromancers-Wands-Shields
 
 
 #\v817---------------------------------------
-#\NecroElemental-gears--------------------------------
+#\NecroElemental-gears-----------------------
 
 # Minions deal xx% increased Damage
 # "Calling Wand" "Convening Wand" "Convoking Wand" "Bone Spirit Shield" "Ivory Spirit Shield" "Fossilised Spirit Shield" "Bone Helmet"
@@ -266,7 +661,7 @@ Show  # $type->NecroElemental-gears
 	SetBackgroundColor 20 30 40 255
 	SetBorderColor 100 225 255 255
 	SetTextColor 205 225 255 255
-	#PlayAlertSound 3 300
+	# PlayAlertSound 3 300
 	CustomAlertSound "Sounds\24item.mp3" 300
 	PlayEffect White
 	MinimapIcon 1 White Circle
@@ -278,12 +673,12 @@ Show  # $type->NecroElemental-gears-Unique
 	SetBackgroundColor 20 10 40 255
 	SetBorderColor 150 85 255 255
 	SetTextColor 225 125 255 255
-	#PlayAlertSound 3 300
+	# PlayAlertSound 3 300
 	CustomAlertSound "Sounds\12leveling.mp3" 300
 	PlayEffect Purple
 	MinimapIcon 1 Purple Circle
 
-#/NecroElemental-gears--------------------------------
+#/NecroElemental-gears-----------------------
 #/v817---------------------------------------
 
 
@@ -298,7 +693,7 @@ Show  # $type->Berserker-Scepters-Shields
 	SetBackgroundColor 20 30 40 255
 	SetBorderColor 100 225 255 255
 	SetTextColor 205 225 255 255
-	#PlayAlertSound 3 300
+	# PlayAlertSound 3 300
 	CustomAlertSound "Sounds\24item.mp3" 300
 	PlayEffect White
 	MinimapIcon 1 White Circle
@@ -310,7 +705,7 @@ Show  # $type->Berserker-Scepters-Shields
 	SetBackgroundColor 20 10 40 255
 	SetBorderColor 150 85 255 255
 	SetTextColor 225 125 255 255
-	#PlayAlertSound 3 300
+	# PlayAlertSound 3 300
 	CustomAlertSound "Sounds\12leveling.mp3" 300
 	PlayEffect Purple
 	MinimapIcon 1 Purple Circle
@@ -318,14 +713,6 @@ Show  # $type->Berserker-Scepters-Shields
 #/Berserker----------------------------------
 #/v816---------------------------------------
 
-
-
-#\v11.25--------------------------------------
-# Changed [[3700]] Currency - Regular Currency Tiering -- added CustomAlertSound "Sounds\06money2.mp3" 300
-# Changed [3809] Trial of the Ancestors
-# ...till [[4300]]
-# -- added CustomAlertSound "Sounds\06money2.mp3" 300
-#/v11.25--------------------------------------
 
 
 

@@ -1,9 +1,164 @@
-#\v0303--------------------------------------
+#\v0324--------------------------------------
 # Changed in [3500] .. [4000]
 # -- added CustomAlertSound "Sounds\12leveling.mp3" 300 # PlayAlertSound 1
 # -- added CustomAlertSound "Sounds\24item.mp3" 300 # PlayAlertSound 2
 # -- added CustomAlertSound "Sounds\06money2.mp3" 300 # PlayAlertSound 6
-#/v0303--------------------------------------
+#/v0324--------------------------------------
+
+
+#\\v0324 Witch Burn--------------------------------------
+
+
+# Act 1-2
+# FilterBlade: Conditional Entry
+Show
+SocketGroup "BBR"
+SetBorderColor 255 56 0 255
+SetFontSize 35
+Class == "Helmets" "Gloves" "Boots" "Body Armours" "Shields" "Wands"
+Rarity Normal Magic Rare
+SetTextColor 255 255 255 255
+SetBackgroundColor 0 0 128 255
+PlayAlertSound 10 300
+MinimapIcon 0 Blue Triangle
+PlayEffect Blue Temp
+LinkedSockets = 3
+AreaLevel <= 22
+
+# FilterBlade: Conditional Entry
+Show
+SocketGroup "BBB"
+SetBorderColor 113 189 255 255
+SetFontSize 35
+Class == "Helmets" "Gloves" "Boots" "Body Armours" "Shields" "Wands"
+Rarity Normal Magic Rare
+SetTextColor 255 255 255 255
+SetBackgroundColor 0 0 128 255
+MinimapIcon 0 Blue Triangle
+PlayEffect Blue Temp
+PlayAlertSound 10 300
+LinkedSockets = 3
+AreaLevel <= 22
+
+
+# Act 3+
+# FilterBlade: Conditional Entry
+Show
+SocketGroup "BBR"
+SetBorderColor 255 56 0 255
+SetFontSize 35
+Class == "Shields" "Wands"
+Rarity Normal Magic Rare
+SetTextColor 255 255 255 255
+SetBackgroundColor 0 0 128 255
+PlayAlertSound 10 300
+MinimapIcon 0 Blue Triangle
+PlayEffect Blue Temp
+LinkedSockets = 3
+
+# FilterBlade: Conditional Entry
+Show
+SocketGroup "BBB"
+SetBorderColor 113 189 255 255
+SetFontSize 35
+Class == "Shields" "Wands"
+Rarity Normal Magic Rare
+SetTextColor 255 255 255 255
+SetBackgroundColor 0 0 128 255
+MinimapIcon 0 Blue Triangle
+PlayEffect Blue Temp
+PlayAlertSound 10 300
+LinkedSockets = 3
+
+# FilterBlade: Conditional Entry
+Show
+SocketGroup "BBBR"
+SetBorderColor 255 56 0 255
+SetFontSize 35
+Class == "Helmets" "Gloves" "Boots" "Body Armours" "Shields" "Wands"
+Rarity Normal Magic Rare
+SetTextColor 255 255 255 255
+SetBackgroundColor 0 0 128 255
+PlayAlertSound 10 300
+MinimapIcon 0 Blue Triangle
+PlayEffect Blue Temp
+LinkedSockets = 4
+
+# FilterBlade: Conditional Entry
+Show
+SocketGroup "BBRR"
+SetBorderColor 255 56 0 255
+SetFontSize 35
+Class == "Helmets" "Gloves" "Boots" "Body Armours" "Shields" "Wands"
+Rarity Normal Magic Rare
+SetTextColor 255 255 255 255
+SetBackgroundColor 0 0 128 255
+PlayAlertSound 10 300
+MinimapIcon 0 Blue Triangle
+PlayEffect Blue Temp
+LinkedSockets = 4
+
+# FilterBlade: Conditional Entry
+Show
+SocketGroup "BBRR"
+SetBorderColor 255 56 0 255
+SetFontSize 35
+Class == "Helmets" "Gloves" "Boots" "Body Armours" "Shields" "Wands"
+Rarity Normal Magic Rare
+SetTextColor 255 255 255 255
+SetBackgroundColor 0 0 128 255
+PlayAlertSound 10 300
+MinimapIcon 0 Blue Triangle
+PlayEffect Blue Temp
+LinkedSockets = 4
+
+# FilterBlade: Conditional Entry
+Show
+SocketGroup "BBBB"
+SetBorderColor 113 189 255 255
+SetFontSize 35
+Class == "Helmets" "Gloves" "Boots" "Body Armours" "Shields" "Wands"
+Rarity Normal Magic Rare
+SetTextColor 255 255 255 255
+SetBackgroundColor 0 0 128 255
+MinimapIcon 0 Blue Triangle
+PlayEffect Blue Temp
+PlayAlertSound 10 300
+LinkedSockets = 4
+
+
+
+# Main gear
+# FilterBlade: Conditional Entry
+Show
+SocketGroup "BBBRR"
+SetBorderColor 255 56 0 255
+SetFontSize 35
+Class == "Body Armours"
+Rarity Normal Magic Rare
+SetTextColor 255 255 255 255
+SetBackgroundColor 0 0 128 255
+PlayAlertSound 10 300
+MinimapIcon 0 Blue Triangle
+PlayEffect Blue Temp
+LinkedSockets >= 5
+
+# FilterBlade: Conditional Entry
+Show
+SocketGroup "BBBBRR"
+SetBorderColor 255 56 0 255
+SetFontSize 35
+Class == "Body Armours"
+Rarity Normal Magic Rare
+SetTextColor 255 255 255 255
+SetBackgroundColor 0 0 128 255
+PlayAlertSound 10 300
+MinimapIcon 0 Blue Triangle
+PlayEffect Blue Temp
+LinkedSockets >= 5
+
+
+#//v0324 Witch Burn--------------------------------------
 
 
 

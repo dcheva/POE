@@ -1,15 +1,15 @@
-#\v03.25--------------------------------------
-# Changed in [3500] .. [4500]
-# -- added CustomAlertSound "Sounds\12leveling.mp3" 300 # PlayAlertSound 1 
-# -- added CustomAlertSound "Sounds\24item.mp3" 300 # PlayAlertSound 2 
-# -- added CustomAlertSound "Sounds\06money2.mp3" 300 # PlayAlertSound 6 
-#/v03.25--------------------------------------
+#\v0324--------------------------------------
+# Changed in [3500] .. [4000]
+# -- added CustomAlertSound "Sounds\12leveling.mp3" 300 # PlayAlertSound 1
+# -- added CustomAlertSound "Sounds\24item.mp3" 300 # PlayAlertSound 2
+# -- added CustomAlertSound "Sounds\06money2.mp3" 300 # PlayAlertSound 6
+#/v0324--------------------------------------
 
 
-#\\v03.25
+#\\v0324 Witch Burn--------------------------------------
 
 
-# Witch Blues Act 1-2
+# Act 1-2
 # FilterBlade: Conditional Entry
 Show
 SocketGroup "BBR"
@@ -41,7 +41,35 @@ LinkedSockets = 3
 AreaLevel <= 22
 
 
-# Witch Blues Act 3+
+# Act 3+
+# FilterBlade: Conditional Entry
+Show
+SocketGroup "BBR"
+SetBorderColor 255 56 0 255
+SetFontSize 35
+Class == "Shields" "Wands"
+Rarity Normal Magic Rare
+SetTextColor 255 255 255 255
+SetBackgroundColor 0 0 128 255
+PlayAlertSound 10 300
+MinimapIcon 0 Blue Triangle
+PlayEffect Blue Temp
+LinkedSockets = 3
+
+# FilterBlade: Conditional Entry
+Show
+SocketGroup "BBB"
+SetBorderColor 113 189 255 255
+SetFontSize 35
+Class == "Shields" "Wands"
+Rarity Normal Magic Rare
+SetTextColor 255 255 255 255
+SetBackgroundColor 0 0 128 255
+MinimapIcon 0 Blue Triangle
+PlayEffect Blue Temp
+PlayAlertSound 10 300
+LinkedSockets = 3
+
 # FilterBlade: Conditional Entry
 Show
 SocketGroup "BBBR"
@@ -100,7 +128,7 @@ LinkedSockets = 4
 
 
 
-# Witch Blues Main gear
+# Main gear
 # FilterBlade: Conditional Entry
 Show
 SocketGroup "BBBRR"
@@ -130,6 +158,7 @@ PlayEffect Blue Temp
 LinkedSockets >= 5
 
 
-#//v03.25
+#//v0324 Witch Burn--------------------------------------
+
 
 
