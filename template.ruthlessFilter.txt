@@ -1,8 +1,8 @@
 #\v0324--------------------------------------
 # Changed in [3500] .. [4000]
-# -- added CustomAlertSound "Sounds\12leveling.mp3" 300 # PlayAlertSound 1
-# -- added CustomAlertSound "Sounds\24item.mp3" 300 # PlayAlertSound 2
-# -- added CustomAlertSound "Sounds\06money2.mp3" 300 # PlayAlertSound 6
+# -- added CustomAlertSound "Sounds\12leveling.mp3" 300 # PlayAlertSound 1 
+# -- added CustomAlertSound "Sounds\24item.mp3" 300 # PlayAlertSound 2 
+# -- added CustomAlertSound "Sounds\06money2.mp3" 300 # PlayAlertSound 6 
 #/v0324--------------------------------------
 
 
