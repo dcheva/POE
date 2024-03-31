@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <PathOfBuilding>
-	<Build level="70" targetVersion="3_0" pantheonMajorGod="None" bandit="None" className="Witch" ascendClassName="Elementalist" characterLevelAutoMode="false" mainSocketGroup="11" viewMode="TREE" pantheonMinorGod="None">
-		<PlayerStat stat="AverageHit" value="57867.50445"/>
-		<PlayerStat stat="AverageBurstDamage" value="57867.50445"/>
+	<Build level="66" targetVersion="3_0" pantheonMajorGod="None" bandit="None" className="Witch" ascendClassName="Elementalist" characterLevelAutoMode="true" mainSocketGroup="11" viewMode="TREE" pantheonMinorGod="None">
+		<PlayerStat stat="AverageHit" value="57948.011849125"/>
+		<PlayerStat stat="AverageBurstDamage" value="57948.011849125"/>
 		<PlayerStat stat="Speed" value="1.9142857142857"/>
 		<PlayerStat stat="PreEffectiveCritChance" value="25.2"/>
 		<PlayerStat stat="CritChance" value="25.2"/>
 		<PlayerStat stat="CritMultiplier" value="1"/>
 		<PlayerStat stat="HitChance" value="100"/>
-		<PlayerStat stat="TotalDPS" value="110774.93709"/>
+		<PlayerStat stat="TotalDPS" value="110929.05125404"/>
 		<PlayerStat stat="TotalDot" value="0"/>
-		<PlayerStat stat="WithBleedDPS" value="110774.93709"/>
+		<PlayerStat stat="WithBleedDPS" value="110929.05125404"/>
 		<PlayerStat stat="IgniteDPS" value="139960.14115441"/>
-		<PlayerStat stat="WithIgniteDPS" value="250735.07824441"/>
-		<PlayerStat stat="WithPoisonDPS" value="110774.93709"/>
+		<PlayerStat stat="WithIgniteDPS" value="250889.19240845"/>
+		<PlayerStat stat="WithPoisonDPS" value="110929.05125404"/>
 		<PlayerStat stat="TotalDotDPS" value="139960.14115441"/>
 		<PlayerStat stat="CullingDPS" value="0"/>
 		<PlayerStat stat="ReservationDPS" value="0"/>
-		<PlayerStat stat="CombinedDPS" value="250735.07824441"/>
+		<PlayerStat stat="CombinedDPS" value="250889.19240845"/>
 		<PlayerStat stat="ManaCost" value="45"/>
 		<PlayerStat stat="ManaPercentCost" value="0"/>
 		<PlayerStat stat="ManaPerSecondCost" value="86.142857142857"/>
@@ -38,24 +38,24 @@
 		<PlayerStat stat="Int" value="306"/>
 		<PlayerStat stat="ReqInt" value="179"/>
 		<PlayerStat stat="Devotion" value="0"/>
-		<PlayerStat stat="TotalEHP" value="4301.589398696"/>
-		<PlayerStat stat="PhysicalMaximumHitTaken" value="2609"/>
-		<PlayerStat stat="LightningMaximumHitTaken" value="8908"/>
-		<PlayerStat stat="FireMaximumHitTaken" value="8908"/>
-		<PlayerStat stat="ColdMaximumHitTaken" value="8908"/>
-		<PlayerStat stat="ChaosMaximumHitTaken" value="1455"/>
-		<PlayerStat stat="Life" value="1775"/>
+		<PlayerStat stat="TotalEHP" value="5457.0281194696"/>
+		<PlayerStat stat="PhysicalMaximumHitTaken" value="2538"/>
+		<PlayerStat stat="LightningMaximumHitTaken" value="8628"/>
+		<PlayerStat stat="FireMaximumHitTaken" value="8628"/>
+		<PlayerStat stat="ColdMaximumHitTaken" value="8628"/>
+		<PlayerStat stat="ChaosMaximumHitTaken" value="1398"/>
+		<PlayerStat stat="Life" value="1705"/>
 		<PlayerStat stat="Spec:LifeInc" value="35"/>
-		<PlayerStat stat="LifeUnreserved" value="1775"/>
-		<PlayerStat stat="LifeRecoverable" value="1775"/>
+		<PlayerStat stat="LifeUnreserved" value="1705"/>
+		<PlayerStat stat="LifeRecoverable" value="1705"/>
 		<PlayerStat stat="LifeUnreservedPercent" value="100"/>
-		<PlayerStat stat="LifeRegenRecovery" value="219.6"/>
+		<PlayerStat stat="LifeRegenRecovery" value="218.6"/>
 		<PlayerStat stat="LifeLeechGainRate" value="0"/>
-		<PlayerStat stat="Mana" value="965"/>
+		<PlayerStat stat="Mana" value="933"/>
 		<PlayerStat stat="Spec:ManaInc" value="35"/>
-		<PlayerStat stat="ManaUnreserved" value="143"/>
-		<PlayerStat stat="ManaUnreservedPercent" value="14.818652849741"/>
-		<PlayerStat stat="ManaRegenRecovery" value="70.5"/>
+		<PlayerStat stat="ManaUnreserved" value="125"/>
+		<PlayerStat stat="ManaUnreservedPercent" value="13.397642015005"/>
+		<PlayerStat stat="ManaRegenRecovery" value="69.7"/>
 		<PlayerStat stat="ManaLeechGainRate" value="0"/>
 		<PlayerStat stat="EnergyShield" value="452"/>
 		<PlayerStat stat="EnergyShieldRecoveryCap" value="452"/>
@@ -70,7 +70,7 @@
 		<PlayerStat stat="ProjectileEvadeChance" value="0"/>
 		<PlayerStat stat="Armour" value="2243"/>
 		<PlayerStat stat="Spec:ArmourInc" value="0"/>
-		<PlayerStat stat="PhysicalDamageReduction" value="25"/>
+		<PlayerStat stat="PhysicalDamageReduction" value="42"/>
 		<PlayerStat stat="BlockChance" value="23"/>
 		<PlayerStat stat="SpellBlockChance" value="32"/>
 		<PlayerStat stat="AttackDodgeChance" value="0"/>
@@ -99,23 +99,23 @@
 	<Import lastAccountHash="c6bbc6269d7238cf4aee89dd0c4fdf1c10094ede" lastRealm="PC" exportParty="false" lastCharacterHash="dffafb3cb6e1a764bafbab3e578b8b070e104601"/>
 	<Party destination="All" ShowAdvanceTools="false" append="false"/>
 	<Tree activeSpec="1">
-		<Spec masteryEffects="{13862,64875},{13387,17942},{40271,65020},{12125,47642},{39836,28638},{34927,6216},{47294,1251}" title="imported" ascendClassId="2" nodes="4184,40644,40291,54447,61804,46896,33783,57226,48362,27203,34423,25970,42760,41635,12125,53123,14021,21958,19501,13862,38849,739,48118,21575,4973,3656,22088,9864,35894,19635,47294,5296,7938,24067,18866,5456,18174,55332,5129,4367,60989,35233,44184,32710,60501,58998,44983,56158,11128,33755,50826,49651,11924,10153,57264,31462,42686,42649,40366,13387,40271,27709,20528,39836,13559,12913,34927,11420,63039,14040,49515,18715,9769,6785,20852,15117,34661,1957,16023,12738,8135,24050,28887,27038,885,14936,4502,12852,33296,10893,24324,1031" secondaryAscendClassId="0" treeVersion="3_24" classId="3">
+		<Spec masteryEffects="{13862,64875},{13387,17942},{40271,65020},{12125,47642},{39836,28638},{34927,6216},{47294,1251}" title="imported" ascendClassId="2" nodes="4184,40644,40291,54447,61804,46896,33783,57226,48362,27203,34423,25970,42760,41635,12125,53123,14021,21958,58998,19501,13862,38849,739,48118,21575,10153,4973,56158,3656,22088,9864,35894,19635,47294,5296,7938,4367,24067,18866,5456,18174,55332,5129,60989,35233,44184,32710,60501,44983,11128,33755,50826,49651,11924,57264,31462,42686,42649,40366,13387,40271,27709,20528,39836,13559,12913,34927,11420,63039,14040,49515,18715,9769,6785,20852,15117,34661,1957,16023,12738,8135,24050,28887,27038,885,14936,4502,12852,33296,10893,24324,1031" secondaryAscendClassId="0" treeVersion="3_24" classId="3">
 			<URL>
-				https://www.pathofexile.com/passive-skill-tree/AAAABgMCWhBYnsSdY_FstzCD99-KvOpqQ4Z3ZXKnCKKjL13PgzbFVcZMLTYml8EC47v2VEcTbQ5IVkgmiIw2TLO4vhSwHwJeA0myFVBG_tgkFAkRD-49iaGsmH_G7FXmdq-3214reIPbxorB8y6UJ6nfsHrmpr6mmZ2uNEudT2w9UDCbnDT3MnGIbyyc9j822MFrSRsmKRqBUXQ7DYdlB6Uxwh_HXfJw12meA3U6WBGWMjSCECqNXwQEBwAHuhovXf1rNiYE47i-RhY0S_38nU9v3pucGEiIbw==
+				https://www.pathofexile.com/passive-skill-tree/AAAABgMCWhBYnsSdY_FstzCD99-KvOpqQ4Z3ZXKnCKKjL13PgzbFVcbmdkwtNiaXwQLju_ZURyepE23bXg5IVkgmiIw2TLO4vhSwHwIRD14DSbIVUEb-2CQUCe49iaGsmH_G7FWvtyt4g9vGisHzLpTfsHrmpr6mmZ2uNEudT2w9UDCbnDT3MnGIbyyc9j822MFrSRsmKRqBUXQ7DYdlB6Uxwh_HXfJw12meA3U6WBGWMjSCECqNXwQEBwAHuhovXf1rNiYE47i-RhY0S_38nU9v3pucGEiIbw==
 			</URL>
 			<Sockets/>
 			<Overrides/>
 		</Spec>
-		<Spec masteryEffects="{13862,64875},{39836,28638},{47294,1251},{40271,65020},{34927,6216},{857,29586},{12125,47642},{13387,17942}" title="lvl 72 Acts" ascendClassId="2" nodes="40644,40291,7444,5743,61804,46896,33783,48362,27203,34423,25970,61653,41635,12125,53123,14021,21958,19501,11420,6052,38849,4917,857,48118,21575,10893,11924,47294,64210,42686,38190,4973,44184,4367,3656,49651,10153,9864,35894,19635,44983,56158,5296,14040,18769,21934,24324,36774,5456,18174,15117,55332,5129,8135,39836,35233,1822,32710,58998,22088,42760,34661,11128,33755,24067,40366,50826,57264,31462,14936,40271,4397,13387,27709,36678,12913,20528,4502,34927,58218,63039,885,49515,18715,13559,6785,20852,9769,12738,42649,16023,13862,24050,28887,27038,54447,17579,60501,12852,33296,7938,60989,1031" secondaryAscendClassId="nil" treeVersion="3_24" classId="3">
+		<Spec masteryEffects="{13862,64875},{39836,28638},{47294,1251},{40271,65020},{34927,6216},{857,29586},{12125,47642},{13387,17942}" title="lvl 72 Acts" ascendClassId="2" nodes="40644,40291,5743,61804,46896,33783,48362,27203,34423,25970,61653,41635,12125,53123,6764,14021,21958,9386,14057,19501,11420,6052,38849,4917,857,48118,21575,10893,11924,47294,42686,38190,4973,44184,4367,3656,49651,10153,9864,35894,19635,44983,56158,5296,14040,18769,21934,24324,36774,5456,18174,15117,55332,5129,8135,39836,35233,1822,32710,58998,22088,42760,34661,11128,33755,24067,40366,50826,57264,31462,14936,40271,4397,13387,27709,12913,20528,4502,34927,58218,63039,885,49515,18715,13559,6785,20852,9769,12738,42649,16023,13862,24050,28887,27038,54447,17579,60501,12852,33296,7938,60989,1031" secondaryAscendClassId="nil" treeVersion="3_24" classId="3">
 			<URL>
-				https://www.pathofexile.com/passive-skill-tree/AAAABgMCZZ7EnWMdFBZv8Wy3MIP3vOpqQ4Z3ZXLw1aKjL13PgzbFVcZMLSycF6SXwRM1A1m79lRHKo0ulLi--tKmvpUuE22smBEPDkjB8yepJoiMNkyzr7fbXhSwNthJUVWuXwSPphVQRv47DdgkFAkfx5uciaEHHn_G5nZWSKcIh2UreIPbXgOdrsaK37B65jpYnU8RLTRLbD2PRjJxUDARlohv42r2PwN1wWtJGzT3GoFRdCYpMcKmmTYmXfJw12meRKvsVTI0ghAfAu49BAcACLoaL11zkgNZBOO4vm_em5z9_J1PRhY0SxhIiG_9azYm
+				https://www.pathofexile.com/passive-skill-tree/AAAABgMCZZ7EnWMWb_FstzCD97zqakOGd2Vy8NWioy9dz4MabDbFVcYkqjbpTC0snBekl8ETNQNZu_ZURyqNLpS4vqa-lS4TbayYEQ8OSMHzJ6kmiIw2TLOvt9teFLA22ElRVa5fBI-mFVBG_jsN2CQUCR_Hm5yJoQcef8bmdlZIpwiHZSt4g9teA52uxorfsHrmOlidTxEtNEtsPTJxUDARlohv42r2PwN1wWtJGzT3GoFRdCYpMcKmmTYmXfJw12meRKvsVTI0ghAfAu49BAcACLoaL11zkgNZBOO4vm_em5z9_J1PRhY0SxhIiG_9azYm
 			</URL>
 			<Sockets/>
 			<Overrides/>
 		</Spec>
-		<Spec masteryEffects="{13862,64875},{13387,17942},{40271,65020},{12125,47642},{39836,28638},{34927,6216},{47294,1251}" title="lvl 92 Plan" ascendClassId="2" nodes="4184,40644,40291,54447,61804,46896,33783,48362,34423,34171,14021,13862,38849,48118,21575,37569,4973,3656,35894,56158,7938,24067,34098,18174,55332,5129,32710,26270,36542,33435,11128,60989,40366,57264,50826,4397,13387,27709,20528,27575,12913,49515,18715,20852,34661,24050,58998,12852,60398,60501,31153,5743,60472,27203,41472,25970,42760,34173,12125,53123,8198,21958,19501,11420,12536,61471,29061,55993,31875,22088,9864,19635,47294,5296,26866,24324,9769,35233,44184,38190,10893,7444,4367,14936,49651,15117,44799,15064,31462,18769,16023,37999,29199,44347,13559,1031,1822,4502,34927,64210,63039,36678,40271,885,11924,6785,58218,44983,12738,33755,6052,42649,14040,10153,28887,61653,39836,13164,42686,4917,8135,27038,41635" secondaryAscendClassId="nil" treeVersion="3_24" classId="3">
+		<Spec masteryEffects="{13862,64875},{13387,17942},{40271,65020},{12125,47642},{39836,28638},{34927,6216},{47294,1251}" title="lvl 92 Plan" ascendClassId="2" nodes="4184,40644,40291,54447,61804,46896,33783,48362,34423,34171,14021,13862,38849,48118,21575,37569,4973,3656,35894,56158,7938,24067,34098,18174,55332,5129,32710,26270,36542,33435,11128,60989,40366,57264,50826,4397,13387,27709,20528,27575,12913,49515,18715,20852,34661,24050,58998,12852,60398,60501,31153,5743,60472,27203,41472,25970,42760,34173,12125,53123,8198,21958,19501,11420,12536,61471,29061,55993,31875,22088,9864,19635,47294,5296,26866,24324,9769,14057,6764,35233,44184,38190,10893,4367,14936,49651,15117,44799,15064,9386,31462,18769,16023,37999,29199,44347,13559,1031,1822,4502,34927,64210,63039,40271,885,11924,6785,58218,44983,12738,33755,6052,42649,14040,10153,28887,61653,39836,13164,42686,4917,8135,27038,41635" secondaryAscendClassId="nil" treeVersion="3_24" classId="3">
 			<URL>
-				https://www.pathofexile.com/passive-skill-tree/AAAABgMCeRBYnsSdY_FstzCD97zqhneFezbFNiaXwbv2VEeSwRNtDkiMNtteHwJeA4UyRv7YJBQJf8Zmno6-gpsreO49na7fsMaKES00S2w9UDBrtzJxwWtJG1F0h2Vd8uZ2MjTr7uxVebEWb-w4akOiAGVypwiFfS9dz4MgBlXGTC0snDD48B9xhdq5fINWSCaITLO4vhSwaPJfBCYpiaGsmJUuKo0dFBEPOljB8zsNrv862HrmSVGUb3IPrTs09wQHBx4Rlohv-tL2P49GnU8DdS6UGoHjaq-3McKD2xekppk22CepcNfw1ZucM2ymvhM1H8dpnqKjAAf9azYmRhY0S7oaL10E47i-GEiIb_38nU9v3puc
+				https://www.pathofexile.com/passive-skill-tree/AAAABgMCehBYnsSdY_FstzCD97zqhneFezbFNiaXwbv2VEeSwRNtDkiMNtteHwJeA4UyRv7YJBQJf8Zmno6-gpsreO49na7fsMaKES00S2w9UDBrtzJxwWtJG1F0h2Vd8uZ2MjTr7uxVebEWb-w4akOiAGVypwiFfS9dz4MgBlXGTC0snDD48B9xhdq5fINWSCaITLO4vhSwaPJfBCYpNukabImhrJiVLiqNEQ86WMHzOw2u_zrYJKp65klRlG9yD607NPcEBwceEZaIb_rS9j-dTwN1LpQageNqr7cxwoPbF6SmmTbYJ6lw1_DVm5wzbKa-EzUfx2meoqMAB_1rNiZGFjRLuhovXQTjuL4YSIhv_fydT2_em5w=
 			</URL>
 			<Sockets/>
 			<Overrides/>
@@ -646,12 +646,12 @@ Reflects 9 Physical Damage to Melee Attackers
 		<Input name="conditionEnemyShocked" boolean="true"/>
 		<Placeholder name="enemySpeed" number="700"/>
 		<Placeholder name="enemyCritChance" number="5"/>
-		<Placeholder name="enemyArmour" number="44591"/>
+		<Placeholder name="enemyDamageRollRange" number="70"/>
 		<Placeholder name="enemyCritDamage" number="30"/>
 		<Placeholder name="sigilOfPowerStages" number="1"/>
 		<Placeholder name="multiplierWitheredStackCountSelf" number="15"/>
-		<Placeholder name="enemyDamageRollRange" number="70"/>
-		<Placeholder name="enemyEvasion" number="8388"/>
-		<Placeholder name="enemyPhysicalDamage" number="1294"/>
+		<Placeholder name="enemyArmour" number="14047"/>
+		<Placeholder name="enemyEvasion" number="5081"/>
+		<Placeholder name="enemyPhysicalDamage" number="620"/>
 	</Config>
 </PathOfBuilding>
