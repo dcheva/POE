@@ -6991,7 +6991,7 @@ SetFontSize 45
 SetTextColor 255 255 255 255
 SetBorderColor 255 255 255 255
 SetBackgroundColor 190 30 30 255
-CustomAlertSound "Sounds\12leveling.mp3" 300 # PlayAlertSound 1 300
+CustomAlertSound "Sounds\06money2.mp3" 300 # CustomAlertSound "Sounds\12leveling.mp3" 300 # PlayAlertSound 1 300
 PlayEffect Red
 MinimapIcon 0 Red Circle
 Class "Currency"
@@ -7004,7 +7004,7 @@ SetFontSize 45
 SetTextColor 0 0 0 255
 SetBorderColor 0 0 0 255
 SetBackgroundColor 190 30 30 255
-CustomAlertSound "Sounds\24item.mp3" 300 # PlayAlertSound 2 300
+CustomAlertSound "Sounds\06money2.mp3" 300 # CustomAlertSound "Sounds\24item.mp3" 300 # PlayAlertSound 2 300
 PlayEffect Yellow
 MinimapIcon 1 Yellow Circle
 Class "Currency"
@@ -7479,7 +7479,7 @@ Show # $type->currency $tier->t2divine
 	SetTextColor 255 255 255 255
 	SetBorderColor 255 255 255 255
 	SetBackgroundColor 190 30 30 255
-	CustomAlertSound "Sounds\12leveling.mp3" 300 # PlayAlertSound 1 300
+	CustomAlertSound "Sounds\06money2.mp3" 300 # CustomAlertSound "Sounds\12leveling.mp3" 300 # PlayAlertSound 1 300
 	PlayEffect Red
 	MinimapIcon 0 Red Circle
 
@@ -7501,7 +7501,7 @@ Show # $type->currency $tier->t4chaos
 	SetTextColor 0 0 0 255
 	SetBorderColor 0 0 0 255
 	SetBackgroundColor 180 76 58 255
-	CustomAlertSound "Sounds\24item.mp3" 300 # PlayAlertSound 2 300
+	CustomAlertSound "Sounds\06money2.mp3" 300 # CustomAlertSound "Sounds\24item.mp3" 300 # PlayAlertSound 2 300
 	PlayEffect White
 	MinimapIcon 2 White Circle
 
