@@ -165,12 +165,12 @@ LinkedSockets >= 5
 
 
 
-#\03.03--------------------------------------
+#\04.04--------------------------------------
 #\2-chaos-sets-------------------------------
 
 Show # $type->2chaos-a
 	Class "Amulets" "Rings"
-	SetBackgroundColor 50 40 30 255
+	SetBackgroundColor 40 50 30 255
 	SetBorderColor 100 255 100 255
 	SetTextColor 255 205 155 255
 	Identified False
@@ -182,12 +182,12 @@ Show # $type->2chaos-a
 	SetFontSize 40
 	CustomAlertSound "Sounds\1maybevaluable.mp3" 300 # Sounds\6veryvaluable.mp3
 	# PlayAlertSound 4 200
-	PlayEffect Orange
-	MinimapIcon 1 Orange Circle	
+	PlayEffect Green
+	MinimapIcon 1 Green Circle	
 	
 Show # $type->2chaos-b
 	Class "Belts"
-	SetBackgroundColor 50 40 30 255
+	SetBackgroundColor 30 40 50 255
 	SetBorderColor 100 100 255 255
 	SetTextColor 255 205 155 255
 	Identified False
@@ -199,8 +199,8 @@ Show # $type->2chaos-b
 	SetFontSize 40
 	CustomAlertSound "Sounds\1maybevaluable.mp3" 300
 	# PlayAlertSound 4 200
-	PlayEffect Orange
-	MinimapIcon 1 Orange Circle
+	PlayEffect Blue
+	MinimapIcon 1 Blue Circle
 	
 Show # $type->2chaos-c
 	Class "Daggers" "Rune Dagger" "Wands"
@@ -288,4 +288,4 @@ Show # $type->2chaos-e
 	MinimapIcon 1 Orange Circle
 	
 #/2-chaos-sets-------------------------------
-#/03.03--------------------------------------
+#/04.04--------------------------------------
