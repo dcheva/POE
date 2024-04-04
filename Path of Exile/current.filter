@@ -201,7 +201,7 @@ Show # $type->2chaos-b
 	
 Show # $type->2chaos-c
 	Class "Daggers" "Rune Dagger" "Wands"
-	SetBackgroundColor 50 40 30 255
+	SetBackgroundColor 50 30 40 255
 	SetBorderColor 255 100 100 255
 	SetTextColor 255 205 155 255
 	Identified False
@@ -213,8 +213,8 @@ Show # $type->2chaos-c
 	SetFontSize 40
 	CustomAlertSound "Sounds\02coin.mp3" 300
 	# PlayAlertSound 4 200
-	PlayEffect Orange
-	MinimapIcon 1 Orange Circle	
+	PlayEffect Red
+	MinimapIcon 1 Red Circle
 	
 Show # $type->2chaos-d
 	Class "Boots"
