@@ -6486,7 +6486,7 @@ Show # %DS4 $type->fragments->stacked $tier->t3
 	SetTextColor 0 0 0 255
 	SetBorderColor 0 0 0 255
 	SetBackgroundColor 180 76 58 255
-	PlayAlertSound 2 300
+	CustomAlertSound "Sounds\24item.mp3" 300 # PlayAlertSound 2 300
 	PlayEffect Yellow
 	MinimapIcon 1 Yellow Hexagon
 
@@ -6498,7 +6498,7 @@ Show # $type->fragments->stackedscarabs $tier->t3
 	SetTextColor 0 0 0 255
 	SetBorderColor 0 0 0 255
 	SetBackgroundColor 180 76 58 255
-	PlayAlertSound 2 300
+	CustomAlertSound "Sounds\24item.mp3" 300 # PlayAlertSound 2 300
 	PlayEffect Yellow
 	MinimapIcon 1 Yellow Hexagon
 
@@ -6513,7 +6513,7 @@ Show # $type->fragments->scarabs $tier->t1
 	SetTextColor 180 76 58 255
 	SetBorderColor 180 76 58 255
 	SetBackgroundColor 255 255 255 255
-	PlayAlertSound 6 300
+	CustomAlertSound "Sounds\06money2.mp3" 300 # PlayAlertSound 6 300
 	PlayEffect Red
 	MinimapIcon 0 Red Star
 
@@ -6524,7 +6524,7 @@ Show # $type->fragments->scarabs $tier->t2
 	SetTextColor 255 255 255 255
 	SetBorderColor 255 255 255 255
 	SetBackgroundColor 180 76 58 255
-	PlayAlertSound 1 300
+	CustomAlertSound "Sounds\12leveling.mp3" 300 # PlayAlertSound 1 300
 	PlayEffect Red
 	MinimapIcon 0 Red Hexagon
 
@@ -6535,7 +6535,7 @@ Show # $type->fragments->scarabs $tier->t3
 	SetTextColor 0 0 0 255
 	SetBorderColor 0 0 0 255
 	SetBackgroundColor 180 76 58 255
-	PlayAlertSound 2 300
+	CustomAlertSound "Sounds\24item.mp3" 300 # PlayAlertSound 2 300
 	PlayEffect Yellow
 	MinimapIcon 1 Yellow Hexagon
 
@@ -6546,7 +6546,7 @@ Show # %HS4 $type->fragments->scarabs $tier->t4
 	SetTextColor 180 76 58 255
 	SetBorderColor 180 76 58 255
 	SetBackgroundColor 20 20 0 255
-	PlayAlertSound 2 300
+	CustomAlertSound "Sounds\24item.mp3" 300 # PlayAlertSound 2 300
 	PlayEffect White
 	MinimapIcon 2 White Hexagon
 
@@ -6572,7 +6572,7 @@ Show # $type->fragments $tier->t1
 	SetTextColor 180 76 58 255
 	SetBorderColor 180 76 58 255
 	SetBackgroundColor 255 255 255 255
-	PlayAlertSound 6 300
+	CustomAlertSound "Sounds\06money2.mp3" 300 # PlayAlertSound 6 300
 	PlayEffect Red
 	MinimapIcon 0 Red Star
 
@@ -6583,7 +6583,7 @@ Show # $type->fragments $tier->t2
 	SetTextColor 255 255 255 255
 	SetBorderColor 255 255 255 255
 	SetBackgroundColor 180 76 58 255
-	PlayAlertSound 1 300
+	CustomAlertSound "Sounds\12leveling.mp3" 300 # PlayAlertSound 1 300
 	PlayEffect Red
 	MinimapIcon 0 Red Hexagon
 
@@ -6594,7 +6594,7 @@ Show # $type->fragments $tier->t3
 	SetTextColor 0 0 0 255
 	SetBorderColor 0 0 0 255
 	SetBackgroundColor 180 76 58 255
-	PlayAlertSound 2 300
+	CustomAlertSound "Sounds\24item.mp3" 300 # PlayAlertSound 2 300
 	PlayEffect Yellow
 	MinimapIcon 1 Yellow Hexagon
 
@@ -6605,7 +6605,7 @@ Show # %HS4 $type->fragments $tier->t4
 	SetTextColor 180 76 58 255
 	SetBorderColor 180 76 58 255
 	SetBackgroundColor 20 20 0 255
-	PlayAlertSound 2 300
+	CustomAlertSound "Sounds\24item.mp3" 300 # PlayAlertSound 2 300
 	PlayEffect White
 	MinimapIcon 2 White Hexagon
 
@@ -6626,7 +6626,7 @@ Show # $type->breachstone $tier->t1
 	SetTextColor 180 76 58 255
 	SetBorderColor 180 76 58 255
 	SetBackgroundColor 255 255 255 255
-	PlayAlertSound 6 300
+	CustomAlertSound "Sounds\06money2.mp3" 300 # PlayAlertSound 6 300
 	PlayEffect Red
 	MinimapIcon 0 Red Star
 
@@ -6637,7 +6637,7 @@ Show # $type->breachstone $tier->t2
 	SetTextColor 255 255 255 255
 	SetBorderColor 255 255 255 255
 	SetBackgroundColor 180 76 58 255
-	PlayAlertSound 1 300
+	CustomAlertSound "Sounds\12leveling.mp3" 300 # PlayAlertSound 1 300
 	PlayEffect Red
 	MinimapIcon 0 Red Hexagon
 
@@ -6647,7 +6647,7 @@ Show # $type->breachstone $tier->t2
 #	SetTextColor 0 0 0 255
 #	SetBorderColor 0 0 0 255
 #	SetBackgroundColor 180 76 58 255
-#	PlayAlertSound 2 300
+#	CustomAlertSound "Sounds\24item.mp3" 300 # PlayAlertSound 2 300
 #	PlayEffect Yellow
 #	MinimapIcon 1 Yellow Hexagon
 
@@ -6713,7 +6713,7 @@ Show # %D5 $type->currency->leveling $tier->binding
 	SetTextColor 0 0 0 255
 	SetBorderColor 0 0 0 255
 	SetBackgroundColor 180 76 58 255
-	PlayAlertSound 2 300
+	CustomAlertSound "Sounds\24item.mp3" 300 # PlayAlertSound 2 300
 	PlayEffect White
 	MinimapIcon 2 Grey Circle
 
@@ -6725,7 +6725,7 @@ Show # %D4 $type->currency->leveling $tier->essences
 	SetTextColor 0 0 0 255
 	SetBorderColor 0 0 0 255
 	SetBackgroundColor 180 76 58 255
-	PlayAlertSound 2 300
+	CustomAlertSound "Sounds\24item.mp3" 300 # PlayAlertSound 2 300
 	PlayEffect White
 	MinimapIcon 2 Grey Circle
 
@@ -6784,7 +6784,7 @@ Show # %DS4 $type->currency->stackedsupplieshigh $tier->t1
 	SetTextColor 0 0 0 255
 	SetBorderColor 0 0 0 255
 	SetBackgroundColor 180 76 58 255
-	PlayAlertSound 2 300
+	CustomAlertSound "Sounds\24item.mp3" 300 # PlayAlertSound 2 300
 	PlayEffect White
 	MinimapIcon 2 White Circle
 
@@ -6820,7 +6820,7 @@ Show # %DS4 $type->currency->stackedsupplieslow $tier->t1
 	SetTextColor 0 0 0 255
 	SetBorderColor 0 0 0 255
 	SetBackgroundColor 190 110 111 255
-	PlayAlertSound 2 300
+	CustomAlertSound "Sounds\24item.mp3" 300 # PlayAlertSound 2 300
 	PlayEffect Grey
 	MinimapIcon 2 Grey Circle
 
@@ -6912,7 +6912,7 @@ Show # %D9 $type->currency->stackedsix $tier->t1
 	SetTextColor 255 0 0 255
 	SetBorderColor 255 0 0 255
 	SetBackgroundColor 255 255 255 255
-	PlayAlertSound 6 300
+	CustomAlertSound "Sounds\06money2.mp3" 300 # PlayAlertSound 6 300
 	PlayEffect Red
 	MinimapIcon 0 Red Star
 
@@ -6924,7 +6924,7 @@ Show # %D8 $type->currency->stackedsix $tier->t2
 	SetTextColor 255 255 255 255
 	SetBorderColor 255 255 255 255
 	SetBackgroundColor 190 30 30 255
-	PlayAlertSound 1 300
+	CustomAlertSound "Sounds\12leveling.mp3" 300 # PlayAlertSound 1 300
 	PlayEffect Red
 	MinimapIcon 0 Red Circle
 
@@ -6936,7 +6936,7 @@ Show # %D7 $type->currency->stackedsix $tier->t3
 	SetTextColor 0 0 0 255
 	SetBorderColor 0 0 0 255
 	SetBackgroundColor 190 30 30 255
-	PlayAlertSound 2 300
+	CustomAlertSound "Sounds\24item.mp3" 300 # PlayAlertSound 2 300
 	PlayEffect Yellow
 	MinimapIcon 1 Yellow Circle
 
@@ -6948,7 +6948,7 @@ Show # %D6 $type->currency->stackedsix $tier->t4
 	SetTextColor 0 0 0 255
 	SetBorderColor 0 0 0 255
 	SetBackgroundColor 180 76 58 255
-	PlayAlertSound 2 300
+	CustomAlertSound "Sounds\24item.mp3" 300 # PlayAlertSound 2 300
 	PlayEffect White
 	MinimapIcon 2 White Circle
 
@@ -6960,7 +6960,7 @@ Show # %DS4 $type->currency->stackedsix $tier->t5
 	SetTextColor 0 0 0 255
 	SetBorderColor 0 0 0 255
 	SetBackgroundColor 180 76 58 255
-	PlayAlertSound 2 300
+	CustomAlertSound "Sounds\24item.mp3" 300 # PlayAlertSound 2 300
 	PlayEffect White
 	MinimapIcon 2 White Circle
 
@@ -6972,7 +6972,7 @@ Show # %DS3 $type->currency->stackedsix $tier->t6
 	SetTextColor 0 0 0 255
 	SetBorderColor 0 0 0 255
 	SetBackgroundColor 190 110 111 255
-	PlayAlertSound 2 300
+	CustomAlertSound "Sounds\24item.mp3" 300 # PlayAlertSound 2 300
 	PlayEffect Grey
 	MinimapIcon 2 Grey Circle
 
@@ -6996,7 +6996,7 @@ Show # %DS2 $type->currency->stackedsix $tier->t7
 #	SetTextColor 255 0 0 255
 #	SetBorderColor 255 0 0 255
 #	SetBackgroundColor 255 255 255 255
-#	PlayAlertSound 6 300
+#	CustomAlertSound "Sounds\06money2.mp3" 300 # PlayAlertSound 6 300
 #	PlayEffect Red
 #	MinimapIcon 0 Red Star
 
@@ -7008,7 +7008,7 @@ Show # %D8 $type->currency->stackedthree $tier->t2
 	SetTextColor 255 255 255 255
 	SetBorderColor 255 255 255 255
 	SetBackgroundColor 190 30 30 255
-	PlayAlertSound 1 300
+	CustomAlertSound "Sounds\12leveling.mp3" 300 # PlayAlertSound 1 300
 	PlayEffect Red
 	MinimapIcon 0 Red Circle
 
@@ -7020,7 +7020,7 @@ Show # %D7 $type->currency->stackedthree $tier->t3
 	SetTextColor 0 0 0 255
 	SetBorderColor 0 0 0 255
 	SetBackgroundColor 190 30 30 255
-	PlayAlertSound 2 300
+	CustomAlertSound "Sounds\24item.mp3" 300 # PlayAlertSound 2 300
 	PlayEffect Yellow
 	MinimapIcon 1 Yellow Circle
 
@@ -7032,7 +7032,7 @@ Show # %D6 $type->currency->stackedthree $tier->t4
 	SetTextColor 0 0 0 255
 	SetBorderColor 0 0 0 255
 	SetBackgroundColor 180 76 58 255
-	PlayAlertSound 2 300
+	CustomAlertSound "Sounds\24item.mp3" 300 # PlayAlertSound 2 300
 	PlayEffect White
 	MinimapIcon 2 White Circle
 
@@ -7044,7 +7044,7 @@ Show # %DS4 $type->currency->stackedthree $tier->t5
 	SetTextColor 0 0 0 255
 	SetBorderColor 0 0 0 255
 	SetBackgroundColor 180 76 58 255
-	PlayAlertSound 2 300
+	CustomAlertSound "Sounds\24item.mp3" 300 # PlayAlertSound 2 300
 	PlayEffect White
 	MinimapIcon 2 White Circle
 
@@ -7056,7 +7056,7 @@ Show # %DS3 $type->currency->stackedthree $tier->t6
 	SetTextColor 0 0 0 255
 	SetBorderColor 0 0 0 255
 	SetBackgroundColor 190 110 111 255
-	PlayAlertSound 2 300
+	CustomAlertSound "Sounds\24item.mp3" 300 # PlayAlertSound 2 300
 	PlayEffect Grey
 	MinimapIcon 2 Grey Circle
 
@@ -7111,7 +7111,7 @@ Show # $type->currency $tier->t1exalted
 	SetTextColor 255 0 0 255
 	SetBorderColor 255 0 0 255
 	SetBackgroundColor 255 255 255 255
-	PlayAlertSound 6 300
+	CustomAlertSound "Sounds\06money2.mp3" 300 # PlayAlertSound 6 300
 	PlayEffect Red
 	MinimapIcon 0 Red Star
 
@@ -7122,7 +7122,7 @@ Show # $type->currency $tier->t2divine
 	SetTextColor 255 255 255 255
 	SetBorderColor 255 255 255 255
 	SetBackgroundColor 190 30 30 255
-	PlayAlertSound 1 300
+	CustomAlertSound "Sounds\12leveling.mp3" 300 # PlayAlertSound 1 300
 	PlayEffect Red
 	MinimapIcon 0 Red Circle
 
@@ -7133,7 +7133,7 @@ Show # $type->currency $tier->t3annul
 	SetTextColor 0 0 0 255
 	SetBorderColor 0 0 0 255
 	SetBackgroundColor 190 30 30 255
-	PlayAlertSound 2 300
+	CustomAlertSound "Sounds\24item.mp3" 300 # PlayAlertSound 2 300
 	PlayEffect Yellow
 	MinimapIcon 1 Yellow Circle
 
@@ -7144,7 +7144,7 @@ Show # $type->currency $tier->t4chaos
 	SetTextColor 0 0 0 255
 	SetBorderColor 0 0 0 255
 	SetBackgroundColor 180 76 58 255
-	PlayAlertSound 2 300
+	CustomAlertSound "Sounds\24item.mp3" 300 # PlayAlertSound 2 300
 	PlayEffect White
 	MinimapIcon 2 White Circle
 
@@ -7155,7 +7155,7 @@ Show # %HS4 $type->currency $tier->t5alchemy
 	SetTextColor 0 0 0 255
 	SetBorderColor 0 0 0 255
 	SetBackgroundColor 180 76 58 255
-	PlayAlertSound 2 300
+	CustomAlertSound "Sounds\24item.mp3" 300 # PlayAlertSound 2 300
 	PlayEffect White
 	MinimapIcon 2 White Circle
 
@@ -7166,7 +7166,7 @@ Show # %HS3 $type->currency $tier->t6chrom
 	SetTextColor 0 0 0 255
 	SetBorderColor 0 0 0 255
 	SetBackgroundColor 190 110 111 255
-	PlayAlertSound 2 300
+	CustomAlertSound "Sounds\24item.mp3" 300 # PlayAlertSound 2 300
 	PlayEffect Grey
 	MinimapIcon 2 Grey Circle
 
@@ -7225,7 +7225,7 @@ Show # $type->vials $tier->t1
 	SetTextColor 255 0 0 255
 	SetBorderColor 255 0 0 255
 	SetBackgroundColor 255 255 255 255
-	PlayAlertSound 6 300
+	CustomAlertSound "Sounds\06money2.mp3" 300 # PlayAlertSound 6 300
 	PlayEffect Red
 	MinimapIcon 0 Red Star
 
@@ -7236,7 +7236,7 @@ Show # $type->vials $tier->t2
 	SetTextColor 255 255 255 255
 	SetBorderColor 255 255 255 255
 	SetBackgroundColor 190 30 30 255
-	PlayAlertSound 1 300
+	CustomAlertSound "Sounds\12leveling.mp3" 300 # PlayAlertSound 1 300
 	PlayEffect Red
 	MinimapIcon 0 Red Circle
 
@@ -7247,7 +7247,7 @@ Show # %HS4 $type->vials $tier->t3
 	SetTextColor 0 0 0 255
 	SetBorderColor 0 0 0 255
 	SetBackgroundColor 180 76 58 255
-	PlayAlertSound 2 300
+	CustomAlertSound "Sounds\24item.mp3" 300 # PlayAlertSound 2 300
 	PlayEffect White
 	MinimapIcon 2 White Circle
 
@@ -7273,7 +7273,7 @@ Show # $type->vials $tier->restex
 #	SetTextColor 255 0 0 255
 #	SetBorderColor 255 0 0 255
 #	SetBackgroundColor 255 255 255 255
-#	PlayAlertSound 6 300
+#	CustomAlertSound "Sounds\06money2.mp3" 300 # PlayAlertSound 6 300
 #	PlayEffect Red
 #	MinimapIcon 0 Red Star
 
@@ -7284,7 +7284,7 @@ Show # $type->currency->deliriumorbs $tier->t2
 	SetTextColor 255 255 255 255
 	SetBorderColor 255 255 255 255
 	SetBackgroundColor 190 30 30 255
-	PlayAlertSound 1 300
+	CustomAlertSound "Sounds\12leveling.mp3" 300 # PlayAlertSound 1 300
 	PlayEffect Red
 	MinimapIcon 0 Red Circle
 
@@ -7295,7 +7295,7 @@ Show # $type->currency->deliriumorbs $tier->t3
 	SetTextColor 0 0 0 255
 	SetBorderColor 0 0 0 255
 	SetBackgroundColor 180 76 58 255
-	PlayAlertSound 2 300
+	CustomAlertSound "Sounds\24item.mp3" 300 # PlayAlertSound 2 300
 	PlayEffect White
 	MinimapIcon 2 White Circle
 
@@ -7322,7 +7322,7 @@ Show # $type->currency->resonator $tier->t1
 	SetTextColor 255 255 255 255
 	SetBorderColor 255 255 255 255
 	SetBackgroundColor 190 30 30 255
-	PlayAlertSound 1 300
+	CustomAlertSound "Sounds\12leveling.mp3" 300 # PlayAlertSound 1 300
 	PlayEffect Red
 	MinimapIcon 0 Red Circle
 
@@ -7333,7 +7333,7 @@ Show # %H5 $type->currency->resonator $tier->t2
 	SetTextColor 0 0 0 255
 	SetBorderColor 0 0 0 255
 	SetBackgroundColor 180 76 58 255
-	PlayAlertSound 2 300
+	CustomAlertSound "Sounds\24item.mp3" 300 # PlayAlertSound 2 300
 	PlayEffect White
 	MinimapIcon 2 White Circle
 
@@ -7343,7 +7343,7 @@ Show # %H5 $type->currency->resonator $tier->t2
 #	SetTextColor 0 0 0 255
 #	SetBorderColor 0 0 0 255
 #	SetBackgroundColor 190 110 111 255
-#	PlayAlertSound 2 300
+#	CustomAlertSound "Sounds\24item.mp3" 300 # PlayAlertSound 2 300
 #	PlayEffect Grey
 #	MinimapIcon 2 Grey Circle
 
@@ -7369,7 +7369,7 @@ Show # $type->currency->fossil $tier->t1
 	SetTextColor 255 0 0 255
 	SetBorderColor 255 0 0 255
 	SetBackgroundColor 255 255 255 255
-	PlayAlertSound 6 300
+	CustomAlertSound "Sounds\06money2.mp3" 300 # PlayAlertSound 6 300
 	PlayEffect Red
 	MinimapIcon 0 Red Star
 
@@ -7380,7 +7380,7 @@ Show # $type->currency->fossil $tier->t2
 	SetTextColor 255 255 255 255
 	SetBorderColor 255 255 255 255
 	SetBackgroundColor 190 30 30 255
-	PlayAlertSound 1 300
+	CustomAlertSound "Sounds\12leveling.mp3" 300 # PlayAlertSound 1 300
 	PlayEffect Red
 	MinimapIcon 0 Red Circle
 
@@ -7391,7 +7391,7 @@ Show # %HS5 $type->currency->fossil $tier->t3
 	SetTextColor 0 0 0 255
 	SetBorderColor 0 0 0 255
 	SetBackgroundColor 180 76 58 255
-	PlayAlertSound 2 300
+	CustomAlertSound "Sounds\24item.mp3" 300 # PlayAlertSound 2 300
 	PlayEffect White
 	MinimapIcon 2 White Circle
 
@@ -7401,7 +7401,7 @@ Show # %HS5 $type->currency->fossil $tier->t3
 #	SetTextColor 0 0 0 255
 #	SetBorderColor 0 0 0 255
 #	SetBackgroundColor 190 110 111 255
-#	PlayAlertSound 2 300
+#	CustomAlertSound "Sounds\24item.mp3" 300 # PlayAlertSound 2 300
 #	PlayEffect Grey
 #	MinimapIcon 2 Grey Circle
 
@@ -7427,7 +7427,7 @@ Show # $type->currency->fossil $tier->restex
 #	SetTextColor 255 0 0 255
 #	SetBorderColor 255 0 0 255
 #	SetBackgroundColor 255 255 255 255
-#	PlayAlertSound 6 300
+#	CustomAlertSound "Sounds\06money2.mp3" 300 # PlayAlertSound 6 300
 #	PlayEffect Red
 #	MinimapIcon 0 Red Star
 
@@ -7438,7 +7438,7 @@ Show # $type->currency->oil $tier->t2
 	SetTextColor 255 255 255 255
 	SetBorderColor 255 255 255 255
 	SetBackgroundColor 190 30 30 255
-	PlayAlertSound 1 300
+	CustomAlertSound "Sounds\12leveling.mp3" 300 # PlayAlertSound 1 300
 	PlayEffect Red
 	MinimapIcon 0 Red Circle
 
@@ -7449,7 +7449,7 @@ Show # %HS5 $type->currency->oil $tier->t3
 	SetTextColor 0 0 0 255
 	SetBorderColor 0 0 0 255
 	SetBackgroundColor 180 76 58 255
-	PlayAlertSound 2 300
+	CustomAlertSound "Sounds\24item.mp3" 300 # PlayAlertSound 2 300
 	PlayEffect White
 	MinimapIcon 2 White Circle
 
@@ -7460,7 +7460,7 @@ Show # %HS3 $type->currency->oil $tier->t4
 	SetTextColor 0 0 0 255
 	SetBorderColor 0 0 0 255
 	SetBackgroundColor 190 110 111 255
-	PlayAlertSound 2 300
+	CustomAlertSound "Sounds\24item.mp3" 300 # PlayAlertSound 2 300
 	PlayEffect Grey
 	MinimapIcon 2 Grey Circle
 
@@ -7493,7 +7493,7 @@ Show # $type->currency->essence $tier->t1
 	SetTextColor 255 255 255 255
 	SetBorderColor 255 255 255 255
 	SetBackgroundColor 190 30 30 255
-	PlayAlertSound 1 300
+	CustomAlertSound "Sounds\12leveling.mp3" 300 # PlayAlertSound 1 300
 	PlayEffect Red
 	MinimapIcon 0 Red Circle
 
@@ -7504,7 +7504,7 @@ Show # $type->currency->essence $tier->t2
 	SetTextColor 0 0 0 255
 	SetBorderColor 0 0 0 255
 	SetBackgroundColor 190 30 30 255
-	PlayAlertSound 2 300
+	CustomAlertSound "Sounds\24item.mp3" 300 # PlayAlertSound 2 300
 	PlayEffect Yellow
 	MinimapIcon 1 Yellow Circle
 
@@ -7515,7 +7515,7 @@ Show # %H5 $type->currency->essence $tier->t3
 	SetTextColor 0 0 0 255
 	SetBorderColor 0 0 0 255
 	SetBackgroundColor 180 76 58 255
-	PlayAlertSound 2 300
+	CustomAlertSound "Sounds\24item.mp3" 300 # PlayAlertSound 2 300
 	PlayEffect White
 	MinimapIcon 2 White Circle
 
@@ -7562,7 +7562,7 @@ Show # %D5 $type->currency->incubators $tier->leveledex
 	SetTextColor 0 0 0 255
 	SetBorderColor 0 0 0 255
 	SetBackgroundColor 180 76 58 255
-	PlayAlertSound 2 300
+	CustomAlertSound "Sounds\24item.mp3" 300 # PlayAlertSound 2 300
 	PlayEffect White
 	MinimapIcon 2 White Circle
 
@@ -7572,7 +7572,7 @@ Show # %D5 $type->currency->incubators $tier->leveledex
 #	SetTextColor 255 255 255 255
 #	SetBorderColor 255 255 255 255
 #	SetBackgroundColor 190 30 30 255
-#	PlayAlertSound 1 300
+#	CustomAlertSound "Sounds\12leveling.mp3" 300 # PlayAlertSound 1 300
 #	PlayEffect Red
 #	MinimapIcon 0 Red Circle
 
@@ -7583,7 +7583,7 @@ Show # $type->currency->incubators $tier->t3
 	SetTextColor 0 0 0 255
 	SetBorderColor 0 0 0 255
 	SetBackgroundColor 190 30 30 255
-	PlayAlertSound 2 300
+	CustomAlertSound "Sounds\24item.mp3" 300 # PlayAlertSound 2 300
 	PlayEffect Yellow
 	MinimapIcon 1 Yellow Circle
 
@@ -7594,7 +7594,7 @@ Show # %H5 $type->currency->incubators $tier->t4
 	SetTextColor 0 0 0 255
 	SetBorderColor 0 0 0 255
 	SetBackgroundColor 180 76 58 255
-	PlayAlertSound 2 300
+	CustomAlertSound "Sounds\24item.mp3" 300 # PlayAlertSound 2 300
 	PlayEffect White
 	MinimapIcon 2 White Circle
 
@@ -7633,7 +7633,7 @@ Show # $type->currency->trial->omen $tier->t1
 	SetTextColor 255 0 0 255
 	SetBorderColor 255 0 0 255
 	SetBackgroundColor 255 255 255 255
-	PlayAlertSound 6 300
+	CustomAlertSound "Sounds\06money2.mp3" 300 # PlayAlertSound 6 300
 	PlayEffect Red
 	MinimapIcon 0 Red Star
 
@@ -7644,7 +7644,7 @@ Show # $type->currency->trial->omen $tier->t2
 	SetTextColor 255 255 255 255
 	SetBorderColor 255 255 255 255
 	SetBackgroundColor 190 30 30 255
-	PlayAlertSound 1 300
+	CustomAlertSound "Sounds\12leveling.mp3" 300 # PlayAlertSound 1 300
 	PlayEffect Red
 	MinimapIcon 0 Red Circle
 
@@ -7655,7 +7655,7 @@ Show # $type->currency->trial->omen $tier->t3
 	SetTextColor 0 0 0 255
 	SetBorderColor 0 0 0 255
 	SetBackgroundColor 190 30 30 255
-	PlayAlertSound 2 300
+	CustomAlertSound "Sounds\24item.mp3" 300 # PlayAlertSound 2 300
 	PlayEffect Yellow
 	MinimapIcon 1 Yellow Circle
 
@@ -7666,7 +7666,7 @@ Show # $type->currency->trial->omen $tier->t4
 	SetTextColor 0 0 0 255
 	SetBorderColor 0 0 0 255
 	SetBackgroundColor 180 76 58 255
-	PlayAlertSound 2 300
+	CustomAlertSound "Sounds\24item.mp3" 300 # PlayAlertSound 2 300
 	PlayEffect White
 	MinimapIcon 2 White Circle
 
@@ -7688,7 +7688,7 @@ Show # $type->currency->trial->tattoo $tier->t1
 	SetTextColor 255 0 0 255
 	SetBorderColor 255 0 0 255
 	SetBackgroundColor 255 255 255 255
-	PlayAlertSound 6 300
+	CustomAlertSound "Sounds\06money2.mp3" 300 # PlayAlertSound 6 300
 	PlayEffect Red
 	MinimapIcon 0 Red Star
 
@@ -7699,7 +7699,7 @@ Show # $type->currency->trial->tattoo $tier->t2
 	SetTextColor 255 255 255 255
 	SetBorderColor 255 255 255 255
 	SetBackgroundColor 190 30 30 255
-	PlayAlertSound 1 300
+	CustomAlertSound "Sounds\12leveling.mp3" 300 # PlayAlertSound 1 300
 	PlayEffect Red
 	MinimapIcon 0 Red Circle
 
@@ -7710,7 +7710,7 @@ Show # $type->currency->trial->tattoo $tier->t3
 	SetTextColor 0 0 0 255
 	SetBorderColor 0 0 0 255
 	SetBackgroundColor 190 30 30 255
-	PlayAlertSound 2 300
+	CustomAlertSound "Sounds\24item.mp3" 300 # PlayAlertSound 2 300
 	PlayEffect Yellow
 	MinimapIcon 1 Yellow Circle
 
@@ -7721,7 +7721,7 @@ Show # $type->currency->trial->tattoo $tier->t4
 	SetTextColor 0 0 0 255
 	SetBorderColor 0 0 0 255
 	SetBackgroundColor 180 76 58 255
-	PlayAlertSound 2 300
+	CustomAlertSound "Sounds\24item.mp3" 300 # PlayAlertSound 2 300
 	PlayEffect White
 	MinimapIcon 2 White Circle
 
@@ -7747,7 +7747,7 @@ Show # $type->currency->others $tier->harbinger
 	SetTextColor 255 255 255 255
 	SetBorderColor 255 255 255 255
 	SetBackgroundColor 190 30 30 255
-	PlayAlertSound 1 300
+	CustomAlertSound "Sounds\12leveling.mp3" 300 # PlayAlertSound 1 300
 	PlayEffect Red
 	MinimapIcon 0 Red Circle
 
@@ -7758,7 +7758,7 @@ Show # $type->currency->others $tier->misc
 	SetTextColor 255 255 255 255
 	SetBorderColor 255 255 255 255
 	SetBackgroundColor 190 30 30 255
-	PlayAlertSound 1 300
+	CustomAlertSound "Sounds\12leveling.mp3" 300 # PlayAlertSound 1 300
 	PlayEffect Red
 	MinimapIcon 0 Red Circle
 
@@ -7778,7 +7778,7 @@ Show # %D6 $type->currency->stackedsplintershigh $tier->t1
 	SetTextColor 0 0 0 255
 	SetBorderColor 0 0 0 255
 	SetBackgroundColor 190 30 30 255
-	PlayAlertSound 2 300
+	CustomAlertSound "Sounds\24item.mp3" 300 # PlayAlertSound 2 300
 	PlayEffect Yellow
 	MinimapIcon 1 Yellow Circle
 
@@ -7790,7 +7790,7 @@ Show # %DS5 $type->currency->stackedsplintershigh $tier->t2
 	SetTextColor 0 0 0 255
 	SetBorderColor 0 0 0 255
 	SetBackgroundColor 180 76 58 255
-	PlayAlertSound 2 300
+	CustomAlertSound "Sounds\24item.mp3" 300 # PlayAlertSound 2 300
 	PlayEffect White
 	MinimapIcon 2 White Circle
 
@@ -7802,7 +7802,7 @@ Show # %DS4 $type->currency->stackedsplintershigh $tier->t3
 	SetTextColor 0 0 0 255
 	SetBorderColor 0 0 0 255
 	SetBackgroundColor 180 76 58 255
-	PlayAlertSound 2 300
+	CustomAlertSound "Sounds\24item.mp3" 300 # PlayAlertSound 2 300
 	PlayEffect White
 	MinimapIcon 2 White Circle
 
@@ -7814,7 +7814,7 @@ Show # %D5 $type->currency->stackedsplinterslow $tier->t1
 	SetTextColor 0 0 0 255
 	SetBorderColor 0 0 0 255
 	SetBackgroundColor 180 76 58 255
-	PlayAlertSound 2 300
+	CustomAlertSound "Sounds\24item.mp3" 300 # PlayAlertSound 2 300
 	PlayEffect White
 	MinimapIcon 2 White Circle
 
@@ -7826,7 +7826,7 @@ Show # %DS4 $type->currency->stackedsplinterslow $tier->t2
 	SetTextColor 0 0 0 255
 	SetBorderColor 0 0 0 255
 	SetBackgroundColor 180 76 58 255
-	PlayAlertSound 2 300
+	CustomAlertSound "Sounds\24item.mp3" 300 # PlayAlertSound 2 300
 	PlayEffect White
 	MinimapIcon 2 White Circle
 
@@ -7838,7 +7838,7 @@ Show # %DS3 $type->currency->stackedsplinterslow $tier->t3
 	SetTextColor 0 0 0 255
 	SetBorderColor 0 0 0 255
 	SetBackgroundColor 180 76 58 255
-	PlayAlertSound 2 300
+	CustomAlertSound "Sounds\24item.mp3" 300 # PlayAlertSound 2 300
 	PlayEffect White
 	MinimapIcon 2 White Circle
 
@@ -7853,7 +7853,7 @@ Show # %HS4 $type->currency->splinter $tier->t1
 	SetTextColor 255 255 255 255
 	SetBorderColor 210 20 210 255
 	SetBackgroundColor 65 20 80
-	PlayAlertSound 2 300
+	CustomAlertSound "Sounds\24item.mp3" 300 # PlayAlertSound 2 300
 	PlayEffect Purple Temp
 	MinimapIcon 1 Grey Kite
 
@@ -7879,7 +7879,7 @@ Show # %D6 $type->currency->splinter->simulacrum $tier->t1
 	SetTextColor 255 0 0 255
 	SetBorderColor 255 0 0 255
 	SetBackgroundColor 255 255 255 255
-	PlayAlertSound 6 300
+	CustomAlertSound "Sounds\06money2.mp3" 300 # PlayAlertSound 6 300
 	PlayEffect Red
 	MinimapIcon 0 Red Kite
 
@@ -7891,7 +7891,7 @@ Show # %D6 $type->currency->splinter->simulacrum $tier->t2
 	SetTextColor 255 255 255 255
 	SetBorderColor 255 255 255 255
 	SetBackgroundColor 190 30 30 255
-	PlayAlertSound 1 300
+	CustomAlertSound "Sounds\12leveling.mp3" 300 # PlayAlertSound 1 300
 	PlayEffect Red
 	MinimapIcon 0 Red Kite
 
@@ -7903,7 +7903,7 @@ Show # %D6 $type->currency->splinter->simulacrum $tier->t3
 	SetTextColor 0 0 0 255
 	SetBorderColor 0 0 0 255
 	SetBackgroundColor 190 30 30 255
-	PlayAlertSound 2 300
+	CustomAlertSound "Sounds\24item.mp3" 300 # PlayAlertSound 2 300
 	PlayEffect Yellow
 	MinimapIcon 1 Yellow Kite
 
@@ -7915,7 +7915,7 @@ Show # %D6 $type->currency->splinter->simulacrum $tier->t4
 	SetTextColor 0 0 0 255
 	SetBorderColor 0 0 0 255
 	SetBackgroundColor 180 76 58 255
-	PlayAlertSound 2 300
+	CustomAlertSound "Sounds\24item.mp3" 300 # PlayAlertSound 2 300
 	PlayEffect White
 	MinimapIcon 2 White Kite
 
@@ -7926,7 +7926,7 @@ Show # %H4 $type->currency->splinter->simulacrum $tier->t5
 	SetTextColor 255 255 255 255
 	SetBorderColor 130 15 255 255
 	SetBackgroundColor 65 20 80
-	PlayAlertSound 2 300
+	CustomAlertSound "Sounds\24item.mp3" 300 # PlayAlertSound 2 300
 	PlayEffect Purple Temp
 	MinimapIcon 2 Grey Kite
 
@@ -7942,7 +7942,7 @@ Show # $type->divination $tier->t1
 	SetTextColor 0 0 255 255
 	SetBorderColor 0 0 255 255
 	SetBackgroundColor 255 255 255 255
-	PlayAlertSound 6 300
+	CustomAlertSound "Sounds\06money2.mp3" 300 # PlayAlertSound 6 300
 	PlayEffect Red
 	MinimapIcon 0 Red Star
 
@@ -7953,7 +7953,7 @@ Show # $type->divination $tier->t2
 	SetTextColor 255 255 255 255
 	SetBorderColor 255 255 255 255
 	SetBackgroundColor 190 30 30 255
-	PlayAlertSound 1 300
+	CustomAlertSound "Sounds\12leveling.mp3" 300 # PlayAlertSound 1 300
 	PlayEffect Red
 	MinimapIcon 0 Red Triangle
 
@@ -7964,7 +7964,7 @@ Show # $type->divination $tier->t3
 	SetTextColor 0 0 0 255
 	SetBorderColor 0 0 0 255
 	SetBackgroundColor 190 30 30 255
-	PlayAlertSound 2 300
+	CustomAlertSound "Sounds\24item.mp3" 300 # PlayAlertSound 2 300
 	PlayEffect Yellow
 	MinimapIcon 1 Yellow Triangle
 
@@ -7974,7 +7974,7 @@ Show # $type->divination $tier->t3
 #	SetTextColor 0 0 0 255
 #	SetBorderColor 0 0 0 255
 #	SetBackgroundColor 180 76 58 255
-#	PlayAlertSound 2 300
+#	CustomAlertSound "Sounds\24item.mp3" 300 # PlayAlertSound 2 300
 #	PlayEffect Yellow
 #	MinimapIcon 1 Yellow Triangle
 
@@ -7987,7 +7987,7 @@ Show # %H4 $type->divination $tier->t4c
 	SetTextColor 0 0 0 255
 	SetBorderColor 0 0 0 255
 	SetBackgroundColor 180 76 58 255
-	PlayAlertSound 2 300
+	CustomAlertSound "Sounds\24item.mp3" 300 # PlayAlertSound 2 300
 	PlayEffect White
 	MinimapIcon 2 White Triangle
 
@@ -7998,7 +7998,7 @@ Show # %D4 $type->divination $tier->exstack
 	SetTextColor 0 0 0 255
 	SetBorderColor 0 0 0 255
 	SetBackgroundColor 180 76 58 255
-	PlayAlertSound 2 300
+	CustomAlertSound "Sounds\24item.mp3" 300 # PlayAlertSound 2 300
 	PlayEffect White
 	MinimapIcon 2 White Triangle
 
@@ -8017,7 +8017,7 @@ Show # %HS3 $type->divination $tier->t4
 	SetTextColor 0 0 0 255
 	SetBorderColor 0 0 0 255
 	SetBackgroundColor 180 76 58 255
-	PlayAlertSound 2 300
+	CustomAlertSound "Sounds\24item.mp3" 300 # PlayAlertSound 2 300
 	PlayEffect White
 	MinimapIcon 2 White Triangle
 
@@ -8097,7 +8097,7 @@ Show # $type->uniques $tier->exuberimpresence
 	SetTextColor 175 96 37 255
 	SetBorderColor 175 96 37 255
 	SetBackgroundColor 255 255 255 255
-	PlayAlertSound 6 300
+	CustomAlertSound "Sounds\06money2.mp3" 300 # PlayAlertSound 6 300
 	PlayEffect Red
 	MinimapIcon 0 Red Star
 
@@ -8109,7 +8109,7 @@ Show # $type->uniques $tier->exkaom
 	SetTextColor 255 255 255 255
 	SetBorderColor 255 255 255 255
 	SetBackgroundColor 175 96 37 255
-	PlayAlertSound 1 300
+	CustomAlertSound "Sounds\12leveling.mp3" 300 # PlayAlertSound 1 300
 	PlayEffect Red
 	MinimapIcon 0 Yellow Star
 
@@ -8121,7 +8121,7 @@ Show # $type->uniques $tier->exsquire
 	SetTextColor 175 96 37 255
 	SetBorderColor 175 96 37 255
 	SetBackgroundColor 255 255 255 255
-	PlayAlertSound 6 300
+	CustomAlertSound "Sounds\06money2.mp3" 300 # PlayAlertSound 6 300
 	PlayEffect Red
 	MinimapIcon 0 Red Star
 
@@ -8133,7 +8133,7 @@ Show # $type->uniques $tier->extabula
 	SetTextColor 255 255 255 255
 	SetBorderColor 255 255 255 255
 	SetBackgroundColor 175 96 37 255
-	PlayAlertSound 1 300
+	CustomAlertSound "Sounds\12leveling.mp3" 300 # PlayAlertSound 1 300
 	PlayEffect Red
 	MinimapIcon 0 Yellow Star
 
@@ -8145,7 +8145,7 @@ Show # $type->uniques $tier->extriadgrip
 	SetTextColor 255 255 255 255
 	SetBorderColor 255 255 255 255
 	SetBackgroundColor 175 96 37 255
-	PlayAlertSound 1 300
+	CustomAlertSound "Sounds\12leveling.mp3" 300 # PlayAlertSound 1 300
 	PlayEffect Red
 	MinimapIcon 0 Yellow Star
 
@@ -8157,7 +8157,7 @@ Show # $type->uniques $tier->exforgesword
 	SetTextColor 175 96 37 255
 	SetBorderColor 175 96 37 255
 	SetBackgroundColor 255 255 255 255
-	PlayAlertSound 6 300
+	CustomAlertSound "Sounds\06money2.mp3" 300 # PlayAlertSound 6 300
 	PlayEffect Red
 	MinimapIcon 0 Red Star
 
@@ -8169,7 +8169,7 @@ Show # $type->uniques $tier->exrationaljewel
 	SetTextColor 175 96 37 255
 	SetBorderColor 175 96 37 255
 	SetBackgroundColor 255 255 255 255
-	PlayAlertSound 6 300
+	CustomAlertSound "Sounds\06money2.mp3" 300 # PlayAlertSound 6 300
 	PlayEffect Red
 	MinimapIcon 0 Red Star
 
@@ -8181,7 +8181,7 @@ Show # $type->uniques $tier->exsynth
 	SetTextColor 255 255 255 255
 	SetBorderColor 255 255 255 255
 	SetBackgroundColor 175 96 37 255
-	PlayAlertSound 1 300
+	CustomAlertSound "Sounds\12leveling.mp3" 300 # PlayAlertSound 1 300
 	PlayEffect Red
 	MinimapIcon 0 Yellow Star
 
@@ -8192,7 +8192,7 @@ Show # $type->uniques $tier->ex6link
 	SetTextColor 175 96 37 255
 	SetBorderColor 175 96 37 255
 	SetBackgroundColor 255 255 255 255
-	PlayAlertSound 6 300
+	CustomAlertSound "Sounds\06money2.mp3" 300 # PlayAlertSound 6 300
 	PlayEffect Red
 	MinimapIcon 0 Red Star
 
@@ -8204,7 +8204,7 @@ Show # $type->uniques $tier->4xabysshelmet
 	SetTextColor 175 96 37 255
 	SetBorderColor 175 96 37 255
 	SetBackgroundColor 255 255 255 255
-	PlayAlertSound 6 300
+	CustomAlertSound "Sounds\06money2.mp3" 300 # PlayAlertSound 6 300
 	PlayEffect Red
 	MinimapIcon 0 Red Star
 
@@ -8216,7 +8216,7 @@ Show # $type->uniques $tier->3xabyss
 	SetTextColor 175 96 37 255
 	SetBorderColor 175 96 37 255
 	SetBackgroundColor 255 255 255 255
-	PlayAlertSound 6 300
+	CustomAlertSound "Sounds\06money2.mp3" 300 # PlayAlertSound 6 300
 	PlayEffect Red
 	MinimapIcon 0 Red Star
 
@@ -8232,7 +8232,7 @@ Show # $type->uniques $tier->t1
 	SetTextColor 175 96 37 255
 	SetBorderColor 175 96 37 255
 	SetBackgroundColor 255 255 255 255
-	PlayAlertSound 6 300
+	CustomAlertSound "Sounds\06money2.mp3" 300 # PlayAlertSound 6 300
 	PlayEffect Red
 	MinimapIcon 0 Red Star
 
@@ -8243,7 +8243,7 @@ Show # $type->uniques $tier->t2
 	SetTextColor 255 255 255 255
 	SetBorderColor 255 255 255 255
 	SetBackgroundColor 175 96 37 255
-	PlayAlertSound 1 300
+	CustomAlertSound "Sounds\12leveling.mp3" 300 # PlayAlertSound 1 300
 	PlayEffect Red
 	MinimapIcon 0 Yellow Star
 
@@ -8259,7 +8259,7 @@ Show # $type->uniques $tier->2xcorrupteduniques
 	SetTextColor 255 255 255 255
 	SetBorderColor 120 0 0 240
 	SetBackgroundColor 175 96 37 255
-	PlayAlertSound 1 300
+	CustomAlertSound "Sounds\12leveling.mp3" 300 # PlayAlertSound 1 300
 	PlayEffect Blue
 	MinimapIcon 0 Blue Star
 
@@ -8271,7 +8271,7 @@ Show # $type->uniques $tier->2xabyss
 	SetTextColor 255 255 255 255
 	SetBorderColor 255 255 255 255
 	SetBackgroundColor 175 96 37 255
-	PlayAlertSound 1 300
+	CustomAlertSound "Sounds\12leveling.mp3" 300 # PlayAlertSound 1 300
 	PlayEffect Red
 	MinimapIcon 0 Yellow Star
 
@@ -8282,7 +8282,7 @@ Show # $type->uniques $tier->excrucibleunique
 	SetTextColor 0 0 0 255
 	SetBorderColor 0 0 0 255
 	SetBackgroundColor 175 96 37 255
-	PlayAlertSound 2 300
+	CustomAlertSound "Sounds\24item.mp3" 300 # PlayAlertSound 2 300
 	PlayEffect Blue
 	MinimapIcon 1 Blue Star
 
@@ -8300,7 +8300,7 @@ Show # %D4 $type->uniques $tier->5link
 	SetTextColor 0 0 0 255
 	SetBorderColor 0 0 0 255
 	SetBackgroundColor 175 96 37 255
-	PlayAlertSound 2 300
+	CustomAlertSound "Sounds\24item.mp3" 300 # PlayAlertSound 2 300
 	PlayEffect Blue
 	MinimapIcon 1 Blue Star
 
@@ -8311,7 +8311,7 @@ Show # $type->uniques $tier->multispecialhigh
 	SetTextColor 0 0 0 255
 	SetBorderColor 0 0 0 255
 	SetBackgroundColor 175 96 37 255
-	PlayAlertSound 2 300
+	CustomAlertSound "Sounds\24item.mp3" 300 # PlayAlertSound 2 300
 	PlayEffect Blue
 	MinimapIcon 1 Blue Star
 
@@ -8322,7 +8322,7 @@ Show # $type->uniques $tier->multispecial
 	SetTextColor 0 0 0 255
 	SetBorderColor 0 0 0 255
 	SetBackgroundColor 175 96 37 255
-	PlayAlertSound 2 300
+	CustomAlertSound "Sounds\24item.mp3" 300 # PlayAlertSound 2 300
 	PlayEffect Blue
 	MinimapIcon 1 Blue Star
 
@@ -8363,7 +8363,7 @@ Show # $type->uniques $tier->exjewelscorrupted
 	SetTextColor 0 0 0 255
 	SetBorderColor 0 240 190 255
 	SetBackgroundColor 175 96 37 255
-	PlayAlertSound 2 300
+	CustomAlertSound "Sounds\24item.mp3" 300 # PlayAlertSound 2 300
 	PlayEffect Blue
 	MinimapIcon 1 Blue Star
 
@@ -8374,7 +8374,7 @@ Show # $type->uniques $tier->exjewels
 	SetTextColor 255 255 255 255
 	SetBorderColor 255 255 255 255
 	SetBackgroundColor 175 96 37 255
-	PlayAlertSound 1 300
+	CustomAlertSound "Sounds\12leveling.mp3" 300 # PlayAlertSound 1 300
 	PlayEffect Blue
 	MinimapIcon 0 Blue Star
 
@@ -8386,7 +8386,7 @@ Show # $type->uniques $tier->exjewels
 #	SetTextColor 0 0 0 255
 #	SetBorderColor 0 0 0 255
 #	SetBackgroundColor 175 96 37 255
-#	PlayAlertSound 2 300
+#	CustomAlertSound "Sounds\24item.mp3" 300 # PlayAlertSound 2 300
 #	PlayEffect Yellow
 #	MinimapIcon 1 Brown Star
 
@@ -8487,7 +8487,7 @@ Show # $type->miscmapitemsextra $tier->relickeys
 	SetTextColor 255 0 0 255
 	SetBorderColor 255 0 0 255
 	SetBackgroundColor 255 255 255 255
-	PlayAlertSound 6 300
+	CustomAlertSound "Sounds\06money2.mp3" 300 # PlayAlertSound 6 300
 	PlayEffect Red
 	MinimapIcon 0 Red Star
 
@@ -8497,7 +8497,7 @@ Show # $type->miscmapitemsextra $tier->relickeyssafe
 	SetTextColor 255 0 0 255
 	SetBorderColor 255 0 0 255
 	SetBackgroundColor 255 255 255 255
-	PlayAlertSound 6 300
+	CustomAlertSound "Sounds\06money2.mp3" 300 # PlayAlertSound 6 300
 	PlayEffect Red
 	MinimapIcon 0 Red Star
 
@@ -8507,7 +8507,7 @@ Show # $type->miscmapitemsextra $tier->itemizedleagues
 	SetTextColor 255 255 255 255
 	SetBorderColor 255 255 255 255
 	SetBackgroundColor 180 76 58 255
-	PlayAlertSound 1 300
+	CustomAlertSound "Sounds\12leveling.mp3" 300 # PlayAlertSound 1 300
 	PlayEffect Red
 	MinimapIcon 0 Red Hexagon
 
@@ -8528,7 +8528,7 @@ Show # $type->necropolis $tier->leveling
 	SetTextColor 0 0 0 255
 	SetBorderColor 0 0 0 255
 	SetBackgroundColor 180 76 58 255
-	PlayAlertSound 2 300
+	CustomAlertSound "Sounds\24item.mp3" 300 # PlayAlertSound 2 300
 	PlayEffect Yellow
 	MinimapIcon 1 Yellow Cross
 
@@ -8539,7 +8539,7 @@ Show # $type->necropolis $tier->t2
 	SetTextColor 255 255 255 255
 	SetBorderColor 255 255 255 255
 	SetBackgroundColor 180 76 58 255
-	PlayAlertSound 1 300
+	CustomAlertSound "Sounds\12leveling.mp3" 300 # PlayAlertSound 1 300
 	PlayEffect Red
 	MinimapIcon 0 Red Cross
 
@@ -8550,7 +8550,7 @@ Show # $type->necropolis $tier->t3
 	SetTextColor 0 0 0 255
 	SetBorderColor 0 0 0 255
 	SetBackgroundColor 180 76 58 255
-	PlayAlertSound 2 300
+	CustomAlertSound "Sounds\24item.mp3" 300 # PlayAlertSound 2 300
 	PlayEffect Yellow
 	MinimapIcon 1 Yellow Cross
 
@@ -8561,7 +8561,7 @@ Show # $type->necropolis $tier->t4
 	SetTextColor 180 76 58 255
 	SetBorderColor 180 76 58 255
 	SetBackgroundColor 20 20 0 255
-	PlayAlertSound 2 300
+	CustomAlertSound "Sounds\24item.mp3" 300 # PlayAlertSound 2 300
 	PlayEffect White
 	MinimapIcon 2 White Cross
 
@@ -8668,7 +8668,7 @@ Show # $type->leveling->flasks->utility $tier->quicksilver
 	SetTextColor 50 200 125
 	SetBorderColor 50 200 125
 	SetBackgroundColor 25 100 75
-	PlayAlertSound 2 300
+	CustomAlertSound "Sounds\24item.mp3" 300 # PlayAlertSound 2 300
 	PlayEffect Grey
 	MinimapIcon 1 Yellow Raindrop
 
