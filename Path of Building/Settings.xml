@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <PathOfBuilding>
 	<Mode mode="BUILD">
-		<Arg boolean="false"/>
-		<Arg string="Imported Build"/>
+		<Arg string="D:\Documents/Path of Building/Builds/Crit Consecrated Path of Endurance Juggernaut.xml"/>
+		<Arg string="Crit Consecrated Path of Endurance Juggernaut"/>
 	</Mode>
 	<Accounts lastAccountName="SteamCovan" lastRealm="PC">
 		<Account accountName="DeeCovana"/>
