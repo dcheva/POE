@@ -1,3 +1,129 @@
+#\04.04--------------------------------------
+#\2-chaos-sets-------------------------------
+
+Show # $type->2chaos-a
+	Class "Amulets" "Rings"
+	SetBackgroundColor 40 50 30 255
+	SetBorderColor 100 255 100 255
+	SetTextColor 255 205 155 255
+	Identified False
+	Corrupted False
+	Mirrored False
+	Rarity Rare
+	ItemLevel >= 60
+	ItemLevel <= 85
+	SetFontSize 40
+	CustomAlertSound "Sounds\1maybevaluable.mp3" 300 # Sounds\6veryvaluable.mp3
+	# PlayAlertSound 4 200
+	PlayEffect Green
+	MinimapIcon 1 Green Circle	
+	
+Show # $type->2chaos-b
+	Class "Belts"
+	SetBackgroundColor 30 40 50 255
+	SetBorderColor 100 100 255 255
+	SetTextColor 255 205 155 255
+	Identified False
+	Corrupted False
+	Mirrored False
+	Rarity Rare
+	ItemLevel >= 60
+	ItemLevel <= 85
+	SetFontSize 40
+	CustomAlertSound "Sounds\1maybevaluable.mp3" 300
+	# PlayAlertSound 4 200
+	PlayEffect Blue
+	MinimapIcon 1 Blue Circle
+	
+Show # $type->2chaos-c
+	Class "Daggers" "Rune Dagger" "Wands"
+	SetBackgroundColor 50 30 40 255
+	SetBorderColor 255 100 100 255
+	SetTextColor 255 205 155 255
+	Identified False
+	Corrupted False
+	Mirrored False
+	Rarity Rare
+	ItemLevel >= 60
+	ItemLevel <= 85
+	SetFontSize 40
+	CustomAlertSound "Sounds\02coin.mp3" 300
+	# PlayAlertSound 4 200
+	PlayEffect Red
+	MinimapIcon 1 Red Circle
+	
+Show # $type->2chaos-d
+	Class "Boots"
+	SetBackgroundColor 50 40 30 255
+	SetBorderColor 200 150 100 255
+	SetTextColor 255 205 155 255
+	Identified False
+	Corrupted False
+	Mirrored False
+	Rarity Rare
+	ItemLevel >= 60
+	ItemLevel <= 85
+	SetFontSize 40
+	CustomAlertSound "Sounds\04cointojar.mp3" 300
+	# PlayAlertSound 4 200
+	PlayEffect Orange
+	MinimapIcon 1 Orange Circle
+	
+Show # $type->2chaos-d
+	Class "Gloves"
+	SetBackgroundColor 50 40 30 255
+	SetBorderColor 200 150 100 255
+	SetTextColor 255 205 155 255
+	Identified False
+	Corrupted False
+	Mirrored False
+	Rarity Rare
+	ItemLevel >= 60
+	ItemLevel <= 85
+	SetFontSize 40
+	CustomAlertSound "Sounds\04cointojar.mp3" 300
+	# PlayAlertSound 4 200
+	PlayEffect Orange
+	MinimapIcon 1 Orange Circle
+	
+Show # $type->2chaos-d
+	Class "Helmets"
+	SetBackgroundColor 50 40 30 255
+	SetBorderColor 200 150 100 255
+	SetTextColor 255 205 155 255
+	Identified False
+	Corrupted False
+	Mirrored False
+	Rarity Rare
+	ItemLevel >= 60
+	ItemLevel <= 85
+	SetFontSize 40
+	CustomAlertSound "Sounds\04cointojar.mp3" 300
+	# PlayAlertSound 4 200
+	PlayEffect Orange
+	MinimapIcon 1 Orange Circle
+	
+Show # $type->2chaos-e
+	Class "Body Armours"
+	SetBackgroundColor 50 40 30 255
+	SetBorderColor 255 255 100 255
+	SetTextColor 255 205 155 255
+	Identified False
+	Corrupted False
+	Mirrored False
+	Rarity Rare
+	ItemLevel >= 60
+	ItemLevel <= 74
+	SetFontSize 40
+	# PlayAlertSound 4 200
+	CustomAlertSound "Sounds\03coinshake.mp3" 300
+	PlayEffect Orange
+	MinimapIcon 1 Orange Circle
+	
+
+
+#/2-chaos-sets-------------------------------
+#/04.04--------------------------------------
 #===============================================================================================================
 # NeverSink's Indepth Loot Filter - for Path of Exile
 #===============================================================================================================
@@ -6924,7 +7050,7 @@ Show # %D8 $type->currency->stackedsix $tier->t2
 	SetTextColor 255 255 255 255
 	SetBorderColor 255 255 255 255
 	SetBackgroundColor 190 30 30 255
-	CustomAlertSound "Sounds\12leveling.mp3" 300 # PlayAlertSound 1 300
+	CustomAlertSound "Sounds\06money2.mp3" 300 # CustomAlertSound "Sounds\12leveling.mp3" 300 # PlayAlertSound 1 300
 	PlayEffect Red
 	MinimapIcon 0 Red Circle
 
@@ -7020,7 +7146,7 @@ Show # %D7 $type->currency->stackedthree $tier->t3
 	SetTextColor 0 0 0 255
 	SetBorderColor 0 0 0 255
 	SetBackgroundColor 190 30 30 255
-	CustomAlertSound "Sounds\24item.mp3" 300 # PlayAlertSound 2 300
+	CustomAlertSound "Sounds\06money2.mp3" 300 # CustomAlertSound "Sounds\24item.mp3" 300 # PlayAlertSound 2 300
 	PlayEffect Yellow
 	MinimapIcon 1 Yellow Circle
 
@@ -7122,7 +7248,7 @@ Show # $type->currency $tier->t2divine
 	SetTextColor 255 255 255 255
 	SetBorderColor 255 255 255 255
 	SetBackgroundColor 190 30 30 255
-	CustomAlertSound "Sounds\12leveling.mp3" 300 # PlayAlertSound 1 300
+	CustomAlertSound "Sounds\06money2.mp3" 300 # CustomAlertSound "Sounds\12leveling.mp3" 300 # PlayAlertSound 1 300
 	PlayEffect Red
 	MinimapIcon 0 Red Circle
 
@@ -7133,7 +7259,7 @@ Show # $type->currency $tier->t3annul
 	SetTextColor 0 0 0 255
 	SetBorderColor 0 0 0 255
 	SetBackgroundColor 190 30 30 255
-	CustomAlertSound "Sounds\24item.mp3" 300 # PlayAlertSound 2 300
+	CustomAlertSound "Sounds\06money2.mp3" 300 # CustomAlertSound "Sounds\24item.mp3" 300 # PlayAlertSound 2 300
 	PlayEffect Yellow
 	MinimapIcon 1 Yellow Circle
 
@@ -7144,7 +7270,7 @@ Show # $type->currency $tier->t4chaos
 	SetTextColor 0 0 0 255
 	SetBorderColor 0 0 0 255
 	SetBackgroundColor 180 76 58 255
-	CustomAlertSound "Sounds\24item.mp3" 300 # PlayAlertSound 2 300
+	CustomAlertSound "Sounds\06money2.mp3" 300 # CustomAlertSound "Sounds\24item.mp3" 300 # PlayAlertSound 2 300
 	PlayEffect White
 	MinimapIcon 2 White Circle
 
