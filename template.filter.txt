@@ -165,7 +165,7 @@ LinkedSockets >= 5
 
 
 
-#\04.04--------------------------------------
+#\04.18--------------------------------------
 #\2-chaos-sets-------------------------------
 
 Show # $type->2chaos-a
@@ -284,8 +284,8 @@ Show # $type->2chaos-e
 	SetFontSize 40
 	# PlayAlertSound 4 200
 	CustomAlertSound "Sounds\03coinshake.mp3" 300
-	PlayEffect Orange
-	MinimapIcon 1 Orange Circle
+	PlayEffect Yellow
+	MinimapIcon 1 Yellow Circle
 	
 #/2-chaos-sets-------------------------------
-#/04.04--------------------------------------
+#/04.18--------------------------------------
