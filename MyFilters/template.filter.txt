@@ -1,10 +1,10 @@
-#\v0324--------------------------------------
-# Changed in [3500] .. [4000]
+#\v0417--------------------------------------
+# Changed in [3500] .. [eof]
 # -- added CustomAlertSound "Sounds\12leveling.mp3" 300 # PlayAlertSound 1 
 # -- added CustomAlertSound "Sounds\24item.mp3" 300 # PlayAlertSound 2 
 # -- added CustomAlertSound "Sounds\06money2.mp3" 300 # PlayAlertSound 6 
 # -- added CustomAlertSound "Sounds\06money2.mp3" 300 # to all "Chaos Orb"
-#/v0324--------------------------------------
+#/v0417--------------------------------------
 
 
 #\\v0324 Witch Burn--------------------------------------
@@ -165,7 +165,7 @@ LinkedSockets >= 5
 
 
 
-#\04.04--------------------------------------
+#\04.18--------------------------------------
 #\2-chaos-sets-------------------------------
 
 Show # $type->2chaos-a
@@ -204,7 +204,7 @@ Show # $type->2chaos-b
 	
 Show # $type->2chaos-c
 	Class "Daggers" "Rune Dagger" "Wands"
-	SetBackgroundColor 50 40 30 255
+	SetBackgroundColor 50 30 40 255
 	SetBorderColor 255 100 100 255
 	SetTextColor 255 205 155 255
 	Identified False
@@ -216,8 +216,8 @@ Show # $type->2chaos-c
 	SetFontSize 40
 	CustomAlertSound "Sounds\02coin.mp3" 300
 	# PlayAlertSound 4 200
-	PlayEffect Orange
-	MinimapIcon 1 Orange Circle	
+	PlayEffect Red
+	MinimapIcon 1 Red Circle
 	
 Show # $type->2chaos-d
 	Class "Boots"
@@ -284,8 +284,8 @@ Show # $type->2chaos-e
 	SetFontSize 40
 	# PlayAlertSound 4 200
 	CustomAlertSound "Sounds\03coinshake.mp3" 300
-	PlayEffect Orange
-	MinimapIcon 1 Orange Circle
+	PlayEffect Yellow
+	MinimapIcon 1 Yellow Circle
 	
 #/2-chaos-sets-------------------------------
-#/04.04--------------------------------------
+#/04.18--------------------------------------
