@@ -57,7 +57,7 @@ $Space::
     Send, {Space}
     ; Use 3rd skill
     Send, {MButton} 
-    Sleep, 100
+    Sleep, 200
     Send, {T}
 return
 
@@ -70,8 +70,8 @@ $LShift::
   GetKeyState, Rst, RButton
   if (Lst = "D" or Rst = "D") {
     Send, {R}
-    Sleep, 20
-    Send, {5}
+    ; Sleep, 20
+    ; Send, {5}
   }
 return
 
