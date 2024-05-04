@@ -70,8 +70,8 @@ $LShift::
   GetKeyState, Rst, RButton
   if (Lst = "D" or Rst = "D") {
     Send, {R}
-    ; Sleep, 20
-    ; Send, {5}
+    Sleep, 20
+    Send, {5}
   }
 return
 

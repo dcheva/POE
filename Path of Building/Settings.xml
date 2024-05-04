@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <PathOfBuilding>
 	<Mode mode="BUILD">
-		<Arg string="D:\Documents/Path of Building/Builds/aDedaHolaDupa-import.xml"/>
-		<Arg string="aDedaHolaDupa-import"/>
+		<Arg string="D:\Documents/Path of Building/Builds/3.24 CCB.xml"/>
+		<Arg string="3.24 CCB"/>
 	</Mode>
 	<Accounts lastAccountName="SteamCovan" lastRealm="PC">
 		<Account accountName="DeeCovana"/>
