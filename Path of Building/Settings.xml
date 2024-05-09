@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <PathOfBuilding>
 	<Mode mode="BUILD">
-		<Arg string="D:\Documents/Path of Building/Builds/3.24 CCB.xml"/>
-		<Arg string="3.24 CCB"/>
+		<Arg string="D:\Documents/Path of Building/Builds/3.21 Crit Cyclone Berserker lvl95.xml"/>
+		<Arg string="3.21 Crit Cyclone Berserker lvl95"/>
 	</Mode>
 	<Accounts lastAccountName="SteamCovan" lastRealm="PC">
 		<Account accountName="DeeCovana"/>
