@@ -1,14 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <PathOfBuilding>
 	<Mode mode="BUILD">
-		<Arg string="D:\Documents/Path of Building/Builds/3.21 Crit Cyclone Berserker lvl95.xml"/>
-		<Arg string="3.21 Crit Cyclone Berserker lvl95"/>
+		<Arg string="D:\Documents/Path of Building/Builds/99 MoM Blade Blast Hierophant.xml"/>
+		<Arg string="99 MoM Blade Blast Hierophant"/>
 	</Mode>
-	<Accounts lastAccountName="SteamCovan" lastRealm="PC">
-		<Account accountName="DeeCovana"/>
-		<Account accountName="SteamCovan"/>
-		<Account accountName="alpen46"/>
-	</Accounts>
+	<Accounts/>
 	<SharedItems/>
-	<Misc betaTest="false" connectionProtocol="nil" colorNegative="^xDD0022" thousandsSeparator="," showThousandsSeparators="true" colorPositive="^x33FF77" buildSortMode="NAME" invertSliderScrollDirection="false" showTitlebarName="true" POESESSID="899d6ad9a3fe38ccf1afc64e450b34ef" disableDevAutoSave="false" colorHighlight="^xFF0000" slotOnlyTooltips="true" defaultCharLevel="1" showWarnings="true" decimalSeparator="." defaultItemAffixQuality="0.5" nodePowerTheme="RED/BLUE" defaultGemQuality="0"/>
+	<Misc betaTest="nil" connectionProtocol="nil" colorNegative="^xDD0022" thousandsSeparator="," showThousandsSeparators="true" colorPositive="^x33FF77" buildSortMode="NAME" invertSliderScrollDirection="nil" showTitlebarName="true" POESESSID="" disableDevAutoSave="nil" colorHighlight="^xFF0000" slotOnlyTooltips="true" defaultCharLevel="1" showWarnings="true" decimalSeparator="." defaultItemAffixQuality="0.5" nodePowerTheme="RED/BLUE" defaultGemQuality="0"/>
 </PathOfBuilding>
