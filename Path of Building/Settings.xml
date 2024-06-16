@@ -6,5 +6,5 @@
 	</Mode>
 	<Accounts/>
 	<SharedItems/>
-	<Misc betaTest="nil" connectionProtocol="nil" colorNegative="^xDD0022" thousandsSeparator="," showThousandsSeparators="true" colorPositive="^x33FF77" buildSortMode="NAME" invertSliderScrollDirection="nil" showTitlebarName="true" POESESSID="" disableDevAutoSave="nil" colorHighlight="^xFF0000" slotOnlyTooltips="true" defaultCharLevel="1" showWarnings="true" decimalSeparator="." defaultItemAffixQuality="0.5" nodePowerTheme="RED/BLUE" defaultGemQuality="0"/>
+	<Misc betaTest="false" connectionProtocol="nil" colorNegative="^xDD0022" thousandsSeparator="," showThousandsSeparators="true" colorPositive="^x33FF77" buildSortMode="NAME" invertSliderScrollDirection="false" showTitlebarName="true" POESESSID="" disableDevAutoSave="false" colorHighlight="^xFF0000" slotOnlyTooltips="true" defaultCharLevel="1" showWarnings="true" decimalSeparator="." defaultItemAffixQuality="0.5" nodePowerTheme="RED/BLUE" defaultGemQuality="0"/>
 </PathOfBuilding>
